@@ -2,6 +2,8 @@
 
 {% embed url="https://rubenalexander.medium.com/creating-your-own-distributed-collaborative-organization-f443bc686335" %}
 
+{% embed url="https://github.com/swarmfund/swarm-network-governance/blob/master/swarm\_network\_constitution/SNC-2019.02.pdf" %}
+
 
 
 {% embed url="https://www.swarmnetwork.org/" %}
