@@ -18,3 +18,7 @@
 * [Cardano Podcast](media/untitled.md)
 * [Proof-of-Stake: The new paradigm](media/proof-of-stake-the-new-paradigm.md)
 
+## Software References
+
+* [Cardano REST](software-references/cardano-rest.md)
+
