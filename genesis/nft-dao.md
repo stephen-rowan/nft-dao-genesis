@@ -1,0 +1,8 @@
+# NFT DAO
+
+As we started to work together several great ideas are emerging amongst the core team of founders. We have a lot of background in social systems, P2P and holonic architectures. It was natural to start thinking about how we are organized. The Decentralized Autonomous Organizational \(DAO\) structures, while not perfect, were presenting several opportunities.
+
+Catalyst itself is a DAO. Our Collab is meant to gather all the NFT proposals together and save community resources by building the common elements they will all need. Instead of funding every NFT proposal to create the same thing over and over, we felt we could consolidate the efforts to everyone’s benefit. Modeling holonic nested heterarchies, we are creating a focused NFT DAO within the Catalyst DAO. Our hope is the community will see the benefit of building this kind of architecture to focus Cardano NFT efforts and gain explicit experience and speed to market at scale.
+
+Thus, while we accomplish our work at hand to deliver the BOXCAR as our first priority, we are growing an NFT DAO from the ground up, learning and training all who join us in the process. This is not the first our team has experienced implementing this kind of structure. I personally trained thousands of individuals over ten years in holonic systems deployments worldwide. Troy is writing his PhD. thesis on a similar P2P topic. DAOs have their roots in holonics. By modeling these processes, we will in time become a well-oiled DAO focused on NFTs. We will be learning from Catalyst and hopefully Catalyst will be learning from our experiences as well.
+

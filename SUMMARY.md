@@ -8,6 +8,8 @@
 * [Vision](genesis/vision.md)
 * [Construct](genesis/construct.md)
 * [Traction](genesis/traction.md)
+* [NFT DAO](genesis/nft-dao.md)
+* [How ?](genesis/how.md)
 * [Airtable form](genesis/airtable-form.md)
 
 ## Media
