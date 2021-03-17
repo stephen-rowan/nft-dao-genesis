@@ -4,7 +4,7 @@
 
 ## Genesis
 
-* [Genesis: Comprehensive NFT Framework Collab](genesis/readme.md)
+* [Genesis: Comprehensive NFT Framework Collab](genesis/genesis.md)
 * [Vision](genesis/vision.md)
 * [Construct](genesis/construct.md)
 * [Traction](genesis/traction.md)
@@ -28,9 +28,8 @@
 
 ## Meetings
 
-* [NFT DAO Meeting 3/3/21](meetings/nft-dao-meeting-3-3-21.md)
-
 ---
 
+* [NFT DAO Meeting 3/3/21](nft-dao-meeting-3-3-21.md)
 * [NFT-DAO meeting 3/10/21](nft-dao-meeting-3-10-21.md)
 
