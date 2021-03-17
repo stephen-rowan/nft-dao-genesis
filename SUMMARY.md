@@ -40,8 +40,5 @@
 * [The Compound protocol](dao-models/the-compound-protocol.md)
 * [$RARI Governance Token](dao-models/usdrari-governance-token.md)
 * [Swarm Network](dao-models/swarm-network.md)
-
----
-
-* [Colony](colony.md)
+* [Colony](dao-models/colony.md)
 
