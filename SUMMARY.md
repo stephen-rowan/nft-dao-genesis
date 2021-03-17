@@ -41,3 +41,7 @@
 * [$RARI Governance Token](dao-models/usdrari-governance-token.md)
 * [Swarm Network](dao-models/swarm-network.md)
 
+---
+
+* [Colony](colony.md)
+
