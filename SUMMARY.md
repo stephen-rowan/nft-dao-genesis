@@ -31,4 +31,5 @@
 ## Governance
 
 * [DAO's & LLC's Wyoming, here we come](governance/daos-and-llcs-wyoming-here-we-come.md)
+* [NFT DAO Roadmap](governance/nft-dao-roadmap.md)
 
