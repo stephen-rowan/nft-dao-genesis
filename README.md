@@ -16,7 +16,11 @@ Proposed by: Rich Kopcho
 
 Joined By: Finely McIIwaine, Tyler Wales and Troy Egan
 
-Link to Catalyst: [https://cardano.ideascale.com/a/dtd/334521-48088?show=comments&comment=338606](https://cardano.ideascale.com/a/dtd/334521-48088?show=comments&comment=338606)
+Link to Catalyst:
+
+{% embed url="https://cardano.ideascale.com/a/dtd/334521-48088?show=comments&comment=338606" %}
+
+
 
 
 
