@@ -18,6 +18,7 @@
 * [Cardano Podcast](media/untitled.md)
 * [Proof-of-Stake: The new paradigm](media/proof-of-stake-the-new-paradigm.md)
 * [Kaizen Crypto - Cardano NFT Framework](media/kaizen-crypto-cardano-nft-framework.md)
+* [Cardano Hotel Podcast](media/cardano-hotel-podcast.md)
 * [CardanoNFTs Reddit Post](media/cardanonfts-reddit-post.md)
 
 ## Software References
