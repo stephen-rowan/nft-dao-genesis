@@ -11,6 +11,7 @@
 * [NFT DAO](genesis/nft-dao.md)
 * [How ?](genesis/how.md)
 * [Airtable form](genesis/airtable-form.md)
+* [NFT-DAO Website](genesis/nft-dao-website.md)
 
 ## Media
 
