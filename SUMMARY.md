@@ -1,13 +1,17 @@
 # Table of contents
 
+* [Overview](README.md)
+
 ## Genesis
-* [Genesis: Comprehensive NFT Framework Collab](README.md)
-* [Vision](vision.md)
-* [Construct](construct.md)
-* [Traction](traction.md)
-* [Airtable form](airtable-form/README.md)
+
+* [Genesis: Comprehensive NFT Framework Collab](genesis/readme.md)
+* [Vision](genesis/vision.md)
+* [Construct](genesis/construct.md)
+* [Traction](genesis/traction.md)
+* [Airtable form](genesis/airtable-form.md)
 
 ## Media
+
 * [Cardano Podcast](media/untitled.md)
-* [Proof-of-Stake: The new paradigm](airtable-form/proof-of-stake-the-new-paradigm.md)
+* [Proof-of-Stake: The new paradigm](media/proof-of-stake-the-new-paradigm.md)
 
