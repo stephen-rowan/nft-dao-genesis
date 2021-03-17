@@ -30,6 +30,6 @@
 
 ---
 
-* [NFT DAO Meeting 3/3/21](nft-dao-meeting-3-3-21.md)
-* [NFT-DAO meeting 3/10/21](nft-dao-meeting-3-10-21.md)
+* [NFT DAO Meeting 03/03/21](nft-dao-meeting-3-3-21.md)
+* [NFT-DAO meeting 03/10/21](nft-dao-meeting-3-10-21.md)
 

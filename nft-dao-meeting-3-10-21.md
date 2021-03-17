@@ -1,4 +1,4 @@
-# NFT-DAO meeting 3/10/21
+# NFT-DAO meeting 03/10/21
 
 Here is a list of timestamps for this meeting \(the links are external\). Please amend if I have misheard or misinterpreted some content.
 
