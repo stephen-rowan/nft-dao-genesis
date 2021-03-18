@@ -124,7 +124,7 @@ Discord Context
 >
 > Discussion - [54.25](https://youtu.be/C07r9dfUItY?t=3265)
 >
-> ### The NFT art bubble - [54.33](https://youtu.be/C07r9dfUItY?t=3273) - R??
+> ### The NFT art bubble - [54.33](https://youtu.be/C07r9dfUItY?t=3273) - New Mindflow
 >
 > Discussion - [55.21](https://youtu.be/C07r9dfUItY?t=3321)
 >
