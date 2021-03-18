@@ -13,3 +13,9 @@ Here is a list of timestamps for this meeting \(the links are external\). Please
 > Reference - [Dropbox link](https://www.dropbox.com/request/WoLjf5y6CcWJwDlU5gKK) -([Discord context](https://discordapp.com/channels/804069702572965888/804069702572965891/819266517916975144))
 
 ### What do we do with them ? - [0.59](https://youtu.be/C07r9dfUItY?t=59)- Andrew
+> Discussion - [1.18](https://youtu.be/C07r9dfUItY?t=78)
+
+### Where would we use this ? - [1.58](https://youtu.be/C07r9dfUItY?t=118)
+ 
+### 'Signatures' artwork - possibilities - [3.15](https://youtu.be/C07r9dfUItY?t=195) - Andrew
+> Discussion - [4.17](https://youtu.be/C07r9dfUItY?t=257)
