@@ -38,9 +38,9 @@ Discord Context
 
 ### Overview - [6.24](https://youtu.be/C07r9dfUItY?t=384) - Rich Kopcho
 
-### Proposal - Initial Auction Plan - [8.15](https://youtu.be/C07r9dfUItY?t=495) - presented by R??
+### Proposal - Initial Auction Plan - [8.15](https://youtu.be/C07r9dfUItY?t=495) - presented by New Mindflow
 
-#### Initial Auction Plan - [8.15](https://youtu.be/C07r9dfUItY?t=495) - presented by ??
+#### Initial Auction Plan - [8.15](https://youtu.be/C07r9dfUItY?t=495) - presented by New Mindflow
 
 > **Ideas** - 1\) Limited to artists committed to DAO, 2\) Create source of revenue for DAO through revenue split, 3\) possible revenue split, percentage share details, 4\) two main collections, 5\) percentages on future sales \(10% artists, 5% DAO\), 6\) DAO approval on participation of artist but not selection of artworks, 7\) percentage of overall sale contribution to be taken into account in awarding governance tokens at end of auction.
 >
@@ -106,11 +106,11 @@ Discord Context
 
 ### Concept - Manual Auctions [46.42](https://youtu.be/C07r9dfUItY?t=2802) - Rich Kopcho
 
-> Seperate the initial event, the auction of Non-Fungible Assets, from technological concerns.
+> Separate the initial event, the auction of Non-Fungible Assets, from technological concerns.
 >
 > Discussion - [48.17](https://youtu.be/C07r9dfUItY?t=2897)
 >
-> ### Issue - Revenue splits - what incentives are there for artists outside the DAO ? [49.18](https://youtu.be/C07r9dfUItY?t=2958) - R??
+> ### Issue - Revenue splits - what incentives are there for artists outside the DAO ? [49.18](https://youtu.be/C07r9dfUItY?t=2958) - New Mindflow
 >
 > ### Outsource \(commission\) the artwork - [49.59](https://youtu.be/C07r9dfUItY?t=2999) - October Black
 >
@@ -164,7 +164,7 @@ Discord Context
 >
 > Question : Thinking primers for a brand identity ? - [1.21.24](https://youtu.be/C07r9dfUItY?t=4884)
 
-### Final callout effort for community involvment in logo design - [1.21.44](https://youtu.be/C07r9dfUItY?t=4904) - Troy Egan
+### Final callout effort for community involvement in logo design - [1.21.44](https://youtu.be/C07r9dfUItY?t=4904) - Troy Egan
 
 > Discussion - [1.22.37](https://youtu.be/C07r9dfUItY?t=4957)
 
@@ -196,7 +196,7 @@ Discord Context
 >
 > ## Any Other Business - [1.36.30](https://youtu.be/C07r9dfUItY?t=5790) - Rich Kopcho
 >
-> Ackowledge Red Hat Fans !
+> Acknowledge Red Hat Fans !
 >
 > NFT-DAO - Video Review - [1.37.50](https://youtu.be/C07r9dfUItY?t=5870)
 
