@@ -96,3 +96,16 @@ Discord Context
 >
 > A Mary Series or Mary Strategy - [44.33](https://youtu.be/C07r9dfUItY?t=2673) - Troy Egan
 
+## Building up to an auction that coincides with the Goguen release - [45.01](https://youtu.be/C07r9dfUItY?t=2701) - Rich Kopcho
+> Reference - Cardano Roadmap - Goguen release
+{% embed url="https://roadmap.cardano.org/en/goguen/" %}
+> Discussion - [45.19](https://youtu.be/C07r9dfUItY?t=2719)
+ 
+### Concept - Manual Auctions [46.42](https://youtu.be/C07r9dfUItY?t=2802) - Rich Kopcho
+> Seperate the initial event, the auction of Non-Fungible Assets, from technological concerns.
+
+> Discussion - [48.17](https://youtu.be/C07r9dfUItY?t=2897)
+### Issue - Revenue splits - what incentives are there for artists outside the DAO ? [49.18](https://youtu.be/C07r9dfUItY?t=2958) - R??
+### Outsource (commission) the artwork - [49.59](https://youtu.be/C07r9dfUItY?t=2999) - October Black
+> Discussion - [50.26](https://youtu.be/C07r9dfUItY?t=3026s)
+
