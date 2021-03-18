@@ -198,5 +198,5 @@ Discord Context
 >
 > Ackowledge Red Hat Fans !
 >
-> NFT-DAO - Video Premiere - [1.37.50](https://youtu.be/C07r9dfUItY?t=5870)
+> NFT-DAO - Video Review - [1.37.50](https://youtu.be/C07r9dfUItY?t=5870)
 
