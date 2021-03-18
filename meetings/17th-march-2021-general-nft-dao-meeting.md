@@ -126,3 +126,51 @@ Discord Context
 ### Educating the public on difference between Proof Of Work and Proof Of Stake - [58.55](https://youtu.be/C07r9dfUItY?t=3535) - October Black
 > Discussion - [59.30](https://youtu.be/C07r9dfUItY?t=3570)
 
+> 
+## Business Plan - Core Values - Long-term Sustainability of NFT-DAO - [1.01.27](https://youtu.be/C07r9dfUItY?t=3687) - Troy Egan
+> Should Branding focus simultaneously on both NFT and BOXCAR ? - [1.02.09](https://youtu.be/C07r9dfUItY?t=3729) - Andrew
+ 
+## Branding Infographic explanation - [1.02.44](https://youtu.be/C07r9dfUItY?t=3764) - Tyler Wales
+> NFT-DAO, BOXCAR branding. BOXCAR is become the comprehensive brand.
+> 
+### Branding & Logo Discussion - [1.05.06](https://youtu.be/C07r9dfUItY?t=3906)
+ 
+## Scope of the dynamic logo design - [1.06.49](https://youtu.be/C07r9dfUItY?t=4009) - Rich Kopcho
+### Dynamic logo design limited to BOXCAR only - [1.07.19](https://youtu.be/C07r9dfUItY?t=4039) - Jens
+> Social media branding discussion  - [1.08.33](https://youtu.be/C07r9dfUItY?t=4113)
+### Logo update - [1.09.04](https://youtu.be/C07r9dfUItY?t=4144) -  Jens
+> Brainstorm phase
+#### Logo design and naming discussion - [1.10.11](https://youtu.be/C07r9dfUItY?t=4211)
+> Question : Thinking primers for a brand identity ? - [1.21.24](https://youtu.be/C07r9dfUItY?t=4884)
+
+### Final callout effort for community involvment in logo design - [1.21.44](https://youtu.be/C07r9dfUItY?t=4904) - Troy Egan
+> Discussion - [1.22.37](https://youtu.be/C07r9dfUItY?t=4957)
+
+## Recap on Logo Design Holon  - [1.25.53](https://youtu.be/C07r9dfUItY?t=5153) - Rich Kopcho
+> We have taken a decision that Jens is running the Design Holon inside of the Marketing Holon and will determine a deadline for contributions.
+> 
+> Discussion - [1.26.35](https://youtu.be/C07r9dfUItY?t=5195)
+> 
+## Recap on Auction Holon - [1.27.41](https://youtu.be/C07r9dfUItY?t=5261) - Rich Kopcho
+> Discussion - [1.27.55](https://youtu.be/C07r9dfUItY?t=5275)
+ 
+## Recap on Mary Artwork - - [1.29.06](https://youtu.be/C07r9dfUItY?t=5346) - Rich Kopcho
+> Update - [1.29.12](https://youtu.be/C07r9dfUItY?t=5352) - Andy
+
+> Ready by Monday 22nd / Tuesday 23rd
+> 
+
+## Recap on Business Model - [1.32.21](https://youtu.be/C07r9dfUItY?t=5541)  - Rich Kopcho
+> Governance Holon Update - [1.32.46](https://youtu.be/C07r9dfUItY?t=5566) - Troy Egan
+
+> Hud (phd) & Research on DAO Governance Models [1.33.48](https://youtu.be/C07r9dfUItY?t=5628) - Rich Kopcho
+> 
+> Equitable distribution of Governance tokens - [1.35.11](https://youtu.be/C07r9dfUItY?t=5711) - Rich Kopcho
+> 
+> Discussion - [1.35.57](https://youtu.be/C07r9dfUItY?t=5757)
+> 
+##  Any Other Business - [1.36.30](https://youtu.be/C07r9dfUItY?t=5790) - Rich Kopcho
+> Ackowledge Red Hat Fans !
+> 
+> NFT-DAO - Video Premiere - [1.37.50](https://youtu.be/C07r9dfUItY?t=5870)
+
