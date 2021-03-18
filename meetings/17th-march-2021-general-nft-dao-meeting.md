@@ -150,7 +150,7 @@ Discord Context
 
 ## Branding Infographic explanation - [1.02.44](https://youtu.be/C07r9dfUItY?t=3764) - Tyler Wales
 
-> NFT-DAO, BOXCAR branding. BOXCAR is become the comprehensive brand.
+> NFT-DAO, BOXCAR branding. BOXCAR to become the more comprehensive brand.
 >
 > ### Branding & Logo Discussion - [1.05.06](https://youtu.be/C07r9dfUItY?t=3906)
 
