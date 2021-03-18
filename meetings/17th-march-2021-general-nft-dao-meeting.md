@@ -81,3 +81,17 @@ Discord Context
 > Discussion - [32.35](https://youtu.be/C07r9dfUItY?t=1955)
 > Soliciting established artists - [33.15](https://youtu.be/C07r9dfUItY?t=1995) - Andrew
 
+## Existing Cardano NFT sites - [33.52]( https://youtu.be/C07r9dfUItY?t=2032) - Troy Egan 
+### Cardano Kidz - [33.52]( https://youtu.be/C07r9dfUItY?t=2032) - Troy Egan 
+https://www.cardanokidz.com/
+
+## cnft.io - [38.00](https://youtu.be/C07r9dfUItY?t=2280) - - Troy Egan 
+https://www.cnft.io/
+ 
+> Discussion - [40.41](https://youtu.be/C07r9dfUItY?t=2441)
+> A Mary Series or Mary Strategy - [44.33](https://youtu.be/C07r9dfUItY?t=2673) - Troy Egan 
+
+
+
+
+
