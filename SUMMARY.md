@@ -23,8 +23,8 @@
 
 ## Meetings
 
-* [NFT DAO Meeting 03/03/21](meetings/nft-dao-meeting-3-3-21.md)
-* [NFT-DAO meeting 03/10/21](meetings/nft-dao-meeting-3-10-21.md)
+* [3rd March 2021, General NFT DAO Meeting](meetings/nft-dao-meeting-3-3-21.md)
+* [10th March 2021, General NFT DAO Meeting](meetings/nft-dao-meeting-3-10-21.md)
 * [17th March, 2021, General NFT DAO Meeting](meetings/17th-march-2021-general-nft-dao-meeting.md)
 
 ## Governance

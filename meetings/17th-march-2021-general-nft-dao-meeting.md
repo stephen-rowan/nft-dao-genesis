@@ -86,91 +86,117 @@ Discord Context
 
 ### Cardano Kidz - [33.52](https://youtu.be/C07r9dfUItY?t=2032) - Troy Egan
 
-{% embed url="https://www.cardanokidz.com/" %}
+{% embed url="https://www.cardanokidz.com/" caption="" %}
 
 ### cnft.io - [38.00](https://youtu.be/C07r9dfUItY?t=2280) - - Troy Egan
 
-{% embed url="https://www.cnft.io/" %}
+{% embed url="https://www.cnft.io/" caption="" %}
 
-> Discussion - [40.41](https://youtu.be/C07r9dfUItY?t=2441) 
+> Discussion - [40.41](https://youtu.be/C07r9dfUItY?t=2441)
 >
 > A Mary Series or Mary Strategy - [44.33](https://youtu.be/C07r9dfUItY?t=2673) - Troy Egan
 
 ## Building up to an auction that coincides with the Goguen release - [45.01](https://youtu.be/C07r9dfUItY?t=2701) - Rich Kopcho
-> Reference - Cardano Roadmap - Goguen release
-{% embed url="https://roadmap.cardano.org/en/goguen/" %}
-> Discussion - [45.19](https://youtu.be/C07r9dfUItY?t=2719)
- 
-### Concept - Manual Auctions [46.42](https://youtu.be/C07r9dfUItY?t=2802) - Rich Kopcho
-> Seperate the initial event, the auction of Non-Fungible Assets, from technological concerns.
 
+> Reference - Cardano Roadmap - Goguen release
+
+{% embed url="https://roadmap.cardano.org/en/goguen/" caption="" %}
+
+> Discussion - [45.19](https://youtu.be/C07r9dfUItY?t=2719)
+
+### Concept - Manual Auctions [46.42](https://youtu.be/C07r9dfUItY?t=2802) - Rich Kopcho
+
+> Seperate the initial event, the auction of Non-Fungible Assets, from technological concerns.
+>
 > Discussion - [48.17](https://youtu.be/C07r9dfUItY?t=2897)
-### Issue - Revenue splits - what incentives are there for artists outside the DAO ? [49.18](https://youtu.be/C07r9dfUItY?t=2958) - R??
-### Outsource (commission) the artwork - [49.59](https://youtu.be/C07r9dfUItY?t=2999) - October Black
+>
+> ### Issue - Revenue splits - what incentives are there for artists outside the DAO ? [49.18](https://youtu.be/C07r9dfUItY?t=2958) - R??
+>
+> ### Outsource \(commission\) the artwork - [49.59](https://youtu.be/C07r9dfUItY?t=2999) - October Black
+>
 > Discussion - [50.26](https://youtu.be/C07r9dfUItY?t=3026s)
 
-
 ## Who is going to be on the team ? An auction Holon - [52.33](https://youtu.be/C07r9dfUItY?t=3153) - Rich Kopcho
+
 > Discussion - [52.41](https://youtu.be/C07r9dfUItY?t=3161)
-> 
-### The importance of Branding and transparency - [54.05](https://youtu.be/C07r9dfUItY?t=3245) - Tyler Wales
+>
+> ### The importance of Branding and transparency - [54.05](https://youtu.be/C07r9dfUItY?t=3245) - Tyler Wales
+>
 > Discussion - [54.25](https://youtu.be/C07r9dfUItY?t=3265)
-### The NFT art bubble - [54.33](https://youtu.be/C07r9dfUItY?t=3273) - R??
+>
+> ### The NFT art bubble - [54.33](https://youtu.be/C07r9dfUItY?t=3273) - R??
+>
 > Discussion - [55.21](https://youtu.be/C07r9dfUItY?t=3321)
-> 
-### BOXCAR - proof of concept - [56.04](https://youtu.be/C07r9dfUItY?t=3364) - Tyler Wales
+>
+> ### BOXCAR - proof of concept - [56.04](https://youtu.be/C07r9dfUItY?t=3364) - Tyler Wales
+>
 > Discussion - [57.02](https://youtu.be/C07r9dfUItY?t=3422)
-### Educating the public on NFTs - [57.31](https://youtu.be/C07r9dfUItY?t=3451) - Troy Egan
+>
+> ### Educating the public on NFTs - [57.31](https://youtu.be/C07r9dfUItY?t=3451) - Troy Egan
+>
 > NFTs in the long-term
 
 ### Educating the public on difference between Proof Of Work and Proof Of Stake - [58.55](https://youtu.be/C07r9dfUItY?t=3535) - October Black
-> Discussion - [59.30](https://youtu.be/C07r9dfUItY?t=3570)
 
-> 
-## Business Plan - Core Values - Long-term Sustainability of NFT-DAO - [1.01.27](https://youtu.be/C07r9dfUItY?t=3687) - Troy Egan
+> Discussion - [59.30](https://youtu.be/C07r9dfUItY?t=3570)
+>
+> ## Business Plan - Core Values - Long-term Sustainability of NFT-DAO - [1.01.27](https://youtu.be/C07r9dfUItY?t=3687) - Troy Egan
+>
 > Should Branding focus simultaneously on both NFT and BOXCAR ? - [1.02.09](https://youtu.be/C07r9dfUItY?t=3729) - Andrew
- 
+
 ## Branding Infographic explanation - [1.02.44](https://youtu.be/C07r9dfUItY?t=3764) - Tyler Wales
+
 > NFT-DAO, BOXCAR branding. BOXCAR is become the comprehensive brand.
-> 
-### Branding & Logo Discussion - [1.05.06](https://youtu.be/C07r9dfUItY?t=3906)
- 
+>
+> ### Branding & Logo Discussion - [1.05.06](https://youtu.be/C07r9dfUItY?t=3906)
+
 ## Scope of the dynamic logo design - [1.06.49](https://youtu.be/C07r9dfUItY?t=4009) - Rich Kopcho
+
 ### Dynamic logo design limited to BOXCAR only - [1.07.19](https://youtu.be/C07r9dfUItY?t=4039) - Jens
-> Social media branding discussion  - [1.08.33](https://youtu.be/C07r9dfUItY?t=4113)
-### Logo update - [1.09.04](https://youtu.be/C07r9dfUItY?t=4144) -  Jens
+
+> Social media branding discussion - [1.08.33](https://youtu.be/C07r9dfUItY?t=4113)
+>
+> ### Logo update - [1.09.04](https://youtu.be/C07r9dfUItY?t=4144) -  Jens
+>
 > Brainstorm phase
-#### Logo design and naming discussion - [1.10.11](https://youtu.be/C07r9dfUItY?t=4211)
+>
+> #### Logo design and naming discussion - [1.10.11](https://youtu.be/C07r9dfUItY?t=4211)
+>
 > Question : Thinking primers for a brand identity ? - [1.21.24](https://youtu.be/C07r9dfUItY?t=4884)
 
 ### Final callout effort for community involvment in logo design - [1.21.44](https://youtu.be/C07r9dfUItY?t=4904) - Troy Egan
+
 > Discussion - [1.22.37](https://youtu.be/C07r9dfUItY?t=4957)
 
 ## Recap on Logo Design Holon  - [1.25.53](https://youtu.be/C07r9dfUItY?t=5153) - Rich Kopcho
-> We have taken a decision that Jens is running the Design Holon inside of the Marketing Holon and will determine a deadline for contributions.
-> 
-> Discussion - [1.26.35](https://youtu.be/C07r9dfUItY?t=5195)
-> 
-## Recap on Auction Holon - [1.27.41](https://youtu.be/C07r9dfUItY?t=5261) - Rich Kopcho
-> Discussion - [1.27.55](https://youtu.be/C07r9dfUItY?t=5275)
- 
-## Recap on Mary Artwork - - [1.29.06](https://youtu.be/C07r9dfUItY?t=5346) - Rich Kopcho
-> Update - [1.29.12](https://youtu.be/C07r9dfUItY?t=5352) - Andy
 
+> We have taken a decision that Jens is running the Design Holon inside of the Marketing Holon and will determine a deadline for contributions.
+>
+> Discussion - [1.26.35](https://youtu.be/C07r9dfUItY?t=5195)
+>
+> ## Recap on Auction Holon - [1.27.41](https://youtu.be/C07r9dfUItY?t=5261) - Rich Kopcho
+>
+> Discussion - [1.27.55](https://youtu.be/C07r9dfUItY?t=5275)
+
+## Recap on Mary Artwork - - [1.29.06](https://youtu.be/C07r9dfUItY?t=5346) - Rich Kopcho
+
+> Update - [1.29.12](https://youtu.be/C07r9dfUItY?t=5352) - Andy
+>
 > Ready by Monday 22nd / Tuesday 23rd
-> 
 
 ## Recap on Business Model - [1.32.21](https://youtu.be/C07r9dfUItY?t=5541)  - Rich Kopcho
-> Governance Holon Update - [1.32.46](https://youtu.be/C07r9dfUItY?t=5566) - Troy Egan
 
-> Hud (phd) & Research on DAO Governance Models [1.33.48](https://youtu.be/C07r9dfUItY?t=5628) - Rich Kopcho
-> 
+> Governance Holon Update - [1.32.46](https://youtu.be/C07r9dfUItY?t=5566) - Troy Egan
+>
+> Hud \(phd\) & Research on DAO Governance Models [1.33.48](https://youtu.be/C07r9dfUItY?t=5628) - Rich Kopcho
+>
 > Equitable distribution of Governance tokens - [1.35.11](https://youtu.be/C07r9dfUItY?t=5711) - Rich Kopcho
-> 
+>
 > Discussion - [1.35.57](https://youtu.be/C07r9dfUItY?t=5757)
-> 
-##  Any Other Business - [1.36.30](https://youtu.be/C07r9dfUItY?t=5790) - Rich Kopcho
+>
+> ## Any Other Business - [1.36.30](https://youtu.be/C07r9dfUItY?t=5790) - Rich Kopcho
+>
 > Ackowledge Red Hat Fans !
-> 
+>
 > NFT-DAO - Video Premiere - [1.37.50](https://youtu.be/C07r9dfUItY?t=5870)
 
