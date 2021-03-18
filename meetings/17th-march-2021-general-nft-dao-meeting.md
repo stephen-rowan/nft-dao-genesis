@@ -74,5 +74,5 @@ Discord Context
 
 > Discussion - [28.07](https://youtu.be/C07r9dfUItY?t=1687)
 >
-> ### Consistent theme for first release, promote on social media - [30.00](https://youtu.be/C07r9dfUItY?t=1800) - October Black
+> Consistent theme for first release, promote on social media - [30.00](https://youtu.be/C07r9dfUItY?t=1800) - October Black
 
