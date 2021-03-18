@@ -56,15 +56,19 @@ Discord Context
 
 {% embed url="https://www.memetoken.net/" %}
 
+## Capture/summarize different business models [22.31](https://youtu.be/C07r9dfUItY?t=1351) - Rich Kopcho
 
-
-### **Guidance** : Capture/summarize different business models [22.31](https://youtu.be/C07r9dfUItY?t=1351) - Rich Kopcho
-
-#### Discussion - [23.14](https://youtu.be/C07r9dfUItY?t=1394)
-
+### Discussion - [23.14](https://youtu.be/C07r9dfUItY?t=1394)
 > Governance versus utility tokens, short and long term revenue generation strategies
 
-### **Guidance** : What is our long-term business model/strategy ? [24.16](https://youtu.be/C07r9dfUItY?t=1456) - Rich Kopcho
-
+## What is our long-term business model/strategy ? [24.16](https://youtu.be/C07r9dfUItY?t=1456) - Rich Kopcho
 > Discussion - [25.33](https://youtu.be/C07r9dfUItY?t=1533)
 
+## The cnft.io model (Cardano Non-Fungible Tokens) - [26.07](https://youtu.be/C07r9dfUItY?t=1567) - Tyler Wales
+
+https://www.cnft.io/
+ 
+## Generating excitment with first release of NFT artworks - [26.51](https://youtu.be/C07r9dfUItY?t=1611) - Rich Kopcho
+> Discussion - [28.07](https://youtu.be/C07r9dfUItY?t=1687)
+### Consistent theme for first release, promote on social media - [30.00](https://youtu.be/C07r9dfUItY?t=1800) - October Black
+ 
