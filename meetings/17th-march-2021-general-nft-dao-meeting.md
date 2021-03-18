@@ -8,7 +8,7 @@ description: >-
 
 {% embed url="http://www.youtube.com/watch?v=C07r9dfUItY" caption="" %}
 
-## Timestamps \(external links\)
+Note: timestamps are external links
 
 ## Introductions - [0.03](https://youtu.be/C07r9dfUItY?t=3)
 
