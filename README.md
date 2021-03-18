@@ -6,7 +6,7 @@ description: A Catalyst Fund 3 Proposal
 
 ## Rationale
 
-This prototype document aims to provide a context to the genesis of the NFT-DAO that is accessible to all particpants. Specfically to record key documents and media discussed in NFT-DAO Discord server. Where relevant the discord post context is embedded at the bottom the page.
+This prototype document aims to provide a context to the genesis of the NFT-DAO that is accessible to all participants. Specfically to record key documents and media discussed in NFT-DAO Discord server. Where relevant the discord post context is embedded at the bottom the page.
 
 ## Genesis: Comprehensive NFT Framework Collab
 
