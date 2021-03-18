@@ -182,7 +182,7 @@ Discord Context
 >
 > Discussion - [1.27.55](https://youtu.be/C07r9dfUItY?t=5275)
 
-## Recap on Mary Artwork - - [1.29.06](https://youtu.be/C07r9dfUItY?t=5346) - Rich Kopcho
+## Recap on Mary Artwork - [1.29.06](https://youtu.be/C07r9dfUItY?t=5346) - Rich Kopcho
 
 > Update - [1.29.12](https://youtu.be/C07r9dfUItY?t=5352) - Andy
 >
