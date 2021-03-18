@@ -66,9 +66,7 @@ Discord Context
 
 ## The cnft.io model \(Cardano Non-Fungible Tokens\) - [26.07](https://youtu.be/C07r9dfUItY?t=1567) - Tyler Wales
 
-{% embed url="https://www.cnft.io/" %}
-
-
+{% embed url="https://www.cnft.io/" caption="" %}
 
 ## Generating excitment with first release of NFT artworks - [26.51](https://youtu.be/C07r9dfUItY?t=1611) - Rich Kopcho
 
@@ -77,21 +75,22 @@ Discord Context
 > Consistent theme for first release, promote on social media - [30.00](https://youtu.be/C07r9dfUItY?t=1800) - October Black
 
 ## Taking a decision - [30.30](https://youtu.be/C07r9dfUItY?t=1830) - Rich Kopcho
-> Summary, lead with Mary Hard Fork painting(s) auction.
-> Discussion - [32.35](https://youtu.be/C07r9dfUItY?t=1955)
-> Soliciting established artists - [33.15](https://youtu.be/C07r9dfUItY?t=1995) - Andrew
 
-## Existing Cardano NFT sites - [33.52]( https://youtu.be/C07r9dfUItY?t=2032) - Troy Egan 
-### Cardano Kidz - [33.52]( https://youtu.be/C07r9dfUItY?t=2032) - Troy Egan 
-https://www.cardanokidz.com/
+> Summary, lead with Mary Hard Fork painting\(s\) auction. Discussion - [32.35](https://youtu.be/C07r9dfUItY?t=1955) Soliciting established artists - [33.15](https://youtu.be/C07r9dfUItY?t=1995) - Andrew
 
-## cnft.io - [38.00](https://youtu.be/C07r9dfUItY?t=2280) - - Troy Egan 
-https://www.cnft.io/
- 
-> Discussion - [40.41](https://youtu.be/C07r9dfUItY?t=2441)
-> A Mary Series or Mary Strategy - [44.33](https://youtu.be/C07r9dfUItY?t=2673) - Troy Egan 
+## Existing Cardano NFT sites - [33.52](https://youtu.be/C07r9dfUItY?t=2032) - Troy Egan
+
+### Cardano Kidz - [33.52](https://youtu.be/C07r9dfUItY?t=2032) - Troy Egan
+
+{% embed url="https://www.cardanokidz.com/" %}
 
 
 
+## cnft.io - [38.00](https://youtu.be/C07r9dfUItY?t=2280) - - Troy Egan
 
+{% embed url="https://www.cnft.io/" %}
+
+> Discussion - [40.41](https://youtu.be/C07r9dfUItY?t=2441) 
+>
+> A Mary Series or Mary Strategy - [44.33](https://youtu.be/C07r9dfUItY?t=2673) - Troy Egan
 
