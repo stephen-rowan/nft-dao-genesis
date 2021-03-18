@@ -109,3 +109,20 @@ Discord Context
 ### Outsource (commission) the artwork - [49.59](https://youtu.be/C07r9dfUItY?t=2999) - October Black
 > Discussion - [50.26](https://youtu.be/C07r9dfUItY?t=3026s)
 
+
+## Who is going to be on the team ? An auction Holon - [52.33](https://youtu.be/C07r9dfUItY?t=3153) - Rich Kopcho
+> Discussion - [52.41](https://youtu.be/C07r9dfUItY?t=3161)
+> 
+### The importance of Branding and transparency - [54.05](https://youtu.be/C07r9dfUItY?t=3245) - Tyler Wales
+> Discussion - [54.25](https://youtu.be/C07r9dfUItY?t=3265)
+### The NFT art bubble - [54.33](https://youtu.be/C07r9dfUItY?t=3273) - R??
+> Discussion - [55.21](https://youtu.be/C07r9dfUItY?t=3321)
+> 
+### BOXCAR - proof of concept - [56.04](https://youtu.be/C07r9dfUItY?t=3364) - Tyler Wales
+> Discussion - [57.02](https://youtu.be/C07r9dfUItY?t=3422)
+### Educating the public on NFTs - [57.31](https://youtu.be/C07r9dfUItY?t=3451) - Troy Egan
+> NFTs in the long-term
+
+### Educating the public on difference between Proof Of Work and Proof Of Stake - [58.55](https://youtu.be/C07r9dfUItY?t=3535) - October Black
+> Discussion - [59.30](https://youtu.be/C07r9dfUItY?t=3570)
+
