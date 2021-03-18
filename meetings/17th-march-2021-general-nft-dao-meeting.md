@@ -80,7 +80,11 @@ Discord Context
 
 ## Taking a decision - [30.30](https://youtu.be/C07r9dfUItY?t=1830) - Rich Kopcho
 
-> Summary, lead with Mary Hard Fork painting\(s\) auction. Discussion - [32.35](https://youtu.be/C07r9dfUItY?t=1955) Soliciting established artists - [33.15](https://youtu.be/C07r9dfUItY?t=1995) - Andrew
+> Summary, lead with Mary Hard Fork painting\(s\) auction. 
+>
+> Discussion - [32.35](https://youtu.be/C07r9dfUItY?t=1955) 
+>
+> Soliciting established artists - [33.15](https://youtu.be/C07r9dfUItY?t=1995) - Andrew
 
 ## Existing Cardano NFT sites - [33.52](https://youtu.be/C07r9dfUItY?t=2032) - Troy Egan
 
