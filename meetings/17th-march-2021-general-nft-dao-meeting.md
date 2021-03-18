@@ -88,7 +88,7 @@ Discord Context
 
 {% embed url="https://www.cardanokidz.com/" %}
 
-## cnft.io - [38.00](https://youtu.be/C07r9dfUItY?t=2280) - - Troy Egan
+### cnft.io - [38.00](https://youtu.be/C07r9dfUItY?t=2280) - - Troy Egan
 
 {% embed url="https://www.cnft.io/" %}
 
