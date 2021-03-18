@@ -1,6 +1,10 @@
-# 17th March, 2021, General NFT DAO Meeting
+---
+description: >-
+  Here is a list of timestamps for this meeting (the links are external). Please
+  advise if I have misheard, misattributed or misinterpreted any content.
+---
 
-Here is a list of timestamps for this meeting \(the links are external\). Please advise if I have misheard, misattributed or misinterpreted any content.
+# 17th March, 2021, General NFT DAO Meeting
 
 {% embed url="http://www.youtube.com/watch?v=C07r9dfUItY" caption="" %}
 
