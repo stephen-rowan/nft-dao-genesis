@@ -22,6 +22,18 @@ Once you have forked the  **nft-dao-genesis** repository you create your own git
 
 ## Setup a gitbook account
 
+Follow the instructions on setting up a gitbook account below :
+
+{% embed url="https://docs.gitbook.com/getting-started/start-exploring" %}
+
+## Synchronize your github repository Gitbook
+
+
+
+{% embed url="https://docs.gitbook.com/integrations/github" %}
+
+
+
 
 
 
