@@ -18,6 +18,10 @@ A guide to forking a github repository can be found by following the link below 
 
 {% embed url="https://docs.github.com/en/github/getting-started-with-github/fork-a-repo" %}
 
+Once you have forked the  github repository you create your own gitbook project from this new source that lives on your github profile.
+
+## Setup a gitbook account
+
 
 
 
