@@ -26,7 +26,7 @@ Follow the instructions on setting up a GitBook account below :
 
 {% embed url="https://docs.gitbook.com/getting-started/start-exploring" caption="" %}
 
-## Synchronize your GitHub repository GitBook
+## Synchronize your GitHub repository with GitBook
 
 ✋ Before you begin to synchronize your GitHub repository with your GitBook ensure that your copy \(fork\) of **nft-dao-genesis** is saved under the "master" branch \(GitBook currently only recognizes this branch name by default\).
 
