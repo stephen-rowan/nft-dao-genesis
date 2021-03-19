@@ -18,7 +18,7 @@ A guide to forking a GitHub repository can be found by following the link below 
 
 {% embed url="https://docs.github.com/en/github/getting-started-with-github/fork-a-repo" %}
 
-Once you have forked the  **nft-dao-genesis** repository you create your own GitBook project from the copy that now lives on your own GitHub profile.
+Once you have forked the  **nft-dao-genesis** repository you can create your own GitBook project from the copy that now lives on your own GitHub profile.
 
 ## Setup a GitBook account
 
@@ -29,6 +29,8 @@ Follow the instructions on setting up a GitBook account below :
 ## Synchronize your GitHub repository GitBook
 
 ✋ Before you begin to synchronize your GitHub repository with your GitBook ensure that your copy \(fork\) of **nft-dao-genesis** is saved under the "master" branch \(GitBook currently only recognizes this branch name by default\).
+
+Then follow the instructions for integrating your GitBook with GitHub below :
 
 {% embed url="https://docs.gitbook.com/integrations/github" %}
 
