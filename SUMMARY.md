@@ -43,5 +43,5 @@
 
 ## Support
 
-* [GitBook migration](support/untitled.md)
+* [GitBook migration](support/gitbook-migration.md)
 
