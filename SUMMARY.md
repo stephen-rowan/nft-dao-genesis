@@ -29,6 +29,7 @@
 
 ## Governance
 
+* [Governance](governance/governance.md)
 * [DAO's & LLC's Wyoming, here we come](governance/daos-and-llcs-wyoming-here-we-come.md)
 * [NFT DAO Roadmap](governance/nft-dao-roadmap.md)
 * [Governance and Cardano -  Charles Hoskinson](governance/governance-and-cardano-charles-hoskinson.md)
