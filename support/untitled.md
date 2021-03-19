@@ -10,7 +10,7 @@ This GitBook synchronizes with the following GitHub repository **nft-dao-genesis
 
 {% embed url="https://github.com/stephen-rowan/nft-dao-genesis" %}
 
-Priority has been given to the public GitHub source repository **nft-dao-genesis** so that anyone can fork it and create their own GitBook from this source.
+> Priority has been given to the public GitHub source repository **nft-dao-genesis** so that anyone can fork it and create their own GitBook from this source.
 
 ## Forking a GitHub repository
 
