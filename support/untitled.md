@@ -1,34 +1,34 @@
 ---
-description: A guide to forking this gitbook to your repository
+description: A guide to forking this GitBook to your repository
 ---
 
-# Gitbook migration
+# GitBook migration
 
-## Gitbook synchronization
+## GitBook synchronization
 
-This gitbook synchronizes with the following github repository **nft-dao-genesis** :
+This GitBook synchronizes with the following GitHub repository **nft-dao-genesis** :
 
 {% embed url="https://github.com/stephen-rowan/nft-dao-genesis" %}
 
-Priority has been given to the public github source repository **nft-dao-genesis** so that anyone can fork it and create their own gitbook from this source.
+Priority has been given to the public GitHub source repository **nft-dao-genesis** so that anyone can fork it and create their own GitBook from this source.
 
-## Forking a github repository
+## Forking a GitHub repository
 
-A guide to forking a github repository can be found by following the link below :
+A guide to forking a GitHub repository can be found by following the link below :
 
 {% embed url="https://docs.github.com/en/github/getting-started-with-github/fork-a-repo" %}
 
-Once you have forked the  **nft-dao-genesis** repository you create your own gitbook project from the copy that now lives on your own github profile.
+Once you have forked the  **nft-dao-genesis** repository you create your own GitBook project from the copy that now lives on your own GitHub profile.
 
-## Setup a gitbook account
+## Setup a GitBook account
 
-Follow the instructions on setting up a gitbook account below :
+Follow the instructions on setting up a GitBook account below :
 
 {% embed url="https://docs.gitbook.com/getting-started/start-exploring" %}
 
-## Synchronize your github repository Gitbook
+## Synchronize your GitHub repository GitBook
 
-
+Before you begin to synchronize your GitHub repository with GitBook
 
 {% embed url="https://docs.gitbook.com/integrations/github" %}
 
