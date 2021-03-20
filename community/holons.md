@@ -20,7 +20,13 @@ Explanatory text here
 
 Explanatory text here
 
+## Product HOLON
 
+Explanatory text here
+
+## UX/UI HOLON
+
+Explanatory text here
 
 
 
