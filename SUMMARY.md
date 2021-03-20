@@ -54,8 +54,6 @@
 
 ## Software References
 
-* [Cardano REST](software-references/cardano-rest.md)
-
 ## Support
 
 * [GitBook migration](support/gitbook-migration.md)
