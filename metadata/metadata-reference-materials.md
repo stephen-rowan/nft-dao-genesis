@@ -8,6 +8,14 @@ A community-led initiative to develop Interchain standards that will advance the
 
 {% embed url="https://internft.org/" %}
 
+
+
+### InterNFT GitHub Repository
+
+{% embed url="https://github.com/interNFT/nft-rfc" %}
+
+
+
 ## The Ethereum Platform
 
 ### Opensea Metadata Standards
