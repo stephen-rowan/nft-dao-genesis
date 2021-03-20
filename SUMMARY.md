@@ -46,3 +46,7 @@
 
 * [GitBook migration](support/gitbook-migration.md)
 
+## Metadata
+
+* [Metadata](metadata/metadata.md)
+
