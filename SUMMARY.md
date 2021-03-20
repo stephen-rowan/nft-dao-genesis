@@ -38,8 +38,6 @@
 * [Governance and Cardano -  Charles Hoskinson](governance/governance-and-cardano-charles-hoskinson.md)
 * [DAO Models](governance/dao-models.md)
 
-## DAO Models
-
 ## Metadata
 
 * [Metadata](metadata/metadata.md)
