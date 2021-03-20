@@ -20,6 +20,7 @@
 ## Community
 
 * [Community](community/community.md)
+* [HOLONS](community/holons.md)
 
 ## Meetings
 
