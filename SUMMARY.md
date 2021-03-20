@@ -41,7 +41,6 @@
 ## DAO Models
 
 * [LiqwiDAO 1st: a web3 model for good governance.](dao-models/liqwidao-1st-a-web3-model-for-good-governance..md)
-* [The Compound protocol](dao-models/the-compound-protocol.md)
 
 ## Metadata
 
