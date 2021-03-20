@@ -53,3 +53,7 @@
 
 * [GitBook migration](support/gitbook-migration.md)
 
+## Community
+
+* [Community](community/community.md)
+

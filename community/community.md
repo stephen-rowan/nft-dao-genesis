@@ -1,0 +1,14 @@
+---
+description: The NFT-DAO Community
+---
+
+# Community
+
+## Discord Channels
+
+### \#genesis-block-start-here
+
+{% embed url="https://discordapp.com/channels/804069702572965888/812010450312364063" %}
+
+
+
