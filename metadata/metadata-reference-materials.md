@@ -1,5 +1,21 @@
 # Metadata Reference Materials
 
+## Data Protocols
+
+### The Graph
+
+{% embed url="https://thegraph.com/docs/network\#overview" %}
+
+## Data APIs
+
+### GraphQL 
+
+GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data.
+
+{% embed url="https://graphql.org/" %}
+
+
+
 ## Cross Platform Standards
 
 ### InterNFT Working Group
