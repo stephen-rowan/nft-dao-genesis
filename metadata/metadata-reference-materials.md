@@ -1,5 +1,13 @@
 # Metadata Reference Materials
 
+## Cross Platform Standards
+
+### InterNFT Working Group
+
+A community-led initiative to develop Interchain standards that will advance the state of the art for Non-fungible Tokens and the Metadata associated with uniquely identified tokenised resources.
+
+{% embed url="https://internft.org/" %}
+
 ## The Ethereum Platform
 
 ### Opensea Metadata Standards
