@@ -54,4 +54,5 @@
 ---
 
 * [Metadata Discussions](metadata-discussions.md)
+* [Metadata Reference Materials](metadata-reference-materials.md)
 
