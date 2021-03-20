@@ -49,4 +49,5 @@
 ## Metadata
 
 * [Metadata](metadata/metadata.md)
+* [Metadata workshop](metadata/metadata-workshop.md)
 
