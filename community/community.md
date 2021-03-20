@@ -18,5 +18,9 @@ description: The NFT-DAO Community
 
 {% embed url="https://discordapp.com/channels/804069702572965888/807383056751001620" %}
 
+## \#general
+
+{% embed url="https://discordapp.com/channels/804069702572965888/804069702572965891" %}
+
 
 
