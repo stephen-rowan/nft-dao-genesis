@@ -2,7 +2,7 @@
 description: 'Building on Cardano: Metadata workshop and Q&A session'
 ---
 
-# Metadata workshop
+# IOHK Metadata workshop
 
 18 January 2021
 

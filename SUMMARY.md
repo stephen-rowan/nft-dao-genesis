@@ -41,9 +41,9 @@
 ## Metadata
 
 * [Metadata](metadata/metadata.md)
-* [Metadata workshop](metadata/metadata-workshop.md)
-* [Metadata Discussions](metadata-discussions.md)
-* [Metadata Reference Materials](metadata-reference-materials.md)
+* [IOHK Metadata workshop](metadata/metadata-workshop.md)
+* [Metadata Discussions](metadata/metadata-discussions.md)
+* [Metadata Reference Materials](metadata/metadata-reference-materials.md)
 
 ## Software References
 
@@ -52,3 +52,4 @@
 ## Support
 
 * [GitBook migration](support/gitbook-migration.md)
+
