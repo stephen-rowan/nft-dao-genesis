@@ -38,5 +38,13 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808917515694506055/821584460553650197" %}
 
+## Colony
+
+{% embed url="https://colony.io/" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808917515694506055/821693229820674048" %}
+
 
 
