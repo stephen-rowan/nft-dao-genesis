@@ -52,8 +52,6 @@
 * [Metadata Discussions](metadata/metadata-discussions.md)
 * [Metadata Reference Materials](metadata/metadata-reference-materials.md)
 
-## Software References
-
 ## Support
 
 * [GitBook migration](support/gitbook-migration.md)
