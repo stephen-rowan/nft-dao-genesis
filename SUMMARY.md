@@ -17,10 +17,6 @@
 * [CardanoNFTs Reddit Post](media/cardanonfts-reddit-post.md)
 * [adapulse - One NFT Framework to Rule Them All](media/adapulse-one-nft-framework-to-rule-them-all.md)
 
-## Software References
-
-* [Cardano REST](software-references/cardano-rest.md)
-
 ## Meetings
 
 * [3rd March 2021, General NFT DAO Meeting](meetings/nft-dao-meeting-3-3-21.md)
@@ -42,17 +38,17 @@
 * [Swarm Network](dao-models/swarm-network.md)
 * [Colony](dao-models/colony.md)
 
-## Support
-
-* [GitBook migration](support/gitbook-migration.md)
-
 ## Metadata
 
 * [Metadata](metadata/metadata.md)
 * [Metadata workshop](metadata/metadata-workshop.md)
-
----
-
 * [Metadata Discussions](metadata-discussions.md)
 * [Metadata Reference Materials](metadata-reference-materials.md)
 
+## Software References
+
+* [Cardano REST](software-references/cardano-rest.md)
+
+## Support
+
+* [GitBook migration](support/gitbook-migration.md)
