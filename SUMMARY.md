@@ -17,6 +17,10 @@
 * [CardanoNFTs Reddit Post](media/cardanonfts-reddit-post.md)
 * [adapulse - One NFT Framework to Rule Them All](media/adapulse-one-nft-framework-to-rule-them-all.md)
 
+## Community
+
+* [Community](community/community.md)
+
 ## Meetings
 
 * [3rd March 2021, General NFT DAO Meeting](meetings/nft-dao-meeting-3-3-21.md)
@@ -52,8 +56,4 @@
 ## Support
 
 * [GitBook migration](support/gitbook-migration.md)
-
-## Community
-
-* [Community](community/community.md)
 
