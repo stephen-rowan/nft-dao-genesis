@@ -1,6 +1,6 @@
 # Metadata Reference Materials
 
-## Data Protocols
+## Data Protocols/Archecture
 
 ### The Graph
 
