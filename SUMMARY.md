@@ -51,3 +51,7 @@
 * [Metadata](metadata/metadata.md)
 * [Metadata workshop](metadata/metadata-workshop.md)
 
+---
+
+* [Metadata Discussions](metadata-discussions.md)
+

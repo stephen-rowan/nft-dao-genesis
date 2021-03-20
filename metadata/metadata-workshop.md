@@ -4,6 +4,8 @@ description: 'Building on Cardano: Metadata workshop and Q&A session'
 
 # Metadata workshop
 
+18 January 2021
+
 {% embed url="https://www.youtube.com/watch?v=LrN3ETZ3fRM" %}
 
 With the rollout of Goguen, Cardano is becoming a smart contract platform. 
