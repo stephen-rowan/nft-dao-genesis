@@ -1,10 +1,16 @@
 # Metadata Reference Materials
 
-## Data Protocols/Archecture
+## Data Protocols/Architecture
 
 ### The Graph
 
 {% embed url="https://thegraph.com/docs/network\#overview" %}
+
+### Fluree - Data-Centric Architecture
+
+{% embed url="https://flur.ee/2020/10/05/introduction-to-data-centricity/" %}
+
+
 
 ## Data APIs
 
