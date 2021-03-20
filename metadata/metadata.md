@@ -4,5 +4,13 @@ This section deals with Metadata or simply _data about data_. Metadata in the co
 
 ## Metadata Discord Channels
 
+## \#info
+
+{% embed url="https://discordapp.com/channels/804069702572965888/812687146963304520" %}
+
+
+
+
+
 
 
