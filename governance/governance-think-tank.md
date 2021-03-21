@@ -22,5 +22,15 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/809710045083467797/819089584225779752" %}
 
+## Legislation - Decentralized autonomous organizations.
+
+@RK
+
+{% embed url="https://wyoleg.gov/Legislation/2021/SF0038" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/809710045083467797/821070535886635008" %}
+
 
 
