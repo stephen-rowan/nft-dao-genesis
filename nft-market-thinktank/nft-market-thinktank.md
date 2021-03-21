@@ -35,3 +35,15 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/822250185015033876/822402368322535444" caption="" %}
 
+## NFTs are a goddamn disaster right now <a id="9ccf"></a>
+
+@dmitri.safine
+
+{% embed url="https://bzotto.medium.com/nfts-are-a-goddamn-disaster-right-now-149fdd79b11e" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/822250185015033876/822838586649870377" %}
+
+
+
