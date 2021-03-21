@@ -33,6 +33,7 @@
 * [Governance Think Tank](governance/governance-think-tank.md)
 * [DAO Models](governance/dao-models.md)
 * [Business Planning](governance/business-planning.md)
+* [Tokenomics](governance/tokenomics.md)
 
 ## Metadata
 
