@@ -14,5 +14,13 @@ description: The Governance category of NFT-DAO
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808917515694506055" %}
 
+### \#business-planning
+
+{% embed url="https://discordapp.com/channels/804069702572965888/815810627497885696/822353457033904128" %}
+
+### \#tokenomics
+
+{% embed url="https://discordapp.com/channels/804069702572965888/819795475074646057" %}
+
 
 
