@@ -1,3 +1,7 @@
+---
+description: Youtube videos referenced on NFT-DAO Discord
+---
+
 # Youtube
 
 ## The Genesis Block \| NFT-DAO
