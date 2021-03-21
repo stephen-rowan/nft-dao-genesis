@@ -1,4 +1,6 @@
-# CardanoNFTs Reddit Post
+# Reddit
+
+## CardanoNFTs Reddit Post
 
 {% embed url="https://www.reddit.com/r/CardanoNFTs/comments/m330c9/nft\_dao\_the\_comprehensive\_nft\_framework\_collab/" %}
 
