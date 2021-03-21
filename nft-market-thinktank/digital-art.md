@@ -52,6 +52,16 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/807861976553750570/810056981963341844" %}
 
+## User Stories
+
+@tyler.wales
+
+{% embed url="https://docs.google.com/spreadsheets/d/1fOJuMTxBTywgFZz8X9BBHXJGYqO8bufXDeb7xLUiahw/edit?usp=sharing" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/807861976553750570/810669633736671243" %}
+
 
 
 
