@@ -1,8 +1,8 @@
 ---
-description: A Catalyst Fund 3 Proposal
+description: The genesis of a comprehensive Cardano NFT Framework
 ---
 
-# Overview
+# Welcome to NFT-DAO
 
 ## Rationale
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview](README.md)
+* [Welcome to NFT-DAO](README.md)
 
 ## Genesis
 
