@@ -126,5 +126,13 @@ Discord context
 
 
 
+## @Oshomah
+
+![](https://media.discordapp.net/attachments/807861976553750570/823067680843890718/IMG_20210320_232121_975.jpg?width=559&height=559)
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/807861976553750570/823067681040498738" %}
+
 
 
