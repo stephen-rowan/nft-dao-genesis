@@ -2,7 +2,7 @@
 description: The Governance category of NFT-DAO
 ---
 
-# Governance
+# Governance Overview
 
 ## Governance Discord Channels
 
