@@ -42,5 +42,17 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/807861976553750570/808872212877672448" %}
 
+## NFT-DAO Art Reseacrh
+
+@Muntface
+
+{% embed url="https://docs.google.com/spreadsheets/d/1iataEumYzxfKWzLJ69rggcdjT5iT9HPdPnvQOacVnlg/edit\#gid=0" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/807861976553750570/810056981963341844" %}
+
+
+
 
 
