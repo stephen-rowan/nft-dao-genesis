@@ -12,7 +12,7 @@
 
 * [Youtube](media/youtube.md)
 * [Reddit](media/cardanonfts-reddit-post.md)
-* [adapulse - One NFT Framework to Rule Them All](media/adapulse-one-nft-framework-to-rule-them-all.md)
+* [Websites](media/adapulse-one-nft-framework-to-rule-them-all.md)
 
 ## Community
 

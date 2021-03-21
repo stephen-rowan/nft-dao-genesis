@@ -1,4 +1,6 @@
-# adapulse - One NFT Framework to Rule Them All
+# Websites
+
+## adapulse - One NFT Framework to Rule Them All
 
 {% embed url="https://adapulse.io/one-nft-framework-to-rule-them-all/" %}
 
