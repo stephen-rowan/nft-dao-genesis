@@ -12,6 +12,8 @@ Discord Context
 
 ## The Compound protocol
 
+@tyler.wales
+
 {% embed url="https://compound.finance/docs/governance\#comp" %}
 
 Discord context
@@ -21,6 +23,8 @@ Discord context
 
 
 ## $RARI Governance Token
+
+@YAGI
 
 {% embed url="https://rarible.medium.com/introducing-rari-the-first-governance-token-in-the-nft-space-5dbcc55b6c43" %}
 
