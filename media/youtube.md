@@ -16,7 +16,21 @@ On this episode I had a chat with the team behind the proposal called Comprehens
 
 {% embed url="https://youtu.be/541XcS8Bt-Y" %}
 
+Discord context
 
+{% embed url="https://discord.com/channels/804069702572965888/809722492486287370/819876192944914462" %}
+
+
+
+## Proof-of-Stake: The new paradigm
+
+A virtual conference hosted by Persistence and AUDIT.one to bring together the leading PoS networks, projects, validators and thought leaders on a common platform to discuss the emerging PoS ecosystem, latest developments and the challenges.
+
+{% embed url="https://youtu.be/Qu1jQY43ZN4" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/804069702572965891/817418885590155284" %}
 
 
 
