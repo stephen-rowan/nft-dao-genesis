@@ -2,6 +2,8 @@
 
 ## LiqwiDAO 1st: a web3 model for good governance.
 
+@RK
+
 {% embed url="https://medium.com/liqwid-finance-introduction-series/liqwidao-1st-a-web3-model-for-good-governance-13c6e0f36d2f" %}
 
 Discord Context
