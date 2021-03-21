@@ -14,5 +14,19 @@ Discord context
 
 
 
+## NFTDAO Minimum Viable Product 
+
+### Proto-art-auction-appflow
+
+@DanMercurius
+
+{% embed url="https://www.dropbox.com/s/8g7x5s7bwdasxda/NFTDAO-MVP-Proto-art-auction-appflow.pdf?dl=0" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/822250185015033876/822402368322535444" %}
+
+
+
 
 
