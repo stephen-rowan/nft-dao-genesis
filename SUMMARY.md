@@ -44,3 +44,7 @@
 
 * [GitBook migration](support/gitbook-migration.md)
 
+## NFT Market Thinktank
+
+* [nft-market-thinktank](nft-market-thinktank/nft-market-thinktank.md)
+
