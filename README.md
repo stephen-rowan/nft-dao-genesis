@@ -24,11 +24,7 @@ Link to Catalyst:
 
 ## 
 
-{% embed url="https://twitter.com/neitherconfirm/status/1369285946198396928" %}
 
-Discord context
-
-{% embed url="https://discordapp.com/channels/804069702572965888/807861976553750570/819997322368385054" %}
 
 
 
