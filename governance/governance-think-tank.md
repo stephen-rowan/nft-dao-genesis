@@ -2,6 +2,8 @@
 
 ## NFT DAO Roadmap
 
+@SofiH
+
 {% embed url="https://cdn.discordapp.com/attachments/809710045083467797/812683865574342686/NFT\_DAO\_-\_roadmap\_view.pdf" %}
 
 Discord Context
