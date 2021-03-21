@@ -45,5 +45,15 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/822250185015033876/822838586649870377" %}
 
+## the bull-case for NFTs
+
+@RK
+
+{% embed url="https://www.cnbc.com/2021/03/19/mintables-zach-burks-on-investment-from-cuban-bull-case-for-nfts.html" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/822250185015033876/823226590661967963" %}
+
 
 
