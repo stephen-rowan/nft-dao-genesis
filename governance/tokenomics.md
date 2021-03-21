@@ -1,7 +1,5 @@
 # Tokenomics
 
-
-
 ## How to MInt an NFT using Mintable
 
 @xnailbender
