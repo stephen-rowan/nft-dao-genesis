@@ -35,7 +35,6 @@
 
 * [Governance Overview](governance/governance.md)
 * [Governance Think Tank](governance/governance-think-tank.md)
-* [Governance and Cardano -  Charles Hoskinson](governance/governance-and-cardano-charles-hoskinson.md)
 * [DAO Models](governance/dao-models.md)
 
 ## Metadata

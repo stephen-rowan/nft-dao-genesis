@@ -1,5 +1,11 @@
 # Governance Think Tank
 
+## Governance and Cardano
+
+@farouk858
+
+{% embed url="https://www.youtube.com/watch?v=7\_zIzjWZHgg&t=2109s&ab\_channel=CharlesHoskinson" %}
+
 ## NFT DAO Roadmap
 
 @SofiH
@@ -31,6 +37,16 @@ Discord context
 Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/809710045083467797/821070535886635008" %}
+
+## When Does Cardano Realize its Potential?
+
+@Troy
+
+{% embed url="https://www.youtube.com/watch?v=oMRGUCLQPYo" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/809710045083467797/822540256132857956" %}
 
 
 
