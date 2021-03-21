@@ -24,5 +24,15 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/819795475074646057/820166680927141949" %}
 
+## Cardano Withdrawal Fees
+
+@Troy
+
+{% embed url="https://withdrawalfees.com/coins/cardano" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/819795475074646057/822620897835221053" %}
+
 
 
