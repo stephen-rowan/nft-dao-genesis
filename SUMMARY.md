@@ -33,6 +33,10 @@
 * [Business Planning](governance/business-planning.md)
 * [Tokenomics](governance/tokenomics.md)
 
+## NFT Market Thinktank
+
+* [nft-market-thinktank](nft-market-thinktank/nft-market-thinktank.md)
+
 ## Metadata
 
 * [Metadata](metadata/metadata.md)
@@ -43,8 +47,4 @@
 ## Support
 
 * [GitBook migration](support/gitbook-migration.md)
-
-## NFT Market Thinktank
-
-* [nft-market-thinktank](nft-market-thinktank/nft-market-thinktank.md)
 
