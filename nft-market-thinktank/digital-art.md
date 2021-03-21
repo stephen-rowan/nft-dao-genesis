@@ -104,5 +104,7 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/807861976553750570/817935391499223060" %}
 
+## Pulled the rug on my NFT collection
 
+@newmindflow
 

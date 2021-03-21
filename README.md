@@ -22,9 +22,7 @@ Link to Catalyst:
 
 
 
-## Pulled the rug on my NFT collection
-
-@newmindflow
+## 
 
 {% embed url="https://twitter.com/neitherconfirm/status/1369285946198396928" %}
 
