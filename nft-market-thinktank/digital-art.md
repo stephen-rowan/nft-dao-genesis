@@ -62,6 +62,12 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/807861976553750570/810669633736671243" %}
 
+## Top NFTs by Market Cap
+
+@Muntface
+
+{% embed url="https://opensea.io/rankings" %}
+
 
 
 
