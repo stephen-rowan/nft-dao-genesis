@@ -4,6 +4,8 @@ description: The genesis of a comprehensive Cardano NFT Framework
 
 # Welcome to NFT-DAO
 
+![](.gitbook/assets/image%20%281%29.png)
+
 ## Rationale
 
 This prototype document aims to provide a context to the genesis of the NFT-DAO that is accessible to all participants. Specifically to record key documents and media discussed in NFT-DAO Discord server.
