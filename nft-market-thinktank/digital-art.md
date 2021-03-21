@@ -92,7 +92,17 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/807861976553750570/815132838562103338" %}
 
+## Secondary Sale Creator's Percentage
 
+@newmindflow
+
+{% embed url="https://cdn.discordapp.com/attachments/807861976553750570/817935497887744000/Secondary\_Sale\_Creators\_Percentage.pdf" %}
+
+
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/807861976553750570/817935391499223060" %}
 
 
 
