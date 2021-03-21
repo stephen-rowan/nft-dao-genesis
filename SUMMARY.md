@@ -22,6 +22,7 @@
 
 * [Community](community/community.md)
 * [HOLONS](community/holons.md)
+* [Mindmapping](community/mindmapping.md)
 
 ## Meetings
 
