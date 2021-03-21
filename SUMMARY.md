@@ -10,6 +10,7 @@
 
 ## Media
 
+* [Youtube](media/youtube.md)
 * [The Genesis Block \| NFT-DAO](media/the-genesis-block-or-nft-dao.md)
 * [Cardano Podcast](media/untitled.md)
 * [Proof-of-Stake: The new paradigm](media/proof-of-stake-the-new-paradigm.md)
