@@ -4,6 +4,8 @@
 
 @newmindflow
 
+19th March 2021
+
 **Ideas so far:**
 
 Limited to artists who have committed/contributed to the DAO
@@ -22,6 +24,8 @@ Discord context
 ## NFT-DAO Minimum Viable Product
 
 ### Proto-art-auction-appflow
+
+19th March 2021
 
 @DanMercurius
 
