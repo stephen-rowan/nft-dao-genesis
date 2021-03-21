@@ -82,6 +82,16 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/807861976553750570/813466260426850314" %}
 
+## A guide to ecofriendly CryptoArt \(NFTs\)
+
+@jeffz
+
+{% embed url="https://github.com/memo/eco-nft" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/807861976553750570/815132838562103338" %}
+
 
 
 
