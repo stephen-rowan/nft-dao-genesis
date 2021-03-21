@@ -10,6 +10,10 @@
 
 {% embed url="https://www.andyshaw.co.nz" %}
 
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/807861976553750570/808463783130562570" %}
+
 ## Museum of Other Realties
 
 @Troy
