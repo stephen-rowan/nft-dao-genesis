@@ -114,5 +114,17 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/807861976553750570/819997322368385054" %}
 
+## Sam Walton, Artist
+
+@SlamtronX
+
+{% embed url="https://www.slamtron.com/" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/807861976553750570/823017678063009832" %}
+
+
+
 
 
