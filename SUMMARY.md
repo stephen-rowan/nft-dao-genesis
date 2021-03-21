@@ -36,6 +36,7 @@
 ## NFT Market Thinktank
 
 * [nft-market-thinktank](nft-market-thinktank/nft-market-thinktank.md)
+* [Digital Art](nft-market-thinktank/digital-art.md)
 
 ## Metadata
 

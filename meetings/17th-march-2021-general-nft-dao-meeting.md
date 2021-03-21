@@ -24,15 +24,15 @@ Discord Context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/804069702572965891/819266517916975144" caption="" %}
 
-### What do we do with them ? - [0.59](https://youtu.be/C07r9dfUItY?t=59)- Andrew
+### What do we do with them ? - [0.59](https://youtu.be/C07r9dfUItY?t=59)- Andy
 
 > Discussion - [1.18](https://youtu.be/C07r9dfUItY?t=78)
 
 ### Where would we use this ? - [1.58](https://youtu.be/C07r9dfUItY?t=118)
 
-### 'Signatures' artwork - possibilities - [3.15](https://youtu.be/C07r9dfUItY?t=195) - Andrew
+### 'Signatures' artwork - possibilities - [3.15](https://youtu.be/C07r9dfUItY?t=195) - Andy
 
-> Discussion - [4.17](https://youtu.be/C07r9dfUItY?t=257)
+### Discussion - [4.17](https://youtu.be/C07r9dfUItY?t=257)
 
 ## Business Models - [6.13](https://youtu.be/C07r9dfUItY?t=373)
 
@@ -84,7 +84,7 @@ Discord Context
 >
 > Discussion - [32.35](https://youtu.be/C07r9dfUItY?t=1955) 
 >
-> Soliciting established artists - [33.15](https://youtu.be/C07r9dfUItY?t=1995) - Andrew
+> Soliciting established artists - [33.15](https://youtu.be/C07r9dfUItY?t=1995) - Andy
 
 ## Existing Cardano NFT sites - [33.52](https://youtu.be/C07r9dfUItY?t=2032) - Troy Egan
 
