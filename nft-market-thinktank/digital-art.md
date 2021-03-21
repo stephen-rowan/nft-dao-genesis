@@ -68,6 +68,10 @@ Discord context
 
 {% embed url="https://opensea.io/rankings" %}
 
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/807861976553750570/813228617206202408" %}
+
 
 
 
