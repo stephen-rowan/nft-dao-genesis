@@ -32,6 +32,7 @@
 * [Governance Overview](governance/governance.md)
 * [Governance Think Tank](governance/governance-think-tank.md)
 * [DAO Models](governance/dao-models.md)
+* [Business Planning](governance/business-planning.md)
 
 ## Metadata
 
