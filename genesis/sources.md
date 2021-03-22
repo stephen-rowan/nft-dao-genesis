@@ -32,5 +32,11 @@ Pettit, P. \(2020, Dec 1\). Bonding Curves - The What, Why, and Shapes Behind Th
 
 {% embed url="https://www.linumlabs.com/articles/bonding-curves-the-what-why-and-shapes-behind-it" %}
 
+## Project Catalyst Fund3 weekly town hall 
+
+ Project Catalyst Fund3 weekly town hall and Q&A \#4 \(00:08:20\)
+
+{% embed url="https://www.crowdcast.io/e/fund3-4?utm\_source=Fund2&utm\_campaign=f74a104b2d-EMAIL\_CAMPAIGN\_2020\_09\_01\_09\_39\_COPY\_01&utm\_medium=email&utm\_term=0\_2451b43b07-f74a104b2d-76670965" %}
+
 
 
