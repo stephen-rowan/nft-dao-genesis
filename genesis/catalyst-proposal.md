@@ -130,10 +130,6 @@ Example of how we need to think about solutions: Taking a scientific-method, fir
 
 Based on the collation of 42 total Project Catalyst proposals tagged as \#NFT at the date of writing, it was found that 27 proposals had non-fungible tokens as a substantial part of the proposals offering. From a spot analysis of these 27 proposals, four NFT groupings were identified as having direct similarity with other proposals and another five groupings were identified as having an indirect similarity with other proposals on the platform. Of the groupings with direct similarities – where proposals shared the same idea - four proposals were for an NFT art market; three proposals were for NFT gaming apps; three proposals were for NFT's for event ticketing; and two proposals were for NFT trading cards. Of the groupings with indirect similarities - where proposals shared a similar theme but not necessarily the same idea - three proposals suggested NFT's as a business revenue stream \(for decentralized cinema funding, a children's education program and an e-book marketplace\); two proposals were for lottery-based initiatives; two proposals were for general NFT marketplaces \(including one for general creative specializations\); two proposals were for porting NFT protocols from other blockchains; and one proposal generally addressed issues related to game DApp development.
 
-
-
-
-
 Seventeen existing NFT platforms were identified by the community within the 27 proposals, including Cryptokitties and Superrare \(both referenced two times\), Shimeji, Decentraland, My Crypto Heroes, Somnium Space, Gods Unchained, CryptoVoxel, Blockchain Cuties, CryptoSpaceCommander, Rarible, Known Origin, OpenSea, Mintible, MakersPlace, CryptoArt and CryptoBrewMaster. An online search found 133 other NFT platforms whose offerings generally ranged from collectibles in the form of digital art, characters and game assets. From NonFungible.com's platform listing, 45.8% \(56 of the 125 NFT platforms listed on the website\) had made trades within the last week, while 18.4% \(23 of the 125 platforms listed\) had an all-time sales volume over $1M. The top three, Decentraland, Cryptokitties and Cryptopunks held a combined all-time volume of $88.55M \(almost equal to the all-time volume of the other 122 platforms combined; a point also referenced within @pavpowell's proposal\). Other direct NFT or NFT DAO competitors include: Rarible, Mintable, Flamingo, Aragon, Wax, Ergo Auctions and Mintbase.
 
 ### Market Competitors
@@ -161,8 +157,6 @@ From this initial survey of NFT proposals within Project Catalyst, and NFT platf
 * It is proposed that the NFT steering group hold a secondary function of monitoring and evaluating its processes for the purposes of knowledge sharing with prospective steering groups that seek to align around other strategic topic areas. It is not intended that such steering groups replace Community Choice campaigns, but that they serve to support the ongoing implementation of past or prospective campaigns.
 * It is of note that in the course of this funding round, at least two of the NFT for art market projects did merge their proposals together.
 
-
-
 ## **Business Model**
 
 _**We intend to create a self sustaining DAO that will incubate NFT innovation and collaboration.**_
@@ -184,4 +178,89 @@ The DAO may decide to build and operate NFT businesses of their own as well and 
 All 35+ proposals do not have a chance to be funded standing alone. However, amalgamating all the NFT ideas and insights stands a great chance of becoming a truly collaborative project that will benefit all the proposers should it create the optimal platform to dominate the NFT space going into the future. It will propel Cardano as the go-to blockchain for NFTs and position us for many point solutions based on NFTs. Together we can become that de facto NFT blockchain choice.
 
 This will take several rounds of progressive development and we intend to further this proposal in future Funds.
+
+### NFT DAO Pillars
+
+* Community
+* Technology
+* Governance
+* Sustainability
+
+### NFT DAO Goals \(short term\)
+
+* Unique Asset Tokenizer MVP
+* Build community through existing social channels \(Discord, Twitter, Telegram\)
+* Collaborate with community to identify NFT use cases to be included in MVP
+* Map governance and tokenization framework for NFT DAO
+
+
+
+## **Use of Funds**
+
+NFT DAO Fund 3 Deliverables & Projected Costs
+
+### **Community** - $5,340
+
+* NFT DAO website with links to Discord & Telegram
+* Establish NFT collaboration culture
+* Realize 50% participation rate from Cardano Catalyst NFT related proposers
+* Identify most impactful NFT use cases
+* Marketing and outreach
+
+### **Governance** - $19,893
+
+* DAO structure framework
+* DAO on-boarding flow maps
+* Incentive framework that ensures sustainability and aligns interests
+* Governance token distribution model
+* Forge and distribute governance token as outlined in token distribution model \(if multi-asset wallet is ready\)
+
+### **Development** - $23,732
+
+* Policy scripts that allow the forging of NFTs for the most impactful use cases as identified by the community.
+* User stories for identified use cases
+* User flow diagrams outlining forging of NFTs and launch of industry specific marketplaces.
+* Wireframes of industry specific NFT marketplace launcher
+* Establish NFT metadata standard
+* Identify decentralized storage solution
+* Project Research
+
+### **Total: $48,965** \(Detailed Pro forma on Github\)
+
+These funds will be allocated to community members who join with us to make this vision happen and be disbursed with transparency in the spirit of the DAO methodology and input.
+
+### **Intellectual Property Strategy**
+
+As an open-source initiative, an initial IP proposal for consideration is for the community to consider setting a precedent for how IP within open-sourced projects \(including DAO's/DCO's\) might be managed. Instead of using a Creative Commons licensing structure, which is relevant for completed works, the community may consider how NFT's can be applied to ideas-in-development \(uncompleted works\) though the application of a Contribution Token, which may or may not align with the tokenization of Voting, Governance or Equity sharing.
+
+## **Team**
+
+Our team is drawing talent in. We're embracing everyone who strongly desires an overarching NFT framework on Cardano—especially those who proposed NFT solutions—and invite you to join our NFT DAO that will open-source the patterns we build as a community. Join us in a coordinated and consolidated effort. Others have already merged their proposal. You'll join:
+
+**Rich Kopcho,** a life-long entrepreneur building 18 start-ups in his career. He has owned and managed a development shop and open-sourced the successful 'Restore' backup solution. He taught manufacturers around the world Holonic manufacturing \(1997-2007\); a heterarchical systems and technology approach that is the foundation DAOs are based on. He currently operates a venture studio in Laramie WY building technology solutions with partners. Rich is the executive producer of the Wyoming Blockchain Stampede - an annual conference by UWYO that IOHK/Cardano/Emurgo and others sponsor to educate the blockchain community.
+
+**Finley McIlwaine,** a PhD candidate \(UW\) in computer science; a developer working in the University of Wyoming Advanced Blockchain Lab—a R&D lab focused on Formal Verification, Smart Contracts, and Secure Hardware related to Real-world Blockchain Applications funded by IOHK. Finley is very familiar with the Cardano ecosystem; and the winner of the IOHK Marlowe Challenge at WyoHackathon 2020 and Plutus Extension Challenge at WyoHackathon 2019.
+
+**Troy Egan,** a PhD candidate investigating how to support peer communities to compete against corporations in the development of immersive transmedia projects. He is a creative entrepreneur with experience in the creative, health and community development sectors in New Zealand and Australia. His interest lies in how NFT's can be used to tokenize emergent creative projects.
+
+**Tyler Wales,** an entrepreneur with product development and management expertise, and experience bringing new solutions to market. He has launched multiple profitable businesses in media and technology and has established relationships in film production and distribution. Tyler is currently a mentor at Portland Incubator Experiment.
+
+**Community Member n+1,** is passionate about NFTs and has aligned themselves to a previous proposal seeking funding for a NFT point solution. They are eager to build their business model on top of a solid framework. Since none has existed for Cardano, they were planning to build one for themselves from scratch. They are one of ~120 individuals who could potentially pool their expertise into an all-embracing open-source version to benefit the entire community rather than one project. Their expertise is multivariate in development, SPO, marketing, design, business, and more.
+
+## **Roadmap**
+
+* **Fund 3:** Smart contracts, Minting policies, Establish Community, Front-end prototype
+* **Fund 4:** NFT-DAO Governance token, Alpha version live
+* **Fund 5:** Pegged value NFTs, Fractional NFTs, NFTs + DeFi
+* **Fund 6:** Launch beta, Scale Marketing, learn and iterate
+
+## **Conclusion**
+
+All 42 NFT-related proposals do not have a chance to be funded when competing for a limited funding pool. Some ideas may have great potential, but may be let down by poor proposal writing, lack of feedback or lack in other areas. This project supports an amalgamation of Catalyst's NFT community so that the skill-sets of the community can be leveraged to deliver a more robust NFT framework for Cardano, for the purposes of supporting an NFT economy. As a DAO, each NFT project stands a greater chance of becoming a truly collaborative effort that will benefit the wider Cardano community. It is envisioned that a Fund3 investment in this project will better position Cardano as the go-to blockchain for NFTs \(with lower gas fees\) with many NFT-based point solutions. Together we can become the de facto NFT blockchain of choice.
+
+**Honorable Reviewer:**
+
+**Your positive funding vote for NFT DAO is a vote for a community driven development program to support all current and future NFT projects and development of open-source technology that will benefit all.**
+
+
 
