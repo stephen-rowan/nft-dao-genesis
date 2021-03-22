@@ -38,5 +38,11 @@ Pettit, P. \(2020, Dec 1\). Bonding Curves - The What, Why, and Shapes Behind Th
 
 {% embed url="https://www.crowdcast.io/e/fund3-4?utm\_source=Fund2&utm\_campaign=f74a104b2d-EMAIL\_CAMPAIGN\_2020\_09\_01\_09\_39\_COPY\_01&utm\_medium=email&utm\_term=0\_2451b43b07-f74a104b2d-76670965" %}
 
+##  Cardano: Catalyst fund 3 launches with $500k
+
+Simmons, J. \(2021, Jan 7\), Cardano: Catalyst fund 3 launches with $500k, trumps all Ethereum DAOs combined
+
+{% embed url="https://www.crypto-news-flash.com/cardano-catalyst-fund-3-launches-with-500k-trumps-all-ethereum-daos-combined/" %}
+
 
 
