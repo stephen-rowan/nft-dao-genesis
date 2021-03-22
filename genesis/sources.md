@@ -44,5 +44,21 @@ Simmons, J. \(2021, Jan 7\), Cardano: Catalyst fund 3 launches with $500k, trump
 
 {% embed url="https://www.crypto-news-flash.com/cardano-catalyst-fund-3-launches-with-500k-trumps-all-ethereum-daos-combined/" %}
 
+##  If I only had a heart: a DisCO manifesto
+
+Troncoso, S. & Uratel, A. M. \(2019, Nov 15\). If I only had a heart: a DisCO manifesto — Value sovereignty, care work, commons and distributed cooperative organizations. Joint Publication: DisCO.coop, the Transnational Institute, Guerrilla Media Collective. Retrieved from :
+
+{% embed url="https://www.tni.org/files/profiles-downloads/disco\_manifesto\_v.1.pdf" %}
+
+## What Does Copyright Protect?
+
+{% embed url="https://www.copyright.gov/help/faq/faq-protect.html" %}
+
+
+
+
+
+## 
+
 
 
