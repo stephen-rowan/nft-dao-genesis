@@ -126,3 +126,62 @@ Example of how we need to think about solutions: Taking a scientific-method, fir
 2. Majority of proposals intend to build both minting functionality and their unique marketplace or use case.
 3. Total treasury cost to fund proposals can be significantly reduced if majority of proposers focus on building their unique use case / marketplace, while we build out comprehensive modular minting solution.
 
+### Detailed Analysis of Catalyst NFT Proposals
+
+Based on the collation of 42 total Project Catalyst proposals tagged as \#NFT at the date of writing, it was found that 27 proposals had non-fungible tokens as a substantial part of the proposals offering. From a spot analysis of these 27 proposals, four NFT groupings were identified as having direct similarity with other proposals and another five groupings were identified as having an indirect similarity with other proposals on the platform. Of the groupings with direct similarities – where proposals shared the same idea - four proposals were for an NFT art market; three proposals were for NFT gaming apps; three proposals were for NFT's for event ticketing; and two proposals were for NFT trading cards. Of the groupings with indirect similarities - where proposals shared a similar theme but not necessarily the same idea - three proposals suggested NFT's as a business revenue stream \(for decentralized cinema funding, a children's education program and an e-book marketplace\); two proposals were for lottery-based initiatives; two proposals were for general NFT marketplaces \(including one for general creative specializations\); two proposals were for porting NFT protocols from other blockchains; and one proposal generally addressed issues related to game DApp development.
+
+
+
+
+
+Seventeen existing NFT platforms were identified by the community within the 27 proposals, including Cryptokitties and Superrare \(both referenced two times\), Shimeji, Decentraland, My Crypto Heroes, Somnium Space, Gods Unchained, CryptoVoxel, Blockchain Cuties, CryptoSpaceCommander, Rarible, Known Origin, OpenSea, Mintible, MakersPlace, CryptoArt and CryptoBrewMaster. An online search found 133 other NFT platforms whose offerings generally ranged from collectibles in the form of digital art, characters and game assets. From NonFungible.com's platform listing, 45.8% \(56 of the 125 NFT platforms listed on the website\) had made trades within the last week, while 18.4% \(23 of the 125 platforms listed\) had an all-time sales volume over $1M. The top three, Decentraland, Cryptokitties and Cryptopunks held a combined all-time volume of $88.55M \(almost equal to the all-time volume of the other 122 platforms combined; a point also referenced within @pavpowell's proposal\). Other direct NFT or NFT DAO competitors include: Rarible, Mintable, Flamingo, Aragon, Wax, Ergo Auctions and Mintbase.
+
+### Market Competitors
+
+* Rarible \(NFT DAO\)
+* Mintable \(NFT DAO\)
+* Flamingo \(NFT DAO\)
+* WAX \(NFT Market\)
+* ERGO Auction House \(NFT Market\)
+* Aragon \(DAO Market\)
+
+**WAX.io Messaging:**
+
+"The safest and most convenient way to create, buy, sell, and trade physical and virtual items — to anyone, anywhere in the world."
+
+**We can build a better WAX alternative on Cardano!**
+
+### Recommendations From Research
+
+From this initial survey of NFT proposals within Project Catalyst, and NFT platforms currently on the market, it is proposed that:
+
+* Consideration be given by the Catalyst community to support a strategic alignment regarding NFT initiatives in a way that will maximize and streamline the collective interests and efforts of the community in this domain;
+* As it is forecast that NFT proposals will only proliferate over time, it is proposed that an NFT steering group \(a community within the community\) composed of those with an interest in NFT dev., including recent proposers, may provide a more effective strategy for guiding and fast-tracking Cardano's NFT development. This is in contrast with a scatter-gun or competitive approach, which runs the risk of wasted effort, resources and decreased community morale for unsuccessful proposers;
+* It is proposed that the NFT steering group be fluid and open to the community for wider consultation, and act as a resource to NFT proposers or initiatives wishing to remain autonomous;
+* It is proposed that the NFT steering group hold a secondary function of monitoring and evaluating its processes for the purposes of knowledge sharing with prospective steering groups that seek to align around other strategic topic areas. It is not intended that such steering groups replace Community Choice campaigns, but that they serve to support the ongoing implementation of past or prospective campaigns.
+* It is of note that in the course of this funding round, at least two of the NFT for art market projects did merge their proposals together.
+
+
+
+## **Business Model**
+
+_**We intend to create a self sustaining DAO that will incubate NFT innovation and collaboration.**_
+
+* **Marketplace Liquidity Mining:** Earn NFTDAO governance token by minting, selling, and buying NFTs.
+* **Transaction Fees:** There will be a small predictable fee involved with the minting of each asset.
+* **DeFi offerings:** NFT liquidity pools. Revenue rights granting NFTs.
+
+### DAO Governance
+
+Create a DAO structure to support NFT lifecycles for the Cardano community. Nest the DAO in the Catalyst Project at origin. Obtain community funding for several Fund cycles to build the tech stack.
+
+### Collaboration
+
+Build the frameworks, scaffolding, schemas, patterns and integrations required for a robust NFT offering. Once the tech stack is launched, charge appropriate licensing fee structure justified by service and support to fund the DAO treasury to maintain and enhance the technology and sustain the DAO model.
+
+The DAO may decide to build and operate NFT businesses of their own as well and create an endowment revenue stream to further enhance leadership of Cardano NFTs.
+
+All 35+ proposals do not have a chance to be funded standing alone. However, amalgamating all the NFT ideas and insights stands a great chance of becoming a truly collaborative project that will benefit all the proposers should it create the optimal platform to dominate the NFT space going into the future. It will propel Cardano as the go-to blockchain for NFTs and position us for many point solutions based on NFTs. Together we can become that de facto NFT blockchain choice.
+
+This will take several rounds of progressive development and we intend to further this proposal in future Funds.
+
