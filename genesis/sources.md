@@ -18,5 +18,9 @@ Grounded \(2020, Nov 3\). The Revolution of NFT DAO.
 
 {% embed url="https://medium.com/grounded-work/the-revolution-of-nft-dao-5684c2cc054" %}
 
+##  Multi-Asset Tokens Explainer
+
+{% embed url="https://developers.cardano.org/en/development-environments/native-tokens/multi-asset-tokens-explainer/" %}
+
 
 
