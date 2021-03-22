@@ -5,6 +5,7 @@
 ## Genesis
 
 * [Genesis: Comprehensive NFT Framework Collab](genesis/genesis.md)
+* [Sources](genesis/sources.md)
 * [Airtable form](genesis/airtable-form.md)
 * [NFT-DAO Website](genesis/nft-dao-website.md)
 
