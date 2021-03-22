@@ -19,8 +19,6 @@ As NFTs become ubiquitous, we need a system on Cardano that ensures rapid develo
 
 Non-fungible tokens \(NFTs\) allow for representation of both digital and real world value. In fact, they blur the boundaries between digital and physical. NFTs can represent tickets to an event, physical art, digital art, in-game assets, badges, certifications and more… We're just scratching the surface. As NFTs become ubiquitous on Cardano we'll need patterns that ensure rapid development of emerging use cases and interoperability between all parties.
 
-
-
 ## **NFT Properties**
 
 NFTs will be distinguished through a set of properties:
