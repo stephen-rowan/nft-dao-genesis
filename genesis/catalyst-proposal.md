@@ -72,8 +72,6 @@ Our rationale for this approach lies in the open and decentralized ethos of Proj
 
 Of the 188 fund-seeking proposals for Project Catalyst Fund 3, we identified NFT's as a core area of interest within the Catalyst community, and an area of major growth within the blockchain economy at large. Based on a hashtag search for \#NFT within Catalyst, 42 proposals \(22.34%\) identified an aspect of NFT's as being applicable to their project \(an analysis of these proposals is included further down\). The NFT space as a whole has seen over $150 million in total sales volume since mid-2017 with the majority of growth occurring in 2020, with 115% growth in December alone \[2\].
 
-
-
 The reasons this project may be more successful than other solutions is:
 
 1. **Vision** - A macro NFT strategy and DAO will better support the sustainable development of NFT community growth, use, DApp development and tokenization on Cardano than through the limitations of individual competition.
@@ -192,8 +190,6 @@ This will take several rounds of progressive development and we intend to furthe
 * Build community through existing social channels \(Discord, Twitter, Telegram\)
 * Collaborate with community to identify NFT use cases to be included in MVP
 * Map governance and tokenization framework for NFT DAO
-
-
 
 ## **Use of Funds**
 
