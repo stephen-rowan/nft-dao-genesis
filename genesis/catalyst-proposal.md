@@ -36,7 +36,7 @@ The 42 **proposing teams cover the range of skills and experience needed** to bu
 
 {% embed url="https://bit.ly/NFTDAO" %}
 
-
+##  **A Modular Framework for NFTs on Cardano**
 
 
 
