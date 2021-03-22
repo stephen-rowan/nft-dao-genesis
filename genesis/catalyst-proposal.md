@@ -80,7 +80,7 @@ The reasons this project may be more successful than other solutions is:
 2. **Collectivism** - Each individual NFT project is better served by the collective experience of the community \(as is the case with Project Catalyst itself\), rather than being limited by the experience of one individual or team alone;
 3. **Effectiveness** - For NFT proposals that will not be successful in this or future funding rounds, due to a cap on the amount of funds available, NFT proposers will be able to contribute ongoing value rather than be overlooked;
 
-## **Market Oportunity**
+## **Market Opportunity**
 
 Market Validation
 
