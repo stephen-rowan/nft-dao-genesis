@@ -10,7 +10,11 @@ Proposed by: Rich Kopcho
 
 Joined By: Finely McIIwaine, Tyler Wales and Troy Egan
 
-Link to Catalyst: [https://cardano.ideascale.com/a/dtd/334521-48088?show=comments&comment=338606](https://cardano.ideascale.com/a/dtd/334521-48088?show=comments&comment=338606)
+Link to Catalyst:
+
+{% embed url="https://cardano.ideascale.com/a/dtd/334521-48088?show=comments&comment=338606" %}
+
+
 
 Producing WyoHackathon the past three years has brought me into close relationships with the Cardano, IOHK and Emurgo community and teams. From my history of open-sourcing projects, I noticed a level of professionalism behind the Cardano project that I felt compelled to support more fully at a personal level.
 
