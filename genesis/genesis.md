@@ -2,7 +2,7 @@
 description: A Catalyst Fund 3 Proposal
 ---
 
-# Genesis: Comprehensive NFT Framework Collab
+# Genesis: Comprehensive NFT Framework Collab Overview
 
 ## Genesis: Comprehensive NFT Framework Collab
 
