@@ -75,3 +75,6 @@ Reference :
 
 ### Recommendation / Action  - [15.59](https://youtu.be/wnaXlv9onAo?t=959) - Rich Kopcho
 > Recommend reformation and redesign of NFT-DAO Discord Server and hiring experienced Admin
+> 
+
+### Viewpoint  - [17.38](https://youtu.be/wnaXlv9onAo?t=1058)
