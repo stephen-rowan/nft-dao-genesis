@@ -48,5 +48,9 @@ Discord context \(Business Planning Channel\):
 
 ### Overview - [12.41](https://youtu.be/wnaXlv9onAo?t=761) - Troy Egan
 
-### Discussion - [13.00](https://youtu.be/wnaXlv9onAo?t=780) - Rich Kopcho
+### Viewpoint - [13.00](https://youtu.be/wnaXlv9onAo?t=780) - Rich Kopcho
+> June/July before full constitution ready
+
+### Discussion  - [13.55](https://youtu.be/wnaXlv9onAo?t=835) - Tyler Wales
+
 
