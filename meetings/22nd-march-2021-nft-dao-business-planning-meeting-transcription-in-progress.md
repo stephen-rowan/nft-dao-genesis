@@ -85,3 +85,5 @@ Reference :
 > 
 
 
+
+### Viewpoint  - [29.54](https://youtu.be/wnaXlv9onAo?t=1794) - Rich Kopcho
