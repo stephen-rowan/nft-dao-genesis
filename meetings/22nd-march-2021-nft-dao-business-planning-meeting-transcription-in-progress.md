@@ -77,4 +77,4 @@ Reference :
 > Recommend reformation and redesign of NFT-DAO Discord Server and hiring experienced Admin
 > 
 
-### Viewpoint  - [17.38](https://youtu.be/wnaXlv9onAo?t=1058)
+## Business Plan Drafy  - [18.09](https://youtu.be/wnaXlv9onAo?t=1089)
