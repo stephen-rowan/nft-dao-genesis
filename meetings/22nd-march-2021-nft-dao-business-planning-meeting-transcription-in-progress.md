@@ -58,3 +58,4 @@ Discord context \(Business Planning Channel\):
 > 
 
 ### Action - [14.48](https://youtu.be/wnaXlv9onAo?t=888)  - Troy Egan
+> Agree short-term one-page manifesto
