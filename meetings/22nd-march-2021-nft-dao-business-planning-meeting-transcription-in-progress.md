@@ -32,6 +32,8 @@ Discord context \(Business Planning Channel\):
 
 {% embed url="https://cdn.discordapp.com/attachments/815810627497885696/821886601767944222/Governance\_Holon\_Update\_17-3-21.pdf" %}
 
+### Recommendations - [8.21](https://youtu.be/wnaXlv9onAo?t=501) - Troy
+
 
 
 Discord context \(Business Planning Channel\):
