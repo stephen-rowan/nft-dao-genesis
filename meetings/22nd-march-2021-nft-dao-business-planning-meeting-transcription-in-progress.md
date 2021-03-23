@@ -44,3 +44,5 @@ Discord context \(Business Planning Channel\):
 
 ### Discussion Points - [12.34](https://youtu.be/wnaXlv9onAo?t=754) - Troy
 
+### Constitution Discussion - [12.41](https://youtu.be/wnaXlv9onAo?t=761) - Troy
+
