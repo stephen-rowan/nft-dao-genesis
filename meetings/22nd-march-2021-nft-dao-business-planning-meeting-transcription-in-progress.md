@@ -64,17 +64,19 @@ Discord context \(Business Planning Channel\):
 
 ### Viewpoint  - [15.06](https://youtu.be/wnaXlv9onAo?t=906) - Rich Kopcho
 
-> Discord Channel - Genesis Block Start Here - is a  manifesto
+> Discord Channel - Genesis Block Start Here - is a manifesto
 
 Reference :
 
-{% embed url="https://discordapp.com/channels/804069702572965888/812010450312364063" %}
+{% embed url="https://discordapp.com/channels/804069702572965888/812010450312364063" caption="" %}
 
 ### Viewpoint  - [15.31](https://youtu.be/wnaXlv9onAo?t=931) - Tyler Wales
+
 > Some acknowledgement of reading founding document/princples
 
 ### Recommendation / Action  - [15.59](https://youtu.be/wnaXlv9onAo?t=959) - Rich Kopcho
-> Recommend reformation and redesign of NFT-DAO Discord Server and hiring experienced Admin
-> 
 
-## Business Plan Drafy  - [18.09](https://youtu.be/wnaXlv9onAo?t=1089)
+> Recommend reformation and redesign of NFT-DAO Discord Server and hiring experienced Admin
+
+## Business Plan Draft  - [18.09](https://youtu.be/wnaXlv9onAo?t=1089)
+
