@@ -27,19 +27,16 @@ Discord context \(Business Planning Channel\):
 ### Analysis - [5.18](https://youtu.be/wnaXlv9onAo?t=318) - Troy
 
 > Reference Governance Holon –Update\(17-3-21\)
-
+>
 > Common Themes
 
-{% embed url="https://cdn.discordapp.com/attachments/815810627497885696/821886601767944222/Governance\_Holon\_Update\_17-3-21.pdf" %}
+{% embed url="https://cdn.discordapp.com/attachments/815810627497885696/821886601767944222/Governance\_Holon\_Update\_17-3-21.pdf" caption="" %}
 
 Discord context \(Business Planning Channel\):
+
 {% embed url="https://discordapp.com/channels/804069702572965888/815810627497885696/821886601885909003" caption="" %}
 
 ### Recommendations - [8.21](https://youtu.be/wnaXlv9onAo?t=501) - Troy
 
-
-### Discussion - [12.34](https://youtu.be/wnaXlv9onAo?t=754) - Troy
-
-
-
+### Discussion Points - [12.34](https://youtu.be/wnaXlv9onAo?t=754) - Troy
 
