@@ -12,7 +12,7 @@ Note : Timestamps are external links.
 
 ## Introductions - [0.44](https://youtu.be/wnaXlv9onAo?t=44)
 
-## Agenda - [2:31](https://youtu.be/wnaXlv9onAo?t=151) - Troy
+## Agenda - [2:31](https://youtu.be/wnaXlv9onAo?t=151) - **Troy Egan**
 
 > Reference
 
@@ -24,11 +24,11 @@ Discord context \(Business Planning Channel\):
 
 > Summary
 
-### Governance HOLON update - [4.17](https://youtu.be/wnaXlv9onAo?t=257) - Troy
+### Governance HOLON update - [4.17](https://youtu.be/wnaXlv9onAo?t=257) - **Troy Egan**
 
-### Community Feedback - [5.03](https://youtu.be/wnaXlv9onAo?t=303) - Troy
+### Community Feedback - [5.03](https://youtu.be/wnaXlv9onAo?t=303) - **Troy Egan**
 
-### Analysis - [5.18](https://youtu.be/wnaXlv9onAo?t=318) - Troy
+### Analysis - [5.18](https://youtu.be/wnaXlv9onAo?t=318) - **Troy Egan**
 
 > Reference Governance Holon –Update\(17-3-21\)
 >
@@ -40,11 +40,11 @@ Discord context \(Business Planning Channel\):
 
 {% embed url="https://discordapp.com/channels/804069702572965888/815810627497885696/821886601885909003" caption="" %}
 
-### Recommendations - [8.21](https://youtu.be/wnaXlv9onAo?t=501) - Troy
+### Recommendations - [8.21](https://youtu.be/wnaXlv9onAo?t=501) - **Troy Egan**
 
-### Discussion Points - [12.34](https://youtu.be/wnaXlv9onAo?t=754) - Troy
+### Discussion Points - [12.34](https://youtu.be/wnaXlv9onAo?t=754) - **Troy Egan**
 
-### Constitution Discussion - [12.41](https://youtu.be/wnaXlv9onAo?t=761) - Troy
+### Constitution Discussion - [12.41](https://youtu.be/wnaXlv9onAo?t=761) - **Troy Egan**
 
 ### Constitution Discussion - [13.00](https://youtu.be/wnaXlv9onAo?t=780) - Rich Kopcho
 
