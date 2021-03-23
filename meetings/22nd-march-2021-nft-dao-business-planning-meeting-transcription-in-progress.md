@@ -55,3 +55,6 @@ Discord context \(Business Planning Channel\):
 > Interim solution - Bill of Rights - General Principles oF the DAO
 > 
 > Like a manifesto ? - Hud
+> 
+
+### Action point  - [14.48](https://youtu.be/wnaXlv9onAo?t=888)  - Troy Egan
