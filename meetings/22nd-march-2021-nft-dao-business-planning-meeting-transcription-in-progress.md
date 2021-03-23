@@ -38,7 +38,7 @@ Discord context \(Business Planning Channel\):
 ### Recommendations - [8.21](https://youtu.be/wnaXlv9onAo?t=501) - Troy
 
 
-
+### Discussion - [12.34](https://youtu.be/wnaXlv9onAo?t=754) - Troy
 
 
 
