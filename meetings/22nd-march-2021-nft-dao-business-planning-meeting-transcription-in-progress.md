@@ -49,20 +49,26 @@ Discord context \(Business Planning Channel\):
 ### Overview - [12.41](https://youtu.be/wnaXlv9onAo?t=761) - Troy Egan
 
 ### Viewpoint - [13.00](https://youtu.be/wnaXlv9onAo?t=780) - Rich Kopcho
+
 > June/July before full constitution ready
 
 ### Viewpoint  - [13.55](https://youtu.be/wnaXlv9onAo?t=835) - Tyler Wales
+
 > Interim solution - Bill of Rights - General Principles oF the DAO
-> 
+>
 > Like a manifesto ? - Hud
-> 
 
 ### Action - [14.48](https://youtu.be/wnaXlv9onAo?t=888)  - Troy Egan
+
 > Agree short-term one-page manifesto ?
 
 ### Viewpoint  - [15.06](https://youtu.be/wnaXlv9onAo?t=906) - Rich Kopcho
-> Discord Channel - Genesis Block Start Here
+
+> Discord Channel - Genesis Block Start Here - is a  manifesto
 
 Reference :
 
-https://discordapp.com/channels/804069702572965888/812010450312364063
+{% embed url="https://discordapp.com/channels/804069702572965888/812010450312364063" %}
+
+
+
