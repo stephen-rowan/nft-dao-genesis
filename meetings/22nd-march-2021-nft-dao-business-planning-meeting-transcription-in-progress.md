@@ -84,6 +84,5 @@ Reference :
 > Version 3 Business Plan/Canon
 > 
 
-
-
 ### Viewpoint  - [29.54](https://youtu.be/wnaXlv9onAo?t=1794) - Rich Kopcho
+> Insufficent funds 
