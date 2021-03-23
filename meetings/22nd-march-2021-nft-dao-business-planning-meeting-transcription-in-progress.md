@@ -70,5 +70,9 @@ Reference :
 
 {% embed url="https://discordapp.com/channels/804069702572965888/812010450312364063" %}
 
+### Viewpoint  - [15.31](https://youtu.be/wnaXlv9onAo?t=931) - Tyler Wales
+> Some acknowledgement of reading founding document/princples
+
+
 
 
