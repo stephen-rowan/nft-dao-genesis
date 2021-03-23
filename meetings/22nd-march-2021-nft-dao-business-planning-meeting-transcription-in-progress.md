@@ -73,5 +73,5 @@ Reference :
 ### Viewpoint  - [15.31](https://youtu.be/wnaXlv9onAo?t=931) - Tyler Wales
 > Some acknowledgement of reading founding document/princples
 
-### Viewpoint  - [15.59](https://youtu.be/wnaXlv9onAo?t=959) - Rich Kopcho
+### Recommendation / Action  - [15.59](https://youtu.be/wnaXlv9onAo?t=959) - Rich Kopcho
 > Recommend reformation of NFT-DAO Discord Server Admin
