@@ -13,6 +13,7 @@
 
 ## Media
 
+* [NFT-DAO Channel](media/nft-dao-channel.md)
 * [Youtube](media/youtube.md)
 * [Reddit](media/cardanonfts-reddit-post.md)
 * [Websites](media/adapulse-one-nft-framework-to-rule-them-all.md)
