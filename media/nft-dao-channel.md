@@ -6,7 +6,7 @@ description: NFT-DAO's Youtube Channel
 
 [NFT-DAO Youtube Channel](https://www.youtube.com/channel/UCsT66TXtF48V4GRJzaUVwlw/featured)
 
-## The Genesis Block \| NFT-DAO
+## The Genesis Block
 
 19 March 2021
 
