@@ -2,7 +2,7 @@
 
 Here is a list of timestamps for this meeting \(the links are external\). Please amend if I have misheard or misinterpreted some content.
 
-{% embed url="https://www.youtube.com/watch?v=wnaXlv9onAo" %}
+{% embed url="https://www.youtube.com/watch?v=wnaXlv9onAo" caption="" %}
 
 Note : Timestamps are external links.
 
@@ -12,11 +12,11 @@ Note : Timestamps are external links.
 
 > Reference
 
-{% embed url="https://cdn.discordapp.com/attachments/815810627497885696/823508774291374140/NFT-DAO\_Business\_Planning\_Agenda\_22-3-21.pdf" %}
+{% embed url="https://cdn.discordapp.com/attachments/815810627497885696/823508774291374140/NFT-DAO\_Business\_Planning\_Agenda\_22-3-21.pdf" caption="" %}
 
 Discord context \(Business Planning Channel\):
 
-{% embed url="https://discordapp.com/channels/804069702572965888/815810627497885696/823508774068158515" %}
+{% embed url="https://discordapp.com/channels/804069702572965888/815810627497885696/823508774068158515" caption="" %}
 
 > Summary
 
@@ -28,11 +28,13 @@ Discord context \(Business Planning Channel\):
 
 > Reference Governance Holon –Update\(17-3-21\)
 
-[https://cdn.discordapp.com/attachments/815810627497885696/821886601767944222/Governance\_Holon\_Update\_17-3-21.pdf](https://cdn.discordapp.com/attachments/815810627497885696/821886601767944222/Governance_Holon_Update_17-3-21.pdf)
+{% embed url="https://cdn.discordapp.com/attachments/815810627497885696/821886601767944222/Governance\_Holon\_Update\_17-3-21.pdf" %}
+
+
 
 Discord context \(Business Planning Channel\):
 
-{% embed url="https://discordapp.com/channels/804069702572965888/815810627497885696/821886601885909003" %}
+{% embed url="https://discordapp.com/channels/804069702572965888/815810627497885696/821886601885909003" caption="" %}
 
 > Common Themes
 
