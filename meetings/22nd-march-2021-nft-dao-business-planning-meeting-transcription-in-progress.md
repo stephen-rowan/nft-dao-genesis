@@ -46,5 +46,5 @@ Discord context \(Business Planning Channel\):
 
 ### Constitution Discussion - [12.41](https://youtu.be/wnaXlv9onAo?t=761) - Troy
 
-### Constitution Discussion - [13.00](https://youtu.be/wnaXlv9onAo?t=780) - Rich
+### Constitution Discussion - [13.00](https://youtu.be/wnaXlv9onAo?t=780) - Rich Kopcho
 
