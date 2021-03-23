@@ -27,8 +27,8 @@ Discord context \(Business Planning Channel\):
 ### Analysis - [5.18](https://youtu.be/wnaXlv9onAo?t=318) - Troy
 
 > Reference Governance Holon –Update\(17-3-21\)
->
-> > Common Themes
+
+> Common Themes
 
 {% embed url="https://cdn.discordapp.com/attachments/815810627497885696/821886601767944222/Governance\_Holon\_Update\_17-3-21.pdf" %}
 
