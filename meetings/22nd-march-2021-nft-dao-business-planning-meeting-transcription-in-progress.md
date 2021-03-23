@@ -54,7 +54,7 @@ Discord context \(Business Planning Channel\):
 
 ### Viewpoint  - [13.55](https://youtu.be/wnaXlv9onAo?t=835) - Tyler Wales
 
-> Interim solution - Bill of Rights - General Principles oF the DAO
+> Interim solution - Bill of Rights - General Principles of the DAO
 >
 > Like a manifesto ? - Hud
 
@@ -79,10 +79,12 @@ Reference :
 > Recommend reformation and redesign of NFT-DAO Discord Server and hiring experienced Admin
 
 ## Business Plan Draft - Presentation - [18.09](https://youtu.be/wnaXlv9onAo?t=1089)
+
 > NFT-DAO - A collaborative NFT Economy
-> 
+>
 > Version 3 Business Plan/Canon
-> 
 
 ### Viewpoint  - [29.54](https://youtu.be/wnaXlv9onAo?t=1794) - Rich Kopcho
-> Insufficent funds 
+
+> Insufficent funds
+

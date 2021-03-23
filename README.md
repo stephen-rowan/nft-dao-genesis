@@ -4,7 +4,7 @@ description: The genesis of a comprehensive Cardano NFT Framework
 
 # Welcome to NFT-DAO
 
-![](.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
+![](.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
 ## Genesis: Comprehensive NFT Framework Collab
 
