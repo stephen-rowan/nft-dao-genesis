@@ -8,11 +8,17 @@ description: NFT-DAO's Youtube Channel
 
 ## The Genesis Block \| NFT-DAO
 
-NFT-DAO Youtube Channel
-
 19 March 2021
 
 {% embed url="https://youtu.be/boGfYGCI-24" %}
+
+
+
+## The Boxcar and The DAO
+
+23 March 2021
+
+{% embed url="https://www.youtube.com/watch?v=Zhr7Olx-2JA" %}
 
 
 
