@@ -72,7 +72,7 @@ Reference :
 
 ### Viewpoint  - [15.31](https://youtu.be/wnaXlv9onAo?t=931) - Tyler Wales
 
-> Some acknowledgement of reading founding document/princples
+> Some acknowledgement of reading founding document/principles
 
 ### Recommendation / Action  - [15.59](https://youtu.be/wnaXlv9onAo?t=959) - Rich Kopcho
 
@@ -86,5 +86,5 @@ Reference :
 
 ### Viewpoint  - [29.54](https://youtu.be/wnaXlv9onAo?t=1794) - Rich Kopcho
 
-> Insufficent funds
+> Insufficient funds
 
