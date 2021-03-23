@@ -74,4 +74,4 @@ Reference :
 > Some acknowledgement of reading founding document/princples
 
 ### Recommendation / Action  - [15.59](https://youtu.be/wnaXlv9onAo?t=959) - Rich Kopcho
-> Recommend reformation of NFT-DAO Discord Server Admin
+> Recommend reformation and redesign of NFT-DAO Discord Server and hiring experienced Admin
