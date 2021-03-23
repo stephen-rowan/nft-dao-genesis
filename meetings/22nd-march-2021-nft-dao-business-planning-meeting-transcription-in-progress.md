@@ -52,5 +52,4 @@ Discord context \(Business Planning Channel\):
 > June/July before full constitution ready
 
 ### Viewpoint  - [13.55](https://youtu.be/wnaXlv9onAo?t=835) - Tyler Wales
-
-
+> Interim solution - Bill of Rights - General Principles oF the DAO
