@@ -61,3 +61,8 @@ Discord context \(Business Planning Channel\):
 > Agree short-term one-page manifesto ?
 
 ### Viewpoint  - [15.06](https://youtu.be/wnaXlv9onAo?t=906) - Rich Kopcho
+> Discord Channel - Genesis Block Start Here
+
+Reference :
+
+https://discordapp.com/channels/804069702572965888/812010450312364063
