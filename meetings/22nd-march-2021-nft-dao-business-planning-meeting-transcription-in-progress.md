@@ -24,7 +24,7 @@ Discord context \(Business Planning Channel\):
 
 > Summary
 
-### Governance HOLON update - [4.17](https://youtu.be/wnaXlv9onAo?t=257) - Troy Egan
+## Governance HOLON update - [4.17](https://youtu.be/wnaXlv9onAo?t=257) - Troy Egan
 
 ### Community Feedback - [5.03](https://youtu.be/wnaXlv9onAo?t=303) - Troy Egan
 
@@ -44,7 +44,7 @@ Discord context \(Business Planning Channel\):
 
 ### Discussion Points - [12.34](https://youtu.be/wnaXlv9onAo?t=754) - Troy Egan
 
-### Constitution Discussion
+## Constitution Discussion
 
 ### Overview - [12.41](https://youtu.be/wnaXlv9onAo?t=761) - Troy Egan
 
