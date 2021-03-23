@@ -53,4 +53,5 @@ Discord context \(Business Planning Channel\):
 
 ### Viewpoint  - [13.55](https://youtu.be/wnaXlv9onAo?t=835) - Tyler Wales
 > Interim solution - Bill of Rights - General Principles oF the DAO
+> 
 > Like a manifesto ? - Hud
