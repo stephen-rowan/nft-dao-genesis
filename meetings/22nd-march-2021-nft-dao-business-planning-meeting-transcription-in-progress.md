@@ -57,4 +57,4 @@ Discord context \(Business Planning Channel\):
 > Like a manifesto ? - Hud
 > 
 
-### Action point  - [14.48](https://youtu.be/wnaXlv9onAo?t=888)  - Troy Egan
+### Action - [14.48](https://youtu.be/wnaXlv9onAo?t=888)  - Troy Egan
