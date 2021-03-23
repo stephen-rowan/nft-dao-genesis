@@ -51,6 +51,6 @@ Discord context \(Business Planning Channel\):
 ### Viewpoint - [13.00](https://youtu.be/wnaXlv9onAo?t=780) - Rich Kopcho
 > June/July before full constitution ready
 
-### Discussion  - [13.55](https://youtu.be/wnaXlv9onAo?t=835) - Tyler Wales
+### Viewpoint  - [13.55](https://youtu.be/wnaXlv9onAo?t=835) - Tyler Wales
 
 
