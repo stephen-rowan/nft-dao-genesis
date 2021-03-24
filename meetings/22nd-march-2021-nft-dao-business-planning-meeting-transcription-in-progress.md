@@ -227,3 +227,6 @@ Discord context \(Business Planning Channel\):
 > Revenue Targets- [1.16.19](https://youtu.be/wnaXlv9onAo?t=4579) - Dan Verowski
 > 
 > Revenue Targets- [1.16.42](https://youtu.be/wnaXlv9onAo?t=4602) - Rich Kopcho
+> $150,000 Development costs as Revenue Target 
+>
+> Revenue Targets- [1.17.26](https://youtu.be/wnaXlv9onAo?t=4646) - Dan Verowski
