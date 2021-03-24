@@ -204,4 +204,6 @@ Discord context \(Business Planning Channel\):
 
 ### How to transact NFTs - [1.06.58](https://youtu.be/wnaXlv9onAo?t=4018) - Wilhelm
 > Legally enforceable contracts
+> Start with very simple contract
+> 
 
