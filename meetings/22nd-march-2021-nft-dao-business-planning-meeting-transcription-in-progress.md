@@ -126,5 +126,7 @@ Reference :
 
 {% embed url="https://ethereum.org/en/whitepaper/" %}
 
+> Compromise between automated trustless systems and heterogenous trust based systems
+
 
 
