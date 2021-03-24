@@ -214,6 +214,6 @@ Discord context \(Business Planning Channel\):
 > 
 > Liability concerns - [1.11.42](https://youtu.be/wnaXlv9onAo?t=4302) - Wilhelm Horrix
 > 
-> Discussion - [1.11.04](https://youtu.be/wnaXlv9onAo?t=4264)
+> Discussion - [1.12.07](https://youtu.be/wnaXlv9onAo?t=4327)
 
 
