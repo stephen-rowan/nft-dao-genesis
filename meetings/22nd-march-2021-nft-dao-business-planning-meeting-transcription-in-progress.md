@@ -116,4 +116,6 @@ Reference :
 
 
 ## Our Structure- [37.59](https://youtu.be/wnaXlv9onAo?t=2279) - Troy Egan
+> The DAO Business Model
+
 
