@@ -254,3 +254,5 @@ Discord context \(Business Planning Channel\):
 > Success of Cardano Kidz presales
 
 > Pre-Sales risks - [1.25.21](https://youtu.be/wnaXlv9onAo?t=5121) - Tyler Wales
+> 
+> Risk Mitigation
