@@ -230,3 +230,5 @@ Discord context \(Business Planning Channel\):
 > $150,000 Development costs as Revenue Target 
 >
 > Discussion - [1.17.26](https://youtu.be/wnaXlv9onAo?t=4646) 
+> 
+> Call for Artists [1.18.43](https://youtu.be/wnaXlv9onAo?t=4723) - Dan Verowski
