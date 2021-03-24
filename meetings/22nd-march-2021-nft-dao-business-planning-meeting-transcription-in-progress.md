@@ -162,13 +162,14 @@ Discord context \(Business Planning Channel\):
 > Individuals may contribute and comment across all HOLONs within the DAO
 
 
-> **Notes from Discord community** - [50.56](https://youtu.be/wnaXlv9onAo?t=3056) - Troy Egan
+### Incentive discussions in Discord community - [50.56](https://youtu.be/wnaXlv9onAo?t=3056) - Troy Egan
 > 
 > Tiered Engagement Program - contribution incentives
 > 
 > Equity weightings
 > 
 
+> **cc** - [52.58](https://youtu.be/wnaXlv9onAo?t=3178) - Rich Kopcho
 
 
 
