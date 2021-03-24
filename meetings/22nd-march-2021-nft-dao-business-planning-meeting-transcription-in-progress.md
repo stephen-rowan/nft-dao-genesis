@@ -238,3 +238,7 @@ Discord context \(Business Planning Channel\):
 > Define presales ? - [1.20.23](https://youtu.be/wnaXlv9onAo?t=4823) - Wilhelm Horrix
 >
 >  Answer - We are selling NFTs before we can mint them - Troy Egan
+
+> Discussion on NFT Pre-Sales - [1.21.14](https://youtu.be/wnaXlv9onAo?t=4874) - Troy Egan, Dan Verowski
+> 
+> Pre-Sales risky - Dan Verowski
