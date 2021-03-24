@@ -144,7 +144,7 @@ Discord context \(Business Planning Channel\):
 >
 > Standard HOLON induction process required to avoid silo effect
 >
-> **Note** : Mihaela Ulieru - [43.04](https://youtu.be/wnaXlv9onAo?t=2584) - Rich Kopcho
+> **Note** : Mihaela Ulieru / Explanation of HOLONs - [43.04](https://youtu.be/wnaXlv9onAo?t=2584) - Rich Kopcho
 
 > Mihaela Ulieru one of the authors of 'The Holonic Enterprise as a Collaborative Information Ecosystem - 2001'
  currently works for IOHK
@@ -152,6 +152,8 @@ Discord context \(Business Planning Channel\):
 > **Reference**
 
 {% embed url="https://iohk.io/en/team/mihaela-ulieru" %}
+
+
 
 
 
