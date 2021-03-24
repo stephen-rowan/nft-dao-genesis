@@ -153,7 +153,11 @@ Discord context \(Business Planning Channel\):
 
 {% embed url="https://iohk.io/en/team/mihaela-ulieru" %}
 
-> **Query** - [45.54](https://youtu.be/wnaXlv9onAo?t=2754) - ????
+> **Query** - [45.54](https://youtu.be/wnaXlv9onAo?t=2754) - Sev
+> 
+>Is the Holonic structure part of the DAO ?
+>
+>
 
 
 
