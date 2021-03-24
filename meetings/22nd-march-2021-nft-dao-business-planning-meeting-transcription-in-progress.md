@@ -195,21 +195,17 @@ Discord context \(Business Planning Channel\):
 > What would be minimum market research required to start MVP ? - [1.04.15](https://youtu.be/wnaXlv9onAo?t=3855) - Troy Egan
 >
 > ### Main NFT market painpoints - [1.05.16](https://youtu.be/wnaXlv9onAo?t=3916) - Dan Verowski
->
-> Poor distributed content integration. IPFS \(Interplantery File System\)
->
-> Poor curation of NFT assets - lack of standards
->
-> Content stored on-chain or off-chain ?
+
+* Poor distributed content integration. IPFS \(Interplantery File System\)
+* Poor curation of NFT assets - lack of standards
+* Content stored on-chain or off-chain ?
 
 ### How to transact NFTs - [1.06.58](https://youtu.be/wnaXlv9onAo?t=4018) - Wilhelm Horrix
 
-> Legally enforceable contracts
->
-> Start with very simple contract
->
-> Purchase orders
-> 
+* Legally enforceable contracts
+* Start with very simple contract
+* Purchase orders
+ 
 > **Action** - NFT transaction experiment - [1.11.04](https://youtu.be/wnaXlv9onAo?t=4264) - Rich Kopcho
 > 
 > Liability concerns - [1.11.42](https://youtu.be/wnaXlv9onAo?t=4302) - Wilhelm Horrix
@@ -219,33 +215,33 @@ Discord context \(Business Planning Channel\):
 > Request for flow diagram - [1.14.34](https://youtu.be/wnaXlv9onAo?t=4474) - Troy Egan
 
 > Discussion - [1.15.01](https://youtu.be/wnaXlv9onAo?t=4501)
-> 
-> Transaction flow diagrams
-> 
+ 
+* Transaction flow diagrams
+ 
 ### Revenue Targets- [1.15.45](https://youtu.be/wnaXlv9onAo?t=4545) - Troy Egan
 
 > Revenue Targets- [1.16.19](https://youtu.be/wnaXlv9onAo?t=4579) - Dan Verowski
-> 
+ 
 > Revenue Targets- [1.16.42](https://youtu.be/wnaXlv9onAo?t=4602) - Rich Kopcho
 > $150,000 Development costs as Revenue Target 
->
+
 > Discussion - [1.17.26](https://youtu.be/wnaXlv9onAo?t=4646) 
-> 
+ 
 > Call for Artists [1.18.43](https://youtu.be/wnaXlv9onAo?t=4723) - Dan Verowski
-> 
+ 
 > Discord channel: Name the Artplace Market [1.19.37](https://youtu.be/wnaXlv9onAo?t=4777) - Tyler Wales
-> 
+ 
 ### Define presales ? - [1.20.23](https://youtu.be/wnaXlv9onAo?t=4823) - Wilhelm Horrix
 
->  Answer - We are selling NFTs before we can mint them - Troy Egan
+*  Answer - We are selling NFTs before we can mint them - Troy Egan
 
 > Discussion on NFT Pre-Sales - [1.21.14](https://youtu.be/wnaXlv9onAo?t=4874) - Troy Egan, Dan Verowski
  
-> Pre-Sales risky - Dan Verowski
+* Pre-Sales risky - Dan Verowski
  
 > Artist view on pre-sales - [1.22.26](https://youtu.be/wnaXlv9onAo?t=4946) - Troy Egan, Andy
  
-> If you build story around funds being use to fund the DAO - people would be willing to engage
+* If you build story around funds being use to fund the DAO - people would be willing to engage
  
 > Update on Mary Artwork - [1.22.54](https://youtu.be/wnaXlv9onAo?t=4974) - Andy
  
@@ -254,8 +250,8 @@ Discord context \(Business Planning Channel\):
 
 > Pre-Sales risks - [1.25.21](https://youtu.be/wnaXlv9onAo?t=5121) - Tyler Wales
  
-> Risk Mitigation, set-up a Stakepool for sustainable revenue
+* Risk Mitigation, set-up a Stakepool for sustainable revenue
  
 ### Achieving Revenue Targets - [1.26.47](https://youtu.be/wnaXlv9onAo?t=5207) - Troy Egan
  
-> Experiment with pre-sale, Creating demand with time-limited auctions
+* Experiment with pre-sale, Creating demand with time-limited auctions
