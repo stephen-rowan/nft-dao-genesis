@@ -166,7 +166,9 @@ Discord context \(Business Planning Channel\):
 >
 > Equity weightings
 >
-> **Nurture phase of Cataylist** - [52.58](https://youtu.be/wnaXlv9onAo?t=3178) - Rich Kopcho Order to Chaos - Chaordic organization
+> **Nurture phase of Cataylist** - [52.58](https://youtu.be/wnaXlv9onAo?t=3178) - Rich Kopcho 
+
+> Order to Chaos - Chaordic organization
 >
 > Reference :
 
