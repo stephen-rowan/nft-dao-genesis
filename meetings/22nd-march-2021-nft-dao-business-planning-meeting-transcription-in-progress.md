@@ -153,7 +153,7 @@ Discord context \(Business Planning Channel\):
 
 {% embed url="https://iohk.io/en/team/mihaela-ulieru" %}
 
-> ccc - [45.46](https://youtu.be/wnaXlv9onAo?t=2746) - Troy Egan
+> **Query** - [45.54](https://youtu.be/wnaXlv9onAo?t=2754) - ????
 
 
 
