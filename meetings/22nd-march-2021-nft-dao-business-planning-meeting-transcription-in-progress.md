@@ -193,7 +193,7 @@ Discord context \(Business Planning Channel\):
 > 
 > What would be minimum market research required to start MVP ? - [1.04.15](https://youtu.be/wnaXlv9onAo?t=3855) - Troy Egan
 > 
-> ccc - [1.05.16](https://youtu.be/wnaXlv9onAo?t=3916) - Dan Verowski
-
-
+> Main NFT market painpoints - [1.05.16](https://youtu.be/wnaXlv9onAo?t=3916) - Dan Verowski
+> Poor IPFS (Interplantery File System) integration
+> Content stored on-chain or off-chain
 
