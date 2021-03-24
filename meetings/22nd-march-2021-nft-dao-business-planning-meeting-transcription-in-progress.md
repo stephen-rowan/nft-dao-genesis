@@ -145,4 +145,10 @@ Reference :
 > Standard HOLON induction process required to avoid silo effect
 > 
 
-> query - [43.04](https://youtu.be/wnaXlv9onAo?t=2584)  - Rich Kopcho
+> Mihaela Ulieru - [43.04](https://youtu.be/wnaXlv9onAo?t=2584)  - Rich Kopcho
+> 
+Reference
+
+https://iohk.io/en/team/mihaela-ulieru
+
+
