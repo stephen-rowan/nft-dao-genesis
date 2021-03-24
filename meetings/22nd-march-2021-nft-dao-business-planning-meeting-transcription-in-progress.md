@@ -134,21 +134,21 @@ Reference :
 >
 > The Holonic Enterprise as a Collaborative Information Ecosystem - 2001
 
-{% embed url="http://theimpactinstitute.org/Projects/FIPA/Holonic-Enterprise-Final.pdf" %}
+{% embed url="http://theimpactinstitute.org/Projects/FIPA/Holonic-Enterprise-Final.pdf" caption="" %}
 
 > The Ghost in the Machine - Arthur Koestler
 
-{% embed url="https://en.wikipedia.org/wiki/The\_Ghost\_in\_the\_Machine" %}
+{% embed url="https://en.wikipedia.org/wiki/The\_Ghost\_in\_the\_Machine" caption="" %}
 
 > HOLONs as an organisational structure
-> 
+>
 > Standard HOLON induction process required to avoid silo effect
-> 
+>
+> Mihaela Ulieru - [43.04](https://youtu.be/wnaXlv9onAo?t=2584) - Rich Kopcho
+>
+> Reference
 
-> Mihaela Ulieru - [43.04](https://youtu.be/wnaXlv9onAo?t=2584)  - Rich Kopcho
-> 
-Reference
+{% embed url="https://iohk.io/en/team/mihaela-ulieru" %}
 
-https://iohk.io/en/team/mihaela-ulieru
 
 
