@@ -181,6 +181,9 @@ Discord context \(Business Planning Channel\):
 >
 > Consensus that more artists needed
 > 
+> Fees and Royalties
+> 
+
 
 
 
