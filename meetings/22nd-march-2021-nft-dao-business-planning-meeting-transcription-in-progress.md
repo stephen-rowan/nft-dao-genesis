@@ -110,7 +110,8 @@ Reference :
 > 
 
 > Our Story - [34.16](https://youtu.be/wnaXlv9onAo?t=2056) - Troy Egan
- > Background on how DAO formed out of Catalyst Fund application
+
+> Background on how DAO formed out of Catalyst Fund application
 
 
 
