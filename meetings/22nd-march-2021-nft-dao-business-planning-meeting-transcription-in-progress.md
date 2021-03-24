@@ -244,3 +244,5 @@ Discord context \(Business Planning Channel\):
 > Pre-Sales risky - Dan Verowski
 > 
 > Artist view on pre-sales - [1.22.26](https://youtu.be/wnaXlv9onAo?t=4946) - Troy Egan, Andy
+> 
+> If you build story around funds being use to fund the DAO - people would be willing to engage
