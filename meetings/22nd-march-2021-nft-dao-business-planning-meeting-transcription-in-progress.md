@@ -98,5 +98,7 @@ Reference :
 
 ### Viewpoint  - [29.54](https://youtu.be/wnaXlv9onAo?t=1794) - Rich Kopcho
 
-> Insufficient funds
+> Insufficient funds to build what we need to build (Fund 3)
+
+
 
