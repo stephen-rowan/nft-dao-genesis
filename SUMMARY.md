@@ -29,7 +29,7 @@
 
 * [Meetings Archive](meetings/meetings-archive.md)
 * [17th March, 2021, General NFT DAO Meeting](meetings/17th-march-2021-general-nft-dao-meeting.md)
-* [22nd March, 2021, NFT-DAO Business Planning Meeting \(transcription in progress\)](meetings/22nd-march-2021-nft-dao-business-planning-meeting-transcription-in-progress.md)
+* [22nd March, 2021, NFT-DAO Business Planning Meeting](meetings/22nd-march-2021-nft-dao-business-planning-meeting-transcription-in-progress.md)
 
 ## Governance
 

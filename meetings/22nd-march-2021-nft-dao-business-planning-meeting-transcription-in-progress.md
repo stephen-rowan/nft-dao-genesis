@@ -2,7 +2,7 @@
 description: This page is being edited and is incomplete
 ---
 
-# 22nd March, 2021, NFT-DAO Business Planning Meeting \(transcription in progress\)
+# 22nd March, 2021, NFT-DAO Business Planning Meeting
 
 Here is a list of timestamps for this meeting \(the links are external\). Please amend if I have misheard or misinterpreted some content.
 
