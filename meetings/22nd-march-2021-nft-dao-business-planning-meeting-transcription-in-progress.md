@@ -117,5 +117,9 @@ Reference :
 
 ## Our Structure- [37.59](https://youtu.be/wnaXlv9onAo?t=2279) - Troy Egan
 > The DAO Business Model
+> 
+> Distinction between Business Model (revenue etc.) and Organisational Model (how DAO works)
+> 
+> DAO research - Vitalik Buterin - [39.02](https://youtu.be/wnaXlv9onAo?t=2333) - Troy Egan
 
 
