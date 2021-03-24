@@ -209,4 +209,8 @@ Discord context \(Business Planning Channel\):
 > Start with very simple contract
 >
 > Purchase orders
+> 
+### cc - [1.11.04](https://youtu.be/wnaXlv9onAo?t=4264) - ccc
+> 
+
 
