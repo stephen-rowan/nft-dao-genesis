@@ -112,3 +112,6 @@ Reference :
 ## Community make-up - [35.45](https://youtu.be/wnaXlv9onAo?t=2145) - Troy Egan
 
 
+## Market Analysis- [37.34](https://youtu.be/wnaXlv9onAo?t=2254) - Troy Egan
+
+
