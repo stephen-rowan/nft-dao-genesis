@@ -127,4 +127,13 @@ Reference :
 > Compromise between automated trustless systems and heterogenous trust based systems
 
 ### Holonic Models - [39.52](https://youtu.be/wnaXlv9onAo?t=2392) - Troy Egan
+> References
+
+> The Holonic Enterprise as a Collaborative Information Ecosystem - 2001
+
+http://theimpactinstitute.org/Projects/FIPA/Holonic-Enterprise-Final.pdf
+
+> The Ghost in the Machine - Arthur Koestler 
+
+https://en.wikipedia.org/wiki/The_Ghost_in_the_Machine
 
