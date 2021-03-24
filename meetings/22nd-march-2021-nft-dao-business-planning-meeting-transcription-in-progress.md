@@ -22,9 +22,9 @@ Discord context
 
 
 
-## Introductions - [0.44](https://youtu.be/wnaXlv9onAo?t=44)
+# Introductions - [0.44](https://youtu.be/wnaXlv9onAo?t=44)
 
-## Agenda - [2:31](https://youtu.be/wnaXlv9onAo?t=151) - Troy Egan
+# Agenda - [2:31](https://youtu.be/wnaXlv9onAo?t=151) - Troy Egan
 
 > Reference
 
@@ -56,7 +56,7 @@ Discord context \(Business Planning Channel\):
 
 ### Discussion Points - [12.34](https://youtu.be/wnaXlv9onAo?t=754) - Troy Egan
 
-## Constitution Discussion
+# Constitution Discussion
 
 ### Overview - [12.41](https://youtu.be/wnaXlv9onAo?t=761) - Troy Egan
 
@@ -90,25 +90,25 @@ Reference :
 
 > Recommend reformation and redesign of NFT-DAO Discord Server and hiring experienced Admin
 
-## Business Plan Draft - Presentation - [18.09](https://youtu.be/wnaXlv9onAo?t=1089)
+# Business Plan Draft - Presentation - [18.09](https://youtu.be/wnaXlv9onAo?t=1089)
 
 > NFT-DAO - A collaborative NFT Economy
 >
 > Version 3 Business Plan/Canon
 
-### Update - scope of funding  - [29.54](https://youtu.be/wnaXlv9onAo?t=1794) - Rich Kopcho
+## Update - scope of funding  - [29.54](https://youtu.be/wnaXlv9onAo?t=1794) - Rich Kopcho
 
 > Insufficient funds at present to build what we need to build (Fund 3)
 
-### Budget Discussion  - [31.59](https://youtu.be/wnaXlv9onAo?t=1919) - Troy Egan
+## Budget Discussion  - [31.59](https://youtu.be/wnaXlv9onAo?t=1919) - Troy Egan
 > unfunded costs rolled forward to subsequent Catalyst Fund stages
 > 
-> Roadmap overview  - [32.52](https://youtu.be/wnaXlv9onAo?t=1971) - Troy Egan
+## Roadmap overview  - [32.52](https://youtu.be/wnaXlv9onAo?t=1971) - Troy Egan
 > 
-> Our Story - [34.16](https://youtu.be/wnaXlv9onAo?t=2056) - Troy Egan
+## Our Story - [34.16](https://youtu.be/wnaXlv9onAo?t=2056) - Troy Egan
 >
 > Background on how DAO formed out of Catalyst Fund application
 
-> Community make-up - [35.51](https://youtu.be/wnaXlv9onAo?t=2151) - Troy Egan
+## Community make-up - [35.51](https://youtu.be/wnaXlv9onAo?t=2151) - Troy Egan
 
 
