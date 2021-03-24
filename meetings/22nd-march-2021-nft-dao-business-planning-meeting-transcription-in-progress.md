@@ -170,7 +170,8 @@ Discord context \(Business Planning Channel\):
 > 
 
 > **Nurture phase of Cataylist** - [52.58](https://youtu.be/wnaXlv9onAo?t=3178) - Rich Kopcho
+> Order to Chaos
 
-
+> **ccc** - [11.11](https://youtu.be/wnaXlv9onAo?t=3178) - cc
 
 
