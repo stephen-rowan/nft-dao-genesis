@@ -166,6 +166,10 @@ Discord context \(Business Planning Channel\):
 > 
 > Tiered Engagement Program - contribution incentives
 > 
+> Equity weightings
+> 
+
+
 
 
 
