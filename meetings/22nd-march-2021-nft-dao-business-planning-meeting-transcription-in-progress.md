@@ -144,7 +144,10 @@ Reference :
 >
 > Standard HOLON induction process required to avoid silo effect
 >
-> Mihaela Ulieru - [43.04](https://youtu.be/wnaXlv9onAo?t=2584) - Rich Kopcho
+> Note : Mihaela Ulieru - [43.04](https://youtu.be/wnaXlv9onAo?t=2584) - Rich Kopcho
+
+> Mihaela Ulieru one of the authors of 'The Holonic Enterprise as a Collaborative Information Ecosystem - 2001'
+ currently works for IOHK
 >
 > Reference
 
