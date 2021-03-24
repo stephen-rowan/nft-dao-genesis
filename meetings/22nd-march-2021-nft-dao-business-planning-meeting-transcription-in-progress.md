@@ -121,5 +121,11 @@ Reference :
 > Distinction between Business Model (revenue etc.) and Organisational Model (how DAO works)
 > 
 > DAO theory - Vitalik Buterin - [38.53](https://youtu.be/wnaXlv9onAo?t=2333) - Troy Egan
+> 
+> Reference :
+https://ethereum.org/en/whitepaper/
+
+
+
 
 
