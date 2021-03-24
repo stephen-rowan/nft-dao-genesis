@@ -136,11 +136,8 @@ Reference :
 
 {% embed url="http://theimpactinstitute.org/Projects/FIPA/Holonic-Enterprise-Final.pdf" %}
 
-
-
 > The Ghost in the Machine - Arthur Koestler
 
 {% embed url="https://en.wikipedia.org/wiki/The\_Ghost\_in\_the\_Machine" %}
 
-
-
+> HOLONs as an organisational structure
