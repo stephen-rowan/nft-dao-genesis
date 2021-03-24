@@ -212,5 +212,6 @@ Discord context \(Business Planning Channel\):
 > 
 > NFT transaction experiment - [1.11.04](https://youtu.be/wnaXlv9onAo?t=4264) - Rich Kopcho
 > 
+> Discussion - [1.11.42](https://youtu.be/wnaXlv9onAo?t=4302) - Wilhelm Horrix
 
 
