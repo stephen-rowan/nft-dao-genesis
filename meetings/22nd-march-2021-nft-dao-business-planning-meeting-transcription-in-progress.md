@@ -156,7 +156,8 @@ Discord context \(Business Planning Channel\):
 > **Query** - [45.54](https://youtu.be/wnaXlv9onAo?t=2754) - Sev
 > 
 >Is the Holonic structure part of the DAO ?
->
+> 
+> **Response** : The DAO is the HOLON - Rich Kopcho
 >
 
 
