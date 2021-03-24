@@ -24,7 +24,7 @@ Discord context
 
 ## Agenda - [2:31](https://youtu.be/wnaXlv9onAo?t=151) - Troy Egan
 
-> Reference
+> **Reference**
 
 {% embed url="https://cdn.discordapp.com/attachments/815810627497885696/823508774291374140/NFT-DAO\_Business\_Planning\_Agenda\_22-3-21.pdf" caption="" %}
 
@@ -32,7 +32,7 @@ Discord context \(Business Planning Channel\):
 
 {% embed url="https://discordapp.com/channels/804069702572965888/815810627497885696/823508774068158515" caption="" %}
 
-> Summary
+> **Summary**
 
 ## Governance HOLON update - [4.17](https://youtu.be/wnaXlv9onAo?t=257) - Troy Egan
 
@@ -42,7 +42,7 @@ Discord context \(Business Planning Channel\):
 
 > Reference Governance Holon –Update\(17-3-21\)
 >
-> Common Themes
+> **Common Themes**
 
 {% embed url="https://cdn.discordapp.com/attachments/815810627497885696/821886601767944222/Governance\_Holon\_Update\_17-3-21.pdf" caption="" %}
 
@@ -64,7 +64,7 @@ Discord context \(Business Planning Channel\):
 
 ### Viewpoint  - [13.55](https://youtu.be/wnaXlv9onAo?t=835) - Tyler Wales
 
-> Interim solution - Bill of Rights - General Principles of the DAO
+> **Interim solution** - Bill of Rights - General Principles of the DAO
 >
 > Like a manifesto ? - Hud
 
@@ -76,7 +76,7 @@ Discord context \(Business Planning Channel\):
 
 > Discord Channel - Genesis Block Start Here - is a manifesto
 
-Reference :
+> **Reference** :
 
 {% embed url="https://discordapp.com/channels/804069702572965888/812010450312364063" caption="" %}
 
@@ -122,7 +122,7 @@ Reference :
 >
 > DAO theory - Vitalik Buterin - [38.53](https://youtu.be/wnaXlv9onAo?t=2333) - Troy Egan
 >
-> Reference :
+> **Reference** :
 
 {% embed url="https://ethereum.org/en/whitepaper/" caption="" %}
 
@@ -130,7 +130,7 @@ Reference :
 
 ### Holonic Models - [39.52](https://youtu.be/wnaXlv9onAo?t=2392) - Troy Egan
 
-> References
+> **References**
 >
 > The Holonic Enterprise as a Collaborative Information Ecosystem - 2001
 
@@ -144,12 +144,12 @@ Reference :
 >
 > Standard HOLON induction process required to avoid silo effect
 >
-> Note : Mihaela Ulieru - [43.04](https://youtu.be/wnaXlv9onAo?t=2584) - Rich Kopcho
+> **Note** : Mihaela Ulieru - [43.04](https://youtu.be/wnaXlv9onAo?t=2584) - Rich Kopcho
 
 > Mihaela Ulieru one of the authors of 'The Holonic Enterprise as a Collaborative Information Ecosystem - 2001'
  currently works for IOHK
 >
-> Reference
+> **Reference**
 
 {% embed url="https://iohk.io/en/team/mihaela-ulieru" %}
 
