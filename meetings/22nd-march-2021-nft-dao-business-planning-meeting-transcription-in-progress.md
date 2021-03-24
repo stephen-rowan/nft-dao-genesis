@@ -178,4 +178,10 @@ Discord context \(Business Planning Channel\):
 > Minimum Viable Product (MVP) - Revenue share
 > 
 > Auction and Pre-Sale Revenue targets
+>
+> Consensus that more artists needed
+> 
+
+
+
 
