@@ -184,6 +184,7 @@ Discord context \(Business Planning Channel\):
 > Fees and Royalties
 > 
 
+### ccc - [1.01.58](https://youtu.be/wnaXlv9onAo?t=3718) - Tyler Wales
 
 
 
