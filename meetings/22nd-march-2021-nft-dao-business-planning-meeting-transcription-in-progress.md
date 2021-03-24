@@ -189,4 +189,4 @@ Discord context \(Business Planning Channel\):
 > 
 > How many investors want to particpate ?
 
-> Discussion - [1.03.02](https://youtu.be/wnaXlv9onAo?t=3782) - Sev
+> Market Research update - [1.03.02](https://youtu.be/wnaXlv9onAo?t=3782) - Sev
