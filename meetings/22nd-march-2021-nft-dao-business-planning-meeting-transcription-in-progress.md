@@ -232,3 +232,5 @@ Discord context \(Business Planning Channel\):
 > Discussion - [1.17.26](https://youtu.be/wnaXlv9onAo?t=4646) 
 > 
 > Call for Artists [1.18.43](https://youtu.be/wnaXlv9onAo?t=4723) - Dan Verowski
+> 
+> Discord channel: Name the Artplace Market [1.19.37](https://youtu.be/wnaXlv9onAo?t=4777) - Tyler Wales
