@@ -221,3 +221,5 @@ Discord context \(Business Planning Channel\):
 > Discussion - [1.15.01](https://youtu.be/wnaXlv9onAo?t=4501)
 > 
 > Transaction flow diagrams
+> 
+## Sales Revenue - [1.15.45](https://youtu.be/wnaXlv9onAo?t=4545) - Troy Egan
