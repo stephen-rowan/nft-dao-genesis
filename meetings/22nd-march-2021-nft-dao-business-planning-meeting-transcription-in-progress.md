@@ -75,7 +75,7 @@ Discord context \(Business Planning Channel\):
 ### Viewpoint  - [15.06](https://youtu.be/wnaXlv9onAo?t=906) - Rich Kopcho
 
 > Discord Channel - Genesis Block Start Here - is a manifesto
-
+>
 > **Reference** :
 
 {% embed url="https://discordapp.com/channels/804069702572965888/812010450312364063" caption="" %}
@@ -145,37 +145,32 @@ Discord context \(Business Planning Channel\):
 > Standard HOLON induction process required to avoid silo effect
 >
 > **Note** : Mihaela Ulieru / Explanation of HOLONs - [43.04](https://youtu.be/wnaXlv9onAo?t=2584) - Rich Kopcho
-
-> Mihaela Ulieru one of the authors of 'The Holonic Enterprise as a Collaborative Information Ecosystem - 2001'
- currently works for IOHK
+>
+> Mihaela Ulieru one of the authors of 'The Holonic Enterprise as a Collaborative Information Ecosystem - 2001' currently works for IOHK
 >
 > **Reference**
 
-{% embed url="https://iohk.io/en/team/mihaela-ulieru" %}
+{% embed url="https://iohk.io/en/team/mihaela-ulieru" caption="" %}
 
 > **Discussion** - [45.54](https://youtu.be/wnaXlv9onAo?t=2754) - Sev
-> 
->Is the Holonic structure part of the DAO ?
+>
+> Is the Holonic structure part of the DAO ?
 >
 > The DAO is the HOLON - Rich Kopcho
 >
 > Individuals may contribute and comment across all HOLONs within the DAO
 
-
 ### Incentive discussions in Discord community - [50.56](https://youtu.be/wnaXlv9onAo?t=3056) - Troy Egan
-> 
+
 > Tiered Engagement Program - contribution incentives
-> 
+>
 > Equity weightings
-> 
-
-> **Nurture phase of Cataylist** - [52.58](https://youtu.be/wnaXlv9onAo?t=3178) - Rich Kopcho
-> Order to Chaos - Chaordic organization
-
+>
+> **Nurture phase of Cataylist** - [52.58](https://youtu.be/wnaXlv9onAo?t=3178) - Rich Kopcho Order to Chaos - Chaordic organization
+>
 > Reference :
 
-https://en.wikipedia.org/wiki/Chaordic_organization
+{% embed url="https://en.wikipedia.org/wiki/Chaordic\_organization" %}
 
 > **ccc** - [11.11](https://youtu.be/wnaXlv9onAo?t=3178) - cc
-
 
