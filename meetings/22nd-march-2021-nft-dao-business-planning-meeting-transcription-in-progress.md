@@ -256,3 +256,5 @@ Discord context \(Business Planning Channel\):
 > Pre-Sales risks - [1.25.21](https://youtu.be/wnaXlv9onAo?t=5121) - Tyler Wales
 > 
 > Risk Mitigation, set-up a Stakepool for sustainable revenue
+> 
+> Pre-Sales risks - [1.26.47](https://youtu.be/wnaXlv9onAo?t=5207) - Troy Egan
