@@ -257,6 +257,6 @@ Discord context \(Business Planning Channel\):
 > 
 > Risk Mitigation, set-up a Stakepool for sustainable revenue
 > 
-> Achieving Revenue Targets - [1.26.47](https://youtu.be/wnaXlv9onAo?t=5207) - Troy Egan
+### Achieving Revenue Targets - [1.26.47](https://youtu.be/wnaXlv9onAo?t=5207) - Troy Egan
 > 
 > Experiment with pre-sale, Creating demand with time-limited auctions
