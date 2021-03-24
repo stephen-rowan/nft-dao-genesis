@@ -102,4 +102,5 @@ Reference :
 
 
 ### Budget Discussion  - [31.59](https://youtu.be/wnaXlv9onAo?t=1919) - Troy Egan
+> unfunded costs rolled forward to subsequent Catalyst Fund stages
 
