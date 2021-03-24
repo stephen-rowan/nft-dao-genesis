@@ -210,7 +210,7 @@ Discord context \(Business Planning Channel\):
 >
 > Purchase orders
 > 
-> NFT transaction experiment - [1.11.04](https://youtu.be/wnaXlv9onAo?t=4264) - Rich Kopcho
+> **Action** - NFT transaction experiment - [1.11.04](https://youtu.be/wnaXlv9onAo?t=4264) - Rich Kopcho
 > 
 > Liability concerns - [1.11.42](https://youtu.be/wnaXlv9onAo?t=4302) - Wilhelm Horrix
 > 
