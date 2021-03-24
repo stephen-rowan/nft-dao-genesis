@@ -10,6 +10,18 @@ Here is a list of timestamps for this meeting \(the links are external\). Please
 
 Note : Timestamps are external links.
 
+## Minutes
+
+The minutes for this meeting ...
+
+{% embed url="https://cdn.discordapp.com/attachments/815810627497885696/824089205176795206/NFT-DAO\_Business\_Planning\_MINUTES\_22-3-21.pdf" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/815810627497885696/824089205436317700" %}
+
+
+
 ## Introductions - [0.44](https://youtu.be/wnaXlv9onAo?t=44)
 
 ## Agenda - [2:31](https://youtu.be/wnaXlv9onAo?t=151) - Troy Egan
