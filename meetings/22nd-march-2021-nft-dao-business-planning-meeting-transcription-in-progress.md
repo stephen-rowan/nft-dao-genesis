@@ -197,5 +197,7 @@ Discord context \(Business Planning Channel\):
 
 > Poor distributed content integration. IPFS (Interplantery File System) 
 
-> Content stored on-chain or off-chain
+> Poor curation of NFT assets - lack of standards
+
+> Content stored on-chain or off-chain ?
 
