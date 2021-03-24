@@ -159,7 +159,7 @@ Discord context \(Business Planning Channel\):
 >
 > The DAO is the HOLON - Rich Kopcho
 >
->
+> Individuals may contribute and comment across all HOLONs within the DAO
 
 
 
