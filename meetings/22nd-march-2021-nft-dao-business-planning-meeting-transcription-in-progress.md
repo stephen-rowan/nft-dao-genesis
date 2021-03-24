@@ -190,3 +190,6 @@ Discord context \(Business Planning Channel\):
 > How many investors want to particpate ?
 
 > Market Research update - [1.03.02](https://youtu.be/wnaXlv9onAo?t=3782) - Sev
+> 
+> What would be minimum market research required to start MVP ? - [1.04.15](https://youtu.be/wnaXlv9onAo?t=3855) - Troy Egan
+
