@@ -174,7 +174,7 @@ Discord context \(Business Planning Channel\):
 
 {% embed url="https://en.wikipedia.org/wiki/Chaordic\_organization" caption="" %}
 
-### Sales and Revenue - [57.36](https://youtu.be/wnaXlv9onAo?t=3456) - Troy Egan
+## Sales and Revenue - [57.36](https://youtu.be/wnaXlv9onAo?t=3456) - Troy Egan
 
 > Minimum Viable Product \(MVP\) - Revenue share
 >
