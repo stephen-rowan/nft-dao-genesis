@@ -255,5 +255,5 @@ Discord context \(Business Planning Channel\):
 ### Achieving Revenue Targets - [1.26.47](https://youtu.be/wnaXlv9onAo?t=5207) - Troy Egan
 * Experiment with pre-sale, Creating demand with time-limited auctions
 
-> Discussion - [1.28.29](https://youtu.be/wnaXlv9onAo?t=5309) 
+> Discussion - [1.28.29](https://youtu.be/wnaXlv9onAo?t=5309) - Troy Egan, Dan Verowski
 
