@@ -174,5 +174,6 @@ Discord context \(Business Planning Channel\):
 
 {% embed url="https://en.wikipedia.org/wiki/Chaordic\_organization" %}
 
-> **ccc** - [11.11](https://youtu.be/wnaXlv9onAo?t=3178) - cc
+## Sales and Revenue - [57.36](https://youtu.be/wnaXlv9onAo?t=3456) - Troy Egan
+
 
