@@ -200,4 +200,8 @@ Discord context \(Business Planning Channel\):
 > Poor curation of NFT assets - lack of standards
 
 > Content stored on-chain or off-chain ?
+> 
+
+> ccc - [1.06.58](https://youtu.be/wnaXlv9onAo?t=4018) - ccc
+
 
