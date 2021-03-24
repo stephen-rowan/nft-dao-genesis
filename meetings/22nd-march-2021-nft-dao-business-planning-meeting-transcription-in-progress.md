@@ -234,3 +234,6 @@ Discord context \(Business Planning Channel\):
 > Call for Artists [1.18.43](https://youtu.be/wnaXlv9onAo?t=4723) - Dan Verowski
 > 
 > Discord channel: Name the Artplace Market [1.19.37](https://youtu.be/wnaXlv9onAo?t=4777) - Tyler Wales
+> 
+> Define presales ? - [1.20.23](https://youtu.be/wnaXlv9onAo?t=4823) - Wilhelm Horrix
+>  Answer - We are selling NFTs before we can mint them - Troy Egan
