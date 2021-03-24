@@ -202,7 +202,7 @@ Discord context \(Business Planning Channel\):
 >
 > Content stored on-chain or off-chain ?
 
-### How to transact NFTs - [1.06.58](https://youtu.be/wnaXlv9onAo?t=4018) - Wilhelm
+### How to transact NFTs - [1.06.58](https://youtu.be/wnaXlv9onAo?t=4018) - Wilhelm Horrix
 
 > Legally enforceable contracts
 >
