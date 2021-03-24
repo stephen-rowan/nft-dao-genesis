@@ -235,10 +235,12 @@ Discord context \(Business Planning Channel\):
 > 
 > Discord channel: Name the Artplace Market [1.19.37](https://youtu.be/wnaXlv9onAo?t=4777) - Tyler Wales
 > 
-> Define presales ? - [1.20.23](https://youtu.be/wnaXlv9onAo?t=4823) - Wilhelm Horrix
+### Define presales ? - [1.20.23](https://youtu.be/wnaXlv9onAo?t=4823) - Wilhelm Horrix
 >
 >  Answer - We are selling NFTs before we can mint them - Troy Egan
 
 > Discussion on NFT Pre-Sales - [1.21.14](https://youtu.be/wnaXlv9onAo?t=4874) - Troy Egan, Dan Verowski
 > 
 > Pre-Sales risky - Dan Verowski
+> 
+> Artist view on pre-sales - [1.22.26](https://youtu.be/wnaXlv9onAo?t=4946) - Troy Egan, Andy
