@@ -210,7 +210,7 @@ Discord context \(Business Planning Channel\):
 >
 > Purchase orders
 > 
-### cc - [1.11.04](https://youtu.be/wnaXlv9onAo?t=4264) - ccc
+> NFT transaction experiment - [1.11.04](https://youtu.be/wnaXlv9onAo?t=4264) - Rich Kopcho
 > 
 
 
