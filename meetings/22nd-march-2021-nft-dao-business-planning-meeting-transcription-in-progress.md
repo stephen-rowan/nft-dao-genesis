@@ -225,3 +225,5 @@ Discord context \(Business Planning Channel\):
 ### Revenue Targets- [1.15.45](https://youtu.be/wnaXlv9onAo?t=4545) - Troy Egan
 
 > Revenue Targets- [1.16.19](https://youtu.be/wnaXlv9onAo?t=4579) - Dan Verowski
+> 
+> Revenue Targets- [1.16.42](https://youtu.be/wnaXlv9onAo?t=4602) - Rich Kopcho
