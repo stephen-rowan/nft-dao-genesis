@@ -163,5 +163,9 @@ Discord context \(Business Planning Channel\):
 
 
 > **Notes from Discord community** - [50.56](https://youtu.be/wnaXlv9onAo?t=3056) - Troy Egan
+> 
+> Tiered Engagement Program = contribution incentives
+> 
+
 
 
