@@ -109,6 +109,6 @@ Reference :
 >
 > Background on how DAO formed out of Catalyst Fund application
 
-
+> Community make-up - [35.51]https://youtu.be/wnaXlv9onAo?t=2151) - Troy Egan
 
 
