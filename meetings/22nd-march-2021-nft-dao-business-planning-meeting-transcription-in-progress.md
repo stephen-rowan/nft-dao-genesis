@@ -102,15 +102,11 @@ Reference :
 
 ### Budget Discussion  - [31.59](https://youtu.be/wnaXlv9onAo?t=1919) - Troy Egan
 > unfunded costs rolled forward to subsequent Catalyst Fund stages
-
-### Budget Discussion  - [31.59](https://youtu.be/wnaXlv9onAo?t=1919) - Troy Egan
-> unfunded costs rolled forward to subsequent Catalyst Fund stages
 > 
 > Roadmap overview  - [32.52](https://youtu.be/wnaXlv9onAo?t=1971) - Troy Egan
 > 
-
 > Our Story - [34.16](https://youtu.be/wnaXlv9onAo?t=2056) - Troy Egan
-
+>
 > Background on how DAO formed out of Catalyst Fund application
 
 
