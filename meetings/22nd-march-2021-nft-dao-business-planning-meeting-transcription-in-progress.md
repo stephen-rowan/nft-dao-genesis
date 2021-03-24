@@ -120,6 +120,6 @@ Reference :
 > 
 > Distinction between Business Model (revenue etc.) and Organisational Model (how DAO works)
 > 
-> DAO research - Vitalik Buterin - [39.02](https://youtu.be/wnaXlv9onAo?t=2333) - Troy Egan
+> DAO research - Vitalik Buterin - [38.53](https://youtu.be/wnaXlv9onAo?t=2333) - Troy Egan
 
 
