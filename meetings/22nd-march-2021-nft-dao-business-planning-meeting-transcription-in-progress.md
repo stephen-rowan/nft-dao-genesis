@@ -4,8 +4,6 @@ description: This page is being edited and is incomplete
 
 # 22nd March, 2021, NFT-DAO Business Planning Meeting
 
-## 22nd March, 2021, NFT-DAO Business Planning Meeting
-
 Here is a list of timestamps for this meeting \(the links are external\). Please amend if I have misheard or misinterpreted some content.
 
 {% embed url="https://www.youtube.com/watch?v=wnaXlv9onAo" caption="" %}
@@ -116,7 +114,7 @@ Reference :
 
 ### Our Structure- [37.59](https://youtu.be/wnaXlv9onAo?t=2279) - Troy Egan
 
-#### The DAO Business Model
+### The DAO Business Model
 
 &gt;
 
@@ -130,7 +128,7 @@ Reference :
 
 > Compromise between automated trustless systems and heterogenous trust based systems
 
-#### Holonic Models - [39.52](https://youtu.be/wnaXlv9onAo?t=2392) - Troy Egan
+### Holonic Models - [39.52](https://youtu.be/wnaXlv9onAo?t=2392) - Troy Egan
 
 > References
 >
