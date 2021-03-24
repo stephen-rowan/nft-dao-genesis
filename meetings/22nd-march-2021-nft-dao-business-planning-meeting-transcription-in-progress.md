@@ -141,3 +141,8 @@ Reference :
 {% embed url="https://en.wikipedia.org/wiki/The\_Ghost\_in\_the\_Machine" %}
 
 > HOLONs as an organisational structure
+> 
+> Standard HOLON induction process required to avoid silo effect
+> 
+
+> query - [43.04](https://youtu.be/wnaXlv9onAo?t=2584)  - Rich Kopcho
