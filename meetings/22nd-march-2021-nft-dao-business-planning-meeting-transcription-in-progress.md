@@ -115,5 +115,5 @@ Reference :
 ## Market Analysis- [37.34](https://youtu.be/wnaXlv9onAo?t=2254) - Troy Egan
 
 
-## Our Structure- [38.01](https://youtu.be/wnaXlv9onAo?t=2281) - Troy Egan
+## Our Structure- [37.59](https://youtu.be/wnaXlv9onAo?t=2279) - Troy Egan
 
