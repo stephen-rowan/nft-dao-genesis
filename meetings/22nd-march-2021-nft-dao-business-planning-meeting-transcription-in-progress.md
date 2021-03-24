@@ -96,7 +96,7 @@ Reference :
 >
 > Version 3 Business Plan/Canon
 
-### Viewpoint  - [29.54](https://youtu.be/wnaXlv9onAo?t=1794) - Rich Kopcho
+### Update - scope of funding  - [29.54](https://youtu.be/wnaXlv9onAo?t=1794) - Rich Kopcho
 
 > Insufficient funds at present to build what we need to build (Fund 3)
 
