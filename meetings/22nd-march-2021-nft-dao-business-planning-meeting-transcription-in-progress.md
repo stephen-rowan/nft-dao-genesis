@@ -185,7 +185,9 @@ Discord context \(Business Planning Channel\):
 > 
 
 ### Market Research - [1.01.58](https://youtu.be/wnaXlv9onAo?t=3718) - Tyler Wales
-
+> How many artists want to particpate ?
+> 
+> How many investors want to particpate ?
 
 
 
