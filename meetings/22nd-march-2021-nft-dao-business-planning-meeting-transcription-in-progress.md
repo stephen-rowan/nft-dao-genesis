@@ -128,5 +128,5 @@ Reference :
 
 > Compromise between automated trustless systems and heterogenous trust based systems
 
-
+> Holonic Models - [39.52](https://youtu.be/wnaXlv9onAo?t=2392) - Troy Egan
 
