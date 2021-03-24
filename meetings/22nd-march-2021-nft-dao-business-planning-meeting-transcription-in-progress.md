@@ -169,7 +169,7 @@ Discord context \(Business Planning Channel\):
 > Equity weightings
 > 
 
-> **cc** - [52.58](https://youtu.be/wnaXlv9onAo?t=3178) - Rich Kopcho
+> **Nuture phase of Cataylist** - [52.58](https://youtu.be/wnaXlv9onAo?t=3178) - Rich Kopcho
 
 
 
