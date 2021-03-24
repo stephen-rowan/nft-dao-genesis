@@ -166,46 +166,47 @@ Discord context \(Business Planning Channel\):
 >
 > Equity weightings
 >
-> **Nurture phase of Cataylist** - [52.58](https://youtu.be/wnaXlv9onAo?t=3178) - Rich Kopcho 
-
+> **Nurture phase of Cataylist** - [52.58](https://youtu.be/wnaXlv9onAo?t=3178) - Rich Kopcho
+>
 > Order to Chaos - Chaordic organization
 >
 > Reference :
 
-{% embed url="https://en.wikipedia.org/wiki/Chaordic\_organization" %}
+{% embed url="https://en.wikipedia.org/wiki/Chaordic\_organization" caption="" %}
 
 ### Sales and Revenue - [57.36](https://youtu.be/wnaXlv9onAo?t=3456) - Troy Egan
-> Minimum Viable Product (MVP) - Revenue share
-> 
+
+> Minimum Viable Product \(MVP\) - Revenue share
+>
 > Auction and Pre-Sale Revenue targets
 >
 > Consensus that more artists needed
-> 
+>
 > Fees and Royalties
-> 
 
 ### Market Research - [1.01.58](https://youtu.be/wnaXlv9onAo?t=3718) - Tyler Wales
+
 > How many artists want to particpate ?
-> 
+>
 > How many investors want to particpate ?
-
+>
 > Market Research update - [1.03.02](https://youtu.be/wnaXlv9onAo?t=3782) - Sev
-> 
+>
 > What would be minimum market research required to start MVP ? - [1.04.15](https://youtu.be/wnaXlv9onAo?t=3855) - Troy Egan
-> 
-### Main NFT market painpoints - [1.05.16](https://youtu.be/wnaXlv9onAo?t=3916) - Dan Verowski
-
-> Poor distributed content integration. IPFS (Interplantery File System) 
-
+>
+> ### Main NFT market painpoints - [1.05.16](https://youtu.be/wnaXlv9onAo?t=3916) - Dan Verowski
+>
+> Poor distributed content integration. IPFS \(Interplantery File System\)
+>
 > Poor curation of NFT assets - lack of standards
-
+>
 > Content stored on-chain or off-chain ?
-> 
 
 ### How to transact NFTs - [1.06.58](https://youtu.be/wnaXlv9onAo?t=4018) - Wilhelm
+
 > Legally enforceable contracts
-> 
+>
 > Start with very simple contract
-> 
+>
 > Purchase orders
 

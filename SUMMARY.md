@@ -43,6 +43,7 @@
 
 * [nft-market-thinktank](nft-market-thinktank/nft-market-thinktank.md)
 * [Digital Art](nft-market-thinktank/digital-art.md)
+* [Credentials](nft-market-thinktank/credentials.md)
 
 ## Metadata
 
