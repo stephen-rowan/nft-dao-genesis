@@ -162,6 +162,6 @@ Discord context \(Business Planning Channel\):
 > Individuals may contribute and comment across all HOLONs within the DAO
 
 
-
+> **cc** - [50.16](https://youtu.be/wnaXlv9onAo?t=3016) - xx
 
 
