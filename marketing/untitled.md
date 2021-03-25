@@ -32,5 +32,15 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808968962850684928/818284548168744961" %}
 
+## How to buy NFTS
+
+@Troy
+
+{% embed url="https://www.youtube.com/watch?v=MXnLUpZBi4A" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808968962850684928/819089203803324486" %}
+
 
 
