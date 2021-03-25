@@ -256,4 +256,7 @@ Discord context \(Business Planning Channel\):
 * Experiment with pre-sale, Creating demand with time-limited auctions
 
 > Discussion - [1.28.29](https://youtu.be/wnaXlv9onAo?t=5309) - Troy Egan, Dan Verowski, Tyler Wales
+> 
+> Waiting list - [1.29.18](https://youtu.be/wnaXlv9onAo?t=5358) -  Troy Ega
+
 
