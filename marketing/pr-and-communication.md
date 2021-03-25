@@ -52,6 +52,14 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/820351059054166036" %}
 
+@tyler.wales
+
+![](https://cdn.discordapp.com/attachments/808969145395445770/820369228988284948/Screenshot_2021-03-13_at_10.53.13_AM.png)
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/820369229513097286" %}
+
 ## NFT-DAO Facebook Cover Photo
 
 @newmachine5
