@@ -20,5 +20,17 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/815820477045014528" %}
 
+## Van Gogh Banner
+
+@pixel\_turkey
+
+![](https://cdn.discordapp.com/attachments/808969145395445770/819167161078775833/shared-with-nftdao.png)
+
+![](https://cdn.discordapp.com/attachments/808969145395445770/819172613984878592/nftdao-without-cardano.png)
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/819167161444466708" %}
+
 
 
