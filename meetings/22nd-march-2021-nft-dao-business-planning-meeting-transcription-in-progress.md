@@ -264,10 +264,12 @@ Discord context \(Business Planning Channel\):
 > Update - [1.31.44](https://youtu.be/wnaXlv9onAo?t=5504) -  @newmindflow
 > 
 
-> Auction in a month ? - [1.34.15](https://youtu.be/wnaXlv9onAo?t=5655) - Troy Egan, Tyler Wales, @newmindflow, Dan Verowski, Wilhelm Horrix
+### Auction in a month ? - [1.34.15](https://youtu.be/wnaXlv9onAo?t=5655) - Troy Egan, Tyler Wales, @newmindflow, Dan Verowski, Wilhelm Horrix
 > 
 > Discussion - Preparation of landing page. Need for smart contracts to automate royality percentage distribution. Possible alternative being a 'physical' auction of tokens.
 > 
 > Presale option - [1.36.59](https://youtu.be/wnaXlv9onAo?t=5819) -  Rich Kopcho
 >
 > Auction buyer redeems NFT when Plutus contract functionality live.
+> 
+> Importance of a transparent process that inspires trust - [1.37.59](https://youtu.be/wnaXlv9onAo?t=5859) -  Wilhelm Horrix
