@@ -273,3 +273,7 @@ Discord context \(Business Planning Channel\):
 > Auction buyer redeems NFT when Plutus contract functionality live.
 > 
 > Importance of a transparent process that inspires trust - [1.37.59](https://youtu.be/wnaXlv9onAo?t=5859) -  Wilhelm Horrix
+> 
+> Timeframe of 1 Month - [1.38.58](https://youtu.be/wnaXlv9onAo?t=5938) - Troy Egan, Rich Kopcho, Tyler Wales
+> 
+> Technical impossibility of automated auction for minimum viable product (MVP) - [1.40.18](https://youtu.be/wnaXlv9onAo?t=6018) - Dan Verowski
