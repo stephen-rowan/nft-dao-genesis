@@ -70,5 +70,17 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/820358464408125500" %}
 
+## NFT-DAO Twitter Account
+
+@newmindflow
+
+{% embed url="https://twitter.com/nft\_dao" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/821104083800293407" %}
+
+
+
 
 
