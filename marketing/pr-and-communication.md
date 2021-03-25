@@ -10,7 +10,7 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/812139365123620865" %}
 
-NFT-DAO Landing Page
+## NFT-DAO Landing Page
 
 @Troy
 
