@@ -74,5 +74,11 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808968962850684928/822273546054533180" %}
 
+## Energy consumption on cardano network
+
+@Muntface
+
+{% embed url="https://co2pool.de/climate-neutral/" %}
+
 
 
