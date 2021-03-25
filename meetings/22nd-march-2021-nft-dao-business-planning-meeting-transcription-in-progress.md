@@ -205,75 +205,75 @@ Discord context \(Business Planning Channel\):
 * Legally enforceable contracts
 * Start with very simple contract
 * Purchase orders
- 
+
 > **Action** - NFT transaction experiment - [1.11.04](https://youtu.be/wnaXlv9onAo?t=4264) - Rich Kopcho
-> 
+>
 > Liability concerns - [1.11.42](https://youtu.be/wnaXlv9onAo?t=4302) - Wilhelm Horrix
-> 
+>
 > Discussion - [1.12.07](https://youtu.be/wnaXlv9onAo?t=4327)
-
+>
 > Request for flow diagram - [1.14.34](https://youtu.be/wnaXlv9onAo?t=4474) - Troy Egan
-
+>
 > Discussion - [1.15.01](https://youtu.be/wnaXlv9onAo?t=4501)
- 
+
 * Transaction flow diagrams
- 
+
 ### Revenue Targets- [1.15.45](https://youtu.be/wnaXlv9onAo?t=4545) - Troy Egan
 
 > Revenue Targets- [1.16.19](https://youtu.be/wnaXlv9onAo?t=4579) - Dan Verowski
- 
-> Revenue Targets- [1.16.42](https://youtu.be/wnaXlv9onAo?t=4602) - Rich Kopcho
-> $150,000 Development costs as Revenue Target 
-
-> Discussion - [1.17.26](https://youtu.be/wnaXlv9onAo?t=4646) 
- 
+>
+> Revenue Targets- [1.16.42](https://youtu.be/wnaXlv9onAo?t=4602) - Rich Kopcho $150,000 Development costs as Revenue Target
+>
+> Discussion - [1.17.26](https://youtu.be/wnaXlv9onAo?t=4646)
+>
 > Call for Artists [1.18.43](https://youtu.be/wnaXlv9onAo?t=4723) - Dan Verowski
- 
+>
 > Discord channel: Name the Artplace Market [1.19.37](https://youtu.be/wnaXlv9onAo?t=4777) - Tyler Wales
- 
+
 ### Define presales ? - [1.20.23](https://youtu.be/wnaXlv9onAo?t=4823) - Wilhelm Horrix
 
-*  Answer - We are selling NFTs before we can mint them - Troy Egan
+* Answer - We are selling NFTs before we can mint them - Troy Egan
 
 > Discussion on NFT Pre-Sales - [1.21.14](https://youtu.be/wnaXlv9onAo?t=4874) - Troy Egan, Dan Verowski
- 
+
 * Pre-Sales risky - Dan Verowski
- 
+
 > Artist view on pre-sales - [1.22.26](https://youtu.be/wnaXlv9onAo?t=4946) - Troy Egan, Andy
- 
+
 * If you build story around funds being use to fund the DAO - people would be willing to engage
- 
+
 > Update on Mary Artwork - [1.22.54](https://youtu.be/wnaXlv9onAo?t=4974) - Andy
- 
+
 * Broken into three tier offerings
 * Success of Cardano Kidz presales
 
 > Pre-Sales risks - [1.25.21](https://youtu.be/wnaXlv9onAo?t=5121) - Tyler Wales
- 
+
 * Risk Mitigation, set-up a Stakepool for sustainable revenue
- 
+
 ### Achieving Revenue Targets - [1.26.47](https://youtu.be/wnaXlv9onAo?t=5207) - Troy Egan
+
 * Experiment with pre-sale, Creating demand with time-limited auctions
 
 > Discussion - [1.28.29](https://youtu.be/wnaXlv9onAo?t=5309) - Troy Egan, Dan Verowski, Tyler Wales
-> 
-> Window - 5 minute sale - [1.29.18](https://youtu.be/wnaXlv9onAo?t=5358) -  Troy Egan
-> 
+>
+> Window - 5 minute sale - [1.29.18](https://youtu.be/wnaXlv9onAo?t=5358) - Troy Egan
+>
 > Discussion - amount of artwork in initial sale.
-
-> Update - [1.31.44](https://youtu.be/wnaXlv9onAo?t=5504) -  @newmindflow
-> 
+>
+> Update - [1.31.44](https://youtu.be/wnaXlv9onAo?t=5504) - @newmindflow
 
 ### Auction in a month ? - [1.34.15](https://youtu.be/wnaXlv9onAo?t=5655) - Troy Egan, Tyler Wales, @newmindflow, Dan Verowski, Wilhelm Horrix
-> 
+
 > Discussion - Preparation of landing page. Need for smart contracts to automate royality percentage distribution. Possible alternative being a 'physical' auction of tokens.
-> 
-> Presale option - [1.36.59](https://youtu.be/wnaXlv9onAo?t=5819) -  Rich Kopcho
+>
+> Presale option - [1.36.59](https://youtu.be/wnaXlv9onAo?t=5819) - Rich Kopcho
 >
 > Auction buyer redeems NFT when Plutus contract functionality live.
-> 
-> Importance of a transparent process that inspires trust - [1.37.59](https://youtu.be/wnaXlv9onAo?t=5859) -  Wilhelm Horrix
-> 
+>
+> Importance of a transparent process that inspires trust - [1.37.59](https://youtu.be/wnaXlv9onAo?t=5859) - Wilhelm Horrix
+>
 > Timeframe of 1 Month - [1.38.58](https://youtu.be/wnaXlv9onAo?t=5938) - Troy Egan, Rich Kopcho, Tyler Wales
-> 
-> Technical impossibility of automated auction for minimum viable product (MVP) - [1.40.18](https://youtu.be/wnaXlv9onAo?t=6018) - Dan Verowski
+>
+> Technical impossibility of automated auction for minimum viable product \(MVP\) - [1.40.18](https://youtu.be/wnaXlv9onAo?t=6018) - Dan Verowski
+
