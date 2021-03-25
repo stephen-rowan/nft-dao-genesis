@@ -80,5 +80,21 @@ Discord context
 
 {% embed url="https://co2pool.de/climate-neutral/" %}
 
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808968962850684928/824379972659183637" %}
+
+
+
+## Chief Nyamweya
+
+@Muntface
+
+{% embed url="https://medium.com/cardanorss/the-cardano-foundation-donates-to-african-graphic-novel-trust-a8c50d51427b" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808968962850684928/824394303928664145" %}
+
 
 
