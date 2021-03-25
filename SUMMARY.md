@@ -45,6 +45,10 @@
 * [Digital Art](nft-market-thinktank/digital-art.md)
 * [Credentials](nft-market-thinktank/credentials.md)
 
+## Marketing
+
+* [Untitled](marketing/untitled.md)
+
 ## Metadata
 
 * [Metadata](metadata/metadata.md)
@@ -55,8 +59,4 @@
 ## Support
 
 * [GitBook migration](support/gitbook-migration.md)
-
-## Marketing
-
-* [Untitled](marketing/untitled.md)
 
