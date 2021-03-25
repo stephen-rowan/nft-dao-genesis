@@ -42,5 +42,15 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/820177521986895902" %}
 
+## NFT-DAO Twitter Banner
+
+@newmachine5
+
+![](https://cdn.discordapp.com/attachments/808969145395445770/820351058911166464/NFT-Dao_Twitter_BannerS.jpg)
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/820351059054166036" %}
+
 
 
