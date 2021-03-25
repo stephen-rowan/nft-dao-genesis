@@ -80,7 +80,21 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/821104083800293407" %}
 
+## New YouTube banner
 
+@newmindflow
+
+![](https://cdn.discordapp.com/attachments/808969145395445770/822251689024290856/NFT-DAO_YouTube_Channel_Art-Resized1.jpg)
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/822251689213820939" %}
+
+## New Twitter banner
+
+@newmindflow
+
+![](https://cdn.discordapp.com/attachments/808969145395445770/822251813004640266/NFT-Dao_Twitter_Banner_-_Remade.jpg)
 
 
 
