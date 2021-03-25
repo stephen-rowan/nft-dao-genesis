@@ -42,7 +42,7 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808968962850684928/819089203803324486" %}
 
-### Beeple Sale
+## Beeple Sale
 
 @Troy
 
@@ -51,6 +51,28 @@ Discord context
 Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808968962850684928/819747375140700161" %}
+
+## What are the NFTs
+
+@Troy
+
+{% embed url="https://www.youtube.com/watch?v=zpROwouRo\_M" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808968962850684928/819752931297329152" %}
+
+## Weta Workshop Artists
+
+@Muntface
+
+{% embed url="https://www.artstation.com/christianpearce" %}
+
+{% embed url="https://www.onflow.org/post/creator-spotlight-series-ben-mauro" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808968962850684928/822273546054533180" %}
 
 
 
