@@ -269,3 +269,5 @@ Discord context \(Business Planning Channel\):
 > Discussion - Preparation of landing page. Need for smart contracts to automate royality percentage distribution. Possible alternative being a 'physical' auction of tokens.
 > 
 > Presale option - [1.36.59](https://youtu.be/wnaXlv9onAo?t=5819) -  Rich Kopcho
+>
+> Auction buyer redeems NFT when Plutus contract functionality live.
