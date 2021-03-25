@@ -42,5 +42,15 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808968962850684928/819089203803324486" %}
 
+### Beeple Sale
+
+@Troy
+
+{% embed url="https://www.youtube.com/watch?v=7lttS\_8Q4zg" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808968962850684928/819747375140700161" %}
+
 
 
