@@ -262,3 +262,7 @@ Discord context \(Business Planning Channel\):
 > Discussion - amount of artwork in initial sale.
 
 > Update - [1.31.44](https://youtu.be/wnaXlv9onAo?t=5504) -  @newmindflow
+> 
+
+> Auction in a month ? - [1.34.15](https://youtu.be/wnaXlv9onAo?t=5655) - Troy Egan, Tyler Wales, @newmindflow, Dan Verowski
+> Discussion, preparation of landing page, need for smart contracts
