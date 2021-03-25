@@ -265,4 +265,5 @@ Discord context \(Business Planning Channel\):
 > 
 
 > Auction in a month ? - [1.34.15](https://youtu.be/wnaXlv9onAo?t=5655) - Troy Egan, Tyler Wales, @newmindflow, Dan Verowski, Wilhelm Horrix
-> Discussion, preparation of landing page, need for smart contracts to automate royality percentage distribution, alternative 'physical' auction of tokens.
+> 
+> Discussion - Preparation of landing page. Need for smart contracts to automate royality percentage distribution. Possible alternative being a 'physical' auction of tokens.
