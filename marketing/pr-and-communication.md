@@ -32,5 +32,15 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/819167161444466708" %}
 
+## NFT-DAO Social Channels Banner
+
+@newmachine5
+
+![](https://cdn.discordapp.com/attachments/808969145395445770/820177521844813864/NFT-DAO_YouTube_Channel_Art.jpg)
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/820177521986895902" %}
+
 
 
