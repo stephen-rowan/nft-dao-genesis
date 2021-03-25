@@ -257,6 +257,6 @@ Discord context \(Business Planning Channel\):
 
 > Discussion - [1.28.29](https://youtu.be/wnaXlv9onAo?t=5309) - Troy Egan, Dan Verowski, Tyler Wales
 > 
-> Waiting list - [1.29.18](https://youtu.be/wnaXlv9onAo?t=5358) -  Troy Egan
+> Window - 5 minute sale - [1.29.18](https://youtu.be/wnaXlv9onAo?t=5358) -  Troy Egan
 
 
