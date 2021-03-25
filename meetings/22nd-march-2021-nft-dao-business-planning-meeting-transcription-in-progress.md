@@ -259,6 +259,5 @@ Discord context \(Business Planning Channel\):
 > 
 > Window - 5 minute sale - [1.29.18](https://youtu.be/wnaXlv9onAo?t=5358) -  Troy Egan
 > 
-> Amount of Artwork initial sale ?
-
+> Discussion - amount of artwork in initial sale.
 
