@@ -136,5 +136,15 @@ Discord context
 
 
 
+## Cardano Ecosystem
+
+@Sev
+
+![](https://cdn.discordapp.com/attachments/808969345551564800/823940306751586345/SmartSelectImage_2021-03-23-16-21-40.png)
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969345551564800/823940306973491227" %}
+
 
 
