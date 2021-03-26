@@ -46,5 +46,7 @@ Note: timestamps are external links
 >
 > Released first interview
 >
-> Pivoted to doing actual interview with HOLONS who want to particpate
+> Pivoted to doing actual interview with HOLONS who want to participate
+> 
+> One interview per week
 
