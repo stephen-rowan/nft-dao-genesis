@@ -80,31 +80,31 @@ Discord context
 
 {% embed url="https://dailyhodl.com/2021/02/16/six-crypto-assets-could-surge-100x-in-the-red-hot-nft-space-according-to-trader-lark-davis/" %}
 
-##  Seascape \(CWS token\)
+###  Seascape \(CWS token\)
 
 Launched on DAOMaker - The Ultimate Game Platform Designed Around the DeFi & NFT Economy
 
 {% embed url="https://www.seascape.network/" %}
 
-##  My Neighbour Alice \(game\)
+###  My Neighbour Alice \(game\)
 
  Launched on DAOMakerMy Neighbor Alice is a multiplayer builder game, where anyone can buy and own virtual islands, collect and build exciting items and meet new friends. Aim: to bring blockchain to the masses.
 
 {% embed url="https://www.myneighboralice.com" %}
 
-##  Terra Virtua \(Kolect token\)
+###  Terra Virtua \(Kolect token\)
 
 Working with Digital Collectibles for large franchises: Paramount & Legendary
 
 {% embed url="https://terravirtua.io" %}
 
-##  Ethernity \(ERN token\)
+###  Ethernity \(ERN token\)
 
  Minting digital collectibles and trading cards and for all kinds of use cases
 
 {% embed url="https://ethernity.io" %}
 
-##  Persistence
+###  Persistence
 
 Enterprise NFT solutions \(COSMOS Ecosystem\)  - The power of NFT's for industry use cases ie, Shipping invoices,
 
