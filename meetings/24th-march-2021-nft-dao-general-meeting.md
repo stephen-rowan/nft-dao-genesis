@@ -15,5 +15,10 @@ Note: timestamps are external links
 > Tyler Wales, Rich Kopcho, Sev, Dan Verowski
 > 
 # The quest to get to market - [0.43](https://youtu.be/CHze97JVM8A?t=43) - Rich Kopcho
+> Opportunity to work with PSG Team at IOG
+> 
+> Next few days to work through who can do what pieces of this framework
+> 
+
 
 
