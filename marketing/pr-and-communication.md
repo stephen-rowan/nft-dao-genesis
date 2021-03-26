@@ -130,5 +130,15 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/824203620823203870" %}
 
+## Energy consumption Statistics
+
+@Troy
+
+{% embed url="https://cdn.discordapp.com/attachments/808969145395445770/824409865496559647/Blockchain\_Energy\_Consumptions\_stats\_25-3-21.pdf" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/824408285263822858" %}
+
 
 
