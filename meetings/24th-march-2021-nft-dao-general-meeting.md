@@ -19,6 +19,7 @@ Note: timestamps are external links
 > 
 > Next few days to work through who can do what pieces of this framework
 > 
+> NFT-DAO will progress on assumption of a live auction in 6 weeks time
 
 
 
