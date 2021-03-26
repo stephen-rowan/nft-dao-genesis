@@ -52,6 +52,6 @@ Note: timestamps are external links
 > 
 > Kaizen Crypto to be involved - [6.17](https://youtu.be/CHze97JVM8A?t=377) - Rich Kopcho
 > 
-> ccc - [6.53](https://youtu.be/CHze97JVM8A?t=377) - Tyler Wales
+> ccc - [6.53](https://youtu.be/CHze97JVM8A?t=413) - Tyler Wales
 
 
