@@ -54,6 +54,16 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808969345551564800/811069238022111232" %}
 
+## Portion
+
+@Baronvonbuttsex
+
+{% embed url="https://portion.io/" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969345551564800/811075343636103210" %}
+
 
 
 
