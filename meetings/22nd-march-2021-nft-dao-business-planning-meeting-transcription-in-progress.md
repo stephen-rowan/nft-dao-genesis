@@ -285,4 +285,4 @@ Discord context \(Business Planning Channel\):
 > 
 > Discussion  - [1.41.59](https://youtu.be/wnaXlv9onAo?t=6119) - Troy Egan, Rich Kopcho
 > 
-> Need to scope options to 1 month deadline
+> **We need to scope options to 1 month deadline**
