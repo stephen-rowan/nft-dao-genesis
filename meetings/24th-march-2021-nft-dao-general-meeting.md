@@ -58,5 +58,5 @@ Note: timestamps are external links
 |Discord|200 users (from 140 last week)|
 |Twitter|63 Followers|
 |Email lists|221 Subscribers|
-
+|YouTube|18 Subscribers|
 
