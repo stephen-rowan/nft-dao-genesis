@@ -120,5 +120,15 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/823939796434026566" %}
 
+## Cardano a a climate-neutral blockchain
+
+@jeffz
+
+{% embed url="https://co2pool.de/climate-neutral/" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/824203620823203870" %}
+
 
 
