@@ -287,7 +287,4 @@ Discord context \(Business Planning Channel\):
 > 
 > **We need to scope options to 1 month deadline**
 > 
-
-
-
-### ccc - [1.34.15](https://youtu.be/wnaXlv9onAo?t=5655) - ccc
+### Importance of a deadline - [1.42.08](https://youtu.be/wnaXlv9onAo?t=6128) - Rich Kopcho
