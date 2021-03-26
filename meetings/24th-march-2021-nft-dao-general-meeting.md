@@ -64,6 +64,8 @@ Note: timestamps are external links
 > Comprehensive strategy needs to be worked out, scheduling Tweets etc.
 > 
 > Seek expertise in Discord ? - [9.13](https://youtu.be/CHze97JVM8A?t=553) - Dan Verowski
+> 
+> Social Media expert at RedHat might be interested in joining DAO - [9.50](https://youtu.be/CHze97JVM8A?t=590) - ??
 
 
 
