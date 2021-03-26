@@ -280,37 +280,40 @@ Discord context \(Business Planning Channel\):
 > Blockchain based, automated, trustless auction currently not possible - but a shopify-like trust-based presentation of an auction posssible.
 >
 > Benefits / Risks of doing an auction
-> 
+>
 > Pre-sale strategy makes more sense ? - [1.41.44](https://youtu.be/wnaXlv9onAo?t=6104) - Dan Verowski
-> 
-> Discussion  - [1.41.59](https://youtu.be/wnaXlv9onAo?t=6119) - Troy Egan, Rich Kopcho
-> 
+>
+> Discussion - [1.41.59](https://youtu.be/wnaXlv9onAo?t=6119) - Troy Egan, Rich Kopcho
+>
 > **We need to scope options to 1 month deadline**
-> 
-### Importance of a deadline - [1.42.08](https://youtu.be/wnaXlv9onAo?t=6128) - Rich Kopcho
-> We need someone to own the auction process  - [1.44.05](https://youtu.be/wnaXlv9onAo?t=6245)
-
+>
+> ### Importance of a deadline - [1.42.08](https://youtu.be/wnaXlv9onAo?t=6128) - Rich Kopcho
+>
+> We need someone to own the auction process - [1.44.05](https://youtu.be/wnaXlv9onAo?t=6245)
+>
 > Discussion - [1.44.21](https://youtu.be/wnaXlv9onAo?t=6261) - Wilhelm Horrix / Tyler Wales
-> 
+>
 > Landing page - Tyler Wales
-> 
-> NFT-DAO Token -  Wilhelm Horrix
-> 
+>
+> NFT-DAO Token - Wilhelm Horrix
+>
 > Discussion - [1.49.52](https://youtu.be/wnaXlv9onAo?t=6582) - Tyler Wales, @newmindflow, Andy
-> 
+>
 > Artist percentages in smart contracts, number of artworks
-> 
-### Plutus Development - [1.51.16](https://youtu.be/wnaXlv9onAo?t=6676) - Rich Kopcho / Hud
+>
+> ### Plutus Development - [1.51.16](https://youtu.be/wnaXlv9onAo?t=6676) - Rich Kopcho / Hud
 
 ### Need for a co-ordinator - [1.52.00](https://youtu.be/wnaXlv9onAo?t=6720) - Troy Egan
+
 > To keep track of timeframes
 >
 > Set-up samepage infrastructure - [1.52.25](https://youtu.be/wnaXlv9onAo?t=6742) - Tyler Wales
-> 
+>
 > Funding / Timeframe goals - [1.53.51](https://youtu.be/wnaXlv9onAo?t=6831) - Dan Verowski
-> 
+>
 > Summary - [1.54.59](https://youtu.be/wnaXlv9onAo?t=6869) - Troy Egan
-> 
+>
 > Level of participation - [1.55.29](https://youtu.be/wnaXlv9onAo?t=6913) - @newmindflow
-> 
+>
 > We don't need a lot of people bidding - we need the rignt people - [1.55.48](https://youtu.be/wnaXlv9onAo?t=6948) - Rich Kopcho
+
