@@ -61,7 +61,8 @@ Note: timestamps are external links
 > 
 |Header1 |Header2  |
 --- | --- |
-|data1|data2|
-|data11|data12|
+|Discord|200 users (from 140 last week)|
+|Twitter|63 Followers|
+|email lists|221 Subscribers|
 
 
