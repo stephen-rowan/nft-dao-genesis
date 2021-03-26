@@ -300,4 +300,4 @@ Discord context \(Business Planning Channel\):
 > 
 > Artist percentages in smart contracts, number of artworks
 > 
-> ccc - [1.41.44](https://youtu.be/wnaXlv9onAo?t=6104) - ccc
+### Plutus Development - [1.51.16](https://youtu.be/wnaXlv9onAo?t=6676) - Rich Kopcho / Hud
