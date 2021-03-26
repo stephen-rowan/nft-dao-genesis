@@ -83,6 +83,9 @@ Note: timestamps are external links
 * Continuing work on the GitBook / Business Plan Presentation - @stephen.rowan
 
 ## Competitive Analysis - [14.56](https://youtu.be/CHze97JVM8A?t=896) - @sev
+> Fast moving NFT market
+> 
+> Focusing on analysis of the more static .. commission structures, royalty models
 
 
 
