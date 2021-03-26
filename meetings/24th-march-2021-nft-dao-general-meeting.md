@@ -15,7 +15,7 @@ Note: timestamps are external links
 > Tyler Wales, Rich Kopcho, Sev, Dan Verowski
 >
 # The quest to get to market - [0.43](https://youtu.be/CHze97JVM8A?t=43) - Rich Kopcho
->
+
 > Opportunity to work with PSG Team at IOG
 >
 > Next few days to work through who can do what pieces of this framework
@@ -39,9 +39,9 @@ Note: timestamps are external links
 > @newmindflow taking lead on content creation
 >
 > @OctoberBlack \(Philip\) taking lead on building partnerships
->
+
 ## Video Strategy - [5.05](https://youtu.be/CHze97JVM8A?t=305) - @newmindflow
->
+
 > Released first interview
 >
 > Pivoted to doing actual interview with HOLONS who want to participate
@@ -49,8 +49,9 @@ Note: timestamps are external links
 > One interview per week - help spread news about upcoming MVP (Minimum Viable Product) Auction.
 > 
 > Kaizen Crypto to be involved - [6.17](https://youtu.be/CHze97JVM8A?t=377) - Rich Kopcho
-> 
+
 ## Numbers update - [6.53](https://youtu.be/CHze97JVM8A?t=413) - Tyler Wales
+
 |Platform |Numbers  |
 --- | --- |
 |Discord|200 users (from 140 last week)|
