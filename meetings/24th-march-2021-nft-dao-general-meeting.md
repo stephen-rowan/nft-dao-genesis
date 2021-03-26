@@ -52,6 +52,16 @@ Note: timestamps are external links
 > 
 > Kaizen Crypto to be involved - [6.17](https://youtu.be/CHze97JVM8A?t=377) - Rich Kopcho
 > 
-> ccc - [6.53](https://youtu.be/CHze97JVM8A?t=413) - Tyler Wales
+### Numbers update - [6.53](https://youtu.be/CHze97JVM8A?t=413) - Tyler Wales
+> Discord - 200 users (from 140 last week)
+> 
+> Twitter - 63 Followers
+> 
+> email lists - 221 Subscribers
+> 
+|Header1 |Header2  |
+--- | --- |
+|data1|data2|
+|data11|data12|
 
 
