@@ -66,5 +66,6 @@
 
 ## Art Market Minimum Viable Product
 
+* [Naming and Branding](art-market-minimum-viable-product/naming-and-branding.md)
 * [Untitled](art-market-minimum-viable-product/untitled.md)
 
