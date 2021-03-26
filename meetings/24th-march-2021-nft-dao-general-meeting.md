@@ -21,5 +21,8 @@ Note: timestamps are external links
 > 
 > NFT-DAO will progress on assumption of a live auction in 6 weeks time
 
-
+# Development update - [2.16](https://youtu.be/CHze97JVM8A?t=136) - Rich Kopcho
+>  @Yagi making a lot of progress laying out what the architecture should be.
+>  
+> IOG to assist with a Chief Architect to advise
 
