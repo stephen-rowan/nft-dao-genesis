@@ -275,7 +275,8 @@ Discord context \(Business Planning Channel\):
 >
 > **Timeframe of 1 Month** - [1.38.58](https://youtu.be/wnaXlv9onAo?t=5938) - Troy Egan, Rich Kopcho, Tyler Wales
 >
-> Technical impossibility of automated auction for minimum viable product \(MVP\) - [1.40.18](https://youtu.be/wnaXlv9onAo?t=6018) - Dan Verowski
-
+> Technical impossibility of automated auction for minimum viable product \(MVP\) - [1.40.18](https://youtu.be/wnaXlv9onAo?t=6018) - Dan Verowski, Tyler Wales
+>
+> Blockchain based, automated, trustless auction currently not possible - but a shopify-like trust-based presentation of an auction posssible.
 >
 > ccc - [1.38.58](https://youtu.be/wnaXlv9onAo?t=5938) - ccc
