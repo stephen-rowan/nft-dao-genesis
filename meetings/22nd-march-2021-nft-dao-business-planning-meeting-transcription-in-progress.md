@@ -296,5 +296,8 @@ Discord context \(Business Planning Channel\):
 > 
 > NFT-DAO Token -  Wilhelm Horrix
 > 
-> Artist percentages in smart contracts - [1.49.52](https://youtu.be/wnaXlv9onAo?t=6582) - Tyler Wales, @newmindflow, Andy
->
+> Discussion - [1.49.52](https://youtu.be/wnaXlv9onAo?t=6582) - Tyler Wales, @newmindflow, Andy
+> 
+> Artist percentages in smart contracts, number of artworks
+> 
+> ccc - [1.41.44](https://youtu.be/wnaXlv9onAo?t=6104) - ccc
