@@ -58,7 +58,9 @@ Note: timestamps are external links
 |Email lists|221 Subscribers|
 |YouTube|18 Subscribers|
 
-> Do we have a Twitter content strategy ? - [8.41](https://youtu.be/CHze97JVM8A?t=521) - Rich Kopcho
+> Do we have a Twitter content strategy ? - [8.41](https://youtu.be/CHze97JVM8A?t=521) - Rich Kopcho, Tyler Wales
+> 
+> Comprehensive strategy needs to be worked out
 
 
 
