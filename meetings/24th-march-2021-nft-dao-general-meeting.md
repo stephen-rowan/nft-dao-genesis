@@ -83,10 +83,13 @@ Note: timestamps are external links
 * Continuing work on the GitBook / Business Plan Presentation - @stephen.rowan
 
 ## Competitive Analysis - [14.56](https://youtu.be/CHze97JVM8A?t=896) - @sev
+
 > Fast moving NFT market
-> 
+
 > Focusing on analysis of the more static .. commission structures, royalty models
 
-> Ghost chain have option to store data directly with an NFT (via IPFS or onchain) - [17.00](https://youtu.be/CHze97JVM8A?t=1020) - Dan Verowski
+* The Ghost Market  - have option to store data directly with an NFT (via IPFS or onchain) - [17.00](https://youtu.be/CHze97JVM8A?t=1020) - Dan Verowski
+* The Ghost Market  - allow you to pre-mint NFTs - [17.46](https://youtu.be/CHze97JVM8A?t=1066) - Tyler Wales
+> Reference
 
-
+https://ghostmarket.io/
