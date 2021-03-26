@@ -61,4 +61,5 @@
 ## Support
 
 * [GitBook migration](support/gitbook-migration.md)
+* [Jupyter Tests](support/jupyter-tests.md)
 
