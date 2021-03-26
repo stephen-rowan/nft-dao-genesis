@@ -96,5 +96,11 @@ Discord context
 
 ![](https://cdn.discordapp.com/attachments/808969145395445770/822251813004640266/NFT-Dao_Twitter_Banner_-_Remade.jpg)
 
+## PoS v PoW Energy usage
+
+@Troy
+
+{% embed url="https://forum.cardano.org/t/ive-written-a-short-study-calculation-on-how-much-energy-is-wasted-by-ethereum-and-bitcoin-mining-then-compared-this-to-waste-if-we-all-switched-cardano-pools-to-raspi/44029" %}
+
 
 
