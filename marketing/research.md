@@ -74,6 +74,16 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808969345551564800/811719295168020520" %}
 
+## Interesting NFT use-cases
+
+@Troy
+
+{% embed url="https://dailyhodl.com/2021/02/16/six-crypto-assets-could-surge-100x-in-the-red-hot-nft-space-according-to-trader-lark-davis/" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969345551564800/812137273050660885" %}
+
 
 
 
