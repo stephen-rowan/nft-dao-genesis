@@ -124,6 +124,16 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808969345551564800/823278135830511626" %}
 
+## informative podcast with Opensea´s founder
+
+@Sev
+
+{% embed url="https://open.spotify.com/episode/6LLuwq5LIVCvTjuikBNbVG?si=woxmOEHzQLChjo2ySrzSkQ" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969345551564800/823278135830511626" %}
+
 
 
 
