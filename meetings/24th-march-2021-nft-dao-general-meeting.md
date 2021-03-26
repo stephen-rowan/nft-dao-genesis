@@ -76,7 +76,7 @@ Note: timestamps are external links
 > 
 > Name of Art Marketplace
 > 
-
-
+> Artist call to action for auction
 > 
+>
 
