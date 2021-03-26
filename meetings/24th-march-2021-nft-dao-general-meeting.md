@@ -62,6 +62,8 @@ Note: timestamps are external links
 > Do we have a Twitter content strategy ? - [8.41](https://youtu.be/CHze97JVM8A?t=521) - Rich Kopcho, Tyler Wales
 > 
 > Comprehensive strategy needs to be worked out, scheduling Tweets etc.
+> 
+> Seek expertise in Discord ? - [9.13](https://youtu.be/CHze97JVM8A?t=553) - Dan Verowski
 
 
 
