@@ -283,4 +283,6 @@ Discord context \(Business Planning Channel\):
 > 
 > Pre-sale strategy makes more sense ? - [1.41.44](https://youtu.be/wnaXlv9onAo?t=6104) - Dan Verowski
 > 
-> Discussion  - [1.41.59](https://youtu.be/wnaXlv9onAo?t=6119) - Troy Egan
+> Discussion  - [1.41.59](https://youtu.be/wnaXlv9onAo?t=6119) - Troy Egan, Rich Kopcho
+> 
+> Need to scope options to 1 month deadline
