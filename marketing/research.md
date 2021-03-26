@@ -22,6 +22,16 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808969345551564800/811010602092855357" %}
 
+## An NFT Obsessed Blogger
+
+@Blkcnvs
+
+{% embed url="https://twitter.com/DCLBlogger" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969345551564800/811011182281359411" %}
+
 
 
 
