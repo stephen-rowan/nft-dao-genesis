@@ -80,6 +80,38 @@ Discord context
 
 {% embed url="https://dailyhodl.com/2021/02/16/six-crypto-assets-could-surge-100x-in-the-red-hot-nft-space-according-to-trader-lark-davis/" %}
 
+##  Seascape \(CWS token\)
+
+Launched on DAOMaker - The Ultimate Game Platform Designed Around the DeFi & NFT Economy
+
+{% embed url="https://www.seascape.network/" %}
+
+##  My Neighbour Alice \(game\)
+
+ Launched on DAOMakerMy Neighbor Alice is a multiplayer builder game, where anyone can buy and own virtual islands, collect and build exciting items and meet new friends. Aim: to bring blockchain to the masses.
+
+{% embed url="https://www.myneighboralice.com" %}
+
+##  Terra Virtua \(Kolect token\)
+
+Working with Digital Collectibles for large franchises: Paramount & Legendary
+
+{% embed url="https://terravirtua.io" %}
+
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
 Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808969345551564800/812137273050660885" %}
