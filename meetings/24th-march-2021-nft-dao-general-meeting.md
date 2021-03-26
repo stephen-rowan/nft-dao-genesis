@@ -6,42 +6,45 @@ description: >-
 
 # 24th March, 2021, NFT-DAO General Meeting
 
-{% embed url="https://www.youtube.com/watch?v=CHze97JVM8A" %}
+## 24th March, 2021, NFT-DAO General Meeting
+
+{% embed url="https://www.youtube.com/watch?v=CHze97JVM8A" caption="" %}
 
 Note: timestamps are external links
 
+## Introductions - [0.04](https://youtu.be/CHze97JVM8A?t=4)
 
-# Introductions - [0.04](https://youtu.be/CHze97JVM8A?t=4)
 > Tyler Wales, Rich Kopcho, Sev, Dan Verowski
-> 
-# The quest to get to market - [0.43](https://youtu.be/CHze97JVM8A?t=43) - Rich Kopcho
+>
+> ## The quest to get to market - [0.43](https://youtu.be/CHze97JVM8A?t=43) - Rich Kopcho
+>
 > Opportunity to work with PSG Team at IOG
-> 
+>
 > Next few days to work through who can do what pieces of this framework
-> 
+>
 > NFT-DAO will progress on assumption of a live auction in 6 weeks time
 
-# Development update - [2.16](https://youtu.be/CHze97JVM8A?t=136) - Rich Kopcho
->  @Yagi making a lot of progress laying out what the architecture should be.
->  
-> IOG to provide a Chief Architect to advise
+## Development update - [2.16](https://youtu.be/CHze97JVM8A?t=136) - Rich Kopcho
 
-# Marketing update - [3.16](https://youtu.be/CHze97JVM8A?t=195) - Tyler Wales
+> @Yagi making a lot of progress laying out what the architecture should be. IOG to provide a Chief Architect to advise
+
+## Marketing update - [3.16](https://youtu.be/CHze97JVM8A?t=195) - Tyler Wales
+
 > Landing page
-
+>
 > Team dedicated to Naming and Branding NFT Auction
-
+>
 > Confident in developng marketing strategy
-
+>
 > Re-Brand NFT-DAO website
-> 
+>
 > @newmindflow taking lead on content creation
 >
-> @OctoberBlack (Philip) taking lead on building partnerships
-> 
-## Video Strategy - [5.05](https://youtu.be/CHze97JVM8A?t=305) - @newmindflow
-> Released first interview 
-> 
+> @OctoberBlack \(Philip\) taking lead on building partnerships
+>
+> ### Video Strategy - [5.05](https://youtu.be/CHze97JVM8A?t=305) - @newmindflow
+>
+> Released first interview
+>
 > Pivoted to doing actual interview with HOLONS who want to particpate
->
->
+
