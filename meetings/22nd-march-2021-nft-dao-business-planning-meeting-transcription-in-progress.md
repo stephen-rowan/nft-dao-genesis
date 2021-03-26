@@ -312,3 +312,5 @@ Discord context \(Business Planning Channel\):
 > Summary - [1.54.59](https://youtu.be/wnaXlv9onAo?t=6869) - Troy Egan
 > 
 > Level of participation - [1.55.29](https://youtu.be/wnaXlv9onAo?t=6913) - @newmindflow
+> 
+> cccn - [1.55.48](https://youtu.be/wnaXlv9onAo?t=6948) - Rich Kopcho
