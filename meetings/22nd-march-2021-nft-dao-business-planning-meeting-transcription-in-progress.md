@@ -281,5 +281,4 @@ Discord context \(Business Planning Channel\):
 >
 > Benefits / Risks of doing an auction
 > 
->
-> Is a pre-sale strategy better ? - [1.41.44](https://youtu.be/wnaXlv9onAo?t=6104) - Dan Verowski
+> Pre-sale strategy makes more sense ? - [1.41.44](https://youtu.be/wnaXlv9onAo?t=6104) - Dan Verowski
