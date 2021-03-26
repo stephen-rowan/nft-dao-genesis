@@ -114,6 +114,16 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808969345551564800/812137273050660885" %}
 
+## GhostMarket
+
+@Sev
+
+{% embed url="https://ghostmarket.io" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969345551564800/823278135830511626" %}
+
 
 
 
