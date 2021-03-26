@@ -37,3 +37,4 @@ Note: timestamps are external links
 > 
 > @newmindflow taking lead on content creation
 >
+> @OctoberBlack (Philip) taking lead on building partnerships
