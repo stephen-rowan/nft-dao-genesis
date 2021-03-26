@@ -308,3 +308,7 @@ Discord context \(Business Planning Channel\):
 > Set-up samepage infrastructure - [1.52.25](https://youtu.be/wnaXlv9onAo?t=6742) - Tyler Wales
 > 
 > Funding / Timeframe goals - [1.53.51](https://youtu.be/wnaXlv9onAo?t=6831) - Dan Verowski
+> 
+> Summary - [1.54.59](https://youtu.be/wnaXlv9onAo?t=6869) - Troy Egan
+> 
+> Level of participation - [1.55.29](https://youtu.be/wnaXlv9onAo?t=6913) - @newmindflow
