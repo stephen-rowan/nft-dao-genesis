@@ -78,5 +78,7 @@ Note: timestamps are external links
 > 
 > Artist call to action for auction - @mewmindflow, @muntface
 > 
+> One Page DAO Manifesto
+> 
 >
 
