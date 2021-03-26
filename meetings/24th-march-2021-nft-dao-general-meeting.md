@@ -78,7 +78,7 @@ Note: timestamps are external links
 > 
 > Artist call to action for auction - @mewmindflow, @muntface
 > 
-> One Page DAO Manifesto
+> One Page DAO Manifesto (Scope / Description of HOLONS)
 > 
 >
 
