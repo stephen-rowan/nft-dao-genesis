@@ -34,5 +34,15 @@ Discord context
 
 
 
+## The Loop News
+
+@Blkcnvs
+
+{% embed url="https://twitter.com/loopifyNews" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969345551564800/811011182281359411" %}
+
 
 
