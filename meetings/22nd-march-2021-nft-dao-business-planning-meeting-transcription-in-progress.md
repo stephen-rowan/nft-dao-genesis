@@ -286,3 +286,8 @@ Discord context \(Business Planning Channel\):
 > Discussion  - [1.41.59](https://youtu.be/wnaXlv9onAo?t=6119) - Troy Egan, Rich Kopcho
 > 
 > **We need to scope options to 1 month deadline**
+> 
+
+
+
+### ccc - [1.34.15](https://youtu.be/wnaXlv9onAo?t=5655) - ccc
