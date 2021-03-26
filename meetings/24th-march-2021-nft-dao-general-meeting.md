@@ -78,4 +78,4 @@ Note: timestamps are external links
 * SWAT Analysis - Token Utility Cases - Dan Verowski and @newmindflow
 * Legal Considerations - Terms and Conditions, Privacy Policies, Risk Assessment
 * Research - competive market analysis - @Sev
-* Research - Business models- @Sev
+* Research - Business models- @Sev, @Hud
