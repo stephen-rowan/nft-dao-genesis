@@ -11,4 +11,4 @@ description: >-
 Note: timestamps are external links
 
 
-
+# Introductions - [0.04](https://youtu.be/CHze97JVM8A?t=4)
