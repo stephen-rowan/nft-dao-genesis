@@ -305,4 +305,4 @@ Discord context \(Business Planning Channel\):
 ### Need for a co-ordinator - [1.52.00](https://youtu.be/wnaXlv9onAo?t=6720) - Troy Egan
 > To keep track of timeframes
 >
-> Set-up samepage infrastructure - [1.44.21](https://youtu.be/wnaXlv9onAo?t=6742) - Tyler Wales
+> Set-up samepage infrastructure - [1.52.25](https://youtu.be/wnaXlv9onAo?t=6742) - Tyler Wales
