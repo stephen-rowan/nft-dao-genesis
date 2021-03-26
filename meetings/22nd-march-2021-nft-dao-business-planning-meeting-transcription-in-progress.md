@@ -289,3 +289,5 @@ Discord context \(Business Planning Channel\):
 > 
 ### Importance of a deadline - [1.42.08](https://youtu.be/wnaXlv9onAo?t=6128) - Rich Kopcho
 > We need someone to own the auction process  - [1.44.05](https://youtu.be/wnaXlv9onAo?t=6245)
+
+> Discussion - [1.44.21](https://youtu.be/wnaXlv9onAo?t=6261) - Wilhelm Horrix
