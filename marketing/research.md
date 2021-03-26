@@ -146,5 +146,19 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808969345551564800/823940306973491227" %}
 
+## Charles Hoskinson profile \(Deutsch\)
+
+@Sev
+
+{% embed url="https://www.btc-echo.de/charles-hoskinson-wenn-cardano-scheitert-scheitert-der-krypto-space/" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969345551564800/823977592511135744" %}
+
+
+
+
+
 
 
