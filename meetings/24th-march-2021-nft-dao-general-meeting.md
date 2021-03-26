@@ -28,6 +28,10 @@ Note: timestamps are external links
 
 # Marketing update - [3.16](https://youtu.be/CHze97JVM8A?t=195) - Tyler Wales
 > Landing page
+
 > Team dedicated to Naming and Branding NFT Auction
+
 > Confident in developng marketing strategy
+
+> Re-Brand NFT-DAO website
 >
