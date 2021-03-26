@@ -69,8 +69,11 @@ Note: timestamps are external links
 
 # Governance update - [10.57](https://youtu.be/CHze97JVM8A?t=657) - Troy Egan
 > Actions - Discord Channel redesign
+> 
 > Marketing Meeting
+> 
 > Branding
+> 
 > Name of Art Marketplace
 > 
 
