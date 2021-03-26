@@ -307,4 +307,4 @@ Discord context \(Business Planning Channel\):
 >
 > Set-up samepage infrastructure - [1.52.25](https://youtu.be/wnaXlv9onAo?t=6742) - Tyler Wales
 > 
-> ccc - [1.53.51](https://youtu.be/wnaXlv9onAo?t=6831) - Dan Verowski
+> Funding / Timeframe goals - [1.53.51](https://youtu.be/wnaXlv9onAo?t=6831) - Dan Verowski
