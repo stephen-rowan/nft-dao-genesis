@@ -110,5 +110,15 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/823148702154620969" %}
 
+## haskell plutus contract code
+
+@The Ancient Kraken
+
+{% embed url="https://github.com/logicalmechanism/Marlowe-Plutus-Contracts" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/823939796434026566" %}
+
 
 
