@@ -34,4 +34,6 @@ Note: timestamps are external links
 > Confident in developng marketing strategy
 
 > Re-Brand NFT-DAO website
+> 
+> @newmindflow taking lead on content creation
 >
