@@ -49,4 +49,9 @@ Note: timestamps are external links
 > Pivoted to doing actual interview with HOLONS who want to participate
 > 
 > One interview per week - help spread news about upcoming MVP (Minimum Viable Product) Auction.
+> 
+> Kaizen Crypto to be involved - [6.17](https://youtu.be/CHze97JVM8A?t=377) - Rich Kopcho
+> 
+> ccc - [6.53](https://youtu.be/CHze97JVM8A?t=377) - Tyler Wales
+
 
