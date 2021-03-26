@@ -8,5 +8,7 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=CHze97JVM8A" %}
 
+Note: timestamps are external links
+
 
 
