@@ -102,5 +102,13 @@ Discord context
 
 {% embed url="https://forum.cardano.org/t/ive-written-a-short-study-calculation-on-how-much-energy-is-wasted-by-ethereum-and-bitcoin-mining-then-compared-this-to-waste-if-we-all-switched-cardano-pools-to-raspi/44029" %}
 
+## Ecological impact of NFTs
+
+@Troy
+
+{% embed url="https://nonfungible.com/blog/ecological-impact-nfts" %}
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/823148702154620969" %}
+
 
 
