@@ -81,5 +81,8 @@ Note: timestamps are external links
 * Research - Business models- @Sev, @Hud
 * Auction Minimum Viable Product (MVP) - 6 to 8 weeks
 * Next Business Planning Meeting in Two Weeks
+* Continuing work on the GitBook / Business Plan Presentation - @stephen.rowan
+
+
 
 
