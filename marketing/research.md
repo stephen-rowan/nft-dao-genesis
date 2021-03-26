@@ -98,19 +98,17 @@ Working with Digital Collectibles for large franchises: Paramount & Legendary
 
 {% embed url="https://terravirtua.io" %}
 
+##  Ethernity \(ERN token\)
 
+ Minting digital collectibles and trading cards and for all kinds of use cases
 
-  
+{% embed url="https://ethernity.io" %}
 
+##  Persistence
 
-  
+Enterprise NFT solutions \(COSMOS Ecosystem\)  - The power of NFT's for industry use cases ie, Shipping invoices,
 
-
-
-
-
-
-
+{% embed url="https://persistence.one" %}
 
 Discord context
 
