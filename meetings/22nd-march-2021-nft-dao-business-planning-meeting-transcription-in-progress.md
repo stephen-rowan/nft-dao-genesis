@@ -279,4 +279,7 @@ Discord context \(Business Planning Channel\):
 >
 > Blockchain based, automated, trustless auction currently not possible - but a shopify-like trust-based presentation of an auction posssible.
 >
+> Benefits / Risks of doing an auction
+> 
+>
 > ccc - [1.38.58](https://youtu.be/wnaXlv9onAo?t=5938) - ccc
