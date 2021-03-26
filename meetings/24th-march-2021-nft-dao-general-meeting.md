@@ -76,4 +76,6 @@ Note: timestamps are external links
 * One Page DAO Manifesto (Scope / Description of HOLONS)
 * Buyer / Seller Contract Flowchart - Dan Verowski and Wilhelm Horrix
 * SWAT Analysis - Token Utility Cases - Dan Verowski and @newmindflow
-
+* Legal Considerations - Terms and Conditions, Privacy Policies, Risk Assessment
+* Research - competive market analysis - @Sev
+* Research - Business models- @Sev
