@@ -59,13 +59,11 @@
 * [Metadata Discussions](metadata/metadata-discussions.md)
 * [Metadata Reference Materials](metadata/metadata-reference-materials.md)
 
+## Art Market Minimum Viable Product
+
+* [Naming and Branding](art-market-minimum-viable-product/naming-and-branding.md)
+
 ## Support
 
 * [GitBook migration](support/gitbook-migration.md)
 * [Jupyter Tests](support/jupyter-tests.md)
-
-## Art Market Minimum Viable Product
-
-* [Naming and Branding](art-market-minimum-viable-product/naming-and-branding.md)
-* [Untitled](art-market-minimum-viable-product/untitled.md)
-
