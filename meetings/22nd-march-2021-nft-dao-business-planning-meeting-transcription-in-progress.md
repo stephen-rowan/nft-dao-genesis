@@ -301,3 +301,5 @@ Discord context \(Business Planning Channel\):
 > Artist percentages in smart contracts, number of artworks
 > 
 ### Plutus Development - [1.51.16](https://youtu.be/wnaXlv9onAo?t=6676) - Rich Kopcho / Hud
+
+### Need for a co-ordinator - [1.52.00](https://youtu.be/wnaXlv9onAo?t=6720) - Troy Egan
