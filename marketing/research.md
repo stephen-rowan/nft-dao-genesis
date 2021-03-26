@@ -44,5 +44,17 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808969345551564800/811011182281359411" %}
 
+## NFT Market growth in 2020
+
+@Blkcnvs
+
+{% embed url="https://www.theblockcrypto.com/genesis/94228/nft-market-growth-in-2020" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969345551564800/811069238022111232" %}
+
+
+
 
 
