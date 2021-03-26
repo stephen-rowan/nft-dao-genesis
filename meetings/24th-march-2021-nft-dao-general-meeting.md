@@ -87,6 +87,6 @@ Note: timestamps are external links
 > 
 > Focusing on analysis of the more static .. commission structures, royalty models
 
-
+> Ghost chain have option to store data directly with an NFT (via IPFS or onchain) - [17.00](https://youtu.be/CHze97JVM8A?t=1020) - Dan Verowski
 
 
