@@ -26,3 +26,4 @@ Note: timestamps are external links
 >  
 > IOG to provide a Chief Architect to advise
 
+# Marketing update - [3.16](https://youtu.be/CHze97JVM8A?t=195) - Tyler Wales
