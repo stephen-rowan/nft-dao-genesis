@@ -62,8 +62,10 @@
 ## Art Market Minimum Viable Product
 
 * [Naming and Branding](art-market-minimum-viable-product/naming-and-branding.md)
+* [uxui](art-market-minimum-viable-product/uxui.md)
 
 ## Support
 
 * [GitBook migration](support/gitbook-migration.md)
 * [Jupyter Tests](support/jupyter-tests.md)
+
