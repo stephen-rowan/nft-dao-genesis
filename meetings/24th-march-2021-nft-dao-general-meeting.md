@@ -42,7 +42,7 @@ Note: timestamps are external links
 >
 > @OctoberBlack \(Philip\) taking lead on building partnerships
 >
-> ### Video Strategy - [5.05](https://youtu.be/CHze97JVM8A?t=305) - @newmindflow
+### Video Strategy - [5.05](https://youtu.be/CHze97JVM8A?t=305) - @newmindflow
 >
 > Released first interview
 >
