@@ -83,6 +83,6 @@ Note: timestamps are external links
 * Next Business Planning Meeting in Two Weeks
 * Continuing work on the GitBook / Business Plan Presentation - @stephen.rowan
 
-
+## Competitive Analysis - [14.56](https://youtu.be/CHze97JVM8A?t=896) - ccc
 
 
