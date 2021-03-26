@@ -68,17 +68,12 @@ Note: timestamps are external links
 > Social Media expert at RedHat might be interested in joining DAO - [9.50](https://youtu.be/CHze97JVM8A?t=590) - ??
 
 # Governance update - [10.57](https://youtu.be/CHze97JVM8A?t=657) - Troy Egan
-> Actions - Discord Channel redesign
-> 
-> Marketing Meeting
-> 
-> Branding
-> 
-> Name of Art Marketplace
-> 
-> Artist call to action for auction - @mewmindflow, @muntface
-> 
-> One Page DAO Manifesto (Scope / Description of HOLONS)
-> 
->
+* Actions - Discord Channel redesign
+* Marketing Meeting
+* Branding
+* Name of Art Marketplace
+* Artist call to action for auction - @newmindflow, @muntface
+* One Page DAO Manifesto (Scope / Description of HOLONS)
+* Buyer / Seller Contract Flowchart - Dan and Wilhelm
+* SWAT Analysis - Token Utility Cases - Dan and @newmindflow
 
