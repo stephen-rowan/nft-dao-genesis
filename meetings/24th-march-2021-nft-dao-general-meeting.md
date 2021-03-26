@@ -65,8 +65,7 @@ Note: timestamps are external links
 > 
 > Seek expertise in Discord ? - [9.13](https://youtu.be/CHze97JVM8A?t=553) - Dan Verowski
 > 
-> Social Media expert at RedHat might be interested in joining DAO - [9.50](https://youtu.be/CHze97JVM8A?t=590) - ??
-
+> Social Media expert at RedHat might be interested in joining DAO - [9.50](https://youtu.be/CHze97JVM8A?t=590) - @sev
 # Governance update - [10.57](https://youtu.be/CHze97JVM8A?t=657) - Troy Egan
 * Actions - Discord Channel redesign
 * Marketing Meeting
@@ -83,6 +82,8 @@ Note: timestamps are external links
 * Next Business Planning Meeting in Two Weeks
 * Continuing work on the GitBook / Business Plan Presentation - @stephen.rowan
 
-## Competitive Analysis - [14.56](https://youtu.be/CHze97JVM8A?t=896) - ccc
+## Competitive Analysis - [14.56](https://youtu.be/CHze97JVM8A?t=896) - @sev
+
+
 
 
