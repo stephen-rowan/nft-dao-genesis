@@ -74,6 +74,6 @@ Note: timestamps are external links
 * Name of Art Marketplace
 * Artist call to action for auction - @newmindflow, @muntface
 * One Page DAO Manifesto (Scope / Description of HOLONS)
-* Buyer / Seller Contract Flowchart - Dan and Wilhelm
-* SWAT Analysis - Token Utility Cases - Dan and @newmindflow
+* Buyer / Seller Contract Flowchart - Dan Verowski and Wilhelm Horrix
+* SWAT Analysis - Token Utility Cases - Dan Verowski and @newmindflow
 
