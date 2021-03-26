@@ -64,6 +64,16 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808969345551564800/811075343636103210" %}
 
+## Peer to Peer models
+
+@Troy
+
+{% embed url="https://www.dropbox.com/s/c9lyx0r6lq3fw7p/whitepaper\_p2pmodels.pdf?dl=0" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969345551564800/811719295168020520" %}
+
 
 
 
