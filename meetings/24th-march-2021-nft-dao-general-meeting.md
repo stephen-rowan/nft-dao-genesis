@@ -79,3 +79,7 @@ Note: timestamps are external links
 * Legal Considerations - Terms and Conditions, Privacy Policies, Risk Assessment
 * Research - competive market analysis - @Sev
 * Research - Business models- @Sev, @Hud
+* Auction Minimum Viable Product (MVP) - 6 to 8 weeks
+* Next Business Planning Meeting in Two Weeks
+
+
