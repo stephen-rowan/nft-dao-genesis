@@ -48,5 +48,5 @@ Note: timestamps are external links
 >
 > Pivoted to doing actual interview with HOLONS who want to participate
 > 
-> One interview per week
+> One interview per week - help spread news about upcoming MVP (Minimum Viable Product) Auction.
 
