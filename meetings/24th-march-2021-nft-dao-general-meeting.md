@@ -108,5 +108,5 @@ Note: timestamps are external links
 
 {% embed url="https://eips.ethereum.org/EIPS/eip-1155" %}
 
-
+> Street Art and NFTs - [21.10](https://youtu.be/CHze97JVM8A?t=1270) - Troy Egan
 
