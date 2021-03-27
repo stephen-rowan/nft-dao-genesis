@@ -320,4 +320,4 @@ Discord context \(Business Planning Channel\):
 
 > We don't need a lot of people bidding - we need the rignt people - [1.55.48](https://youtu.be/wnaXlv9onAo?t=6948) - Rich Kopcho
 
-> We should focus on letting the market set a price - [1.57.09](https://youtu.be/wnaXlv9onAo?t=7029) - New Mindflow, Rich Kopcho
+> We should focus on letting the market set a price - [1.57.09](https://youtu.be/wnaXlv9onAo?t=7029) - New Mindflow, Rich Kopcho, Tyler Wales
