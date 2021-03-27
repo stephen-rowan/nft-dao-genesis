@@ -157,3 +157,5 @@ Note: timestamps are external links
 > **Discussion** - [50.36]( https://youtu.be/CHze97JVM8A?t=3036) - Andy, Troy Egan, Tyler Wales
 > 
 > Connecting with African communties
+> 
+> Inviting and assisting African artists via Discord
