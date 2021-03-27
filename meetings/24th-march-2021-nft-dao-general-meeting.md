@@ -141,7 +141,7 @@ Note: timestamps are external links
 > 
 > Need to avoid division between PoW and Pos communities.
 > 
-> **Discussion** - [35.52](https://youtu.be/CHze97JVM8A?t=2152) - @sev, New Mindflow, Tyler Wales, Dan Verowski
+> **Discussion** - [35.52](https://youtu.be/CHze97JVM8A?t=2152) - Sev, New Mindflow, Tyler Wales, Dan Verowski
 > 
 > How much energy each Social Media Platform uses ? [44.34](https://youtu.be/CHze97JVM8A?t=2665) - Troy Egan
 > 
@@ -162,4 +162,6 @@ Note: timestamps are external links
 >
 > African art marketplace channel
 > 
-> Discussion -  [53.35](https://youtu.be/CHze97JVM8A?t=3215) - ccc
+## AOB
+
+> Chadwick - Social Media contribution -  [53.35](https://youtu.be/CHze97JVM8A?t=3215) - Sev
