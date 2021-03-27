@@ -168,4 +168,4 @@ Note: timestamps are external links
 > 
 > Corporate marketing / Crypto Miner
 > 
-> **Energy Usage - Socail Media Giants** - [54.39](https://youtu.be/CHze97JVM8A?t=3279)
+> Energy Usage - Social Media Giants - [54.39](https://youtu.be/CHze97JVM8A?t=3279) - Troy Egan, Dan Verowski
