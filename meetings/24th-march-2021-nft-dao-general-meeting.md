@@ -171,7 +171,8 @@ Note: timestamps are external links
 ### Energy Usage reprise discussion - Social Media Giants - [54.39](https://youtu.be/CHze97JVM8A?t=3279) - Troy Egan, Dan Verowski, New Mindflow, Tyler Wales
 > 
 > Cardano only using 6 Gigawatt hours (GWh) 
-> 
+
 ## TODO Actions - [57.15](https://youtu.be/CHze97JVM8A?t=3435) - Troy Egan
+
 * Troy to send environmental data to New Mindflow
 * Reach out to African Artists
