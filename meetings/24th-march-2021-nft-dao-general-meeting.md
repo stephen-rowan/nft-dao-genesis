@@ -131,4 +131,6 @@ Frankenstein, Chapter 23. Victor is consumed with grief after the death of Eliza
 > Competitive analysis of distributed storage solutions required.
 
 
-## Twitter  - [29.47](https://youtu.be/CHze97JVM8A?t=2033) - New Mindflow
+## Twitter Strategy - [33.53](https://youtu.be/CHze97JVM8A?t=2033) - New Mindflow
+
+> ccc
