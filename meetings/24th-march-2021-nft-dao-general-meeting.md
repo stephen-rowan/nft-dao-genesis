@@ -175,4 +175,4 @@ Note: timestamps are external links
 ## TODO Actions - [57.15](https://youtu.be/CHze97JVM8A?t=3435) - Troy Egan
 
 * Troy to send environmental data to New Mindflow
-* Reach out to African Artists
+* Reach out to African Artists on Cataylst - Andy
