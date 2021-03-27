@@ -99,12 +99,13 @@ Note: timestamps are external links
 > 
 > not be charged a fee until sold in an auction
 >
+> Discussion of "lazy minting, ERC-1155 Standard - [18.29](https://youtu.be/CHze97JVM8A?t=1109) @sev, Dan Verowski
 
-> Discussion of "lazy minting - [18.29](https://youtu.be/CHze97JVM8A?t=1109) @sev, Dan Verowski
-
-> Reference
+> References
 
 {% embed url="https://ghostmarket.io/" %}
+
+https://eips.ethereum.org/EIPS/eip-1155
 
 
 
