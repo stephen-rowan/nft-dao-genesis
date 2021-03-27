@@ -98,6 +98,9 @@ Note: timestamps are external links
 > allow you to pre-mint NFTs - [17.46](https://youtu.be/CHze97JVM8A?t=1066) - Tyler Wales
 > 
 > not be charged a fee until sold in an auction
+>
+
+> Discussion of "lazy minting - [18.29](https://youtu.be/CHze97JVM8A?t=1109) @sev, Dan Verowski
 
 > Reference
 
