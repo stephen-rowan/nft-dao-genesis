@@ -122,6 +122,8 @@ Frankenstein, Chapter 23. Victor is consumed with grief after the death of Eliza
 
 ## Competitive analysis of storage solutions  - [29.47](https://youtu.be/CHze97JVM8A?t=1787) - Tyler Wales, Dan Verowski
 
-> on-chain storage
+> On-chain storage ? - Tyler Wales
 
->
+> IPFS recommended - a pinning service like pinata - Dan Verowski
+
+https://pinata.cloud/
