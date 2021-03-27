@@ -42,7 +42,7 @@ Note: timestamps are external links
 >
 > @OctoberBlack \(Philip\) taking lead on building partnerships
 
-### Video Strategy - [5.05](https://youtu.be/CHze97JVM8A?t=305) - @newmindflow
+### Video Strategy - [5.05](https://youtu.be/CHze97JVM8A?t=305) - New Mindflow
 
 > Released first interview
 >
@@ -75,7 +75,7 @@ Note: timestamps are external links
 * Marketing Meeting
 * Branding
 * Name of Art Marketplace
-* Artist call to action for auction - @newmindflow, @muntface
+* Artist call to action for auction - New Mindflow, @muntface
 * One Page DAO Manifesto \(Scope / Description of HOLONS\)
 * Buyer / Seller Contract Flowchart - Dan Verowski and Wilhelm Horrix
 * SWAT Analysis - Token Utility Cases - Dan Verowski and @newmindflow
@@ -131,4 +131,4 @@ Frankenstein, Chapter 23. Victor is consumed with grief after the death of Eliza
 > Competitive analysis of distributed storage solutions required.
 
 
-
+## Twitter  - [29.47](https://youtu.be/CHze97JVM8A?t=2033) - New Mindflow
