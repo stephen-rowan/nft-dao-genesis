@@ -114,4 +114,4 @@ Note: timestamps are external links
 
 ## Update on Artwork - [24.02](https://youtu.be/CHze97JVM8A?t=1442) - Andy
 
-> Screen share - Shelley Animation - [25.47](https://youtu.be/CHze97JVM8A?t=1547)
+> Screen share - Shelley Animation - [25.47](https://youtu.be/CHze97JVM8A?t=1547) - Andy
