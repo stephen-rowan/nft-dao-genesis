@@ -135,6 +135,8 @@ Frankenstein, Chapter 23. Victor is consumed with grief after the death of Eliza
 
 > Blockchain energy consumption - Proof of Work versus Proof of Stake
 > 
-> Try to engage Artists in recognition of lesser environmental impact of Proof of Stake Blockchains
+> Try to engage Artists in recognition of lesser environmental impact of Proof of Stake Blockchains.
 > 
-> Discussion - [35.52](https://youtu.be/CHze97JVM8A?t=2152) - @sev, New Mindflow, Tyler Wales
+> Environmental competitive adavantage of Cardano's Proof of Stake technology.
+> 
+> Discussion - [35.52](https://youtu.be/CHze97JVM8A?t=2152) - @sev, New Mindflow, Tyler Wales, Dan Verowski
