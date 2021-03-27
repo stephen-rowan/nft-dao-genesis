@@ -96,6 +96,8 @@ Note: timestamps are external links
 > have option to store data directly with an NFT \(via IPFS or onchain\) - [17.00](https://youtu.be/CHze97JVM8A?t=1020) - Dan Verowski
 
 > allow you to pre-mint NFTs - [17.46](https://youtu.be/CHze97JVM8A?t=1066) - Tyler Wales
+> 
+> not be charged a fee until sold in an auction
 
 > Reference
 
