@@ -144,3 +144,5 @@ Frankenstein, Chapter 23. Victor is consumed with grief after the death of Eliza
 > Discussion - [35.52](https://youtu.be/CHze97JVM8A?t=2152) - @sev, New Mindflow, Tyler Wales, Dan Verowski
 > 
 > How much energy each Social Media Platform uses ? [44.34](https://youtu.be/CHze97JVM8A?t=2665) - Troy Egan
+> 
+> Discussion - [46.50](https://youtu.be/CHze97JVM8A?t=2810) - New Mindflow
