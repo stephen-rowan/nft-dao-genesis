@@ -170,4 +170,4 @@ Note: timestamps are external links
 > 
 > Energy Usage - Social Media Giants - [54.39](https://youtu.be/CHze97JVM8A?t=3279) - Troy Egan, Dan Verowski
 > 
-> Cardano only using 6 GigaWatt Hours
+> Cardano only using 6 Gigawatt hours (GWh) 
