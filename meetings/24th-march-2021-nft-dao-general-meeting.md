@@ -164,4 +164,8 @@ Note: timestamps are external links
 > 
 ## AOB
 
-> Chadwick - Social Media contribution -  [53.35](https://youtu.be/CHze97JVM8A?t=3215) - Sev
+> Introducing Chadwick - Social Media contribution -  [53.35](https://youtu.be/CHze97JVM8A?t=3215) - Sev
+> 
+> Corporate marketing / Crypto Miner
+> 
+>
