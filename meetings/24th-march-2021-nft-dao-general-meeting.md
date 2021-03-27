@@ -148,3 +148,5 @@ Frankenstein, Chapter 23. Victor is consumed with grief after the death of Eliza
 > **Discussion** - [46.50](https://youtu.be/CHze97JVM8A?t=2810) - New Mindflow, Tyler Wales, Dan Verowski
 > 
 > Energy comparision with Social Media giants, established financial system.
+> 
+> cc - [49.04](https://youtu.be/CHze97JVM8A?t=2944) - Andy
