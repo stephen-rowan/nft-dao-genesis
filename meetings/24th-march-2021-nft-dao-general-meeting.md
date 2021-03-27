@@ -161,3 +161,5 @@ Note: timestamps are external links
 > Collaborating with African artists via Discord - [51.55](https://youtu.be/CHze97JVM8A?t=3115) - Tyler Wales
 >
 > African art marketplace channel
+> 
+> Discussion -  [53.35](https://youtu.be/CHze97JVM8A?t=3215) - ccc
