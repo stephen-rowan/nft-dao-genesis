@@ -153,4 +153,6 @@ Note: timestamps are external links
 > 
 > Address this perception by bringing African artists onboard.
 > 
-> **Discussion** - [50.36]( https://youtu.be/CHze97JVM8A?t=3036) - 
+> **Discussion** - [50.36]( https://youtu.be/CHze97JVM8A?t=3036) - Andy, Troy Egan
+> 
+> Connecting with African communties
