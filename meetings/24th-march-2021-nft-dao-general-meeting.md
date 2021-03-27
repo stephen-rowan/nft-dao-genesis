@@ -128,5 +128,7 @@ Frankenstein, Chapter 23. Victor is consumed with grief after the death of Eliza
 
 {% embed url="https://pinata.cloud/" %}
 
+> Any research into medium term storage solutions ?
+
 
 
