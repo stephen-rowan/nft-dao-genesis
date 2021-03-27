@@ -106,16 +106,16 @@ Note: timestamps are external links
 
 {% embed url="https://ghostmarket.io/" caption="" %}
 
-{% embed url="https://eips.ethereum.org/EIPS/eip-1155" %}
+{% embed url="https://eips.ethereum.org/EIPS/eip-1155" caption="" %}
 
 > Street Art and NFTs - [21.10](https://youtu.be/CHze97JVM8A?t=1270) - Troy Egan, @sev, Dan Verowski
-
+>
 > Andy kickstarting market analysis - [23.17](https://youtu.be/CHze97JVM8A?t=1397) - Troy Egan, Andy
 
 ## Andy - Update on Animation - [24.02](https://youtu.be/CHze97JVM8A?t=1442) - Andy
 
 > Screen share - Shelley Animation - [25.47](https://youtu.be/CHze97JVM8A?t=1547) - Andy
-
+>
 > **Quote** "Nothing is so painful to the human mind as a great and sudden change. The sun might shine or the clouds might lower, but nothing could appear to me as it had done the day before." – Mary Shelley
 
 Frankenstein, Chapter 23. Victor is consumed with grief after the death of Elizabeth at the hands of the monster he created.
@@ -123,7 +123,10 @@ Frankenstein, Chapter 23. Victor is consumed with grief after the death of Eliza
 ## Competitive analysis of storage solutions  - [29.47](https://youtu.be/CHze97JVM8A?t=1787) - Tyler Wales, Dan Verowski
 
 > On-chain storage ? - Tyler Wales
-
+>
 > IPFS recommended - a pinning service like pinata - Dan Verowski
 
-https://pinata.cloud/
+{% embed url="https://pinata.cloud/" %}
+
+
+
