@@ -158,4 +158,5 @@ Note: timestamps are external links
 > 
 > Connecting with African communties
 > 
-> Inviting and collaborating with African artists via Discord
+> Collaborating with African artists via Discord - [51.55](https://youtu.be/CHze97JVM8A?t=3115) - Tyler Wales
+
