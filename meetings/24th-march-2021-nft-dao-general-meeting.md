@@ -158,4 +158,4 @@ Note: timestamps are external links
 > 
 > Connecting with African communties
 > 
-> Inviting and assisting African artists via Discord
+> Inviting and collaborating with African artists via Discord
