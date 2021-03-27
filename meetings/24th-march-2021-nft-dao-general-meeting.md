@@ -178,3 +178,7 @@ Note: timestamps are external links
 * Reach out to African Artists on Cataylst - Andy
 * Marketing HOLON developing infographics, branding of art marketplace, landing page - Tyler Wales
 * Research storage providers (IPFS etc) - Sev
+
+# Need Help ?
+
+* If any needs help give a callout to the NFT-DAO community on Discord - Troy Egan
