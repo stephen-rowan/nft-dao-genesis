@@ -134,3 +134,5 @@ Frankenstein, Chapter 23. Victor is consumed with grief after the death of Eliza
 ## Twitter Strategy - [33.53](https://youtu.be/CHze97JVM8A?t=2033) - New Mindflow
 
 > Blockchain energy consumption - Proof of Work versus Proof of Stake
+> 
+> Try to engage Artists in recognition of lesser environmental impact of Proof of Stake Blockchains
