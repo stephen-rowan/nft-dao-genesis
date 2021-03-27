@@ -118,7 +118,7 @@ Note: timestamps are external links
 >
 > **Quote** "Nothing is so painful to the human mind as a great and sudden change. The sun might shine or the clouds might lower, but nothing could appear to me as it had done the day before." – Mary Shelley
 
-Frankenstein, Chapter 23. Victor is consumed with grief after the death of Elizabeth at the hands of the monster he created.
+*Frankenstein, Chapter 23. Victor is consumed with grief after the death of Elizabeth at the hands of the monster he created.*
 
 ## Competitive analysis of storage solutions  - [29.47](https://youtu.be/CHze97JVM8A?t=1787) - Tyler Wales, Dan Verowski
 
