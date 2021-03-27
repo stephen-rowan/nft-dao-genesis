@@ -139,4 +139,6 @@ Frankenstein, Chapter 23. Victor is consumed with grief after the death of Eliza
 > 
 > Environmental competitive adavantage of Cardano's Proof of Stake technology.
 > 
+> Need to avoid division between PoW and Pos communities.
+> 
 > Discussion - [35.52](https://youtu.be/CHze97JVM8A?t=2152) - @sev, New Mindflow, Tyler Wales, Dan Verowski
