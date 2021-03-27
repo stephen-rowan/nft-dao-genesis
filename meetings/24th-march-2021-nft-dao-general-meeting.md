@@ -150,3 +150,5 @@ Frankenstein, Chapter 23. Victor is consumed with grief after the death of Eliza
 > Energy comparision with Social Media giants, established financial system.
 > 
 > Perception of elitist NFT market among artists - [49.04](https://youtu.be/CHze97JVM8A?t=2944) - Andy
+> 
+> Address this perception by bringing African artists onboard.
