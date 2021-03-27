@@ -12,11 +12,11 @@ description: >-
 
 Note: timestamps are external links
 
-## Introductions - [0.04](https://youtu.be/CHze97JVM8A?t=4)
+### Introductions - [0.04](https://youtu.be/CHze97JVM8A?t=4)
 
 > Tyler Wales, Rich Kopcho, Sev, Dan Verowski
 
-## The quest to get to market - [0.43](https://youtu.be/CHze97JVM8A?t=43) - Rich Kopcho
+### The quest to get to market - [0.43](https://youtu.be/CHze97JVM8A?t=43) - Rich Kopcho
 
 > Opportunity to work with PSG Team at IOG
 >
@@ -24,11 +24,11 @@ Note: timestamps are external links
 >
 > NFT-DAO will progress on assumption of a live auction in 6 weeks time
 
-## Development update - [2.16](https://youtu.be/CHze97JVM8A?t=136) - Rich Kopcho
+### Development update - [2.16](https://youtu.be/CHze97JVM8A?t=136) - Rich Kopcho
 
 > @Yagi making a lot of progress laying out what the architecture should be. IOG to provide a Chief Architect to advise
 
-## Marketing update - [3.16](https://youtu.be/CHze97JVM8A?t=195) - Tyler Wales
+### Marketing update - [3.16](https://youtu.be/CHze97JVM8A?t=195) - Tyler Wales
 
 > Landing page
 >
@@ -42,7 +42,7 @@ Note: timestamps are external links
 >
 > @OctoberBlack \(Philip\) taking lead on building partnerships
 
-### Video Strategy - [5.05](https://youtu.be/CHze97JVM8A?t=305) - New Mindflow
+#### Video Strategy - [5.05](https://youtu.be/CHze97JVM8A?t=305) - New Mindflow
 
 > Released first interview
 >
@@ -52,7 +52,7 @@ Note: timestamps are external links
 >
 > Kaizen Crypto to be involved - [6.17](https://youtu.be/CHze97JVM8A?t=377) - Rich Kopcho
 
-## Numbers update - [6.53](https://youtu.be/CHze97JVM8A?t=413) - Tyler Wales
+### Numbers update - [6.53](https://youtu.be/CHze97JVM8A?t=413) - Tyler Wales
 
 | Platform | Numbers |
 | :--- | :--- |
@@ -69,7 +69,7 @@ Note: timestamps are external links
 >
 > Social Media expert at RedHat might be interested in joining DAO - [9.50](https://youtu.be/CHze97JVM8A?t=590) - @sev
 
-## Governance update - [10.57](https://youtu.be/CHze97JVM8A?t=657) - Troy Egan
+### Governance update - [10.57](https://youtu.be/CHze97JVM8A?t=657) - Troy Egan
 
 * Actions - Discord Channel redesign
 * Marketing Meeting
@@ -86,13 +86,13 @@ Note: timestamps are external links
 * Next Business Planning Meeting in Two Weeks
 * Continuing work on the GitBook / Business Plan Presentation - @stephen.rowan
 
-## Competitive Analysis - [14.56](https://youtu.be/CHze97JVM8A?t=896) - @sev
+### Competitive Analysis - [14.56](https://youtu.be/CHze97JVM8A?t=896) - @sev
 
 > Fast moving NFT market
 >
 > Focusing on analysis of the more static .. commission structures, royalty models
 
-### The Ghost Market
+#### The Ghost Market
 
 > have option to store data directly with an NFT \(via IPFS or onchain\) - [17.00](https://youtu.be/CHze97JVM8A?t=1020) - Dan Verowski
 >
@@ -112,73 +112,72 @@ Note: timestamps are external links
 >
 > Andy kickstarting market analysis - [23.17](https://youtu.be/CHze97JVM8A?t=1397) - Troy Egan, Andy
 
-## Andy - Update on Animation - [24.02](https://youtu.be/CHze97JVM8A?t=1442) - Andy
+### Andy - Update on Animation - [24.02](https://youtu.be/CHze97JVM8A?t=1442) - Andy
 
 > Screen share - Shelley Animation - [25.47](https://youtu.be/CHze97JVM8A?t=1547) - Andy
 >
 > **Quote** "Nothing is so painful to the human mind as a great and sudden change. The sun might shine or the clouds might lower, but nothing could appear to me as it had done the day before." – Mary Shelley
 
-*Frankenstein, Chapter 23. Victor is consumed with grief after the death of Elizabeth at the hands of the monster he created.*
+_Frankenstein, Chapter 23. Victor is consumed with grief after the death of Elizabeth at the hands of the monster he created._
 
-## Competitive analysis of storage solutions  - [29.47](https://youtu.be/CHze97JVM8A?t=1787) - Tyler Wales, Dan Verowski
+### Competitive analysis of storage solutions  - [29.47](https://youtu.be/CHze97JVM8A?t=1787) - Tyler Wales, Dan Verowski
 
 > On-chain storage ? - Tyler Wales
 >
 > IPFS recommended - a pinning service like pinata - Dan Verowski
 
-{% embed url="https://pinata.cloud/" %}
+{% embed url="https://pinata.cloud/" caption="" %}
 
 > Competitive analysis of distributed storage solutions required.
 
-
-## Twitter Strategy - [33.53](https://youtu.be/CHze97JVM8A?t=2033) - New Mindflow
+### Twitter Strategy - [33.53](https://youtu.be/CHze97JVM8A?t=2033) - New Mindflow
 
 > Blockchain energy consumption - Proof of Work versus Proof of Stake
-> 
+>
 > Try to engage Artists in recognition of lesser environmental impact of Proof of Stake Blockchains.
-> 
+>
 > Environmental competitive adavantage of Cardano's Proof of Stake technology.
-> 
+>
 > Need to avoid division between PoW and Pos communities.
-> 
+>
 > **Discussion** - [35.52](https://youtu.be/CHze97JVM8A?t=2152) - Sev, New Mindflow, Tyler Wales, Dan Verowski
-> 
+>
 > How much energy each Social Media Platform uses ? [44.34](https://youtu.be/CHze97JVM8A?t=2665) - Troy Egan
-> 
+>
 > **Discussion** - [46.50](https://youtu.be/CHze97JVM8A?t=2810) - New Mindflow, Tyler Wales, Dan Verowski
-> 
+>
 > Energy comparision with Social Media giants, established financial system.
- 
 
-## Perception of elitist NFT market among artists - [49.04](https://youtu.be/CHze97JVM8A?t=2944) - Andy
- 
+### Perception of elitist NFT market among artists - [49.04](https://youtu.be/CHze97JVM8A?t=2944) - Andy
+
 > Address this perception by bringing African artists onboard.
-> 
+>
 > **Discussion** - [50.36](https://youtu.be/CHze97JVM8A?t=3036) - Andy, Troy Egan, Tyler Wales
-> 
+>
 > Connecting with African communties
-> 
+>
 > Collaborating with African artists via Discord - [51.55](https://youtu.be/CHze97JVM8A?t=3115) - Tyler Wales
 >
 > African art marketplace channel
-> 
-## AOB
+>
+> ### AOB
 
-### Introducing Chadwick - Social Media contribution -  [53.35](https://youtu.be/CHze97JVM8A?t=3215) - Sev
- 
+#### Introducing Chadwick - Social Media contribution -  [53.35](https://youtu.be/CHze97JVM8A?t=3215) - Sev
+
 > Corporate marketing / Crypto Miner
 
-### Energy Usage reprise discussion - Social Media Giants - [54.39](https://youtu.be/CHze97JVM8A?t=3279) - Troy Egan, Dan Verowski, New Mindflow, Tyler Wales
-> 
-> Cardano only using 6 Gigawatt hours (GWh) 
+#### Energy Usage reprise discussion - Social Media Giants - [54.39](https://youtu.be/CHze97JVM8A?t=3279) - Troy Egan, Dan Verowski, New Mindflow, Tyler Wales
 
-## TODO Actions - [57.15](https://youtu.be/CHze97JVM8A?t=3435) - Troy Egan
+> Cardano only using 6 Gigawatt hours \(GWh\)
+
+### TODO Actions - [57.15](https://youtu.be/CHze97JVM8A?t=3435) - Troy Egan
 
 * Troy to send environmental data to New Mindflow
 * Reach out to African Artists on Cataylst - Andy
 * Marketing HOLON developing infographics, branding of art marketplace, landing page - Tyler Wales
-* Research storage providers (IPFS etc) - Sev
+* Research storage providers \(IPFS etc\) - Sev
 
-# Need Help ?
+## Need Help ?
 
 * If any needs help give a callout to the NFT-DAO community on Discord - Troy Egan
+
