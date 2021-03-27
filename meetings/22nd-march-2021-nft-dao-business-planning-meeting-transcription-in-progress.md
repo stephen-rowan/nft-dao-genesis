@@ -315,6 +315,9 @@ Discord context \(Business Planning Channel\):
 >
 > Level of participation - [1.55.29](https://youtu.be/wnaXlv9onAo?t=6913) - @newmindflow
 >
+
+## Tokenomics
+
 > We don't need a lot of people bidding - we need the rignt people - [1.55.48](https://youtu.be/wnaXlv9onAo?t=6948) - Rich Kopcho
 
-> WE should focus on letting the market set a price - [1.57.09](https://youtu.be/wnaXlv9onAo?t=7029) - New Mindflow
+> We should focus on letting the market set a price - [1.57.09](https://youtu.be/wnaXlv9onAo?t=7029) - New Mindflow, Rich Kopcho
