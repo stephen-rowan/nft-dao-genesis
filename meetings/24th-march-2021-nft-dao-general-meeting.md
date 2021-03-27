@@ -154,7 +154,7 @@ Note: timestamps are external links
  
 > Address this perception by bringing African artists onboard.
 > 
-> **Discussion** - [50.36]( https://youtu.be/CHze97JVM8A?t=3036) - Andy, Troy Egan, Tyler Wales
+> **Discussion** - [50.36](https://youtu.be/CHze97JVM8A?t=3036) - Andy, Troy Egan, Tyler Wales
 > 
 > Connecting with African communties
 > 
@@ -168,4 +168,4 @@ Note: timestamps are external links
 > 
 > Corporate marketing / Crypto Miner
 > 
->
+> **Energy Usage - Socail Media Giants** - [54.39](https://youtu.be/CHze97JVM8A?t=3279)
