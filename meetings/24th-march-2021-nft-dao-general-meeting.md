@@ -93,10 +93,11 @@ Note: timestamps are external links
 
 ## The Ghost Market
 
-* - have option to store data directly with an NFT \(via IPFS or onchain\) - [17.00](https://youtu.be/CHze97JVM8A?t=1020) - Dan Verowski
-* - allow you to pre-mint NFTs - [17.46](https://youtu.be/CHze97JVM8A?t=1066) - Tyler Wales
+> have option to store data directly with an NFT \(via IPFS or onchain\) - [17.00](https://youtu.be/CHze97JVM8A?t=1020) - Dan Verowski
 
-  > Reference
+> allow you to pre-mint NFTs - [17.46](https://youtu.be/CHze97JVM8A?t=1066) - Tyler Wales
+
+> Reference
 
 {% embed url="https://ghostmarket.io/" %}
 
