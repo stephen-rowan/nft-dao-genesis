@@ -164,10 +164,10 @@ Note: timestamps are external links
 > 
 ## AOB
 
-* Introducing Chadwick - Social Media contribution -  [53.35](https://youtu.be/CHze97JVM8A?t=3215) - Sev
+### Introducing Chadwick - Social Media contribution -  [53.35](https://youtu.be/CHze97JVM8A?t=3215) - Sev
  
 > Corporate marketing / Crypto Miner
 
-* Energy Usage reprise discussion - Social Media Giants - [54.39](https://youtu.be/CHze97JVM8A?t=3279) - Troy Egan, Dan Verowski, New Mindflow, Tyler Wales
+### Energy Usage reprise discussion - Social Media Giants - [54.39](https://youtu.be/CHze97JVM8A?t=3279) - Troy Egan, Dan Verowski, New Mindflow, Tyler Wales
 > 
 > Cardano only using 6 Gigawatt hours (GWh) 
