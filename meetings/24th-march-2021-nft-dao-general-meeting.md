@@ -91,8 +91,10 @@ Note: timestamps are external links
 
 > Focusing on analysis of the more static .. commission structures, royalty models
 
-* The Ghost Market  - have option to store data directly with an NFT \(via IPFS or onchain\) - [17.00](https://youtu.be/CHze97JVM8A?t=1020) - Dan Verowski
-* The Ghost Market  - allow you to pre-mint NFTs - [17.46](https://youtu.be/CHze97JVM8A?t=1066) - Tyler Wales
+## The Ghost Market
+
+* - have option to store data directly with an NFT \(via IPFS or onchain\) - [17.00](https://youtu.be/CHze97JVM8A?t=1020) - Dan Verowski
+* - allow you to pre-mint NFTs - [17.46](https://youtu.be/CHze97JVM8A?t=1066) - Tyler Wales
 
   > Reference
 
