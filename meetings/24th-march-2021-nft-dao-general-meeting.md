@@ -176,3 +176,4 @@ Note: timestamps are external links
 
 * Troy to send environmental data to New Mindflow
 * Reach out to African Artists on Cataylst - Andy
+* Marketing HOLON developing infographics, art marketplace strategy - Tyler Wales
