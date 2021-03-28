@@ -339,3 +339,5 @@ Discord context \(Business Planning Channel\):
 |  |  | Buyers/Sellers |
 |  |  | Marketplace & Contracts |
 
+What should our Business Plan point us to ?
+
