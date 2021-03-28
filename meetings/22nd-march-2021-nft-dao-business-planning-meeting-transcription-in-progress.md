@@ -390,3 +390,9 @@ What should our Business Plan point us to ?
 > Need to carefully scope Governance Tokens  -  [2.21.50](https://youtu.be/wnaXlv9onAo?t=8510) - Tyler Wales
 
 > Possible abuses of the system
+
+> Vesting period -  [2.22.53](https://youtu.be/wnaXlv9onAo?t=8573) - Dan Verowski
+
+> Building trust, having a solid model to communicate
+
+> Fixed limits on allocation of tokens -  [2.24.04](https://youtu.be/wnaXlv9onAo?t=8644) - New Mindflow
