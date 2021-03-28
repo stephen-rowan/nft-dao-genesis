@@ -387,4 +387,6 @@ What should our Business Plan point us to ?
 * are geared towards day-to-day utility of NFTs
 > 
 
-> Discussion -  [2.21.50](https://youtu.be/wnaXlv9onAo?t=8510) - 
+> Need to carefully scope Governance Tokens  -  [2.21.50](https://youtu.be/wnaXlv9onAo?t=8510) - Tyler Wales
+
+> Possible abuses of the system
