@@ -341,3 +341,4 @@ Discord context \(Business Planning Channel\):
 
 What should our Business Plan point us to ?
 
+### HOLON Guidelines - [1.58.22](https://youtu.be/wnaXlv9onAo?t=7372) - Troy Egan
