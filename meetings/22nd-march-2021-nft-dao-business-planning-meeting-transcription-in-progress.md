@@ -331,7 +331,7 @@ Discord context \(Business Planning Channel\):
 | :--- | :--- | :--- |
 | ETH | ADA Market | Transaction Fees |
 | OpenSea |  | % of Revenues |
-| Rariable |  | Saas |
-|  |  | Content Management |
+| Rariable |  | Saas Operation Model |
+|  |  | Contract Development |
 |  |  |  |
 
