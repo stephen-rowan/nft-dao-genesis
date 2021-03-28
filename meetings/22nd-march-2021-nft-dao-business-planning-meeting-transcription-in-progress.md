@@ -381,3 +381,9 @@ What should our Business Plan point us to ?
  
 > Store of value -  [2.20.53](https://youtu.be/wnaXlv9onAo?t=8453) - Dan Verowski
 
+> Distinction between tokens that :
+
+* have a deflationary store of value which attracts investors looking for scarcity and voting powers analogous to Board members
+* are geared towards day-to-day utility of NFTs
+> 
+
