@@ -359,7 +359,7 @@ What should our Business Plan point us to ?
 
 {% embed url="https://memefactory.io/" %}
 
-> memefactory has an interesting business model where locked tokens receive rewards (like privileged access to NFT Drops)
+> memefactory has an interesting business model where locked meme tokens receive pineapple rewards (like privileged access to NFT Drops)
 
 
 
