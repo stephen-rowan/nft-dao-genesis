@@ -324,3 +324,5 @@ Discord context \(Business Planning Channel\):
 > 
 
 ### Business Models - [1.58.22](https://youtu.be/wnaXlv9onAo?t=7102) - Rich Kopcho
+
+> What business models need to look like
