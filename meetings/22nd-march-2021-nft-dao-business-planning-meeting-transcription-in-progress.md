@@ -365,4 +365,4 @@ What should our Business Plan point us to ?
 
 > Suggestion : Incorporate a similar reward system within NFT-DAO
 
-
+> Is there a clear distinction between NFT-DAO Governance and Utility token use cases ? - [2.15.02](https://youtu.be/wnaXlv9onAo?t=8102) - Dan Verowski
