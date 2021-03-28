@@ -375,3 +375,5 @@ What should our Business Plan point us to ?
 > 
 > Challenges to proposed memes (NFTs) are costly in terms of token investment.
 
+> NFT-DAO Governance and Utility tokens - [2.18.12](https://youtu.be/wnaXlv9onAo?t=8292) -  Troy Egan
+
