@@ -396,3 +396,5 @@ What should our Business Plan point us to ?
 > Building trust, having a solid model to communicate
 
 > Fixed limits on allocation of tokens -  [2.24.04](https://youtu.be/wnaXlv9onAo?t=8644) - New Mindflow
+
+> Discussion [2.24.38](https://youtu.be/wnaXlv9onAo?t=8678) - Troy Egan, Tyler Wales, New Mindflow, Dan Verowski
