@@ -345,4 +345,4 @@ What should our Business Plan point us to ?
 
 > HOLON etiquette -how do we communicate in respectful way ?
 > 
-> How to capture value added in Discord ?
+> How to capture/reward value added in Discord ?
