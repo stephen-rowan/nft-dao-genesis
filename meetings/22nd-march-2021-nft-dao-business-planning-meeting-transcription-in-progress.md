@@ -360,6 +360,8 @@ What should our Business Plan point us to ?
 {% embed url="https://memefactory.io/" %}
 
 > memefactory has an interesting business model where locked meme tokens receive pineapple rewards (like privileged access to NFT Drops)
+> 
+> Nifty because : If token holders have to actively participate in claiming token rewards then they do not count as legal dividends subject to KYC (Know your customer)
 
 
 
