@@ -398,3 +398,5 @@ What should our Business Plan point us to ?
 > Fixed limits on allocation of tokens -  [2.24.04](https://youtu.be/wnaXlv9onAo?t=8644) - New Mindflow
 
 > Discussion [2.24.38](https://youtu.be/wnaXlv9onAo?t=8678) - Troy Egan, Tyler Wales, New Mindflow, Dan Verowski
+
+## Thank You  [2.28.08](https://youtu.be/wnaXlv9onAo?t=8888) - Troy Egan
