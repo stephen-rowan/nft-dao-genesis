@@ -321,9 +321,9 @@ Discord context \(Business Planning Channel\):
 >
 > We should focus on letting the market set a price - [1.57.09](https://youtu.be/wnaXlv9onAo?t=7029) - New Mindflow, Rich Kopcho, Tyler Wales
 
-### Business Models - [1.58.22](https://youtu.be/wnaXlv9onAo?t=7102) - Rich Kopcho
+### Revenue Models - [1.58.22](https://youtu.be/wnaXlv9onAo?t=7102) - Rich Kopcho
 
-> What business models need to look like
+> What are the best and brightest revenue models ?
 
 ![](../.gitbook/assets/screen.jpg)
 
