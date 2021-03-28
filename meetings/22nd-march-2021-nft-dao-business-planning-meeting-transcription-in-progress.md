@@ -344,18 +344,20 @@ What should our Business Plan point us to ?
 ## HOLON Guidelines - [2.02.52](https://youtu.be/wnaXlv9onAo?t=7372) - Troy Egan
 
 > HOLON etiquette -how do we communicate in respectful way ?
- 
+>
 > How to capture/reward value added in Discord ?
-
-> GitHub good at tracking changes /contributions - [2.07.08](https://youtu.be/wnaXlv9onAo?t=7628) -  Dan Verowski
-
+>
+> GitHub good at tracking changes /contributions - [2.07.08](https://youtu.be/wnaXlv9onAo?t=7628) - Dan Verowski
+>
 > Tag conversations in Discord for documentation - [2.07.44](https://youtu.be/wnaXlv9onAo?t=7664) - Tyler Wales
- 
+
 ## Token Model - [2.08.20](https://youtu.be/wnaXlv9onAo?t=7700) -  Dan Verowski
 
 > Whos Who in each HOLON ? - [2.09.26](https://youtu.be/wnaXlv9onAo?t=7766) - Hud
+>
+> memefactory - [2.12.15](https://youtu.be/wnaXlv9onAo?t=7935) - Dan Verowski
 
-> memefactory - [2.12.15](https://youtu.be/wnaXlv9onAo?t=7935) -  Dan Verowski
+{% embed url="https://memefactory.io/" %}
 
-https://memefactory.io/
+
 
