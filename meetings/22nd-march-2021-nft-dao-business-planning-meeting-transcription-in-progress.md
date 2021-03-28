@@ -372,4 +372,6 @@ What should our Business Plan point us to ?
 > memefactory has a built-in QA process - [2.15.57](https://youtu.be/wnaXlv9onAo?t=8157) -  Troy Egan
 
 > Useful community vetting process - avoids spam - promotes quality
+> 
+> Challenges to proposed memes (NFTs) are costly in terms of token investment.
 
