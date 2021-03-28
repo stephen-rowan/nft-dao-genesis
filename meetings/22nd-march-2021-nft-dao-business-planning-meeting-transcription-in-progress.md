@@ -327,11 +327,15 @@ Discord context \(Business Planning Channel\):
 
 ![](../.gitbook/assets/screen.jpg)
 
-| The Market | Needs/Wants | NFT Revenue Models |
+| **The Market** | **Needs/Wants** | **NFT Revenue Models** |
 | :--- | :--- | :--- |
 | ETH | ADA Market | Transaction Fees |
 | OpenSea |  | % of Revenues |
 | Rariable |  | Saas Operation Model |
 |  |  | Contract Development |
-|  |  |  |
+|  |  | Consulting |
+|  |  | Stakepool |
+|  |  | **Dependencies** |
+|  |  | Buyers/Sellers |
+|  |  | Marketplace & Contracts |
 
