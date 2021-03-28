@@ -377,5 +377,5 @@ What should our Business Plan point us to ?
 
 > NFT-DAO Governance and Utility tokens - [2.18.12](https://youtu.be/wnaXlv9onAo?t=8292) -  Troy Egan
 
-> Research needed on different token ecologies
+> Research needed on different token ecologies. Token use to be constrained with the NFT-DAO platform in some manner.
 
