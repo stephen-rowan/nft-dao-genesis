@@ -315,7 +315,7 @@ Discord context \(Business Planning Channel\):
 >
 > Level of participation - [1.55.29](https://youtu.be/wnaXlv9onAo?t=6913) - @newmindflow
 
-## Tokenomics
+## Revenue Models
 
 > We don't need a lot of people bidding - we need the rignt people - [1.55.48](https://youtu.be/wnaXlv9onAo?t=6948) - Rich Kopcho
 >
@@ -351,7 +351,7 @@ What should our Business Plan point us to ?
 >
 > Tag conversations in Discord for documentation - [2.07.44](https://youtu.be/wnaXlv9onAo?t=7664) - Tyler Wales
 
-## Token Model - [2.08.20](https://youtu.be/wnaXlv9onAo?t=7700) -  Dan Verowski
+## Tokenomics - [2.08.20](https://youtu.be/wnaXlv9onAo?t=7700) -  Dan Verowski
 
 > Whos Who in each HOLON ? - [2.09.26](https://youtu.be/wnaXlv9onAo?t=7766) - Hud
 >
@@ -368,3 +368,5 @@ What should our Business Plan point us to ?
 > Is there a clear distinction between NFT-DAO Governance and Utility token use cases ? - [2.15.02](https://youtu.be/wnaXlv9onAo?t=8102) - Dan Verowski
 
 > Preference for two seperate NFT-DAO Governance and Utility tokens to balance associated voting powers.
+
+> Discussion - [2.15.57](https://youtu.be/wnaXlv9onAo?t=8157) -  Troy Egan
