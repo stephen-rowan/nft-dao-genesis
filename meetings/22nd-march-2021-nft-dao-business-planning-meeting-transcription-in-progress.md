@@ -369,4 +369,6 @@ What should our Business Plan point us to ?
 
 > Preference for two seperate NFT-DAO Governance and Utility tokens to balance associated voting powers.
 
-> Discussion - [2.15.57](https://youtu.be/wnaXlv9onAo?t=8157) -  Troy Egan
+> memefactory has a built-in QA process - [2.15.57](https://youtu.be/wnaXlv9onAo?t=8157) -  Troy Egan
+ 
+
