@@ -353,3 +353,9 @@ What should our Business Plan point us to ?
  
 ## Token Model - [2.08.20](https://youtu.be/wnaXlv9onAo?t=7700) -  Dan Verowski
 
+> Whos Who in each HOLON ? - [2.09.26](https://youtu.be/wnaXlv9onAo?t=7766) - Hud
+
+> memefactory - [2.12.15](https://youtu.be/wnaXlv9onAo?t=7935) -  Dan Verowski
+
+https://memefactory.io/
+
