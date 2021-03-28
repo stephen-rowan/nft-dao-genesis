@@ -347,4 +347,4 @@ What should our Business Plan point us to ?
  
 > How to capture/reward value added in Discord ?
 
-> Discussion - [2.07.08](https://youtu.be/wnaXlv9onAo?t=7628) -  Dan Verowski
+> GitHub good at tracking changes /contributions - [2.07.08](https://youtu.be/wnaXlv9onAo?t=7628) -  Dan Verowski
