@@ -363,5 +363,6 @@ What should our Business Plan point us to ?
 > 
 > Nifty because : If token holders have to actively participate in claiming token rewards then they do not count as legal dividends subject to KYC (Know your customer)
 
+> Suggestion : Incorporate a similar reward system within NFT-DAO
 
 
