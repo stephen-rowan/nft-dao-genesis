@@ -344,5 +344,7 @@ What should our Business Plan point us to ?
 ### HOLON Guidelines - [2.02.52](https://youtu.be/wnaXlv9onAo?t=7372) - Troy Egan
 
 > HOLON etiquette -how do we communicate in respectful way ?
-> 
+ 
 > How to capture/reward value added in Discord ?
+
+> Discussion - [2.07.08](https://youtu.be/wnaXlv9onAo?t=7628) -  Dan Verowski
