@@ -384,6 +384,7 @@ What should our Business Plan point us to ?
 > Distinction between tokens that :
 
 > 1) have a deflationary store of value which attracts investors looking for scarcity and voting powers analogous to Board members
+
 > 2) are geared towards day-to-day utility of NFTs
 
 > Need to carefully scope Governance Tokens - [2.21.50](https://youtu.be/wnaXlv9onAo?t=8510) - Tyler Wales
