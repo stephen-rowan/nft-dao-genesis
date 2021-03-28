@@ -357,46 +357,48 @@ What should our Business Plan point us to ?
 >
 > memefactory - [2.12.15](https://youtu.be/wnaXlv9onAo?t=7935) - Dan Verowski
 
-{% embed url="https://memefactory.io/" %}
+{% embed url="https://memefactory.io/" caption="" %}
 
-> memefactory has an interesting business model where locked meme tokens receive pineapple rewards (like privileged access to NFT Drops)
-> 
-> Nifty because : If token holders have to actively participate in claiming token rewards then they do not count as legal dividends subject to KYC (Know your customer)
-
+> memefactory has an interesting business model where locked meme tokens receive pineapple rewards \(like privileged access to NFT Drops\)
+>
+> Nifty because : If token holders have to actively participate in claiming token rewards then they do not count as legal dividends subject to KYC \(Know your customer\)
+>
 > Suggestion : Incorporate a similar reward system within NFT-DAO
-
+>
 > Is there a clear distinction between NFT-DAO Governance and Utility token use cases ? - [2.15.02](https://youtu.be/wnaXlv9onAo?t=8102) - Dan Verowski
-
+>
 > Preference for two seperate NFT-DAO Governance and Utility tokens to balance associated voting powers.
-
-> memefactory has a built-in QA process - [2.15.57](https://youtu.be/wnaXlv9onAo?t=8157) -  Troy Egan
-
+>
+> memefactory has a built-in QA process - [2.15.57](https://youtu.be/wnaXlv9onAo?t=8157) - Troy Egan
+>
 > Useful community vetting process - avoids spam - promotes quality
-> 
-> Challenges to proposed memes (NFTs) are costly in terms of token investment.
-
-> NFT-DAO Governance and Utility tokens - [2.18.12](https://youtu.be/wnaXlv9onAo?t=8292) -  Troy Egan
-
+>
+> Challenges to proposed memes \(NFTs\) are costly in terms of token investment.
+>
+> NFT-DAO Governance and Utility tokens - [2.18.12](https://youtu.be/wnaXlv9onAo?t=8292) - Troy Egan
+>
 > Research needed on different token ecologies. Token use to be constrained with the NFT-DAO platform in some way.
- 
-> Store of value -  [2.20.53](https://youtu.be/wnaXlv9onAo?t=8453) - Dan Verowski
-
+>
+> Store of value - [2.20.53](https://youtu.be/wnaXlv9onAo?t=8453) - Dan Verowski
+>
 > Distinction between tokens that :
 
 * have a deflationary store of value which attracts investors looking for scarcity and voting powers analogous to Board members
 * are geared towards day-to-day utility of NFTs
-> 
 
-> Need to carefully scope Governance Tokens  -  [2.21.50](https://youtu.be/wnaXlv9onAo?t=8510) - Tyler Wales
+  >
 
+> Need to carefully scope Governance Tokens - [2.21.50](https://youtu.be/wnaXlv9onAo?t=8510) - Tyler Wales
+>
 > Possible abuses of the system
-
-> Vesting period -  [2.22.53](https://youtu.be/wnaXlv9onAo?t=8573) - Dan Verowski
-
+>
+> Vesting period - [2.22.53](https://youtu.be/wnaXlv9onAo?t=8573) - Dan Verowski
+>
 > Building trust, having a solid model to communicate
-
-> Fixed limits on allocation of tokens -  [2.24.04](https://youtu.be/wnaXlv9onAo?t=8644) - New Mindflow
-
+>
+> Fixed limits on allocation of tokens - [2.24.04](https://youtu.be/wnaXlv9onAo?t=8644) - New Mindflow
+>
 > Discussion [2.24.38](https://youtu.be/wnaXlv9onAo?t=8678) - Troy Egan, Tyler Wales, New Mindflow, Dan Verowski
 
 ## Thank You  [2.28.08](https://youtu.be/wnaXlv9onAo?t=8888) - Troy Egan
+
