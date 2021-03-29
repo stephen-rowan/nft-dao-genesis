@@ -20,15 +20,14 @@ Name ideas receiving 30% or more yes votes are:
 | **Name** | **Percentage** |
 | :--- | :--- |
 | AdaMint|  50%|
-AdaMint 50%
-Cadence 45.5%
-Emergence 40.9%
-Genesis 40.9%
-StudioDAO 40.9%
-Spark 36.4%
-Magna 36.4%
-Akkadia 31.8%
-Arthaus 31.8%
+| Cadence | 45.5% |
+| Emergence | 40.9% | 
+| Genesis | 40.9% |
+| StudioDAO | 40.9% |
+| Spark | 36.4% |
+| Magna | 36.4% |
+| Akkadia | 31.8% |
+| Arthaus | 31.8% |
  
 ## Notes:
 MagnaMint and AdaMint did not receive as many votes as the others as they were late additions to the survey based on Dan’s canvas that he shared in this channel.
