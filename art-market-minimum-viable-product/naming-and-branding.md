@@ -28,11 +28,11 @@ Name ideas receiving 30% or more yes votes are:
 | Akkadia | 31.8% |
 | Arthaus | 31.8% |
 
-### Notes:
+#### Notes:
 
 MagnaMint and AdaMint did not receive as many votes as the others as they were late additions to the survey based on Dan’s canvas that he shared in this channel.
 
-### Please consider:
+#### Please consider:
 
 Even though some of these names did well in the community vote, there can be reasons that deem them unusable. For example, “Spark” seems like a solid name, but when you do a google search you will find that it has already been used to name multiple software companies and the Chevy SPARK
 
