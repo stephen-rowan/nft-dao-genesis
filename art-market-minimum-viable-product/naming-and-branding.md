@@ -40,6 +40,8 @@ Even though some of these names did well in the community vote, there can be rea
 
 {% embed url="https://5dslehywd1u.typeform.com/report/TDgow1Xx/sZRULt5SwOpK2U1Y" caption="" %}
 
+We will be taking these results as well as the original Marketing Holon recommendations into consideration as we move forward with choosing a name through the next vote. Let us know what you think of this process and the results so far
+
 #### Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/823295651323576340/826177995521523752" %}
