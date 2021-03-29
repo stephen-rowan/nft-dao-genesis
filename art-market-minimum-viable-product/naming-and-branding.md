@@ -17,6 +17,9 @@ Discord context
 
 Name ideas receiving 30% or more yes votes are:
 
+| **Name** | **Percentage** |
+| :--- | :--- |
+| AdaMint|  50%|
 AdaMint 50%
 Cadence 45.5%
 Emergence 40.9%
