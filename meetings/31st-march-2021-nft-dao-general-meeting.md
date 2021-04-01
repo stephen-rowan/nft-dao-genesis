@@ -38,11 +38,11 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 > How do we reward ourselves now with something that has some future viability ?
 
-**Contribution Token - 4.16 - Michael @Yagi, Tyler Wales**
+**Contribution Token - [4.16](https://youtu.be/O06zjbC55HM?t=256) - Michael @Yagi, Tyler Wales**
 
 > Naming the token - TIES \(e.g. railroad ties from Boxcar analogy\). Tying the group together.
 
-**Contribution Token Overview - 4.45 - Rich Kopcho**
+**Contribution Token Overview - [4.45](https://youtu.be/O06zjbC55HM?t=285) - Rich Kopcho**
 
 > Like some feedback on contribution tokens
 >
