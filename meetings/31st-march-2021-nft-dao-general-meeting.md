@@ -29,5 +29,7 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 > 
 > Overlap in NFTs between Finance and Education
 
+## Introducing Bruno - [2.44](https://youtu.be/O06zjbC55HM?t=164) - Rich Kopcho
+
 
 
