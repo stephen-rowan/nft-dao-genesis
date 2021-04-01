@@ -215,4 +215,4 @@ Reference :
 {% embed url="https://ergoplatform.org/en/blog/2020-09-25-nfts-on-ergo/" %}
 
 
-
+> What is the status of smart contract functionality ? [41.24](https://youtu.be/O06zjbC55HM?t=2484) - New Mindflow
