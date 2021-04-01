@@ -66,7 +66,9 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
  
 > People are incentivized to help other people.
 
-### cc - [7.39](https://youtu.be/O06zjbC55HM?t=459) - Rich Kopcho
+### Mentor of the Year Plaque - [7.39](https://youtu.be/O06zjbC55HM?t=459) - Rich Kopcho
+
+> cc
 
 
 
