@@ -142,3 +142,4 @@ Reference :
 
 > In the interim is there a way to distribute "kudo" like rewards to DAO partipants ? Something that could build value and be transferable (fungible) in the long-term.
 
+## ccc - [20.08](https://youtu.be/O06zjbC55HM?t=1208) - Sev
