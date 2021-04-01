@@ -19,7 +19,7 @@ Jonathan has background in product management and design
 
 Excited to have him onboard to help drive the MVP Auction
 
-## Jonathan Introduces himself - [0.57](https://youtu.be/O06zjbC55HM?t=57) - Jonathan
+## Jonathan - [0.57](https://youtu.be/O06zjbC55HM?t=57)
 
 From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
