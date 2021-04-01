@@ -139,3 +139,5 @@ Reference :
 > Should Governance HOLON research the contribution token ?  [18.14](https://youtu.be/O06zjbC55HM?t=1094) - Sev, Rich Kopcho 
 
 > The Governance token is a financial instrument with associated regualtory concerns
+
+> In the interim is there a way to distribute "kudo" like rewards to DAO partipants ?
