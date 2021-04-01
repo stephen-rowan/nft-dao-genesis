@@ -81,3 +81,6 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 > 6 core developers. Front, Back end and an Architect.
 
 > Team broke out into sections and did spikes (deep-dives into problems) on frameworks and techologies that we will be used.
+
+### Marketing - [10.12](https://youtu.be/O06zjbC55HM?t=612) - MTyler Wales
+
