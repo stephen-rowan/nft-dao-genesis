@@ -12,13 +12,13 @@ Note: timestamps are external links
 
 > Contributions, Overview from Team Leaders, New People to Introduce
 
-### Introducing Jonathan - [0.31](https://youtu.be/O06zjbC55HM?t=31) - Tyler Wales
+### Introducing Jonathan Looney - [0.31](https://youtu.be/O06zjbC55HM?t=31) - Tyler Wales
 
 Jonathan has background in product management and design
 
 Excited to have him onboard to help drive the MVP Auction
 
-### Jonathan - [0.57](https://youtu.be/O06zjbC55HM?t=57)
+### Jonathan Looney - [0.57](https://youtu.be/O06zjbC55HM?t=57)
 
 From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
@@ -164,7 +164,7 @@ Reference :
 
 > The regulation that comes with financial rewards can interrupt the innovative cadence/momentum of the DAO
 
-> Discussion - [29.28](https://youtu.be/O06zjbC55HM?t=1768) - Jonathan, Tyler Wales
+> Discussion - [29.28](https://youtu.be/O06zjbC55HM?t=1768) - Jonathan Looney, Tyler Wales
 
 > What's the initial state ?
 
@@ -174,7 +174,7 @@ Reference :
 
 > Value determined by perception of worth in the community.
 
-> How we distribute the token ?  [31.45](https://youtu.be/O06zjbC55HM?t=1905) - Jonathan
+> How we distribute the token ?  [31.45](https://youtu.be/O06zjbC55HM?t=1905) - Jonathan Looney
 
 > Happy to research best practices for token distribution.
 
