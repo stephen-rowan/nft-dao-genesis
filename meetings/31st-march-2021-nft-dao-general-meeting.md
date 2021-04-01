@@ -106,6 +106,6 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 > Additional artists interested - [13.27](https://youtu.be/O06zjbC55HM?t=807) - Jonathan
 
-> Application forms produced for artists to apply to be included in the MVP - [13.45](https://youtu.be/O06zjbC55HM?t=825) - Tyler Wales
+> Application forms (link to airtable) produced for artists to apply to be included in the MVP - [13.45](https://youtu.be/O06zjbC55HM?t=825) - Tyler Wales
 
 
