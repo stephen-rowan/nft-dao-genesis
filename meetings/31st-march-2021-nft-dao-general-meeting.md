@@ -149,3 +149,5 @@ Reference :
 > Being part of the genesis of the NFT DAO
 
 > Tokenomics - utility tokens, voting tokens - [24.24](https://youtu.be/O06zjbC55HM?t=1464) - Dan Verowski
+> 
+> Once NFT-DAO platform is mature introduce a deflationary governance token (that has scarcity).
