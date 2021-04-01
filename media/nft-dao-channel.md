@@ -26,6 +26,12 @@ description: NFT-DAO's Youtube Channel
 
 {% embed url="https://www.youtube.com/watch?v=U7OEHFOWPcM" %}
 
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/818950833986207765/825300670092541973" %}
+
+
+
 ## NFT-DAO Long Term Vision
 
 1st April 2021
