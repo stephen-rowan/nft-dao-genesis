@@ -54,5 +54,7 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 {% embed url="https://badcryptopodcast.com/" %}
 
+> Tie token to NFTs
+
 
 
