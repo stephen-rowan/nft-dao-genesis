@@ -94,7 +94,7 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 >
 > _Akkadia.io_ was a popular choice in the top percentage of marketing choice names as well as the community survey and we own the url.
 
-#### Auction - [11.40](https://youtu.be/O06zjbC55HM?t=700) - Tyler Wales
+### Auction - [11.40](https://youtu.be/O06zjbC55HM?t=700) - Tyler Wales
 
 > New Mindflow has produced a master document in a samepage folder that brings all HOLON contributions together in one place.
 >
@@ -114,7 +114,7 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 >
 > Data Ownership concerns - [14.21](https://youtu.be/O06zjbC55HM?t=861) - Dan Verowski, Tyler Wales
 
-#### New NFT-DAO Video coming out - [15.18](https://youtu.be/O06zjbC55HM?t=918) - New Mindflow
+### New NFT-DAO Video coming out - [15.18](https://youtu.be/O06zjbC55HM?t=918) - New Mindflow
 
 Reference :
 
