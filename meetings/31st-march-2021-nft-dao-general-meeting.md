@@ -56,5 +56,4 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 > Tie token to NFTs
 
-
-
+### ccc - [6.33](https://youtu.be/O06zjbC55HM?t=384) - Tyler Wales
