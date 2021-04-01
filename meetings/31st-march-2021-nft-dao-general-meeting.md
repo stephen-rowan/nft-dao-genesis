@@ -36,7 +36,7 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 > Bruno from France is a finance expert with a background in blockchain. Bruno will address what financial models need to look like as we move towards governance, how existing DAOs have rolled out their finances and consider the regulatory environment.
 
-### Governance Token - [3.35](https://youtu.be/O06zjbC55HM?t=215) - Rich Kopcho
+## Governance Token - [3.35](https://youtu.be/O06zjbC55HM?t=215) - Rich Kopcho
 
 > How do we reward ourselves now with something that has some future viability ?
 
@@ -72,7 +72,7 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 > Some evidence of contribution is always worthwhile
 
-### Auction MVP - [8.29](https://youtu.be/O06zjbC55HM?t=509) - Rich Kopcho
+## Auction MVP - [8.29](https://youtu.be/O06zjbC55HM?t=509) - Rich Kopcho
 
 > Auction HOLON group planning to meet for the first time on Thursday 1st April 2021
 
@@ -84,7 +84,7 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 >
 > Team broke out into sections and did spikes \(deep-dives into problems\) on frameworks and techologies that we will be used.
 
-### Marketing - [10.12](https://youtu.be/O06zjbC55HM?t=612) - Tyler Wales
+## Marketing - [10.12](https://youtu.be/O06zjbC55HM?t=612) - Tyler Wales
 
 > Art Marketplace Minimum Viable Product \(MVP\) naming experiment / process
 >
