@@ -63,3 +63,8 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 ### Mentoring - [6.46](https://youtu.be/O06zjbC55HM?t=406) - stephen.rowan
 
 > A reward for mentoring people - a mentor or TIE token.
+
+### cc - [7.39](https://www.youtube.com/watch?v=O06zjbC55HM&t=406s) - Rich Kopcho
+
+
+
