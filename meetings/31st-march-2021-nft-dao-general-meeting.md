@@ -68,7 +68,7 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 ### Mentor of the Year Plaque - [7.39](https://youtu.be/O06zjbC55HM?t=459) - Rich Kopcho
 
-> cc
+> Some evidence of contribution is always worthwhile
 
 
 
