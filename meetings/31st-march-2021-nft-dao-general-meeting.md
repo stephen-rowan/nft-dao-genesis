@@ -112,4 +112,12 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 > Data Ownership concerns - [14.21](https://youtu.be/O06zjbC55HM?t=861) - Dan Verowski, Tyler Wales
 
-> ccc - [15.18](https://youtu.be/O06zjbC55HM?t=918) - New Mindflow
+### New NFT-DAO Video coming out - [15.18](https://youtu.be/O06zjbC55HM?t=918) - New Mindflow
+
+Reference :
+
+> NFT-DAO Long Term Vision
+
+https://www.youtube.com/watch?v=tawHSD11ytY&t=149s
+
+
