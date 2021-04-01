@@ -132,7 +132,7 @@ Reference :
 
 > Meeting will discuss best practices on governance, benchmarking on other DAO projects, revenue generating models
 
-> Should Governance HOLON research the contribution token ?  [18.14](https://youtu.be/O06zjbC55HM?t=1094) - Sev, Rich Kopcho 
+### Should Governance HOLON research the contribution token ?  [18.14](https://youtu.be/O06zjbC55HM?t=1094) - Sev, Rich Kopcho 
 
 > The Governance token is a financial instrument with associated regualtory concerns
 
@@ -151,3 +151,5 @@ Reference :
 > Tokenomics - utility tokens, voting tokens - [24.24](https://youtu.be/O06zjbC55HM?t=1464) - Dan Verowski
 > 
 > Once NFT-DAO platform is mature introduce a deflationary governance token (that has scarcity).
+ 
+> Discussion - [25.55](https://youtu.be/O06zjbC55HM?t=1555) - Tyler Wales
