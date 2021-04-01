@@ -4,23 +4,25 @@ description: Timestamps for this meeting are being transcribed
 
 # 31st March, 2021, NFT-DAO General Meeting
 
-# 31st March, 2021, NFT-DAO General Meeting
+## 31st March, 2021, NFT-DAO General Meeting
+
+## 31st March, 2021, NFT-DAO General Meeting
 
 {% embed url="https://www.youtube.com/watch?v=O06zjbC55HM" caption="" %}
 
 Note: timestamps are external links
 
-# Introduction / Agenda - [0.02](https://youtu.be/O06zjbC55HM?t=2) - Rich Kopcho
+## Introduction / Agenda - [0.02](https://youtu.be/O06zjbC55HM?t=2) - Rich Kopcho
 
 > Contributions, Overview from Team Leaders, New People to Introduce
 
-## Introducing Jonathan - [0.31](https://youtu.be/O06zjbC55HM?t=31) - Tyler Wales
+### Introducing Jonathan - [0.31](https://youtu.be/O06zjbC55HM?t=31) - Tyler Wales
 
 Jonathan has background in product management and design
 
 Excited to have him onboard to help drive the MVP Auction
 
-## Jonathan - [0.57](https://youtu.be/O06zjbC55HM?t=57)
+### Jonathan - [0.57](https://youtu.be/O06zjbC55HM?t=57)
 
 From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
@@ -30,19 +32,19 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 >
 > Overlap in NFTs between Finance and Education
 
-## Introducing Bruno - [2.44](https://youtu.be/O06zjbC55HM?t=164) - Rich Kopcho
+### Introducing Bruno - [2.44](https://youtu.be/O06zjbC55HM?t=164) - Rich Kopcho
 
 > Bruno from France is a finance expert with a background in blockchain. Bruno will address what financial models need to look like as we move towards governance, how existing DAOs have rolled out their finances and consider the regulatory environment.
 
-## Governance Token - [3.35](https://youtu.be/O06zjbC55HM?t=215) - Rich Kopcho
+### Governance Token - [3.35](https://youtu.be/O06zjbC55HM?t=215) - Rich Kopcho
 
 > How do we reward ourselves now with something that has some future viability ?
 
-### Contribution Token - [4.16](https://youtu.be/O06zjbC55HM?t=256) - Michael @Yagi, Tyler Wales
+#### Contribution Token - [4.16](https://youtu.be/O06zjbC55HM?t=256) - Michael @Yagi, Tyler Wales
 
 > Naming the token - TIES \(e.g. railroad ties from Boxcar analogy\). Tying the group together.
 
-### Contribution Token Overview - [4.45](https://youtu.be/O06zjbC55HM?t=285) - Rich Kopcho
+#### Contribution Token Overview - [4.45](https://youtu.be/O06zjbC55HM?t=285) - Rich Kopcho
 
 > Like some feedback on contribution tokens
 >
@@ -52,72 +54,73 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 >
 > Reference
 
-{% embed url="https://badcryptopodcast.com/" %}
+{% embed url="https://badcryptopodcast.com/" caption="" %}
 
 > Tie token to NFTs
 
-### Discussion - [6.33](https://youtu.be/O06zjbC55HM?t=384) - Tyler Wales, Rich Kopcho
+#### Discussion - [6.33](https://youtu.be/O06zjbC55HM?t=384) - Tyler Wales, Rich Kopcho
 
 > How do you reward someone for their potential to produce artwork ?
 
-### Mentoring - [6.46](https://youtu.be/O06zjbC55HM?t=406) - Stephen Rowan
+#### Mentoring - [6.46](https://youtu.be/O06zjbC55HM?t=406) - Stephen Rowan
 
 > A reward for mentoring people - a mentor or TIE token.
- 
+>
 > People are incentivized to help other people.
 
-### Mentor of the Year Plaque - [7.39](https://youtu.be/O06zjbC55HM?t=459) - Rich Kopcho
+#### Mentor of the Year Plaque - [7.39](https://youtu.be/O06zjbC55HM?t=459) - Rich Kopcho
 
 > Some evidence of contribution is always worthwhile
 
-## Auction MVP - [8.29](https://youtu.be/O06zjbC55HM?t=509) - Rich Kopcho
+### Auction MVP - [8.29](https://youtu.be/O06zjbC55HM?t=509) - Rich Kopcho
 
 > Auction HOLON group planning to meet for the first time on Thursday 1st April 2021
- 
-## Development - [9.20](https://youtu.be/O06zjbC55HM?t=560) - Michael @Yagi
+
+### Development - [9.20](https://youtu.be/O06zjbC55HM?t=560) - Michael @Yagi
 
 > First kick-off meeting. First week starting development.
-
+>
 > 6 core developers. Front, Back end and an Architect.
+>
+> Team broke out into sections and did spikes \(deep-dives into problems\) on frameworks and techologies that we will be used.
 
-> Team broke out into sections and did spikes (deep-dives into problems) on frameworks and techologies that we will be used.
+### Marketing - [10.12](https://youtu.be/O06zjbC55HM?t=612) - Tyler Wales
 
-## Marketing - [10.12](https://youtu.be/O06zjbC55HM?t=612) - Tyler Wales
-
-> Art Marketplace Minimum Viable Product (MVP) naming experiment / process
-
+> Art Marketplace Minimum Viable Product \(MVP\) naming experiment / process
+>
 > Put out survey to Discord community to vote on names
- 
+>
 > We need to refine voting/decision making processes within the DAO
- 
-> *Akkadia.io* was a popular choice in the top percentage of marketing choice names as well as the community survey and we own the url.
+>
+> _Akkadia.io_ was a popular choice in the top percentage of marketing choice names as well as the community survey and we own the url.
 
-### Auction - [11.40](https://youtu.be/O06zjbC55HM?t=700) - Tyler Wales
+#### Auction - [11.40](https://youtu.be/O06zjbC55HM?t=700) - Tyler Wales
 
 > New Mindflow has produced a master document in a samepage folder that brings all HOLON contributions together in one place.
-
+>
 > Development, Marketing , Governance, Business - how are we going to structure the sale.
-
+>
 > What the revenue split will be between the artists.
-
+>
 > Goal is to remove silos, collaborate more effectively between the different core teams and have a central document for the six week lead-in to MVP launch.
-
-> People contributing include Jan, Dan, Anna Maria, New Mindflow, Phil (helping with outreach), Andrew (Mary Artwork), Hud (Research, Governance), Sev (research, competitive analysis) and now Jonathan to help drive progress.
-
+>
+> People contributing include Jan, Dan, Anna Maria, New Mindflow, Phil \(helping with outreach\), Andrew \(Mary Artwork\), Hud \(Research, Governance\), Sev \(research, competitive analysis\) and now Jonathan to help drive progress.
+>
 > Additional artists interested - [13.27](https://youtu.be/O06zjbC55HM?t=807) - Jonathan
-
-> Application forms (link to airtable) produced for artists to apply to be included in the MVP - [13.45](https://youtu.be/O06zjbC55HM?t=825) - Tyler Wales
-
+>
+> Application forms \(link to airtable\) produced for artists to apply to be included in the MVP - [13.45](https://youtu.be/O06zjbC55HM?t=825) - Tyler Wales
+>
 > Data being collated not only on potential artists but also investors interested in bidding.
-
+>
 > Data Ownership concerns - [14.21](https://youtu.be/O06zjbC55HM?t=861) - Dan Verowski, Tyler Wales
 
-### New NFT-DAO Video coming out - [15.18](https://youtu.be/O06zjbC55HM?t=918) - New Mindflow
+#### New NFT-DAO Video coming out - [15.18](https://youtu.be/O06zjbC55HM?t=918) - New Mindflow
 
 Reference :
 
 > NFT-DAO Long Term Vision
 
-https://www.youtube.com/watch?v=tawHSD11ytY&t=149s
+{% embed url="https://www.youtube.com/watch?v=tawHSD11ytY&t=149s" %}
+
 
 
