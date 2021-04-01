@@ -232,4 +232,5 @@ Reference :
 > Roadblocks -  [49.06](https://youtu.be/O06zjbC55HM?t=2946) - Tyler Wales
 
 > Roadblock : Marketing does'nt want to start marketing a message that development can't deliver.
+> Flipside : Development needs direction from marketing on what to build.
 
