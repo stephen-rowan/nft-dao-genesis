@@ -152,7 +152,7 @@ Reference :
 >
 > Tokenomics - utility tokens, voting tokens - [24.24](https://youtu.be/O06zjbC55HM?t=1464) - Dan Verowski
 >
-> Once NFT-DAO platform is mature introduce a deflationary governance token \(that has scarcity\).
+> Once NFT-DAO platform is mature -  introduce a deflationary governance token \(that has scarcity\).
 >
 > Discussion - [25.55](https://youtu.be/O06zjbC55HM?t=1555) - Tyler Wales, Dan Verowski
 >
