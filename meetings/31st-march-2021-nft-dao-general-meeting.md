@@ -161,3 +161,5 @@ Reference :
 > We could create track DAO contributions through multi-asset wallets
 
 > Tokenomics - [28.09](https://youtu.be/O06zjbC55HM?t=1684) - Tyler Wales, Jonathan
+
+> Lets create good will tokens to avoid regulatory space.
