@@ -191,3 +191,5 @@ Reference :
 > Invitation to group to add contributions to MVP Auction master document
 
 > Purpose of the document is to centralise all HOLONs effort in one place to avoid silos, repetition and dispersion of effort.
+
+> Screenshare presentation of samepage setting of MVP master document [37.27](https://youtu.be/O06zjbC55HM?t=2247) - New Mindflow
