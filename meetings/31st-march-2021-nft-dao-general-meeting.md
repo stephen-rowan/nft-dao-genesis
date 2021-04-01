@@ -59,3 +59,6 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 ### Discussion - [6.33](https://youtu.be/O06zjbC55HM?t=384) - Tyler Wales, Rich Kopcho
 
 > How do you reward someone for their potential to produce artwork ?
+
+
+### Mentoring - [xx](https://youtu.be/O06zjbC55HM?t=406) - stephen.rowan
