@@ -130,6 +130,12 @@ Reference :
 
 > GitBook criteria for obtaining Open Source Licensing
 
-## ccc - [17.33](https://youtu.be/O06zjbC55HM?t=1053) - Sev
+## Governance HOLON Meeting  - [17.33](https://youtu.be/O06zjbC55HM?t=1053) - Sev
+
+> Governance HOLON Meeting set for 1st April 2021 to include Troy, Dan, Sev, Stephen, Hud
+
+> Meeting will discuss best practices on governance, benchmarking on other DAO projects, revenue generating models
+
+
 
 
