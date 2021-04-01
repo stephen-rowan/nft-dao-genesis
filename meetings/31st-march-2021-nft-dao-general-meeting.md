@@ -165,3 +165,8 @@ Reference :
 > The regulation that comes with financial rewards can interrupt the innovative cadence/momentum of the DAO
 
 > Discussion - [29.28](https://youtu.be/O06zjbC55HM?t=1768) - Jonathan, Tyler Wales
+
+> What's the initial state ?
+
+> Discussion - [30.28](https://youtu.be/O06zjbC55HM?t=1828) - Michael @Yagi
+
