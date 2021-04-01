@@ -172,11 +172,11 @@ Reference :
 >
 > Token does not need to be backed by ADA - [30.28](https://youtu.be/O06zjbC55HM?t=1828) - Michael @Yagi
 >
-> Token could just all access to governance privileges, voting etc.
+> Token could just enable access to governance privileges, voting etc.
 >
 > Value determined by perception of worth in the community.
 >
-> How we distribute the token ? [31.45](https://youtu.be/O06zjbC55HM?t=1905) - Jonathan Looney
+> How do we distribute the token ? [31.45](https://youtu.be/O06zjbC55HM?t=1905) - Jonathan Looney
 >
 > Happy to research best practices for token distribution.
 
