@@ -174,3 +174,6 @@ Reference :
 
 > Value determined by perception of worth in the community.
 
+> How we distribute the token ?  [31.45](https://youtu.be/O06zjbC55HM?t=1905) - Jonathan
+
+> Happy to research best practices for token distribution.
