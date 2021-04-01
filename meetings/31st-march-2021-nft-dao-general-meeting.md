@@ -60,7 +60,7 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 > How do you reward someone for their potential to produce artwork ?
 
-### Mentoring - [6.46](https://youtu.be/O06zjbC55HM?t=406) - stephen.rowan
+### Mentoring - [6.46](https://youtu.be/O06zjbC55HM?t=406) - Stephen Rowan
 
 > A reward for mentoring people - a mentor or TIE token.
  
