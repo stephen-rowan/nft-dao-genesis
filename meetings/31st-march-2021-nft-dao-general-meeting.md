@@ -24,9 +24,9 @@ Excited to have him onboard to help drive the MVP Auction
 From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 > Worked in product design space for 10 years. Most experience in Higher Education doing marketing growth and front-end development.
-> 
+ 
 > Developed financial services with Fintechs and regional banking.
-> 
+ 
 > Overlap in NFTs between Finance and Education
 
 ## Introducing Bruno - [2.44](https://youtu.be/O06zjbC55HM?t=164) - Rich Kopcho
@@ -45,5 +45,11 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 ## Discussion - [4.45](https://youtu.be/O06zjbC55HM?t=285) - Rich Kopcho
 
 > Like some feedback on contribution tokens
-> 
+ 
 > Something that will imbue value over time.
+ 
+> Akin to the badcryptopodcast guys method of reward
+
+> Reference
+
+https://badcryptopodcast.com/
