@@ -140,4 +140,5 @@ Reference :
 
 > The Governance token is a financial instrument with associated regualtory concerns
 
-> In the interim is there a way to distribute "kudo" like rewards to DAO partipants ? Something that could build value in the long-term.
+> In the interim is there a way to distribute "kudo" like rewards to DAO partipants ? Something that could build value and be transferable (fungible) in the long-term.
+
