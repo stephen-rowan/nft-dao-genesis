@@ -144,4 +144,4 @@ Reference :
 
 > Discussion - [20.08](https://youtu.be/O06zjbC55HM?t=1208)  - Sev, Rich Kopcho 
 
-> Building reputation of contributers, 
+> Building reputation of contributers, something that can be claimed for input of time and effort.
