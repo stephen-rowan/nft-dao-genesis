@@ -201,16 +201,18 @@ Reference :
 ## NFT Token transaction proof of concept
 
 > Discussion [38.28](https://youtu.be/O06zjbC55HM?t=2308) - Dan Verowski, Michael @Yagi, Tyler Wales, New Mindflow
-
+>
 > Reference :
 
-{% embed url="https://stephen-rowan.gitbook.io/nft-dao/meetings/22nd-march-2021-nft-dao-business-planning-meeting-transcription-in-progress\#how-to-transact-nfts-1-06-58-wilhelm-horrix" %}
-
+{% embed url="https://stephen-rowan.gitbook.io/nft-dao/meetings/22nd-march-2021-nft-dao-business-planning-meeting-transcription-in-progress\#how-to-transact-nfts-1-06-58-wilhelm-horrix" caption="" %}
 
 > Rich talking to IOG about Development support [39.49](https://youtu.be/O06zjbC55HM?t=2389) - Tyler Wales,Michael @Yagi
-
+>
 > NFT-DAO MVP will be similar to ergo's platform
-
+>
 > Reference :
 
-https://ergoplatform.org/en/blog/2020-09-25-nfts-on-ergo/
+{% embed url="https://ergoplatform.org/en/blog/2020-09-25-nfts-on-ergo/" %}
+
+
+
