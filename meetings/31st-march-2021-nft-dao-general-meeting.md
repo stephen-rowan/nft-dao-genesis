@@ -163,3 +163,5 @@ Reference :
 > Lets create good will tokens to avoid regulatory space - [28.09](https://youtu.be/O06zjbC55HM?t=1684) - Jonathan
 
 > The regulation that comes with financial rewards can interrupt the innovative cadence/momentum of the DAO
+
+> Discussion - [29.28](https://youtu.be/O06zjbC55HM?t=1768) - Jonathan, Tyler Wales
