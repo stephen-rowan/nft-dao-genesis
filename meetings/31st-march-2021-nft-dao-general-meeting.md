@@ -93,3 +93,5 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 > *Akkadia.io* was a popular choice in the top percentage of marketing choice names as well as the community survey and we own the url.
 
 ### Auction - [11.40](https://youtu.be/O06zjbC55HM?t=700) - Tyler Wales
+
+> New Mindflow has produced a master document that brings all HOLON contributions together in one place.
