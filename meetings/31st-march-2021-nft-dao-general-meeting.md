@@ -225,6 +225,11 @@ Reference :
 
 > Discussion  [45.00](https://youtu.be/O06zjbC55HM?t=2700) - Michael @Yagi, New Mindflow, Tyler Wales, Jonathan Looney
 
-Need to clarify multiple issues - unify communications and requirements.
+> Need to clarify multiple issues - unify communications and requirements.
 
-Roadmap, timelines ?
+> Roadmap, timelines ?
+
+> Roadblocks -  [49.06](https://youtu.be/O06zjbC55HM?t=2946) - Tyler Wales
+
+> Roadblock : Marketing does'nt want to start marketing a message that development can't deliver.
+
