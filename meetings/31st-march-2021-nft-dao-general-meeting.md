@@ -90,4 +90,4 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
  
 > We need to refine voting/decision making processes within the DAO
  
-> *Akadia* was a popular choice in the top percentage of marketing choice names 
+> *Akadia* was a popular choice in the top percentage of marketing choice names as well as the community survey
