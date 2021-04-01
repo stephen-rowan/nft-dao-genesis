@@ -100,4 +100,4 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 > What the revenue split will be between the artists.
 
-> Goal to remove silos and collaborate more effectively between the different core teams.
+> Goal is to remove silos, collaborate more effectively between the different core teams and have a central document for the six week lead-in to MVP launch.
