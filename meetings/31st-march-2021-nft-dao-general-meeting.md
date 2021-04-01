@@ -195,3 +195,7 @@ Reference :
 > "Considering the fact that the MVP auction is going to be a microcosm of the DAO, involving development, business planning, project management, governance and marketing we are putting together this document as a way for us to synthesize and synchronize all the work that is being done towards it by the different holons within the DAO." (Quote from MVP Auction master document)
 
 > Screenshare presentation of samepage setting of MVP master document [37.27](https://youtu.be/O06zjbC55HM?t=2247) - New Mindflow
+
+# NFT Token transaction proof of concept
+
+> Discussion [38.28](https://youtu.be/O06zjbC55HM?t=2308) - Dan Verowski, Michael @Yagi, Tyler Wales
