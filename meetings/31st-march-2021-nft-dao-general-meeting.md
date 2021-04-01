@@ -104,5 +104,5 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 > People contributing include Jan, Dan, Anna Maria, New Mindflow, Phil (helping with outreach), Andrew (Mary Artwork), Hud (Research, Governance), Sev (research, competitive analysis) and now Jonathan to help drive progress.
 
-> Additional artist interested - [13.27](https://youtu.be/O06zjbC55HM?t=807) - Jonathan
+> Additional artists interested - [13.27](https://youtu.be/O06zjbC55HM?t=807) - Jonathan
 
