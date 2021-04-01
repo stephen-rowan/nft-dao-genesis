@@ -76,7 +76,7 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
  
 ### Development - [9.20](https://youtu.be/O06zjbC55HM?t=560) - Michael @Yagi
 
-> First kick-off meeting
+> First kick-off meeting. First week starting development.
 
 > 6 core developers. Front, Back end and an Architect.
 
