@@ -172,3 +172,5 @@ Reference :
 
 > Token could just all access to governance priveleges, voting etc.
 
+> Value determined by perception of worth in the community.
+
