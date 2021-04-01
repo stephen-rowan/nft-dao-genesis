@@ -152,4 +152,7 @@ Reference :
 > 
 > Once NFT-DAO platform is mature introduce a deflationary governance token (that has scarcity).
  
-> Discussion - [25.55](https://youtu.be/O06zjbC55HM?t=1555) - Tyler Wales
+> Discussion - [25.55](https://youtu.be/O06zjbC55HM?t=1555) - Tyler Wales, Dan Verowski
+
+> Value in recognition itself - [27.14](https://youtu.be/O06zjbC55HM?t=1634) - Stephen Rowan
+
