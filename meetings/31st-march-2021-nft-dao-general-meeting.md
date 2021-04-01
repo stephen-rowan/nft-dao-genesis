@@ -206,7 +206,7 @@ Reference :
 
 {% embed url="https://stephen-rowan.gitbook.io/nft-dao/meetings/22nd-march-2021-nft-dao-business-planning-meeting-transcription-in-progress\#how-to-transact-nfts-1-06-58-wilhelm-horrix" caption="" %}
 
-> Rich talking to IOG about Development support [39.49](https://youtu.be/O06zjbC55HM?t=2389) - Tyler Wales,Michael @Yagi
+> Rich talking to IOG about Development support [39.49](https://youtu.be/O06zjbC55HM?t=2389) - Tyler Wales, Michael @Yagi
 >
 > NFT-DAO MVP will be similar to ergo's platform
 >
@@ -216,3 +216,7 @@ Reference :
 
 
 > What is the status of smart contract functionality ? [41.24](https://youtu.be/O06zjbC55HM?t=2484) - New Mindflow
+
+> Multiple issuing of NFT assets, artist royalities.
+
+> Discussion -  [42.04](https://youtu.be/O06zjbC55HM?t=2524) - Michael @Yagi, New Mindflow
