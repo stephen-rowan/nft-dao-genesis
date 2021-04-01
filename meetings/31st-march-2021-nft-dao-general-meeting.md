@@ -36,5 +36,7 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 ## Governance Token - [3.35](https://youtu.be/O06zjbC55HM?t=215) - - Rich Kopcho
 
+> How do we reward ourselves now with something that has some future viability ?
+
 
 
