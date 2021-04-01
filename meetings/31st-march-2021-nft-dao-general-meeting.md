@@ -110,5 +110,5 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 > Data being collated not only on potential artists but also investors interested in bidding.
 
-> Data Ownership concerns - [14.21](https://youtu.be/O06zjbC55HM?t=861) - Dan, Tyler Wales
+> Data Ownership concerns - [14.21](https://youtu.be/O06zjbC55HM?t=861) - Dan Verowski, Tyler Wales
 
