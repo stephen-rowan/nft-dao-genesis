@@ -87,5 +87,7 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 > Art Marketplace Minimum Viable Product (MVP) naming experiment / process
 
 > Put out survey to Discord community to vote on names
-> 
+ 
 > We need to refine voting/decision making processes within the DAO
+ 
+> *Akadia* was a popular choice
