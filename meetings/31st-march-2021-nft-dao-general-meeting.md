@@ -70,5 +70,5 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 > Some evidence of contribution is always worthwhile
 
-
+### cc - [8.29](https://youtu.be/O06zjbC55HM?t=509) - Rich Kopcho
 
