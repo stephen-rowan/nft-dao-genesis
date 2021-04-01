@@ -223,4 +223,8 @@ Reference :
 
 > Follow-up meeting to discuss what we want the auction to look like from a technical standpoint.
 
-> Discussion -  [45.00](https://youtu.be/O06zjbC55HM?t=2700) - New Mindflow
+> Discussion  [45.00](https://youtu.be/O06zjbC55HM?t=2700) - Michael @Yagi, New Mindflow, Tyler Wales, Jonathan Looney
+
+Need to clarify multiple issues - unify communications and requirements.
+
+Roadmap, timelines ?
