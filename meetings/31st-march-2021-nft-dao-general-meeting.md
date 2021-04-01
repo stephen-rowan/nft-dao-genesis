@@ -136,6 +136,6 @@ Reference :
 
 > Meeting will discuss best practices on governance, benchmarking on other DAO projects, revenue generating models
 
-> Should Governance HOLON research the contribution token ?
+> Should Governance HOLON research the contribution token ?  [18.14](https://youtu.be/O06zjbC55HM?t=1094) - Sev, Rich Kopcho 
 
 
