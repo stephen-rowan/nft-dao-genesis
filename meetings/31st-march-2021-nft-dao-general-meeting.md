@@ -7,4 +7,9 @@ description: Timestamps for this meeting are being transcribed
 {% embed url="https://www.youtube.com/watch?v=O06zjbC55HM" %}
 
 
+Note: timestamps are external links
+
+# Introduction - [0.02](https://youtu.be/O06zjbC55HM?t=2) - Rich Kopcho
+
+
 
