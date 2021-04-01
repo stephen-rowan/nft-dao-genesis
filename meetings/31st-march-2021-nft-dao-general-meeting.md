@@ -189,3 +189,5 @@ Reference :
 > MVP Auction master document [36.22](https://youtu.be/O06zjbC55HM?t=2182) - New Mindflow
 
 > Invitation to group to add contributions to MVP Auction master document
+
+> Purpose of the document is to centralise all HOLONs effort in one place to avoid silos, repetition and dispersion of effort.
