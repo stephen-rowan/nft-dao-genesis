@@ -147,3 +147,5 @@ Reference :
 > An NFT of the first railroad block - [23.06](https://youtu.be/O06zjbC55HM?t=1386) - Michael @Yagi
 
 > Being part of the genesis of the NFT DAO
+
+> ccc- [24.24](https://youtu.be/O06zjbC55HM?t=1464) - Dan Verowski
