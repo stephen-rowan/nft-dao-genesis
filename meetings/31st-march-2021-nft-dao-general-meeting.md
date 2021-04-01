@@ -222,3 +222,5 @@ Reference :
 > Discussion -  [42.04](https://youtu.be/O06zjbC55HM?t=2524) - Michael @Yagi, New Mindflow, Tyler Wales, Dan Verowski
 
 > Follow-up meeting to discuss what we want the auction to look like from a technical standpoint.
+
+> Discussion -  [45.00](https://youtu.be/O06zjbC55HM?t=2700) - New Mindflow
