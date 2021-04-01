@@ -145,3 +145,5 @@ Reference :
 > Creating some Token mechanism that that tracks input of time and effort.
 
 > An NFT of the first railroad block - [23.06](https://youtu.be/O06zjbC55HM?t=1386) - Michael @Yagi
+
+> Being part of the genesis of the NFT DAO
