@@ -82,6 +82,6 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 > Team broke out into sections and did spikes (deep-dives into problems) on frameworks and techologies that we will be used.
 
-### Marketing - [10.12](https://youtu.be/O06zjbC55HM?t=612) - MTyler Wales
+### Marketing - [10.12](https://youtu.be/O06zjbC55HM?t=612) - Tyler Wales
 
 > Product naming experiment / process
