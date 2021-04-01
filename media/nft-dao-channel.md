@@ -12,6 +12,10 @@ description: NFT-DAO's Youtube Channel
 
 {% embed url="https://youtu.be/boGfYGCI-24" %}
 
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/818950833986207765/822386465022541875" %}
+
 
 
 ## The Boxcar and The DAO
