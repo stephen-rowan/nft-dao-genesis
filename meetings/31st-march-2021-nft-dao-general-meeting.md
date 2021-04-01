@@ -124,3 +124,12 @@ Reference :
 
 > Potential to include African Artists
 
+# Governance Updates
+
+## Integrating samepage with GitHub - [16.05](https://youtu.be/O06zjbC55HM?t=965) - Stephen Rowan
+
+> GitBook criteria for obtaining Open Source Licensing
+
+## ccc - [17.33](https://youtu.be/O06zjbC55HM?t=1053) - Sev
+
+
