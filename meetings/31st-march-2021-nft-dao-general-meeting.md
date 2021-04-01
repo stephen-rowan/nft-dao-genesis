@@ -13,11 +13,13 @@ Note: timestamps are external links
 
 > Contributions, Overview from Team Leaders, New People to Introduce
 
-# Introducing Jonathan - [0.31](https://youtu.be/O06zjbC55HM?t=31) - Tyler Wales
+## Introducing Jonathan - [0.31](https://youtu.be/O06zjbC55HM?t=31) - Tyler Wales
 
 Jonathan has background in product management and design 
 
 Excited to have him onboard to help drive the MVP Auction
+
+## Jonathan Introduces himself - [0.57](https://youtu.be/O06zjbC55HM?t=57) - Jonathan
 
 
 
