@@ -1,10 +1,10 @@
 ---
-description: Timestamps for this meeting are being transcribed
+description: >-
+  Here is a list of timestamps for this meeting (the links are external). Please
+  advise if I have misheard, misattributed or misinterpreted any content
 ---
 
 # 31st March, 2021, NFT-DAO General Meeting
-
-## 31st March, 2021, NFT-DAO General Meeting
 
 {% embed url="https://www.youtube.com/watch?v=O06zjbC55HM" caption="" %}
 
@@ -212,25 +212,23 @@ Reference :
 >
 > Reference :
 
-{% embed url="https://ergoplatform.org/en/blog/2020-09-25-nfts-on-ergo/" %}
-
+{% embed url="https://ergoplatform.org/en/blog/2020-09-25-nfts-on-ergo/" caption="" %}
 
 > What is the status of smart contract functionality ? [41.24](https://youtu.be/O06zjbC55HM?t=2484) - New Mindflow
-
+>
 > Multiple issuing of NFT assets, artist royalities.
-
-> Discussion -  [42.04](https://youtu.be/O06zjbC55HM?t=2524) - Michael @Yagi, New Mindflow, Tyler Wales, Dan Verowski
-
+>
+> Discussion - [42.04](https://youtu.be/O06zjbC55HM?t=2524) - Michael @Yagi, New Mindflow, Tyler Wales, Dan Verowski
+>
 > Follow-up meeting to discuss what we want the auction to look like from a technical standpoint.
-
-> Discussion  [45.00](https://youtu.be/O06zjbC55HM?t=2700) - Michael @Yagi, New Mindflow, Tyler Wales, Jonathan Looney
-
+>
+> Discussion [45.00](https://youtu.be/O06zjbC55HM?t=2700) - Michael @Yagi, New Mindflow, Tyler Wales, Jonathan Looney
+>
 > Need to clarify multiple issues - unify communications and requirements.
 
 ## Roadmap, timelines ?
 
-> Roadblocks -  [49.06](https://youtu.be/O06zjbC55HM?t=2946) - Tyler Wales
-
-> Roadblock : Marketing does'nt want to start marketing a message that development can't deliver.
-> Flipside : Development needs direction from marketing on what to build.
+> Roadblocks - [49.06](https://youtu.be/O06zjbC55HM?t=2946) - Tyler Wales
+>
+> Roadblock : Marketing does'nt want to start marketing a message that development can't deliver. Flipside : Development needs direction from marketing on what to build.
 
