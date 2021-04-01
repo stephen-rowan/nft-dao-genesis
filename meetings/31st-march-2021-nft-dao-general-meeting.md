@@ -45,3 +45,5 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 ## Discussion - [4.45](https://youtu.be/O06zjbC55HM?t=285) - Rich Kopcho
 
 > Like some feedback on contribution tokens
+> 
+> Something that will imbue value over time.
