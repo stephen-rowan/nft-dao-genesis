@@ -159,3 +159,5 @@ Reference :
 > Discussion - [27.38](https://youtu.be/O06zjbC55HM?t=1658) - Tyler Wales, Dan Verowski
 
 > We could create track DAO contributions through multi-asset wallets
+
+> Tokenomics - [28.09](https://youtu.be/O06zjbC55HM?t=1684) - Tyler Wales, Jonathan
