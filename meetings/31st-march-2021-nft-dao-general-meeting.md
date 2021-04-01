@@ -34,7 +34,7 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 > Bruno from France is a finance expert with a background in blockchain. Bruno will address what financial models need to look like as we move towards governance, how existing DAOs have rolled out their finances and consider the regulatory environment.
 
 
-
+## Governance Token - [3.38](https://youtu.be/O06zjbC55HM?t=218) - - Rich Kopcho
 
 
 
