@@ -168,5 +168,7 @@ Reference :
 
 > What's the initial state ?
 
-> Discussion - [30.28](https://youtu.be/O06zjbC55HM?t=1828) - Michael @Yagi
+> Token does not need to be backed by ADA - [30.28](https://youtu.be/O06zjbC55HM?t=1828) - Michael @Yagi
+
+> Token could just all access to governance priveleges, voting etc.
 
