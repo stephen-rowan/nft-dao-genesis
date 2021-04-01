@@ -21,7 +21,9 @@ Excited to have him onboard to help drive the MVP Auction
 
 ## Jonathan Introduces himself - [0.57](https://youtu.be/O06zjbC55HM?t=57) - Jonathan
 
+From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
+> Worked in product design space for 10 years. Most experience in Higher Education doing marketing growth and front-end development.
 
 
 
