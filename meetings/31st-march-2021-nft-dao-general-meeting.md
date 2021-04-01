@@ -84,3 +84,4 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 ### Marketing - [10.12](https://youtu.be/O06zjbC55HM?t=612) - MTyler Wales
 
+> Product naming experiment / process
