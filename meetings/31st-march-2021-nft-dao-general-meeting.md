@@ -24,6 +24,10 @@ Excited to have him onboard to help drive the MVP Auction
 From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 > Worked in product design space for 10 years. Most experience in Higher Education doing marketing growth and front-end development.
+> 
+> Developed financial services with Fintechs and regional banking.
+> 
+> Overlap in NFTs between Finance and Education
 
 
 
