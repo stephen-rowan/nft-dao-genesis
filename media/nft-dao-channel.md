@@ -32,5 +32,9 @@ description: NFT-DAO's Youtube Channel
 
 {% embed url="https://www.youtube.com/watch?v=tawHSD11ytY" %}
 
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/818950833986207765/827102476502171678" %}
+
 
 
