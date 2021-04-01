@@ -156,3 +156,4 @@ Reference :
 
 > Value in recognition itself - [27.14](https://youtu.be/O06zjbC55HM?t=1634) - Stephen Rowan
 
+> Discussion - [27.38](https://youtu.be/O06zjbC55HM?t=1658) - Tyler Wales, Dan Verowski
