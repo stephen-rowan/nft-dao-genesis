@@ -42,7 +42,7 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 > Naming the token - TIES \(e.g. railroad ties from Boxcar analogy\). Tying the group together.
 
-### Discussion - [4.45](https://youtu.be/O06zjbC55HM?t=285) - Rich Kopcho
+### Contribution Token Overview - [4.45](https://youtu.be/O06zjbC55HM?t=285) - Rich Kopcho
 
 > Like some feedback on contribution tokens
 >
