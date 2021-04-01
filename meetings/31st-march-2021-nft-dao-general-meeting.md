@@ -34,7 +34,7 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 > Bruno from France is a finance expert with a background in blockchain. Bruno will address what financial models need to look like as we move towards governance, how existing DAOs have rolled out their finances and consider the regulatory environment.
 
 
-## Governance Token - [3.35](https://youtu.be/O06zjbC55HM?t=215) - - Rich Kopcho
+## Governance Token - [3.35](https://youtu.be/O06zjbC55HM?t=215) - Rich Kopcho
 
 > How do we reward ourselves now with something that has some future viability ?
 
@@ -42,4 +42,4 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 > Naming the token - TIES (e.g. railroad ties from Boxcar analogy). Tying the group together.
 
-
+## ccc - [4.45](https://youtu.be/O06zjbC55HM?t=285) - Rich Kopcho
