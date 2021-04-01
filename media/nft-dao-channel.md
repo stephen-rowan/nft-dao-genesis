@@ -20,6 +20,10 @@ description: NFT-DAO's Youtube Channel
 
 {% embed url="https://www.youtube.com/watch?v=Zhr7Olx-2JA" %}
 
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/818950833986207765/824069758730371112" %}
+
 ## The Chaordic DAO
 
 26th March 2021
