@@ -103,3 +103,6 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 > Goal is to remove silos, collaborate more effectively between the different core teams and have a central document for the six week lead-in to MVP launch.
 
 > People contributing include Jan, Dan, Anna Maria, New Mindflow, Phil (helping with outreach), Andrew (Mary Artwork), Hud (Research, Governance), Sev (research, competitive analysis) and now Jonathan to help drive progress.
+
+> Additional artist interested - [13.27](https://youtu.be/O06zjbC55HM?t=807) - Jonathan
+
