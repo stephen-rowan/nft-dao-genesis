@@ -73,3 +73,6 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 ### Auction MVP - [8.29](https://youtu.be/O06zjbC55HM?t=509) - Rich Kopcho
 
 > Auction HOLON group planning to meet for the first time on Thursday 1st April 2021
+> 
+
+### Development - [9.20](https://youtu.be/O06zjbC55HM?t=560) - Michael @Yagi
