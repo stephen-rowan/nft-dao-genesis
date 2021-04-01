@@ -199,3 +199,5 @@ Reference :
 # NFT Token transaction proof of concept
 
 > Discussion [38.28](https://youtu.be/O06zjbC55HM?t=2308) - Dan Verowski, Michael @Yagi, Tyler Wales
+
+https://stephen-rowan.gitbook.io/nft-dao/meetings/22nd-march-2021-nft-dao-business-planning-meeting-transcription-in-progress#how-to-transact-nfts-1-06-58-wilhelm-horrix
