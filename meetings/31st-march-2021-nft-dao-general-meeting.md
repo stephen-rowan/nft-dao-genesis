@@ -207,6 +207,10 @@ Reference :
 {% embed url="https://stephen-rowan.gitbook.io/nft-dao/meetings/22nd-march-2021-nft-dao-business-planning-meeting-transcription-in-progress\#how-to-transact-nfts-1-06-58-wilhelm-horrix" %}
 
 
-> Rich talking to IOG about Development support [39.49](https://youtu.be/O06zjbC55HM?t=2389) - Michael @Yagi
+> Rich talking to IOG about Development support [39.49](https://youtu.be/O06zjbC55HM?t=2389) - Tyler Wales,Michael @Yagi
 
-> MVP ccc to 
+> NFT-DAO MVP will be similar to ergo's platform
+
+> Reference :
+
+https://ergoplatform.org/en/blog/2020-09-25-nfts-on-ergo/
