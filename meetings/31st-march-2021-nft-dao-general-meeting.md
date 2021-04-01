@@ -187,3 +187,5 @@ Reference :
 # MVP Auction master document
 
 > MVP Auction master document [36.22](https://youtu.be/O06zjbC55HM?t=2182) - New Mindflow
+
+> Invitation to group to add contributions to MVP Auction master document
