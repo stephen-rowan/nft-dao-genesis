@@ -207,5 +207,6 @@ Reference :
 {% embed url="https://stephen-rowan.gitbook.io/nft-dao/meetings/22nd-march-2021-nft-dao-business-planning-meeting-transcription-in-progress\#how-to-transact-nfts-1-06-58-wilhelm-horrix" %}
 
 
-> ccc [39.49](https://youtu.be/O06zjbC55HM?t=2389) - Michael @Yagi
+> Rich talking to IOG about Development support [39.49](https://youtu.be/O06zjbC55HM?t=2389) - Michael @Yagi
 
+> MVP ccc to 
