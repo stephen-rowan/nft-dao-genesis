@@ -97,3 +97,5 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 > New Mindflow has produced a master document that brings all HOLON contributions together in one place.
 
 > Development, Marketing , Governance, Business - how are we going to structure the sale.
+
+> What the revenue split will be between the artists.
