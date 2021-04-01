@@ -219,6 +219,6 @@ Reference :
 
 > Multiple issuing of NFT assets, artist royalities.
 
-> Discussion -  [42.04](https://youtu.be/O06zjbC55HM?t=2524) - Michael @Yagi, New Mindflow
+> Discussion -  [42.04](https://youtu.be/O06zjbC55HM?t=2524) - Michael @Yagi, New Mindflow, Tyler Wales
 
 > Follow-up meeting to discuss what we want the auction to look like from a technical standpoint.
