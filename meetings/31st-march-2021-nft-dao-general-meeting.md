@@ -38,11 +38,11 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 > How do we reward ourselves now with something that has some future viability ?
 
-**Contribution Token - [4.16](https://youtu.be/O06zjbC55HM?t=256) - Michael @Yagi, Tyler Wales**
+**Contribution Token -** [**4.16**](https://youtu.be/O06zjbC55HM?t=256) **- Michael @Yagi, Tyler Wales**
 
 > Naming the token - TIES \(e.g. railroad ties from Boxcar analogy\). Tying the group together.
 
-**Contribution Token Overview - [4.45](https://youtu.be/O06zjbC55HM?t=285) - Rich Kopcho**
+**Contribution Token Overview -** [**4.45**](https://youtu.be/O06zjbC55HM?t=285) **- Rich Kopcho**
 
 > Like some feedback on contribution tokens
 >
@@ -56,17 +56,17 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 
 > Tie token to NFTs
 
-**Discussion - [6.33](https://youtu.be/O06zjbC55HM?t=393) - Tyler Wales, Rich Kopcho**
+**Discussion -** [**6.33**](https://youtu.be/O06zjbC55HM?t=393) **- Tyler Wales, Rich Kopcho**
 
 > How do you reward someone for their potential to produce artwork ?
 
-**Mentoring - [6.46](https://youtu.be/O06zjbC55HM?t=405) - Stephen Rowan**
+**Mentoring -** [**6.46**](https://youtu.be/O06zjbC55HM?t=405) **- Stephen Rowan**
 
 > A reward for mentoring people - a mentor or TIE token.
 >
 > People are incentivized to help other people.
 
-**Mentor of the Year Plaque - [7.39](https://youtu.be/O06zjbC55HM?t=459) - Rich Kopcho**
+**Mentor of the Year Plaque -** [**7.39**](https://youtu.be/O06zjbC55HM?t=459) **- Rich Kopcho**
 
 > Some evidence of contribution is always worthwhile
 
@@ -80,7 +80,7 @@ From Dusty Lubbock, Texas. Always Dusty sometimes Sunny. Sometimes Texas.
 >
 > 6 core developers. Front, Back end and an Architect.
 >
-> Team broke out into sections and did spikes \(deep-dives into problems\) on frameworks and techologies that we will be used.
+> Team broke out into sections and did spikes \(deep-dives into problems\) on frameworks and technologies that we will be used.
 
 ### Marketing - [10.12](https://youtu.be/O06zjbC55HM?t=612) - Tyler Wales
 
@@ -132,13 +132,13 @@ Reference :
 
 > Governance HOLON Meeting set for 1st April 2021 to include Troy, Dan, Sev, Stephen, Hud
 >
-> Meeting will discuss best practices on governance, benchmarking on other DAO projects, revenue generating models
+> Meeting will discuss best practices on governance, bench-marking on other DAO projects, revenue generating models
 
 #### Should Governance HOLON research the contribution token ?  [18.14](https://youtu.be/O06zjbC55HM?t=1094) - Sev, Rich Kopcho
 
-> The Governance token is a financial instrument with associated regualtory concerns
+> The Governance token is a financial instrument with associated regulatory concerns
 >
-> In the interim is there a way to distribute "kudo" like rewards to DAO partipants ? Something that could build value and be transferable \(fungible\) in the long-term.
+> In the interim is there a way to distribute "kudo" like rewards to DAO participants ? Something that could build value and be transferable \(fungible\) in the long-term.
 >
 > Discussion - [20.08](https://youtu.be/O06zjbC55HM?t=1208) - Sev, Rich Kopcho
 >
@@ -172,7 +172,7 @@ Reference :
 >
 > Token does not need to be backed by ADA - [30.28](https://youtu.be/O06zjbC55HM?t=1828) - Michael @Yagi
 >
-> Token could just all access to governance priveleges, voting etc.
+> Token could just all access to governance privileges, voting etc.
 >
 > Value determined by perception of worth in the community.
 >
@@ -216,7 +216,7 @@ Reference :
 
 > What is the status of smart contract functionality ? [41.24](https://youtu.be/O06zjbC55HM?t=2484) - New Mindflow
 >
-> Multiple issuing of NFT assets, artist royalities.
+> Multiple issuing of NFT assets, artist royalties.
 >
 > Discussion - [42.04](https://youtu.be/O06zjbC55HM?t=2524) - Michael @Yagi, New Mindflow, Tyler Wales, Dan Verowski
 >
@@ -230,5 +230,5 @@ Reference :
 
 > Roadblocks - [49.06](https://youtu.be/O06zjbC55HM?t=2946) - Tyler Wales
 >
-> Roadblock : Marketing does'nt want to start marketing a message that development can't deliver. Flipside : Development needs direction from marketing on what to build.
+> Roadblock : Marketing doesn't want to start marketing a message that development can't deliver. Flipside : Development needs direction from marketing on what to build.
 
