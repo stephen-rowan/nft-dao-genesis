@@ -42,5 +42,19 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/819795475074646057/822991576702648331" %}
 
+## How to Leverage Social Tokens for Long-Term Growth
+
+{% embed url="https://forefront.news/blog/feat-chris-social-tokens-leverage" %}
+
+
+
+## How to Leverage Social Tokens for Long-Term Growth - Part 2
+
+{% embed url="https://forefront.news/blog/feat-chris-social-tokens-leverage-part-2" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808917515694506055/827659488877084702" %}
+
 
 
