@@ -44,11 +44,15 @@ Discord context
 
 ## How to Leverage Social Tokens for Long-Term Growth
 
+@JonathanL
+
 {% embed url="https://forefront.news/blog/feat-chris-social-tokens-leverage" %}
 
 
 
 ## How to Leverage Social Tokens for Long-Term Growth - Part 2
+
+@JonathanL
 
 {% embed url="https://forefront.news/blog/feat-chris-social-tokens-leverage-part-2" %}
 
