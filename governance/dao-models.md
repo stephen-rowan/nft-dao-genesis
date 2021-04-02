@@ -90,5 +90,11 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808917515694506055/827552561996627989" %}
 
+{% embed url="https://docs.aragon.org/govern/" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808917515694506055/827593949035757579" %}
+
 
 
