@@ -80,6 +80,8 @@ Discord context
 
 ## Govern
 
+@JonathanL
+
 The gold standard for DAOs
 
 A simple and flexible framework for powerful Optimistic DAOs
