@@ -78,5 +78,17 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808917515694506055/821798748938174474" %}
 
+## Govern
+
+The gold standard for DAOs
+
+A simple and flexible framework for powerful Optimistic DAOs
+
+{% embed url="https://aragon.org/govern" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808917515694506055/827552561996627989" %}
+
 
 
