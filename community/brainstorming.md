@@ -1,5 +1,17 @@
 # Brainstorming
 
+## The Problem NFT-DAO attempts to solve
+
+@wilhelm.horrix
+
+{% embed url="https://cdn.discordapp.com/attachments/807383056751001620/819617239908089856/ProblemWeAttemptToSolve.pdf" %}
+
+
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/807383056751001620/819617240026447952" %}
+
 ## Bitcoin & Crypto Tax Reporting
 
 @YAGI
