@@ -42,7 +42,7 @@ Discord context
 
 ##  <a id="a4b0"></a>
 
-## How we pulled off the sale <a id="a4b0"></a>
+## How we pulled off the sale
 
 OctoberBlack
 
