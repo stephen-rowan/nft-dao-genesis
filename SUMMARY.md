@@ -22,6 +22,7 @@
 ## Community
 
 * [Community](community/community.md)
+* [Brainstorming](community/brainstorming.md)
 * [HOLONS](community/holons.md)
 * [Mindmapping](community/mindmapping.md)
 
