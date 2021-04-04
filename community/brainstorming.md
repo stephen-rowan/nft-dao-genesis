@@ -32,16 +32,6 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/807383056751001620/827941254666911795" %}
 
-
-
-##  <a id="a4b0"></a>
-
-##  <a id="a4b0"></a>
-
-##  <a id="a4b0"></a>
-
-##  <a id="a4b0"></a>
-
 ## How we pulled off the sale
 
 OctoberBlack
