@@ -53,6 +53,7 @@
 * [Marketing Think Tank](marketing/untitled.md)
 * [PR and Communication](marketing/pr-and-communication.md)
 * [Research](marketing/research.md)
+* [Memes](marketing/memes.md)
 
 ## Metadata
 
