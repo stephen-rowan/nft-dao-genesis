@@ -4,6 +4,8 @@
 
 Charles Hoskinson
 
+5th April 2021
+
 {% embed url="https://youtu.be/WRYRjmMvkJM?t=1209" %}
 
 Timestamp 20:09 - Governance DAO Roadmap
