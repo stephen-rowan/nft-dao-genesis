@@ -8,8 +8,6 @@ Charles Hoskinson
 
 Timestamp 20:09 - Governance DAO Roadmap
 
-## 
-
 ## LiqwiDAO 1st: a web3 model for good governance.
 
 @RK
