@@ -1,5 +1,15 @@
 # DAO Models
 
+## Some Musings about the Roadmap
+
+Charles Hoskinson
+
+{% embed url="https://youtu.be/WRYRjmMvkJM?t=1209" %}
+
+Timestamp 20:09 - Governance DAO Roadmap
+
+## 
+
 ## LiqwiDAO 1st: a web3 model for good governance.
 
 @RK
