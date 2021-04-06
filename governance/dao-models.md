@@ -12,7 +12,13 @@ Embedded video playback commences at Timestamp 20:09
 
 ###  Governance DAO Roadmap Notes
 
-**2021-2022** - Plan to link Catalyst \(mainly concerned at present with Treasury\) with Voltaire protocol updates.
+**2021-2022** - Plan to link Catalyst \(primarily concerned at present with Treasury\) with Voltaire \(primarily concerned at present with protocol updates\).
+
+Some of the unification will happen in 2021
+
+
+
+
 
 
 
