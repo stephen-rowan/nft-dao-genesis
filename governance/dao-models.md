@@ -8,13 +8,17 @@ Charles Hoskinson
 
 {% embed url="https://youtu.be/WRYRjmMvkJM?t=1209" %}
 
-Embedded video playback commences at Timestamp 20:09
+**Note** : Embedded video playback commences at Timestamp 20:09
 
 ###  Governance DAO Roadmap Notes
 
 **2021-2022** - Plan to link Catalyst \(primarily concerned at present with Treasury\) with Voltaire \(primarily concerned at present with protocol updates\).
 
-Some of the unification will happen in 2021
+Some of this unification will happen in 2021 to complete in 2022.
+
+Entire HFC system \(HFC Alonzo\) will be further formalized and put under the control of Voltaire with \(probably\) a bicameral voting model.
+
+
 
 
 
