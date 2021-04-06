@@ -8,7 +8,17 @@ Charles Hoskinson
 
 {% embed url="https://youtu.be/WRYRjmMvkJM?t=1209" %}
 
-Timestamp 20:09 - Governance DAO Roadmap
+Embedded video playback commences at Timestamp 20:09
+
+###  Governance DAO Roadmap Notes
+
+**2021-2022** - Plan to link Catalyst \(mainly concerned at present with Treasury\) with Voltaire protocol updates.
+
+
+
+
+
+
 
 ## LiqwiDAO 1st: a web3 model for good governance.
 
