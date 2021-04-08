@@ -71,6 +71,8 @@ Note: timestamps are external links
 
 > Working on Colour Schemes for the Launch Page of the Auction MVP (Minimum Viable Product)
 
+> Produced video to celebrate getting funded
+
 
 
 
