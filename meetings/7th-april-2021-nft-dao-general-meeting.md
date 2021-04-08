@@ -43,7 +43,7 @@ Note: timestamps are external links
 
 > We are on track but need to pick up the pace.
 
-> Make sure we are actively removing silos.
+> Make sure we are actively removing silos in our various workflows (marketing, governance)
 
 
 
