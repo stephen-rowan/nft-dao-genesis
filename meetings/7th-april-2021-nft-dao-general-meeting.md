@@ -69,6 +69,8 @@ Note: timestamps are external links
 
 > Contacted Artists, including African Artists who have some good potential to create some quality works.
 
+> Working on Colour Schemes for the Launch Page of the Auction MVP (Minimum Viable Product)
+
 
 
 
