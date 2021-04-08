@@ -52,6 +52,8 @@ Note: timestamps are external links
 
 > Deliver completed mock-ups to Yagi for branding, get some colours figured out. 
 
+> Put together basic prototype flowchart (without colours)
+
 
 
 
