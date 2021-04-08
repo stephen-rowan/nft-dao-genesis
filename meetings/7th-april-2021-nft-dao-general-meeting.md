@@ -108,13 +108,15 @@ Note: timestamps are external links
 
 ### Can we use Yoroi wallet for token minting ? - [9.20](https://youtu.be/wnVupMQtjp4?t=560) - Rich Kopcho
 
-{% embed url="https://yoroi-wallet.com/\#/" %}
+{% embed url="https://yoroi-wallet.com/\#/" caption="" %}
 
-> Not sure if Yoroi wallet supports Native Multiple Assets yet- [9.25](https://youtu.be/wnVupMQtjp4?t=565)  - **Dan Verowski, Tyler Wales**
+> Not sure if Yoroi wallet supports Native Multiple Assets yet- [9.25](https://youtu.be/wnVupMQtjp4?t=565) - **Dan Verowski, Tyler Wales**
+>
+> Reference :
+>
+> Yoroi wallet does not currently support tokens
 
-> Reference : 
+{% embed url="https://yoroi-wallet.com/\#/faq/5" %}
 
-> Answer : Yoroi wallet does not currently support tokens
 
-https://yoroi-wallet.com/#/faq/5
 
