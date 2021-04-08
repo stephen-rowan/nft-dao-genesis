@@ -41,4 +41,12 @@ Note: timestamps are external links
 
 > We hope to accelerate this growth, looking at things like policy scripts (process logic) and wireframes (interface design)
 
+> We are on track but need to pick up the pace.
+
+> Make sure we are actively removing silos.
+
+
+
+
+
 
