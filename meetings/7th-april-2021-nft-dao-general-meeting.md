@@ -24,7 +24,7 @@ Note: timestamps are external links
 | Philip Roberts |
 | Stephen Rowan |
 
-> Philip introduced Patrick to Yagi - [0.44](https://youtu.be/wnVupMQtjp4?t=44) - Philip Roberts
+> Philip introduced Patrick to Yagi - [0.44](https://youtu.be/wnVupMQtjp4?t=44) - **Philip Roberts**
 
 ## Product Update - [1.16](https://youtu.be/wnVupMQtjp4?t=76) - Tyler Wales
 
@@ -79,7 +79,7 @@ Note: timestamps are external links
 
 ## Token Minting reprise - [6.49](https://youtu.be/wnVupMQtjp4?t=409) - Tyler Wales, Dan Verowski
 
-> In Slack channel The Ancient Kraken had minted an NFT-DAO test token - Tyler Wales
+> In Slack channel The Ancient Kraken had minted an NFT-DAO test token - **Tyler Wales**
 
-> On GitHub Troy mentioned **Triaging** the expertise level - Dan Verowski
+> On GitHub Troy mentioned **Triaging** the expertise level - **Dan Verowski**
 
