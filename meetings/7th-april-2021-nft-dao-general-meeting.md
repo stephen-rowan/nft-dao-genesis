@@ -77,11 +77,9 @@ Note: timestamps are external links
 
 ![](https://media.discordapp.net/attachments/815326844131606569/828498932178878474/DAO_GifV04.gif)
 
-
 ## Token Minting reprise - [6.49](https://youtu.be/wnVupMQtjp4?t=409) - Tyler Wales, Dan Verowski
 
 > In Slack channel The Ancient Kraken had minted an NFT-DAO test token - Tyler Wales
 
 > On GitHub Troy mentioned **Triaging** the expertise level - Dan Verowski
-
 
