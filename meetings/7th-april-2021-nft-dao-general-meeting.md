@@ -26,7 +26,7 @@ Note: timestamps are external links
 
 > Philip introduced Patrick to Yagi - [0.44](https://youtu.be/wnVupMQtjp4?t=44) - **Philip Roberts**
 
-## Product Update - [1.16](https://youtu.be/wnVupMQtjp4?t=76) - Tyler Wales
+## Growth Update - [1.16](https://youtu.be/wnVupMQtjp4?t=76) - Tyler Wales
 
 > We have seen a lot of growth since the funding process started :
 
