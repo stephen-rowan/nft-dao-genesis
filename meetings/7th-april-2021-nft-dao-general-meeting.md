@@ -30,8 +30,8 @@ Note: timestamps are external links
 
 > We have seen a lot of growth since the funding process started :
 
-| |
-|---|
+| | |
+|---|---|
 | Discord community | 296 Members |
 | Airtable form | 36 People signed up |
 | Artist Registrations for the first auction | 22 Artists |
