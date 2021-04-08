@@ -91,7 +91,7 @@ Note: timestamps are external links
 >
 > On GitHub Troy mentioned **Triaging** the expertise level - **Dan Verowski**
 >
-> **Summary** : Maybe we could have two tokens for each HOLON ... 
+> **Summary** : Maybe we could have two tokens for each HOLON ...
 
 * An **internal token** \(collected by those eligble for voting on HOLON decisons\) and, 
 * an **external token** \( collected by individuals outside the HOLON\)
@@ -106,7 +106,9 @@ Note: timestamps are external links
 
 ![Community Governance Pilot](../.gitbook/assets/nft-dao-community-governance-pilot.jpg)
 
-### Can we use yoroi wallet for token minting ? - [9.20](https://youtu.be/wnVupMQtjp4?t=560) - Rich Kopcho
+### Can we use Yoroi wallet for token minting ? - [9.20](https://youtu.be/wnVupMQtjp4?t=560) - Rich Kopcho
 
-https://yoroi-wallet.com/#/
+{% embed url="https://yoroi-wallet.com/\#/" %}
+
+
 
