@@ -42,7 +42,7 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/819795475074646057/822991576702648331" %}
 
-## How to Leverage Social Tokens for Long-Term Growth
+## 1- How to Leverage Social Tokens for Long-Term Growth
 
 @JonathanL
 
@@ -50,7 +50,7 @@ Discord context
 
 
 
-## How to Leverage Social Tokens for Long-Term Growth - Part 2
+## 2 - How to Leverage Social Tokens for Long-Term Growth - Part 2
 
 @JonathanL
 
