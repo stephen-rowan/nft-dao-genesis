@@ -92,11 +92,10 @@ Note: timestamps are external links
 > On GitHub Troy mentioned **Triaging** the expertise level - **Dan Verowski**
 >
 > **Summary** : Maybe we could have two tokens for each HOLON ... 
->
-> An **internal token** \(collected by those eligble for voting on HOLON decisons\) and, 
->
-> an **external token** \( collected by individuals outside the HOLON\)
->
+
+* An **internal token** \(collected by those eligble for voting on HOLON decisons\) and, 
+* an **external token** \( collected by individuals outside the HOLON\)
+
 > **Context** :
 
 {% embed url="https://github.com/NFT-DAO/Governance-HOLON/issues/28\#issuecomment-814962236" caption="" %}
