@@ -36,6 +36,6 @@ Note: timestamps are external links
 | Airtable form | 36 People signed up |
 | Artist Registrations for the first auction | 22 Artists |
 | Developers signed up via Airtable form | 11 |
-> Email list 387 Subscribers
+| Email list | 387 Subscribers |
 
 
