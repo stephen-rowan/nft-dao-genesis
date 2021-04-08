@@ -10,9 +10,7 @@ description: >-
 
 Note: timestamps are external links
 
-Beginning of Fund 5 - [0.02](https://youtu.be/wnVupMQtjp4) - Tyler Wales
-
-### Introduction / Agenda - [0.02](https://youtu.be/O06zjbC55HM?t=2) - Rich Kopcho
+## Beginning of Fund 5 - [0.02](https://youtu.be/wnVupMQtjp4) - Tyler Wales
 
 > Rich Kopcho, Tyler Wales, New MIndflowStephen Rowan
 
