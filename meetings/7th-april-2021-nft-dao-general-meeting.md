@@ -65,9 +65,9 @@ Note: timestamps are external links
 
 > Working with Johnathan to create first mock-ups for wireframes.
 
-## Contacted Artists - [5.28](https://youtu.be/wnVupMQtjp4?t=328) - New Mindflow
+## Artist Outreach - [5.28](https://youtu.be/wnVupMQtjp4?t=328) - New Mindflow
 
-> Contacted Artists
+> Contacted Artists, including African Artists who have some good potential to create some quality works.
 
 
 
