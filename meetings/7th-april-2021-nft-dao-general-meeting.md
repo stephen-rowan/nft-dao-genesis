@@ -14,8 +14,9 @@ Note: timestamps are external links
 
 |Present |
 |--- |
-| Rich Kopcho
+| Rich Kopcho |
 |Tyler Wales |
 | New MIndflow |
 | Stephen Rowan |
+| Philip Roberts |
 
