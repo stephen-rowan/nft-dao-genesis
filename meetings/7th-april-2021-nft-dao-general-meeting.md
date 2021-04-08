@@ -48,6 +48,14 @@ Note: timestamps are external links
 > Make extra effort to be as transparent as we can with each other.
 
 
+## Product Update - [3.11](https://youtu.be/wnVupMQtjp4?t=191) - Tyler Wales
+
+> Deliver completed mock-ups for Yagi
+
+> Get some colours figured out
+
+
+
 
 
 
