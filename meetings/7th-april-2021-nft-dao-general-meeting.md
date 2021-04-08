@@ -10,7 +10,7 @@ description: >-
 
 Note: timestamps are external links
 
-## Beginning of Fund 5 - [0.02](https://youtu.be/wnVupMQtjp4) - Tyler Wales
+# Beginning of Fund 5 - [0.02](https://youtu.be/wnVupMQtjp4) - Tyler Wales
 
 |Present |
 |--- |
@@ -23,3 +23,8 @@ Note: timestamps are external links
 | Stephen Rowan |
 
 > Philip introduced Patrick to Yagi - [0.44](https://youtu.be/wnVupMQtjp4?t=44) - Philip Roberts
+
+# Product Update - [1.16](https://youtu.be/wnVupMQtjp4?t=76) - Tyler Wales
+
+> 
+
