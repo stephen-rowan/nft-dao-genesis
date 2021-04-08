@@ -80,10 +80,12 @@ Note: timestamps are external links
 ## Token Minting reprise - [6.49](https://youtu.be/wnVupMQtjp4?t=409) - Tyler Wales, Dan Verowski
 
 > In Slack channel The Ancient Kraken had minted an NFT-DAO test token - **Tyler Wales**
-
+>
 > On GitHub Troy mentioned **Triaging** the expertise level - **Dan Verowski**
-
+>
 > Reference :
 
-https://github.com/NFT-DAO/Governance-HOLON/issues/28#issuecomment-814962236
+{% embed url="https://github.com/NFT-DAO/Governance-HOLON/issues/28\#issuecomment-814962236" %}
+
+
 
