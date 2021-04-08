@@ -8,5 +8,5 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=wnVupMQtjp4" %}
 
-
+Beginning of Fund 5 - [0.02](https://youtu.be/wnVupMQtjp4) - Tyler Wales
 
