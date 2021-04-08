@@ -58,5 +58,5 @@ Note: timestamps are external links
 
 ## Token Minting - [4.16](https://youtu.be/wnVupMQtjp4?t=256) - Dan Verowski
 
-> Issues with minting token on Daedulus
+> Issues with minting token on Daedulus, problems with the CLI (command line interface)
 
