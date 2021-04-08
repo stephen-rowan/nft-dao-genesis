@@ -114,7 +114,7 @@ Note: timestamps are external links
 
 > Reference : 
 
-> Yoroi wallet does not currently support tokens
+> Answer : Yoroi wallet does not currently support tokens
 
 https://yoroi-wallet.com/#/faq/5
 
