@@ -97,5 +97,7 @@ Note: timestamps are external links
 
 > Now raised as a seperate Issue : 
 
-[Triaging consensus levels #37](https://github.com/NFT-DAO/Governance-HOLON/issues/37)
+[Triaging consensus levels #37]
+
+https://github.com/NFT-DAO/Governance-HOLON/issues/37
 
