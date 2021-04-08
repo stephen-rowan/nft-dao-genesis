@@ -50,9 +50,7 @@ Note: timestamps are external links
 
 ## Product Update - [3.11](https://youtu.be/wnVupMQtjp4?t=191) - Tyler Wales
 
-> Deliver completed mock-ups for Yagi
-
-> Get some colours figured out
+> Deliver completed mock-ups for Yagi , to get some colours figured out and 
 
 
 
