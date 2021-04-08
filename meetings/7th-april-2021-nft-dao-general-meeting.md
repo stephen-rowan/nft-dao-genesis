@@ -19,7 +19,7 @@ Note: timestamps are external links
 | Rich Kopcho |
 | Tyler Wales |
 | Troy |
-| Dan |
+| Dan Verowski|
 | New MIndflow |
 | Philip Roberts |
 | Stephen Rowan |
@@ -56,6 +56,7 @@ Note: timestamps are external links
 
 > Hopefully we will have a polished product for the MVP
 
+## Token Minting - [4.16](https://youtu.be/wnVupMQtjp4?t=256) - Dan Verowski
 
-
+> Issues with minting token on Daedulus
 
