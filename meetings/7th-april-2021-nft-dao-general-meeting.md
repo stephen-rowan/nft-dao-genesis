@@ -63,7 +63,7 @@ Note: timestamps are external links
 
 ![](https://media.discordapp.net/attachments/828670554793705473/829437682924650626/Screenshot_2021-04-07_at_21.28.58.png?width=948&height=559)
 
-> Working with Johnathan to create first mock-ups for wireframes.
+> Working with Jonathan Looney to create first mock-ups for wireframes.
 
 ## Artist Outreach - [5.28](https://youtu.be/wnVupMQtjp4?t=328) - New Mindflow
 
