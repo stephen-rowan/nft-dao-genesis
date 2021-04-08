@@ -57,9 +57,9 @@ Note: timestamps are external links
 
 ## Token Minting - [4.16](https://youtu.be/wnVupMQtjp4?t=256) - Dan Verowski
 
-> Issues with minting token on Daedulus, problems with the CLI \(command line interface\)
+> Issues with minting token on Daedalus, problems with the CLI \(command line interface\)
 >
-> Created small visual for comparison of NFT with Etheurium \(for Twitter post\)
+> Created small visual for comparison of NFT with Ethereum \(for Twitter post\)
 
 ![](https://media.discordapp.net/attachments/828670554793705473/829437682924650626/Screenshot_2021-04-07_at_21.28.58.png?width=948&height=559)
 
