@@ -6,16 +6,18 @@ description: >-
 
 # 7th April, 2021, NFT-DAO General Meeting
 
+## 7th April, 2021, NFT-DAO General Meeting
+
 {% embed url="https://www.youtube.com/watch?v=wnVupMQtjp4" caption="" %}
 
 Note: timestamps are external links
 
-# Beginning of Fund 5 - [0.02](https://youtu.be/wnVupMQtjp4) - Tyler Wales
+## Beginning of Fund 5 - [0.02](https://youtu.be/wnVupMQtjp4) - Tyler Wales
 
-|Present |
-|--- |
+| Present |
+| :--- |
 | Rich Kopcho |
-|Tyler Wales |
+| Tyler Wales |
 | Troy |
 | Dan |
 | New MIndflow |
@@ -24,7 +26,7 @@ Note: timestamps are external links
 
 > Philip introduced Patrick to Yagi - [0.44](https://youtu.be/wnVupMQtjp4?t=44) - Philip Roberts
 
-# Product Update - [1.16](https://youtu.be/wnVupMQtjp4?t=76) - Tyler Wales
+## Product Update - [1.16](https://youtu.be/wnVupMQtjp4?t=76) - Tyler Wales
 
-> 
+>
 
