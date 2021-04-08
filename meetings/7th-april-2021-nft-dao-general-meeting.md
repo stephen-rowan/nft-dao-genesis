@@ -106,3 +106,7 @@ Note: timestamps are external links
 
 ![Community Governance Pilot](../.gitbook/assets/nft-dao-community-governance-pilot.jpg)
 
+### Can we use yoroi wallet for token minting ? - [9.20](https://youtu.be/wnVupMQtjp4?t=560) - Rich Kopcho
+
+https://yoroi-wallet.com/#/
+
