@@ -16,8 +16,10 @@ Note: timestamps are external links
 |--- |
 | Rich Kopcho |
 |Tyler Wales |
+| Troy |
+| Dan |
 | New MIndflow |
-| Stephen Rowan |
 | Philip Roberts |
+| Stephen Rowan |
 
 > Philip introduced Patrick to Yagi - [0.44](https://youtu.be/wnVupMQtjp4?t=44) - Philip Roberts
