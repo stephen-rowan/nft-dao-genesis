@@ -6,13 +6,11 @@ description: >-
 
 # 7th April, 2021, NFT-DAO General Meeting
 
-## 7th April, 2021, NFT-DAO General Meeting
-
 {% embed url="https://www.youtube.com/watch?v=wnVupMQtjp4" caption="" %}
 
 Note: timestamps are external links
 
-## Beginning of Fund 5 - [0.02](https://youtu.be/wnVupMQtjp4) - Tyler Wales
+# Beginning of Fund 5 - [0.02](https://youtu.be/wnVupMQtjp4) - Tyler Wales
 
 | Present |
 | :--- |
@@ -26,7 +24,7 @@ Note: timestamps are external links
 
 > Philip introduced Patrick to Yagi - [0.44](https://youtu.be/wnVupMQtjp4?t=44) - **Philip Roberts**
 
-## Growth Update - [1.16](https://youtu.be/wnVupMQtjp4?t=76) - Tyler Wales
+# Growth Update - [1.16](https://youtu.be/wnVupMQtjp4?t=76) - Tyler Wales
 
 > We have seen a lot of growth since the funding process started :
 
@@ -47,7 +45,7 @@ Note: timestamps are external links
 >
 > Make extra effort to be as transparent as we can with each other.
 
-## Product Update - [3.11](https://youtu.be/wnVupMQtjp4?t=191) - Tyler Wales
+# Product Update - [3.11](https://youtu.be/wnVupMQtjp4?t=191) - Tyler Wales
 
 > Deliver completed mock-ups to Yagi for branding, get some colours figured out.
 >
@@ -55,7 +53,7 @@ Note: timestamps are external links
 >
 > Hopefully we will have a polished product for the MVP
 
-## Token Minting - [4.16](https://youtu.be/wnVupMQtjp4?t=256) - Dan Verowski
+# Token Minting - [4.16](https://youtu.be/wnVupMQtjp4?t=256) - Dan Verowski
 
 > Issues with minting token on Daedalus, problems with the CLI \(command line interface\)
 >
@@ -65,7 +63,7 @@ Note: timestamps are external links
 
 > Working with Jonathan Looney to create first mock-ups for wireframes.
 
-## Artist Outreach - [5.28](https://youtu.be/wnVupMQtjp4?t=328) - New Mindflow
+# Artist Outreach - [5.28](https://youtu.be/wnVupMQtjp4?t=328) - New Mindflow
 
 > Contacted Artists, including African Artists who have some good potential to create some quality works.
 >
@@ -85,7 +83,7 @@ Note: timestamps are external links
 
 ![](https://media.discordapp.net/attachments/815326844131606569/828498932178878474/DAO_GifV04.gif)
 
-## Token Minting reprise - [6.49](https://youtu.be/wnVupMQtjp4?t=409) - Tyler Wales, Dan Verowski
+# Token Minting reprise - [6.49](https://youtu.be/wnVupMQtjp4?t=409) - Tyler Wales, Dan Verowski
 
 > In Slack channel The Ancient Kraken had minted an NFT-DAO test token - **Tyler Wales**
 >
@@ -104,7 +102,7 @@ Note: timestamps are external links
 
 {% embed url="https://github.com/NFT-DAO/Governance-HOLON/issues/37" caption="" %}
 
-### Can we use Yoroi wallet for token minting ? - [9.20](https://youtu.be/wnVupMQtjp4?t=560) - Rich Kopcho
+## Can we use Yoroi wallet for token minting ? - [9.20](https://youtu.be/wnVupMQtjp4?t=560) - Rich Kopcho
 
 {% embed url="https://yoroi-wallet.com/\#/" caption="" %}
 
@@ -114,7 +112,7 @@ Note: timestamps are external links
 
 {% embed url="https://yoroi-wallet.com/\#/faq/5" caption="" %}
 
-### Can we get a visual diagram of how "Triaging" tokens works ? - [9.59](https://youtu.be/wnVupMQtjp4?t=599) - **Tyler Wales**
+## Can we get a visual diagram of how "Triaging" tokens works ? - [9.59](https://youtu.be/wnVupMQtjp4?t=599) - **Tyler Wales**
 
 > Governance token distribution model is a Fund 3 Milestone - would be good to give this back to the community.
 >
@@ -127,4 +125,4 @@ Note: timestamps are external links
 {% embed url="https://github.com/NFT-DAO/Governance-HOLON/milestone/2" %}
 
 
-###  - [10.38](https://youtu.be/wnVupMQtjp4?t=638) - **Troy**
+# Governance HOLON Update  - [10.38](https://youtu.be/wnVupMQtjp4?t=638) - **Troy**
