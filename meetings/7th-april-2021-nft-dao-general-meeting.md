@@ -20,4 +20,4 @@ Note: timestamps are external links
 | Stephen Rowan |
 | Philip Roberts |
 
-Introduced Patrick to Yagi - [0.44](https://youtu.be/wnVupMQtjp4?t=44) - Philip Roberts
+> Philip introduced Patrick to Yagi - [0.44](https://youtu.be/wnVupMQtjp4?t=44) - Philip Roberts
