@@ -83,3 +83,7 @@ Note: timestamps are external links
 
 > On GitHub Troy mentioned **Triaging** the expertise level - **Dan Verowski**
 
+> Reference :
+
+https://github.com/NFT-DAO/Governance-HOLON/issues/28#issuecomment-814962236
+
