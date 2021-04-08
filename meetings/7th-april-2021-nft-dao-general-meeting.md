@@ -110,5 +110,5 @@ Note: timestamps are external links
 
 {% embed url="https://yoroi-wallet.com/\#/" %}
 
-
+> Not sure if Yoroi wallet supports Native Multiple Assets yet- [9.25](https://youtu.be/wnVupMQtjp4?t=565)  - **Dan Verowski**
 
