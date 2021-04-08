@@ -68,20 +68,20 @@ Note: timestamps are external links
 ## Artist Outreach - [5.28](https://youtu.be/wnVupMQtjp4?t=328) - New Mindflow
 
 > Contacted Artists, including African Artists who have some good potential to create some quality works.
+>
+> Working on Color Schemes / Graphics for the Launch Page of the Auction MVP \(Minimum Viable Product\)
 
-> Working on Colour Schemes / Graphics for the Launch Page of the Auction MVP \(Minimum Viable Product\)
+![](https://cdn.discordapp.com/attachments/823295651323576340/828280570365739058/Akkadia-Zelda_Font.jpg)
 
-https://cdn.discordapp.com/attachments/823295651323576340/828280570365739058/Akkadia-Zelda_Font.jpg
+![](https://cdn.discordapp.com/attachments/823295651323576340/828280617384017920/Akkadia-Monad_Font.jpg)
 
-https://cdn.discordapp.com/attachments/823295651323576340/828280617384017920/Akkadia-Monad_Font.jpg
+![](https://cdn.discordapp.com/attachments/823295651323576340/828280651647680533/Akkadia-Dubtronic_Font.jpg)
 
-https://cdn.discordapp.com/attachments/823295651323576340/828280651647680533/Akkadia-Dubtronic_Font.jpg
-
-https://cdn.discordapp.com/attachments/823295651323576340/828280683507089418/Akkadia-Bernal_Font.jpg
+![](https://cdn.discordapp.com/attachments/823295651323576340/828280683507089418/Akkadia-Bernal_Font.jpg)
 
 > Produced video to celebrate getting funded
 >
-> Andy produced a meme instead :
+> Andy produced a meme as well :
 
 ![](https://media.discordapp.net/attachments/815326844131606569/828498932178878474/DAO_GifV04.gif)
 
@@ -93,7 +93,5 @@ https://cdn.discordapp.com/attachments/823295651323576340/828280683507089418/Akk
 >
 > Context :
 
-{% embed url="https://github.com/NFT-DAO/Governance-HOLON/issues/28\#issuecomment-814962236" %}
-
-
+{% embed url="https://github.com/NFT-DAO/Governance-HOLON/issues/28\#issuecomment-814962236" caption="" %}
 
