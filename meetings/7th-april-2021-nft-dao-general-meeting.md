@@ -104,7 +104,7 @@ Note: timestamps are external links
 
 {% embed url="https://github.com/NFT-DAO/Governance-HOLON/issues/37" caption="" %}
 
-![Community Governance Pilot](../.gitbook/assets/nft-dao-community-governance-pilot.jpg)
+
 
 ### Can we use Yoroi wallet for token minting ? - [9.20](https://youtu.be/wnVupMQtjp4?t=560) - Rich Kopcho
 
@@ -117,6 +117,21 @@ Note: timestamps are external links
 > Yoroi wallet does not currently support tokens
 
 {% embed url="https://yoroi-wallet.com/\#/faq/5" %}
+
+### Can we get a visual diagram of how "Triaging" tokens works ? - [9.59](https://youtu.be/wnVupMQtjp4?t=599) - **Tyler Wales**
+> Governance token distribution model is a Fund 3 Milestone - would be good to give this back to the community.
+
+> Graphic now produced :
+
+![Community Governance Pilot](../.gitbook/assets/nft-dao-community-governance-pilot.jpg)
+
+Reference : Fund 3 Deliverable Milestones (Gov-HOLON)
+
+https://github.com/NFT-DAO/Governance-HOLON/milestone/2
+
+
+
+
 
 
 
