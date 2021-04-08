@@ -67,6 +67,8 @@ Note: timestamps are external links
 
 
 
+## Txx - [5.28](https://youtu.be/wnVupMQtjp4?t=328) - New Mindflow
+
 
 
 
