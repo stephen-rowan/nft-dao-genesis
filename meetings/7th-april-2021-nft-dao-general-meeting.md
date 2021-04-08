@@ -28,5 +28,14 @@ Note: timestamps are external links
 
 ## Product Update - [1.16](https://youtu.be/wnVupMQtjp4?t=76) - Tyler Wales
 
->
+> We have seen a lot of growth since the funding process started :
+
+| |
+|---|
+| Discord community | 296 Members |
+| Airtable form | 36 People signed up |
+| Artist Registrations for the first auction | 22 Artists |
+| Developers signed up via Airtable form | 11 |
+> Email list 387 Subscribers
+
 
