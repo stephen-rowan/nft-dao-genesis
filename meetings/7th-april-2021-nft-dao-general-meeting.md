@@ -60,7 +60,7 @@ Note: timestamps are external links
 
 > Issues with minting token on Daedulus, problems with the CLI (command line interface)
 
-> Created small visual for comparision of NFT with Etheurium
+> Created small visual for comparision of NFT with Etheurium (for Twitter post)
 
 
 
