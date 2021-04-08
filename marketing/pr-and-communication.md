@@ -140,5 +140,29 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/824408285263822858" %}
 
+## Cardano vs Bitcoin - An Energy Consumption Comparison
+
+Troy
+
+{% embed url="https://www.youtube.com/watch?v=bCAvdSBj710" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/829660450244395009" %}
+
+## What is Cardano?
+
+Troy
+
+{% embed url="https://www.coinbase.com/learn/crypto-basics/what-is-cardano" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808969145395445770/829663891230425108" %}
+
+
+
+
+
 
 
