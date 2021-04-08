@@ -54,8 +54,7 @@ Note: timestamps are external links
 
 > Put together basic prototype flowchart (without colours)
 
-
-
+> Hopefully we will have a polished product for the MVP
 
 
 
