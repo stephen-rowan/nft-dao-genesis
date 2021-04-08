@@ -12,5 +12,10 @@ Note: timestamps are external links
 
 ## Beginning of Fund 5 - [0.02](https://youtu.be/wnVupMQtjp4) - Tyler Wales
 
-> Rich Kopcho, Tyler Wales, New MIndflow, Stephen Rowan
+|Present |
+|--- |
+| Rich Kopcho
+|Tyler Wales |
+| New MIndflow |
+| Stephen Rowan |
 
