@@ -6,3 +6,7 @@ description: >-
 
 # 7th April, 2021, NFT-DAO General Meeting
 
+{% embed url="https://www.youtube.com/watch?v=wnVupMQtjp4" %}
+
+
+
