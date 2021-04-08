@@ -35,7 +35,7 @@ Note: timestamps are external links
 | Discord community | 296 Members |
 | Airtable form | 36 People signed up |
 | Artist Registrations for the first auction | 22 Artists |
-| Developers signed up via Airtable form | 11 |
+| Developers signed up via Airtable form | 11 Developers|
 | Email list | 387 Subscribers |
 
 
