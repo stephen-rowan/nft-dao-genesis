@@ -95,9 +95,9 @@ Note: timestamps are external links
 
 {% embed url="https://github.com/NFT-DAO/Governance-HOLON/issues/28\#issuecomment-814962236" caption="" %}
 
-> Now raised as a seperate Issue : 
+> Now raised as a separate Issue :
 
-[Triaging consensus levels #37]
+{% embed url="https://github.com/NFT-DAO/Governance-HOLON/issues/37" %}
 
-https://github.com/NFT-DAO/Governance-HOLON/issues/37
+
 
