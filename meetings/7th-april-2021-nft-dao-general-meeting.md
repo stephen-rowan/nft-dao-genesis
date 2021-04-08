@@ -73,7 +73,7 @@ Note: timestamps are external links
 >
 > Produced video to celebrate getting funded
 >
-> Andy produced memo instead :
+> Andy produced a meme instead :
 
 ![](https://media.discordapp.net/attachments/815326844131606569/828498932178878474/DAO_GifV04.gif)
 
