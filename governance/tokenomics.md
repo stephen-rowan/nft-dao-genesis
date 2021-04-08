@@ -60,5 +60,19 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/808917515694506055/827659488877084702" %}
 
+## Superfluid - Discover Programmable Cashflows
+
+@sev
+
+{% embed url="https://www.superfluid.finance/" %}
+
+Discord context
+
+{% embed url="https://discordapp.com/channels/804069702572965888/808917515694506055/829639869025878038" %}
+
+
+
+
+
 
 
