@@ -110,9 +110,7 @@ Note: timestamps are external links
 
 > Not sure if Yoroi wallet supports Native Multiple Assets yet- [9.25](https://youtu.be/wnVupMQtjp4?t=565) - **Dan Verowski, Tyler Wales**
 >
-> Reference :
->
-> Yoroi wallet does not currently support tokens
+> Answer :  Yoroi wallet does not currently support tokens
 
 {% embed url="https://yoroi-wallet.com/\#/faq/5" caption="" %}
 
