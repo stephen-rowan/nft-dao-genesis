@@ -39,4 +39,6 @@ Note: timestamps are external links
 | **Email list** | 387 Subscribers |
 | **Twitter** | 292 Followers |
 
+> We hope to accelerate this growth, looking at things like policy scripts (process logic) and wireframes (interface design)
+
 
