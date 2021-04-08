@@ -105,3 +105,5 @@ Note: timestamps are external links
 
 {% embed url="https://github.com/NFT-DAO/Governance-HOLON/issues/37" caption="" %}
 
+![Community Governance Pilot](../.gitbook/assets/nft-dao-community-governance-pilot.jpg)
+
