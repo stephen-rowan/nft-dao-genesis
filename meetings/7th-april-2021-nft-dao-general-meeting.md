@@ -62,5 +62,5 @@ Note: timestamps are external links
 
 > Created small visual for comparision of NFT with Etheurium (for Twitter post)
 
-
+https://media.discordapp.net/attachments/828670554793705473/829437682924650626/Screenshot_2021-04-07_at_21.28.58.png?width=948&height=559
 
