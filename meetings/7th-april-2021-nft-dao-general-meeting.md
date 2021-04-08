@@ -127,4 +127,4 @@ Note: timestamps are external links
 {% embed url="https://github.com/NFT-DAO/Governance-HOLON/milestone/2" %}
 
 
-
+###  - [10.38](https://youtu.be/wnVupMQtjp4?t=638) - **Troy**
