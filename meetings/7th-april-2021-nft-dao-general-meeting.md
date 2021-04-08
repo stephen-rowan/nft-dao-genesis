@@ -68,14 +68,15 @@ Note: timestamps are external links
 ## Artist Outreach - [5.28](https://youtu.be/wnVupMQtjp4?t=328) - New Mindflow
 
 > Contacted Artists, including African Artists who have some good potential to create some quality works.
-
-> Working on Colour Schemes for the Launch Page of the Auction MVP (Minimum Viable Product)
-
+>
+> Working on Colour Schemes for the Launch Page of the Auction MVP \(Minimum Viable Product\)
+>
 > Produced video to celebrate getting funded
-
+>
 > Andy produced memo instead :
 
-https://media.discordapp.net/attachments/815326844131606569/828498932178878474/DAO_GifV04.gif
+![](https://media.discordapp.net/attachments/815326844131606569/828498932178878474/DAO_GifV04.gif)
+
 
 
 
