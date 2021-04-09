@@ -519,40 +519,39 @@ Reference :
 
 ### "Beam me up Scotty" - [43.48](https://youtu.be/wnVupMQtjp4?t=2628) - **Rich Kopcho**
 
-> We need a name for "Beam me up Scotty" - teleporting NFTs between different blockchains. Usability and interorperability across blockchains.
-> How do we get there from here. How to do you lock/unlock tokens "transported" between different chains ?
+> We need a name for "Beam me up Scotty" - teleporting NFTs between different blockchains. Usability and interorperability across blockchains. How do we get there from here. How to do you lock/unlock tokens "transported" between different chains ?
 
 Reference :
 
-{% embed url="https://en.wikipedia.org/wiki/Beam\_me\_up,\_Scotty" %}
+{% embed url="https://en.wikipedia.org/wiki/Beam\_me\_up,\_Scotty" caption="" %}
 
 > Working with mutual-knowledge on such cross-chain solutions takes us into the realm of a bigger eco-system play for NFT-DAO.
 
 ### Plutus Smart Contract functionality in July 2021 - [46.09](https://youtu.be/wnVupMQtjp4?t=2769) - **Rich Kopcho**
 
 > Shortly after Plutus is Live mutual-knowledge will have Smart Contracts ready for us. - **Rich Kopcho**
-
+>
 > In preparation, we can start writing our contracts well ahead of time by using mutual-knowledge's Glow. People in our Development HOLON are getting into the Plutus Pioneer Program to provide a Haskell focus as well. The long-term vision for us is to be as interoperable as possible - to provide a generic, cross platform NFT-DAO that is not specific to Cardano. One of the prime reasons to reach out to other chains is recruitment of legacy blockchain talent. Bring them in. - **Rich Kopcho**
-
+>
 > To the extent that it remains the most efficient way and the most green way Cardano's blockchain has the edge - **Rich Kopcho**
-
-> Cardano (ADA) core of fungibility - [48.03](https://youtu.be/wnVupMQtjp4?t=2883) - **Stephen Rowan*
-
+>
+> Cardano \(ADA\) core of fungibility - [48.03](https://youtu.be/wnVupMQtjp4?t=2883) - _\*Stephen Rowan_
+>
 > I suppose that ADA is the core of fungibility and Governance - but NFT-DAO does not need to be completely dependent on one chain commercially. For example blockchains are being specfically built for the archiving space which could interface through any number of chains depending on Governance and fungibility preferences.
 
 Reference :
 
-https://www.archangel.ac.uk/
+[https://www.archangel.ac.uk/](https://www.archangel.ac.uk/)
 
 ### Storage research - [48.44](https://youtu.be/wnVupMQtjp4?t=2924) - **Dan Verowski**
-> Some of the art NFTs will be quite large files.
 
+> Some of the art NFTs will be quite large files.
+>
 > Are Development in contact with Alessandro who did spacebudz ?
 
 Reference :
 
-https://spacebudz.io/
-
+{% embed url="https://spacebudz.io/" %}
 
 
 
