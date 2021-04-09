@@ -579,6 +579,6 @@ Reference :
 
 > For the MVP we want to deliver something quickly and that will have a long shelf life for our particular use-case. But there are going to be all sorts of NFT use-cases created with NFT-DAO. What solution we choose will be valuable information to the wider community and inform future NFT projects - **Tyler Wales**
 
-> I will liaise with Sev and Hud because they may already have some information about that in the Business model analysis - [54.02](https://youtu.be/wnVupMQtjp4?t=3242) - **Troy Egan**
+> I will liaise with Sev and Hud because they may already have some information about that in the Business model analysis. If not then we will take a field in on storage solutions - [54.02](https://youtu.be/wnVupMQtjp4?t=3242) - **Troy Egan**
 
 
