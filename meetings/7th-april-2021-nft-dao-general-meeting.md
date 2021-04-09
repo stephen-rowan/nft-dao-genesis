@@ -93,7 +93,7 @@ Note: timestamps are external links
 >
 > **Summary** : Maybe we could have two tokens for each HOLON ...
 
-* An **internal token** \(collected by those eligble for voting on HOLON decisons\) and, 
+* An **internal token** \(collected by those eligible for voting on HOLON decisons\) and, 
 * an **external token** \( collected by individuals outside the HOLON\)
 
 > **Context** :
@@ -176,11 +176,11 @@ Note: timestamps are external links
 
 ### Business Analysis
 
-> Intial Business Analysis - Hope to have the draft finalised by next week. Which will give us an outline of our market/competition.
+> Intial Business Analysis - Hope to have the draft finalized by next week. Which will give us an outline of our market/competition.
 
 | - | - |
 | :--- | :--- |
-| **Item** | Intial Business Analysis. |
+| **Item** | Initial Business Analysis. |
 | **Data** |  |
 | **Action** | In Progress |
 | **Dates** | Due: 15th April 2021 |
@@ -190,7 +190,7 @@ Note: timestamps are external links
 
 > Token Minting Test - [11.51](https://youtu.be/wnVupMQtjp4?t=711) - **Troy Egan, Dan Verowski**
 >
-> Goal to get a contribution token minted and up and running in a two week timeframe. **The Ancient Kraken** and **Hud** are also interested in getting involved. Anyone else working in the Token Minting community who is interested should contact **Dan Verowski**.
+> Goal to get a contribution token minted and up and running in a two week time frame. **The Ancient Kraken** and **Hud** are also interested in getting involved. Anyone else working in the Token Minting community who is interested should contact **Dan Verowski**.
 >
 > **Dan Verowski** will contact **The Ancient Kraken** and **Hud**.
 
@@ -274,7 +274,7 @@ Reference : README message in "Governance-HOLON Vault" Private repository
 > * Commercially or strategically sensitive information.
 > * Confidential information \(but please avoid posting personal data here\).
 
-* **White Paper** - Unsure about timeframe, priority, deadline. As it is a more in-depth document. - **Troy Egan**
+* **White Paper** - Unsure about time frame, priority, deadline. As it is a more in-depth document. - **Troy Egan**
 
   > Anyone wishing to contribute should contact Gov-HOLON.
 
@@ -367,7 +367,7 @@ Reference :
 >
 > Started doing flowchart around :
 >
-> * onboarding process - how people/members come on Discord and engage
+> * on-boarding process - how people/members come on Discord and engage
 > * consensus - amongst new people/members
 > * How are we triaging levels of engagement
 >
@@ -403,7 +403,7 @@ Reference :
 >
 > He was speaking tongue-in-cheek - **Stephen Rowan**
 >
-> He was speaking tongue-in-cheek, in that the Cardano projects have all started off from a point of centralised authority to get things done. But the aim of Cardano, unlike other centralized authorities, is self-destructive, in that it aims to dissolve itself.
+> He was speaking tongue-in-cheek, in that the Cardano projects have all started off from a point of centralized authority to get things done. But the aim of Cardano, unlike other centralized authorities, is self-destructive, in that it aims to dissolve itself.
 
 ### Communication Discussion - [27.22](https://youtu.be/wnVupMQtjp4?t=1642) - **Rich Kopcho**, **Troy Egan**, **Stephen Rowan**, **Dan Verowski**
 
