@@ -284,6 +284,8 @@ Reference : README message in "Governance-HOLON Vault" Private repository
 
 > We currently have 4 Gov-HOLON projects ([Gov-HOLON Project List](https://github.com/NFT-DAO/Governance-HOLON/projects)) on the public [Governance-HOLON](https://github.com/NFT-DAO/Governance-HOLON) repository.
 
+> Aiming to transfer Gov-HOLON deliverables to GitHub Project Boards, then break these down further into tasks (GitHub Issues) and then allocate Issues to HOLON members.
+
 ## Open-Source recognition
 
 > Began with Open-Source recognition criteria :
