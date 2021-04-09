@@ -411,3 +411,6 @@ Reference :
 
 > I meant a Communication HOLON directed internally - **Troy Egan**
 
+
+> The life blood of a Holonic Organisation  -  **Rich Kopcho**
+
