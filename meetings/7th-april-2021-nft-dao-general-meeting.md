@@ -310,4 +310,20 @@ Reference : README message in "Governance-HOLON Vault" Private repository
 | **Dates** |No due date|
 | **HOLON** |Gov-HOLON, Stephen Rowan|
 
+## Business-Plan-Decomposition
+
+> Then a functional breakdown of the Business Plan into organizational units (Business-Plan-Decomposition)
+
+Reference :
+
+
+
+|-|-|
+|---|---|
+| **Item** | Business-Plan-Decomposition |
+| **Data** |[Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/3), [Milestones](https://github.com/NFT-DAO/Governance-HOLON/milestone/4)|
+| **Action** | In Progress|
+| **Dates** |April 14, 2021|
+| **HOLON** |Gov-HOLON, Troy, Stephen Rowan|
+
 
