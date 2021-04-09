@@ -589,3 +589,5 @@ Reference :
 
 > Development are best placed to offer a solution, so we should defer this issue to a Development meeting - [55.15](https://youtu.be/wnVupMQtjp4?t=3410) - **Tyler Wales**
 
+### Social media calendar - [57.20](https://youtu.be/wnVupMQtjp4?t=3436) - **Tyler Wales**
+
