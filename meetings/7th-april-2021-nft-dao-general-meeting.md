@@ -278,9 +278,19 @@ Reference : README message in "Governance-HOLON Vault" Private repository
 
 > Draft White paper currently located in samepage. Requires input from Development at some point.
 
-# GitHub  - [17,02](https://youtu.be/wnVupMQtjp4?t=1022) - **Stephen Rowan**
+# GitHub Overview  - [17,02](https://youtu.be/wnVupMQtjp4?t=1022) - **Stephen Rowan**
 
-> xxx
+> Beginning the process of open sourcing as per Fund 3 proposal commitments.
 
+## Open-Source recognition
+
+> Began with Open-Source recognition criteria :
+
+|-|-|
+|---|---|Open-Source recognition|
+| **Data** |[Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/1),[Milestones](https://github.com/NFT-DAO/Governance-HOLON/milestone/1)|
+| **Action** | In Progress|
+| **Dates** |Due: 30th April 2021|
+| **HOLON** |Gov-HOLON, Stephen Rowan|
 
 
