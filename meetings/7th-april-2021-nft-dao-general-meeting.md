@@ -223,10 +223,24 @@ Note: timestamps are external links
 |-|-|
 |---|---|
 | **Item** | NFT-DAO Mission Statement|
-| **Data** ||
+| **Data** |-|
 | **Action** | In Progress |
 | **Dates** |Due: 23rd April 2021|
 | **HOLON** |Gov-HOLON|
 
+## NFT-DAO Charter
 
+> NFT-DAO Charter - [13.24](https://youtu.be/wnVupMQtjp4?t=804) - **Troy**
+
+> Already been put out into the community for contribution and review. Changed name from manifesto to charter early on after feedback from **New Mindflow**.
+
+> Building out a document structure of 1-3 pages ([GitHub Review Copy](https://github.com/NFT-DAO/Governance-HOLON/blob/main/05-Our-Values/Documents/Charter/Draft-Charter.md))
+
+|-|-|
+|---|---|
+| **Item** | NFT-DAO Charter|
+| **Data** |[Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/4), [Milestones](https://github.com/NFT-DAO/Governance-HOLON/milestone/3)|
+| **Action** | In Progress |
+| **Dates** |Due: 15th April 2021|
+| **HOLON** |Gov-HOLON|
 
