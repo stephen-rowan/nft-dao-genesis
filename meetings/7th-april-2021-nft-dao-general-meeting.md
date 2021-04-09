@@ -376,7 +376,7 @@ Reference :
 | - | - |
 | :--- | :--- |
 | **Item** | Triaging Consensus Levels |
-| **Data** | |
+| **Data** | --|
 | **Action** | In Progress |
 | **Dates** | 14th April, 2021 |
 | **HOLON** | Troy Egan |
