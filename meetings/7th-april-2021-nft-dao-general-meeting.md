@@ -288,6 +288,8 @@ Reference : README message in "Governance-HOLON Vault" Private repository
 >
 > Aiming to transfer Gov-HOLON deliverables to GitHub Project Boards, then break these down further into tasks \(GitHub Issues\) and then allocate Issues to HOLON members.
 
+> This week Gov-HOLON had its first community call-out on Discord as an experiment to see how GitHub Issues might work. Starting with the Issue [Draft NFT-DAO Charter #29](https://github.com/NFT-DAO/Governance-HOLON/issues/29).
+
 ### Open-Source recognition
 
 > Began with Open-Source recognition criteria :
