@@ -417,5 +417,5 @@ Reference :
 
 > A self-sufficent system - [28.40](https://youtu.be/wnVupMQtjp4?t=1720) - **Stephen.Rowan**
 > 
-> My open-source objective is to create a self-sufficient system so that the DAO does not depend on a single person as indispensable. 
+> My open-source objective is to create a self-sufficient system so that the DAO does not depend on a single person as indispensable. But we will need to recruit more people experienced in open source project-planning.
 > 
