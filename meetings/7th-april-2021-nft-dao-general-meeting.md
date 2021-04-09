@@ -339,3 +339,9 @@ Reference :
 | **Dates** | April 14, 2021 |
 | **HOLON** | Gov-HOLON, Troy, Stephen Rowan |
 
+
+> Maybe we don't need our reports then ? - [19.16](https://youtu.be/wnVupMQtjp4?t=1156) - **Dan Verowski**, **Stephen Rowan**
+
+> Hoping that this will inform our reporting.
+
+
