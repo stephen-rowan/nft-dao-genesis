@@ -611,4 +611,6 @@ Andy has a contact willing to contribute to our marketing and expand our connect
 
 > This collaboration that the community is sharing - is the value.
 
+> Difficult to get head round engaging with someone attached to the autonomy of their business and not wanting to be part of the DAO
+
 
