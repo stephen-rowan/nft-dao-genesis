@@ -370,7 +370,7 @@ Reference :
 * consensus - amongst new people/members
 * How are we triaging levels of engagement
 
-These factors also tie into our tokenization model
+> These factors also tie into our tokenization model
 
 Reference :
 
