@@ -612,23 +612,24 @@ Andy has a contact willing to contribute to our marketing and expand our connect
 > This collaboration that the community is sharing - is the value.
 >
 > Difficult to get head round engaging with someone attached to the autonomy of their business and not wanting to be part of the DAO. Found it quite challenging to work from that position. First contact hasn’t worked too well - communication drops off.
-
-> Peer facilitation and research  - [1.04.09](https://youtu.be/wnVupMQtjp4?t=3869) - **Stephen Rowan**
-
+>
+> Peer facilitation and research - [1.04.09](https://youtu.be/wnVupMQtjp4?t=3869) - **Stephen Rowan**
+>
 > Workshops between homeless people and people who worked in banking presented as an experience building exercise.
 
-{% embed url="https://groundswell.org.uk/what-we-do/peer-research/" %}
+{% embed url="https://groundswell.org.uk/what-we-do/peer-research/" caption="" %}
 
 > The DAO infrastructure as a value offer - [1.05.46](https://youtu.be/wnVupMQtjp4?t=3946) - **Troy Egan**
-
-> Promisery notes that can contribute to NFT-DAO funding  - [1.06.04](https://youtu.be/wnVupMQtjp4?t=3964) - **Dan Verowski**
-
-> DAO-Voting as a service (Some Musings about the Roadmap)  - [1.07.03](https://youtu.be/wnVupMQtjp4?t=4023) - **New Mindflow**
-
+>
+> Promisery notes that can contribute to NFT-DAO funding - [1.06.04](https://youtu.be/wnVupMQtjp4?t=3964) - **Dan Verowski**
+>
+> DAO-Voting as a service \(Some Musings about the Roadmap\) - [1.07.03](https://youtu.be/wnVupMQtjp4?t=4023) - **New Mindflow**
+>
 > If we provide our own infrastructure, we could be in competition with Cardano because of Charles Hoskinson announcement of a plan to offer DAO-Voting as a service going forward.
 
 **Context** :
 
-https://stephen-rowan.gitbook.io/nft-dao/governance/dao-models#some-musings-about-the-roadmap
+{% embed url="https://stephen-rowan.gitbook.io/nft-dao/governance/dao-models\#some-musings-about-the-roadmap" %}
+
 
 
