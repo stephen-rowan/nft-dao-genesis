@@ -459,5 +459,8 @@ Reference :
 
 {% embed url="https://forum.cardano.org/t/bluecollarcrypto-blclr/37195" %}
 
+# Auction MVP (Minimum Viable Product) Update - [37.25](https://youtu.be/wnVupMQtjp4?t=2245) - **Tyler Wales**
+
+
 
 
