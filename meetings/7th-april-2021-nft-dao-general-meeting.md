@@ -397,54 +397,55 @@ Reference :
 
 ### Did Charles refer to Cardano and did he say "Autocracy" - [24.23](https://youtu.be/wnVupMQtjp4?t=1554) - **Rich Kopcho**
 
-> **Correction** : Stephen said "Autocracy" when Charles actually said "Plutocratic model" - \(apologies\). 
-> 
-> *Autocracy* = rule by one dictator / *Plutocracy* - rule by by people of great wealth or income.
+> **Correction** : Stephen said "Autocracy" when Charles actually said "Plutocratic model" - \(apologies\).
+>
+> _Autocracy_ = rule by one dictator / _Plutocracy_ - rule by by people of great wealth or income.
 >
 > He was speaking tongue-in-cheek - **Stephen Rowan**
 >
-> He was speaking tongue-in-cheek, in that the Cardano projects have all started off from a point of centralised authority to get things done. But the aim of Cardano,  unlike other centralised authorities, is self-destructive, in that it aims to dissolve itself.
+> He was speaking tongue-in-cheek, in that the Cardano projects have all started off from a point of centralised authority to get things done. But the aim of Cardano, unlike other centralized authorities, is self-destructive, in that it aims to dissolve itself.
 
 ### Communication Discussion - [27.22](https://youtu.be/wnVupMQtjp4?t=1642) - **Rich Kopcho**, **Troy Egan**, **Stephen Rowan**, **Dan Verowski**
 
-> Did you mean communication to the outside world or inside the HOLON? -  **Rich Kopcho**
-
+> Did you mean communication to the outside world or inside the HOLON? - **Rich Kopcho**
+>
 > I meant a Communication HOLON directed internally - **Troy Egan**
-
-> The life blood of a Holonic Organisation is communication -  **Rich Kopcho**
-
-> It seems to me that the person who has stepped up to take up that burden is Stephen. He is our resouce that is gathering up that stuff and putting it in a way that people can digest it.
-
-> A self-sufficent system - [28.40](https://youtu.be/wnVupMQtjp4?t=1720) - **Stephen Rowan**
-> 
+>
+> The life blood of a Holonic Organization is communication - **Rich Kopcho**
+>
+> It seems to me that the person who has stepped up to take up that burden is Stephen. He is our resource that is gathering up that stuff and putting it in a way that people can digest it.
+>
+> A self-sufficient system - [28.40](https://youtu.be/wnVupMQtjp4?t=1720) - **Stephen Rowan**
+>
 > My objective is to create a self-sufficient system so that the DAO is open-source and does not depend on a single person as indispensable. But we will need to recruit more people experienced in open source project-planning.
-
-> In the Holonic Organisation there isn't a Communication HOLON because there is communication between HOLONs - [30:07](https://youtu.be/wnVupMQtjp4?t=1807) - **Rich Kopcho**
-
+>
+> In the Holonic Organization there isn't a Communication HOLON because there is communication between HOLONs - [30:07](https://youtu.be/wnVupMQtjp4?t=1807) - **Rich Kopcho**
+>
 > Part of the Canon is the communication link. What gets communicated from what HOLON to the next HOLON and under what circumstances. In the emergence of that HOLON they identify "who needs what from them" in the sense of on-going communication. That is how you build that communication infrastructure. We are emerging - so we are going through the growing pains of figuring that out.
-
+>
 > How do you know beforehand what information needs to be distributed ? - [31.01](https://youtu.be/wnVupMQtjp4?t=1861) - **Dan Verowski**
-
+>
 > How can you have a regulation for it beforehand ?
-
-> The key is "beforehand" - [31.20](https://youtu.be/wnVupMQtjp4?t=1880) -  **Rich Kopcho**
-
-> If you're trying to plan all this stuff beforehand you'll never get it done. It is emergent behaviour. As you are emerging and discovering what your information requirements are - you are discovering your Canon. It is a living document.
-
-> An organic, emergent process is already happening - [32.27](https://youtu.be/wnVupMQtjp4?t=1947) -  **Stephen Rowan**
-
+>
+> The key is "beforehand" - [31.20](https://youtu.be/wnVupMQtjp4?t=1880) - **Rich Kopcho**
+>
+> If you're trying to plan all this stuff beforehand you'll never get it done. It is emergent behavior. As you are emerging and discovering what your information requirements are - you are discovering your Canon. It is a living document.
+>
+> An organic, emergent process is already happening - [32.27](https://youtu.be/wnVupMQtjp4?t=1947) - **Stephen Rowan**
+>
 > For example people are including each other in HOLON channels in order to achieve transparency.
-
-> In emergent behaviour, you need something - you make the connection -  **Rich Kopcho**
-
-> Does'nt an infrastructure for distributed information already exist ? - [33.11](https://youtu.be/wnVupMQtjp4?t=1991) -  **Dan Verowski**
-
-> Not just about access to information - [33.22](https://youtu.be/wnVupMQtjp4?t=2002) -  **Stephen Rowan**
-
+>
+> In emergent behavior, you need something - you make the connection - **Rich Kopcho**
+>
+> Does'nt an infrastructure for distributed information already exist ? - [33.11](https://youtu.be/wnVupMQtjp4?t=1991) - **Dan Verowski**
+>
+> Not just about access to information - [33.22](https://youtu.be/wnVupMQtjp4?t=2002) - **Stephen Rowan**
+>
 > Not just about access to information, its also about awareness about how each HOLON is operating and breaking down information silos. And also focusing on immediate objectives across different HOLONs.
 
 Reference :
 
-https://en.wikipedia.org/wiki/Information_silo
+{% embed url="https://en.wikipedia.org/wiki/Information\_silo" %}
+
 
 
