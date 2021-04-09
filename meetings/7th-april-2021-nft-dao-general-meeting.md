@@ -547,11 +547,15 @@ Reference :
 
 > Some of the art NFTs will be quite large files.
 >
-> Are Development in contact with Alessandro who did spacebudz ?
+> Are Development in contact with Alessandro who did spacebudz ? Because he came up with quite a good storage solution for the current situation.
 
 Reference :
 
 {% embed url="https://spacebudz.io/" %}
+
+> "The metadata for each token are on-chain. The metadata itself links to an image on IPFS and Arweave in order to keep the data immutable and retrievable forever. The metadata are in the minting transaction of the token. Check out this example. Scroll down to the metadata and click on them to see them."  - spacebudz.io - FAQ
+
+https://spacebudz.io/FAQ
 
 
 
