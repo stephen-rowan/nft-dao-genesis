@@ -300,6 +300,8 @@ Reference : README message in "Governance-HOLON Vault" Private repository
 
 ## NFT DAO Fund 3 Deliverables
 
+> Then NFT DAO Fund 3 Deliverables :
+
 |-|-|
 |---|---|
 | **Item** | NFT DAO Fund 3 Deliverables |
