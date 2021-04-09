@@ -273,4 +273,6 @@ Reference : README message in "Governance-HOLON Vault" Private repository
 > * Commercially or strategically sensitive information.
 > * Confidential information (but please avoid posting personal data here).
 
+* **White Paper** - Unsure about timeframe, priority, deadline. As it is a more in-depth document. - **Troy Egan**
+
 
