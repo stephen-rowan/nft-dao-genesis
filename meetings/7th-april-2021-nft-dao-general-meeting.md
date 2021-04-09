@@ -186,7 +186,9 @@ Note: timestamps are external links
 
 ## Token Minting Test
 
-> Token Minting Test - goal to get up and running in two weeks. If there is anyone else working in the Token Minting community
+> Token Minting Test - goal to get up and running in two weeks. If there is anyone else working in the Token Minting community -  - [11.51](https://youtu.be/wnVupMQtjp4?t=711) - Troy, Dan Verowski
+
+
 
 |-|-|
 |---|---|
