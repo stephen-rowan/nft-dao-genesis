@@ -370,7 +370,16 @@ Reference :
 * consensus - amongst new people/members
 * How are we triaging levels of engagement
 
-> These factors also tie into our tokenization model
+> These factors also tie into our tokenization model. 
+> Do we need a communications HOLON that is keeping everyone on the same page ?
+
+| - | - |
+| :--- | :--- |
+| **Item** | Triaging Consensus Levels |
+| **Data** | |
+| **Action** | In Progress |
+| **Dates** | 14th April, 2021 |
+| **HOLON** | Troy Egan |
 
 Reference :
 
