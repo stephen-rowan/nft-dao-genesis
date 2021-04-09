@@ -447,5 +447,7 @@ Reference :
 
 {% embed url="https://en.wikipedia.org/wiki/Information\_silo" %}
 
+> We are emerging in our own processes as HOLONs - [34.06](https://youtu.be/wnVupMQtjp4?t=2046) - **Troy Egan**
+
 
 
