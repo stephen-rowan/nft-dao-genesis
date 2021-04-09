@@ -388,5 +388,10 @@ Reference :
 
 {% embed url="https://en.wikipedia.org/wiki/Agile\_software\_development" %}
 
+## Charles Hoskinson's Roadmap  - [24.23](https://youtu.be/wnVupMQtjp4?t=1463) - **Stephen Rowan** 
 
+> We are currently a Plutocratic model and need to move to a Hybrid model. 
 
+> **Correction** : Stephen said "Autocracy" when Charles said "Plutocratic model" - (apologies)
+
+> "Also going to launch a research agenda to move from a Plutocratic model (ADA's current status) to a Hybrid model (ADA plus Proof of Merit). Proof of Merit is a very ill-defined concept - consequentially deliverable is closer to 2025 than 2021." ([Source](https://stephen-rowan.gitbook.io/nft-dao/governance/dao-models#some-musings-about-the-roadmap))
