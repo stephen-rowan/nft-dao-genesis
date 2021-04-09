@@ -280,7 +280,7 @@ Reference : README message in "Governance-HOLON Vault" Private repository
 
 # GitHub Overview  - [17,02](https://youtu.be/wnVupMQtjp4?t=1022) - **Stephen Rowan**
 
-> Beginning the process of open sourcing as per Fund 3 proposal commitments.
+> Beginning the process of open sourcing as per Fund 3 proposal commitments. We currently have 4 Gov-HOLON projects ([Gov-HOLON Project List](https://github.com/NFT-DAO/Governance-HOLON/projects)) on the public [Governance-HOLON](https://github.com/NFT-DAO/Governance-HOLON) repository.
 
 ## Open-Source recognition
 
