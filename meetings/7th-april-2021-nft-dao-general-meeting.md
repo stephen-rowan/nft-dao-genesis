@@ -278,4 +278,9 @@ Reference : README message in "Governance-HOLON Vault" Private repository
 
 > Draft White paper currently located in samepage. Requires input from Development at some point.
 
+# GitHub  - [17,02](https://youtu.be/wnVupMQtjp4?t=1022) - **Stephen Rowan**
+
+> xxx
+
+
 
