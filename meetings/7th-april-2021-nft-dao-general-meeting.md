@@ -371,7 +371,7 @@ Reference :
 * How are we triaging levels of engagement
 
 > These factors also tie into our tokenization model. 
-> Do we need a communications HOLON that is keeping everyone on the same page? A HOLON that could triage what should be allocated to public/community consensus or what should be private.
+> Do we need a communications HOLON that is keeping everyone on the same page? A HOLON that could triage what should be allocated to public/community consensus or what should be private. Also look at how contribution tokens are attcahed to a triaging model.
 
 | - | - |
 | :--- | :--- |
