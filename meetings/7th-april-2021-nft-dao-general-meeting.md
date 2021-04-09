@@ -557,7 +557,9 @@ Reference :
 
 {% embed url="https://www.arweave.org/" %}
 
-> We were aware of arweave. There is some research going on into other solutions such as Seer (?). Do we know where ergoauctions stores its NFTs ? Is it on IPFS - **Rich Kopcho**
+### We were aware of arweave.- [49.40](https://youtu.be/wnVupMQtjp4?t=2980)  - **Rich Kopcho**
+
+> We were aware of arweave. There is some research going on into other solutions such as Seer (?). Do we know where **ergoauctions** stores its NFTs ? Is it on IPFS ?
 
 {% embed url="https://ergoauctions.org/#/auction/active?type=picture" %}
 
