@@ -39,7 +39,7 @@ Note: timestamps are external links
 | **Email list** | 387 Subscribers |
 | **Twitter** | 292 Followers |
 
-> We hope to accelerate this growth, looking at things like policy scripts \(process logic\) and wireframes \(interface design\)
+> We hope to accelerate this growth, looking at things like policy scripts \(process logic\) and wire-frames \(interface design\)
 >
 > We are on track but need to pick up the pace.
 >
@@ -49,9 +49,9 @@ Note: timestamps are external links
 
 ## Product Update - [3.11](https://youtu.be/wnVupMQtjp4?t=191) - Tyler Wales
 
-> Deliver completed mock-ups to Yagi for branding, get some colours figured out.
+> Deliver completed mock-ups to Yagi for branding, get some colors figured out.
 >
-> Put together basic prototype flowchart \(without colours\)
+> Put together basic prototype flowchart \(without co lours\)
 >
 > Hopefully we will have a polished product for the MVP
 
@@ -63,7 +63,7 @@ Note: timestamps are external links
 
 ![](https://media.discordapp.net/attachments/828670554793705473/829437682924650626/Screenshot_2021-04-07_at_21.28.58.png?width=948&height=559)
 
-> Working with Jonathan Looney to create first mock-ups for wireframes.
+> Working with Jonathan Looney to create first mock-ups for wire frames.
 
 ## Artist Outreach - [5.28](https://youtu.be/wnVupMQtjp4?t=328) - New Mindflow
 
@@ -93,7 +93,7 @@ Note: timestamps are external links
 >
 > **Summary** : Maybe we could have two tokens for each HOLON ...
 
-* An **internal token** \(collected by those eligible for voting on HOLON decisons\) and, 
+* An **internal token** \(collected by those eligible for voting on HOLON decisions\) and, 
 * an **external token** \( collected by individuals outside the HOLON\)
 
 > **Context** :
@@ -176,7 +176,7 @@ Note: timestamps are external links
 
 ### Business Analysis
 
-> Intial Business Analysis - Hope to have the draft finalized by next week. Which will give us an outline of our market/competition.
+> Initial Business Analysis - Hope to have the draft finalized by next week. Which will give us an outline of our market/competition.
 
 | - | - |
 | :--- | :--- |
