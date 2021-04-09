@@ -520,7 +520,7 @@ Reference :
 ### "Beam me up Scotty" - [43.48](https://youtu.be/wnVupMQtjp4?t=2628) - **Rich Kopcho**
 
 > We need a name for "Beam me up Scotty" - teleporting NFTs between different blockchains. Usability and interorperability across blockchains.
-> How do we get there from here.
+> How do we get there from here. How to do you lock/unlock tokens "transported" between different chains ?
 
 Reference :
 
