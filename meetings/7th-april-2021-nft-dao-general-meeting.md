@@ -474,6 +474,6 @@ Reference :
 > New Mindflow requested a two-day window to maximise the onboarding of more artists given the 6-week time-frame.
 > And allow them time to create new pieces. We can still leave the form up and contact artists again after this initial message.
 
-
+## Development - [38.57](https://youtu.be/wnVupMQtjp4?t=2337) - **Rich Kopcho**
 
 
