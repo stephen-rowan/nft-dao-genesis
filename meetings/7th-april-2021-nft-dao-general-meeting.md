@@ -166,11 +166,11 @@ Note: timestamps are external links
 
 |-|-|
 |---|---|
-| **Item** |  Reports from within the HOLONs. |
+| **Item** | Reports from within the HOLONs.|
 | **Data** | |
 | **Action** | To Do|
 | **Dates** |TBA|
-| HOLON |Gov-HOLON||
+| HOLON |Gov-HOLON|
 
 ## Business Analysis
 
