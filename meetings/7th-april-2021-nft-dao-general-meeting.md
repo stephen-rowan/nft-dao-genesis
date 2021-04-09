@@ -429,7 +429,7 @@ Reference :
 
 > The key is "beforehand" - [31.20](https://youtu.be/wnVupMQtjp4?t=1880) -  **Rich Kopcho**
 
-> If you're trying to plan all this stuff beforehand you'll never get it done.
+> If you're trying to plan all this stuff beforehand you'll never get it done. It is emergent behaviour.
 
 
 
