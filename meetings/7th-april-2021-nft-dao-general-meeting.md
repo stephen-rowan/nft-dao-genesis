@@ -492,7 +492,8 @@ Reference :
 > We have several Fund 5 Proposals in preparation:  
 
 * An API for the overall marketplace (with mutual-knowledge?)
-* Smart contracts that will enforce residual distribution (royalties)
+* Smart contracts that will enforce residual distribution (royalties) - splitting distribution of royalties to multiple parties not a trivial process.
+
 
 
 
