@@ -541,7 +541,7 @@ Reference :
 
 Reference :
 
-{% embed url="https://www.archangel.ac.uk/" %}
+{% embed url="https://www.archangel.ac.uk/" caption="" %}
 
 ### Storage research - [48.44](https://youtu.be/wnVupMQtjp4?t=2924) - **Dan Verowski**
 
@@ -555,45 +555,45 @@ Reference :
 
 > "The metadata for each token are on-chain. The metadata itself links to an image on IPFS and Arweave in order to keep the data immutable and retrievable forever. The metadata are in the minting transaction of the token. Check out this example. Scroll down to the metadata and click on them to see them." - spacebudz.io - FAQ
 
-{% embed url="https://www.arweave.org/" %}
+{% embed url="https://www.arweave.org/" caption="" %}
 
 ### We were aware of arweave.- [49.40](https://youtu.be/wnVupMQtjp4?t=2980)  - **Rich Kopcho**
 
-> We were aware of arweave. There is some research going on into other solutions such as FAI-Seer (?). Do we know where **ergoauctions** stores its NFTs ? Is it on IPFS ?
+> We were aware of arweave. There is some research going on into other solutions such as FAI-Seer \(?\). Do we know where **ergoauctions** stores its NFTs ? Is it on IPFS ?
 
-{% embed url="https://ergoauctions.org/#/auction/active?type=picture" %}
+{% embed url="https://ergoauctions.org/\#/auction/active?type=picture" caption="" %}
 
 ### Discussion - [50.36](https://youtu.be/wnVupMQtjp4?t=3036) - **Rich Kopcho**, **Tyler Wales**, **Stephen Rowan**, **Dan Verowski**
 
 > I thought we decided to assume we are using IPFS in the Minimum Viable Product - **Rich Kopcho**
-
+>
 > We never made a concrete decision on it. But IPFS seemed to be what most other NFTs are using - **Tyler Wales**
-
+>
 > We may have to do a comparison of different solutions and providers - **Stephen Rowan**
-
+>
 > IPFS and Arweave together is like a decentralised pinning service- **Dan Verowski**
-
+>
 > We should put together a competitive research document for storage solutions. - **Tyler Wales**
-
+>
 > We can do the research anyway, but the Development Team need to select an IPFS solution for the MVP - **Dan Verowski**
-
+>
 > For the MVP we want to deliver something quickly and that will have a long shelf life for our particular use-case. But there are going to be all sorts of NFT use-cases created with NFT-DAO. What solution we choose will be valuable information to the wider community and inform future NFT projects - **Tyler Wales**
-
+>
 > I will liaise with Sev and Hud because they may already have some information about that in the Business model analysis. If not then we will take a field in on storage solutions - [54.02](https://youtu.be/wnVupMQtjp4?t=3242) - **Troy Egan**
 
 ### Storage of multiple NFTs - [55.15](https://youtu.be/wnVupMQtjp4?t=3315) - **New Mindflow**
 
 > If we go down the route of minting several copies of the NFT. Do we need to store each of them individually or can multiple editions point to a single file ?
-
+>
 > It would be redundant to have multiple copies of the file image, given that an edition is only produced by code in the NFT script - **Dan Verowski**
-
+>
 > Development are best placed to offer a solution, so we should defer this issue to a Development meeting - [55.15](https://youtu.be/wnVupMQtjp4?t=3410) - **Tyler Wales**
 
 ### Social media calendar - [57.20](https://youtu.be/wnVupMQtjp4?t=3436) - **Tyler Wales**
 
 > Marketing have a social media calendar that schedules different tweets, blog posts and linkedin posts. NFT-DAO is really everyone's voice not just Marketing HOLON's voice - so if anybody wants some messages put out there to the community get in touch with someone in the Marketing HOLON chat.
-
-> Also if anybody wants to have access to the concept calendar airtable form. 
+>
+> Also if anybody wants to have access to the concept calendar airtable form.
 
 ### NFT-DAO linkedin - [58.20](https://youtu.be/wnVupMQtjp4?t=3500) - **Troy Egan**
 
@@ -607,15 +607,17 @@ Andy has a contact willing to contribute to our marketing and expand our connect
 
 ### Collaborating with other businesses - [1.01.06](https://youtu.be/wnVupMQtjp4?t=3666) - **Troy Egan**
 
-> Collaborating with other businesses who are approaching NFT-DAO about launching a marketplace. Trying to figure out what a collaboration looks like from a DAO's perspective. Personal feedback: found it quite challenging to tease out how we collaborate with a potential marketplace or business that is not planning on being in the DAO. We offer a hive of collective intelligence, everyone sharing input, all those inputs provide outputs that people can take away and share further. 
-
+> Collaborating with other businesses who are approaching NFT-DAO about launching a marketplace. Trying to figure out what a collaboration looks like from a DAO's perspective. Personal feedback: found it quite challenging to tease out how we collaborate with a potential marketplace or business that is not planning on being in the DAO. We offer a hive of collective intelligence, everyone sharing input, all those inputs provide outputs that people can take away and share further.
+>
 > This collaboration that the community is sharing - is the value.
-
+>
 > Difficult to get head round engaging with someone attached to the autonomy of their business and not wanting to be part of the DAO. Found it quite challenging to work from that position. First contact hasn’t worked too well - communication drops off.
 
 ### Peer facilitation and research  - [1.04.09](https://youtu.be/wnVupMQtjp4?t=3869) - **Stephen Rowan**
+
 > Workshops between homeless people and people who worked in banking presented as an experience building exercise.
 
-https://groundswell.org.uk/what-we-do/peer-research/
+{% embed url="https://groundswell.org.uk/what-we-do/peer-research/" %}
+
 
 
