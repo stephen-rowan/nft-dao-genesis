@@ -567,4 +567,4 @@ Reference :
 
 > I thought we decided to assume we are using IPFS in the Minimum Viable Product - **Rich Kopcho**
 
-> We never made a concrete decision on it. But IPFS seemed to be what most other NFTs use - **Tyler Wales**
+> We never made a concrete decision on it. But IPFS seemed to be what most other NFTs are using - **Tyler Wales**
