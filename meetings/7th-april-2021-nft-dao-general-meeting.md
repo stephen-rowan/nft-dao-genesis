@@ -126,3 +126,7 @@ Note: timestamps are external links
 
 
 # Governance HOLON Update  - [10.38](https://youtu.be/wnVupMQtjp4?t=638) - **Troy**
+
+> Getting ready for progress reports which Rich Kopcho will be starting next week
+
+>
