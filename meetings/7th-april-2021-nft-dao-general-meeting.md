@@ -415,3 +415,5 @@ Reference :
 
 > It seems to me that the person who has stepped up to take up that burden is Stephen. He is our resouce that is gathering up that stuff and putting it in a way that people can digest it.
 
+> Communication Discussion - [28.40](https://youtu.be/wnVupMQtjp4?t=1720) - **Stephen.Rowan**
+
