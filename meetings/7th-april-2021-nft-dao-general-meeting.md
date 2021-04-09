@@ -135,7 +135,7 @@ Note: timestamps are external links
 | **Item** | Getting ready for **progress reports** |
 | **Data** | |
 | **Action** | In Progress|
-| **Dates** |15th April 2021|
+| **Dates** |Due: 15th April 2021|
 | **HOLON** |Gov-HOLON|
 
 > We will be handing reports to D? -
@@ -145,7 +145,7 @@ Note: timestamps are external links
 | **Item** | We will be handing reports to D? |
 | **Data** | |
 | **Action** | In Progress|
-| Dates |15th April 2021|
+| Dates |Due: 15th April 2021|
 | HOLON |Troy / Rich Kopcho|
 
 ## Reporting template
@@ -157,7 +157,7 @@ Note: timestamps are external links
 | **Item** | Reporting process template. |
 | **Data* | |
 | **Action** | In Progress|
-| Dates |15th April 2021|
+| Dates |Due: 15th April 2021|
 | HOLON |Gov-HOLON|
 
 ## HOLON Reporting
@@ -181,21 +181,23 @@ Note: timestamps are external links
 | **Item** |  Intial Business Analysis. |
 | **Data** | |
 | **Action** | In Progress|
-| **Dates** |15th April 2021|
+| **Dates** |Due: 15th April 2021|
 | **HOLON** |Sev, Hud|
 
 ## Token Minting Test
 
-> Token Minting Test - [11.51](https://youtu.be/wnVupMQtjp4?t=711) - Troy, Dan Verowski
+> Token Minting Test - [11.51](https://youtu.be/wnVupMQtjp4?t=711) - **Troy, Dan Verowski**
 > 
->  Goal to get up and running in two weeks. If there is anyone else working in the Token Minting community -  - 
+>  Goal to get a contribution token minted and up and running in a two week timeframe. **The Ancient Kraken** and **Hud** are also interested in getting involved. If there is anyone else working in the Token Minting community should contact Dan Verowski. 
+
+> **Dan Verowski** will contact **The Ancient Kraken**
 
 |-|-|
 |---|---|
 | **Item** | Token Minting Test |
 | **Data** | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/5)|
 | **Action** | In Progress|
-| **Dates** |23rd April 2021|
+| **Dates** |Due: 23rd April 2021|
 | **HOLON** |Dan Verowski|
 
 
