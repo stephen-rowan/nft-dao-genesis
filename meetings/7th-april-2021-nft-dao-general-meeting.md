@@ -563,4 +563,6 @@ Reference :
 
 {% embed url="https://ergoauctions.org/#/auction/active?type=picture" %}
 
+### Assume we are using IPFS in the Minimum Viable Product - [50.36](https://youtu.be/wnVupMQtjp4?t=3036) - **Rich Kopcho**, **Tyler Wales**
 
+> ccc
