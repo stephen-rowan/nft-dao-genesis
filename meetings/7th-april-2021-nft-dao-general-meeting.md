@@ -619,5 +619,7 @@ Andy has a contact willing to contribute to our marketing and expand our connect
 
 {% embed url="https://groundswell.org.uk/what-we-do/peer-research/" %}
 
+> The DAO infrastructure as a value offer - [1.05.46](https://youtu.be/wnVupMQtjp4?t=3946) - **Troy Egan**
+
 
 
