@@ -559,12 +559,17 @@ Reference :
 
 ### We were aware of arweave.- [49.40](https://youtu.be/wnVupMQtjp4?t=2980)  - **Rich Kopcho**
 
-> We were aware of arweave. There is some research going on into other solutions such as Seer (?). Do we know where **ergoauctions** stores its NFTs ? Is it on IPFS ?
+> We were aware of arweave. There is some research going on into other solutions such as FAI-Seer (?). Do we know where **ergoauctions** stores its NFTs ? Is it on IPFS ?
 
 {% embed url="https://ergoauctions.org/#/auction/active?type=picture" %}
 
-### Discussion - [50.36](https://youtu.be/wnVupMQtjp4?t=3036) - **Rich Kopcho**, **Tyler Wales**
+### Discussion - [50.36](https://youtu.be/wnVupMQtjp4?t=3036) - **Rich Kopcho**, **Tyler Wales**, **Stephen Rowan**, **Dan Verowski**
 
 > I thought we decided to assume we are using IPFS in the Minimum Viable Product - **Rich Kopcho**
 
 > We never made a concrete decision on it. But IPFS seemed to be what most other NFTs are using - **Tyler Wales**
+
+> We may have to do a comparison of different solutions and providers - **Stephen Rowan**
+
+> IPFS and Arweave together is like a decentralised pinning service- **Dan Verowski**
+
