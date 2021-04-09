@@ -405,7 +405,7 @@ Reference :
 >
 > He was speaking tongue-in-cheek, in that the Cardano projects have all started off from a point of centralised authority to get things done. But the aim of Cardano,  unlike other centralised authorities, is self-destructive, in that it aims to dissolve itself.
 
-### Communication Discussion - [27.22](https://youtu.be/wnVupMQtjp4?t=1642) - **Rich Kopcho**, **Troy Egan**
+### Communication Discussion - [27.22](https://youtu.be/wnVupMQtjp4?t=1642) - **Rich Kopcho**, **Troy Egan**, **Stephen Rowan**, **Dan Verowski**
 
 > Did you mean communication to the outside world or inside the HOLON? -  **Rich Kopcho**
 
