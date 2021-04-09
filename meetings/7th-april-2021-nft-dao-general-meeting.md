@@ -545,6 +545,13 @@ Reference :
 https://www.archangel.ac.uk/
 
 ### Storage research - [48.44](https://youtu.be/wnVupMQtjp4?t=2924) - **Dan Verowski**
+> Some of the art NFTs will be quite large files.
+
+> Are Development in contact with Alessandro who did spacebudz ?
+
+Reference :
+
+https://spacebudz.io/
 
 
 
