@@ -455,6 +455,8 @@ Reference :
 
 > Some of you guys have a lot more power or pull than other people - [36.20](https://youtu.be/wnVupMQtjp4?t=2180) -  **Philip Roberts**
 
+> Trying to get Patrick on this call (from bluecollarcrypto)
 
+Reference :
 
-
+https://forum.cardano.org/t/bluecollarcrypto-blclr/37195
