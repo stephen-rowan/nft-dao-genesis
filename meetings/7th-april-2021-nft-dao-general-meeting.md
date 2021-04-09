@@ -528,9 +528,9 @@ Reference :
 
 > Working with mutual-knowledge on such cross-chain solutions takes us into the realm of a bigger eco-system play for NFT-DAO.
 
-### Plutus Smart Contract functionality in July 2021 - [46.09](https://youtu.be/wnVupMQtjp4?t=2769) - **Stephen Rowan**, **Rich Kopcho**
+### Plutus Smart Contract functionality in July 2021 - [46.09](https://youtu.be/wnVupMQtjp4?t=2769) - **Rich Kopcho**
 
 > Shortly after Plutus is Live mutual-knowledge will have Smart Contracts ready for us. - **Rich Kopcho**
 
-> In preparation, we can start writing our contracts well ahead of time by using mutual-knowledge's Glow. People in our Development HOLON are getting into the Plutus Pioneer Programme to provide a Haskell focus as well. The long-term vision for us is to be as interoperable as possible - to provide a generic, cross platform NFT-DAO that is not specific to Cardano. One of the prime reasons to reach out to other chains is recruitment of legacy blockchain talent. Bring them in.
+> In preparation, we can start writing our contracts well ahead of time by using mutual-knowledge's Glow. People in our Development HOLON are getting into the Plutus Pioneer Programme to provide a Haskell focus as well. The long-term vision for us is to be as interoperable as possible - to provide a generic, cross platform NFT-DAO that is not specific to Cardano. One of the prime reasons to reach out to other chains is recruitment of legacy blockchain talent. Bring them in. - **Rich Kopcho**
 
