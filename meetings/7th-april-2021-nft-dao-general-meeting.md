@@ -536,3 +536,5 @@ Reference :
 
 > People in our Development HOLON are getting into the Plutus Pioneer Programme to provide a Haskell focus as well.
 
+> The long-term vision for us is to be as interoperable as possible - to provide a generic, cross platform NFT-DAO that is not specific to Cardano.
+
