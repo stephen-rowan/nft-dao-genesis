@@ -534,3 +534,14 @@ Reference :
 
 > In preparation, we can start writing our contracts well ahead of time by using mutual-knowledge's Glow. People in our Development HOLON are getting into the Plutus Pioneer Programme to provide a Haskell focus as well. The long-term vision for us is to be as interoperable as possible - to provide a generic, cross platform NFT-DAO that is not specific to Cardano. One of the prime reasons to reach out to other chains is recruitment of legacy blockchain talent. Bring them in. - **Rich Kopcho**
 
+> To the extent that it remains the most efficient way and the most green way Cardano's blockchain has the edge - **Rich Kopcho**
+
+> Cardano (ADA) core of fungibility - [48.03](https://youtu.be/wnVupMQtjp4?t=2883) - **Stephen Rowan*
+
+> I suppose that ADA is the core of fungibility and Governance - but NFT-DAO does not need to be completely dependent on one chain commercially. For example blockchain are being specfically built for the archiving space which could interface through any number of chains depending on Governance and fungibility preferences.
+
+Reference :
+
+https://www.archangel.ac.uk/
+
+
