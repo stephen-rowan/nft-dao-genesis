@@ -362,6 +362,11 @@ Reference :
 ## Discussion
 
 ### Idea of Triaging Consensus Levels arose out of comments on the NFT-DAO Charter Issue - [20.03](https://youtu.be/wnVupMQtjp4?t=1203) - **Troy Egan**
+> HOLONs need to consider, for the AGILE/innovative stage of a project, what information do we need public/community consensus on and what tasks/actions to we need just HOLON consensus on.
+
+Reference :
+
+https://en.wikipedia.org/wiki/Agile_software_development
 
 
 
