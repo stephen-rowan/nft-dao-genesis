@@ -407,5 +407,7 @@ Reference :
 
 ### Communication Discussion - [27.22](https://youtu.be/wnVupMQtjp4?t=1642) - **Rich Kopcho**, **Troy Egan**
 
-> Troy - Did you mean communication to the outside world or inside the HOLON?
+> Did you mean communication to the outside world or inside the HOLON? -  **Rich Kopcho**
+
+> I meant a Communication HOLON directed internally - **Troy Egan**
 
