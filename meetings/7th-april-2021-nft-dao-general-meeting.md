@@ -421,12 +421,15 @@ Reference :
 
 > In the Holonic Organisation there isn't a Communication HOLON because there is communication between HOLONs - [30:07](https://youtu.be/wnVupMQtjp4?t=1807) - **Rich Kopcho**
 
-> Part of the Canon is the communication link. What gets communicated from what HOLON to the next HOLON and under what circumstances.
-
-> In the emergence of that HOLON they identify "who needs what from them" in the sense of on-going communication. That is how you build that communication infrastructure.
-
-> We are emerging - so we are going through the growing pains of figuring that out.
-
+> Part of the Canon is the communication link. What gets communicated from what HOLON to the next HOLON and under what circumstances. In the emergence of that HOLON they identify "who needs what from them" in the sense of on-going communication. That is how you build that communication infrastructure. We are emerging - so we are going through the growing pains of figuring that out.
 
 > How do you know beforehand what information needs to be distributed ? - [31.01](https://youtu.be/wnVupMQtjp4?t=1861) - **Dan Verowski**
+
+> How can you have a regulation for it beforehand ?
+
+> The key is "beforehand" - [31.20](https://youtu.be/wnVupMQtjp4?t=1880) -  **Rich Kopcho**
+
+> If you're trying to plan all this stuff beforehand you'll never get it done.
+
+
 
