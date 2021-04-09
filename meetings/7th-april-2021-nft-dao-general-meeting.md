@@ -511,20 +511,19 @@ Reference :
 
 Reference :
 
-{% embed url="https://cardano.ideascale.com/a/dtd/Stripe-Like-Wallet-Connector/350512-48088" %}
+{% embed url="https://cardano.ideascale.com/a/dtd/Stripe-Like-Wallet-Connector/350512-48088" caption="" %}
 
 > mutual-knowledge are working on similar solutions.
-
-> In three months (given lead times for funding) these options could be possible.
-
+>
+> In three months \(given lead times for funding\) these options could be possible.
 
 ### "Beam me up Scotty" - [43.48](https://youtu.be/wnVupMQtjp4?t=2628) - **Rich Kopcho**
+
 > We need a name for "Beam me up Scotty" - teleporting NFTs between different blockchains
 
 Reference :
 
-https://en.wikipedia.org/wiki/Beam_me_up,_Scotty
-
+{% embed url="https://en.wikipedia.org/wiki/Beam\_me\_up,\_Scotty" %}
 
 
 
