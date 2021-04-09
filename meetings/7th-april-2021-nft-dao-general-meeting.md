@@ -473,44 +473,45 @@ Reference :
 >
 > Andy suggested sending out an email to all the artists working on Cardano related artworks.
 >
-> New Mindflow requested a two-day window to maximise the onboarding of more artists given the 6-week time-frame. And allow them time to create new pieces. We can still leave the form up and contact artists again after this initial message.
+> New Mindflow requested a two-day window to maximize the onboarding of more artists given the 6-week time-frame. And allow them time to create new pieces. We can still leave the form up and contact artists again after this initial message.
 
-## Development MVP (Minimum Viable Product) - [38.57](https://youtu.be/wnVupMQtjp4?t=2337) - **Rich Kopcho**
+## Development MVP \(Minimum Viable Product\) - [38.57](https://youtu.be/wnVupMQtjp4?t=2337) - **Rich Kopcho**
 
 > In conversation with mutual-knowledge - they are working on a Glow auction facility.
 
 **References** :
 
-{% embed url="https://mutual-knowledge.io/" %}
+{% embed url="https://mutual-knowledge.io/" caption="" %}
 
 **Glow White pape**r :
 
-{% embed url="https://docs.google.com/document/d/1nBmI28yISX2HynodZnYWW0Px6re4JyYNNw2ncaFfJSg/edit" %}
+{% embed url="https://docs.google.com/document/d/1nBmI28yISX2HynodZnYWW0Px6re4JyYNNw2ncaFfJSg/edit" caption="" %}
 
 ## Fund 5 Proposals - [40.16](https://youtu.be/wnVupMQtjp4?t=2416) - **Rich Kopcho**
-> We have several Fund 5 Proposals in preparation:  
 
-### An API for the overall marketplace (with mutual-knowledge?)
+> We have several Fund 5 Proposals in preparation:
 
-### Smart contracts that will enforce residual distribution (royalties) 
+### An API for the overall marketplace \(with mutual-knowledge?\)
+
+### Smart contracts that will enforce residual distribution \(royalties\)
+
 > splitting distribution of royalties to multiple parties not a trivial process.
 
-### Metadata continuity 
-> compatibility layer between ETH (Ethereum) and ADA token metadata
+### Metadata continuity
 
+> compatibility layer between ETH \(Ethereum\) and ADA token metadata
+>
 > Where to store standard metadata - off-chain / on-chain options
 
 ### Wallet support - [42.16](https://youtu.be/wnVupMQtjp4?t=2536) - **Rich Kopcho**
+
 > Payment solutions
+>
+> Insight submitted on Stripe Like Wallet Connector - "Let's make wallets on Cardano as simple as one line of code to connect and use in your Dapp."
 
-> Insight submiited on Stripe Like Wallet Connector - "Let's make wallets on Cardano as simple as one line of code to connect and use in your Dapp."
+Reference :
 
-Reference : 
-
-https://cardano.ideascale.com/a/dtd/Stripe-Like-Wallet-Connector/350512-48088
-
-
-
+{% embed url="https://cardano.ideascale.com/a/dtd/Stripe-Like-Wallet-Connector/350512-48088" %}
 
 
 
