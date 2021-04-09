@@ -535,13 +535,15 @@ Reference :
 >
 > To the extent that it remains the most efficient way and the most green way Cardano's blockchain has the edge - **Rich Kopcho**
 >
-> Cardano \(ADA\) core of fungibility - [48.03](https://youtu.be/wnVupMQtjp4?t=2883) - _\*Stephen Rowan_
+> Cardano \(ADA\) core of fungibility - [48.03](https://youtu.be/wnVupMQtjp4?t=2883) - **Stephen Rowan**
 >
-> I suppose that ADA is the core of fungibility and Governance - but NFT-DAO does not need to be completely dependent on one chain commercially. For example blockchains are being specfically built for the archiving space which could interface through any number of chains depending on Governance and fungibility preferences.
+> I suppose that ADA is the core of fungibility and Governance - but NFT-DAO does not need to be completely dependent on one chain commercially. For example blockchains are being specifically built for the archiving space which could interface through any number of chains depending on Governance and fungibility preferences.
 
 Reference :
 
-[https://www.archangel.ac.uk/](https://www.archangel.ac.uk/)
+{% embed url="https://www.archangel.ac.uk/" %}
+
+
 
 ### Storage research - [48.44](https://youtu.be/wnVupMQtjp4?t=2924) - **Dan Verowski**
 
@@ -551,11 +553,11 @@ Reference :
 
 Reference :
 
-{% embed url="https://spacebudz.io/" %}
+{% embed url="https://spacebudz.io/" caption="" %}
 
-> "The metadata for each token are on-chain. The metadata itself links to an image on IPFS and Arweave in order to keep the data immutable and retrievable forever. The metadata are in the minting transaction of the token. Check out this example. Scroll down to the metadata and click on them to see them."  - spacebudz.io - FAQ
+> "The metadata for each token are on-chain. The metadata itself links to an image on IPFS and Arweave in order to keep the data immutable and retrievable forever. The metadata are in the minting transaction of the token. Check out this example. Scroll down to the metadata and click on them to see them." - spacebudz.io - FAQ
 
-https://spacebudz.io/FAQ
+{% embed url="https://www.arweave.org/" %}
 
 
 
