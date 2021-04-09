@@ -140,7 +140,7 @@ Note: timestamps are external links
 
 > We will be handing reports to D? -
 
-|||
+|-|-|
 |---|---|
 | **Item** | We will be handing reports to D? |
 | **Data** | |
@@ -152,7 +152,7 @@ Note: timestamps are external links
 
 > Getting a template ready for that so we understand the reporting process
 
-|||
+|-|-|
 |---|---|
 | **Item** | Reporting process template. |
 | **Data* | |
@@ -164,7 +164,7 @@ Note: timestamps are external links
 
 > Also how to receive reports from within the HOLONs
 
-|||
+|-|-|
 |---|---|
 | **Item** |  Reports from within the HOLONs. |
 | **Data** | |
@@ -176,7 +176,7 @@ Note: timestamps are external links
 
 > Intial Business Analysis - Hope to have the draft finalised by next week. Which will give us an outline of our market/competition.
 
-|||
+|-|-|
 |---|---|
 | **Item** |  Intial Business Analysis. |
 | **Data** | |
@@ -188,7 +188,7 @@ Note: timestamps are external links
 
 > Token Minting Test - goal to get up and running in two weeks. If there is anyone else working in the Token Minting community
 
-|||
+|-|-|
 |---|---|
 | **Item** | Token Minting Test |
 | **Data** | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/5)|
@@ -198,6 +198,3 @@ Note: timestamps are external links
 
 
 
-
-
->
