@@ -127,14 +127,14 @@ Note: timestamps are external links
 
 # Governance HOLON Update  - [10.38](https://youtu.be/wnVupMQtjp4?t=638) - **Troy**
 
-| Item | Action | Dates | HOLON |
-| --- | --- |--- |---|
-| Getting ready for **progress reports** which Rich Kopcho will be starting next week. |In Progress|15th April 2021|Gov-HOLON|
-| We will be handing reports to D? -|In Progress| 15th April 2021 | Troy / Rich Kopcho |
-| Getting a template ready for that so we understand the reporting process.|In Progress| 15th April 2021 |Gov-HOLON|
-| Also how to receive reports from within the HOLONs||TBA|Gov-HOLON|
-| Intial Business Analysis - Hope to have the draft finalised by next week. Which will give us an outline of our market/competition. |In Progress|15th April 2021|Sev, Hud|
-| Token Minting Test - goal to get up and running in two weeks. [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/5) |In Progress|23rd April 2021|Dan Verowski|
+| Item | Data |Action | Dates | HOLON |
+| --- | --- |--- |---|---|
+| Getting ready for **progress reports** which Rich Kopcho will be starting next week. | | In Progress|15th April 2021|Gov-HOLON|
+| We will be handing reports to D? -| | In Progress| 15th April 2021 | Troy / Rich Kopcho |
+| Getting a template ready for that so we understand the reporting process.| | In Progress| 15th April 2021 |Gov-HOLON|
+| Also how to receive reports from within the HOLONs|||TBA|Gov-HOLON|
+| Intial Business Analysis - Hope to have the draft finalised by next week. Which will give us an outline of our market/competition.| |In Progress|15th April 2021|Sev, Hud|
+| Token Minting Test - goal to get up and running in two weeks.|[Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/5) |In Progress|23rd April 2021|Dan Verowski|
 
 
 
