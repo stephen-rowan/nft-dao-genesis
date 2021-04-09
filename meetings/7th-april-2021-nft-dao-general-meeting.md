@@ -593,3 +593,5 @@ Reference :
 
 > Marketing have a social media calendar that schedules different tweets, blog posts and linkedin posts. NFT-DAO is really everyone's voice not just Marketing HOLON's voice - so if anybody wants some messages put out there to the community get in touch with someone in the Marketing HOLON chat.
 
+> Also if anybody wants to have access to the concept calendar airtable form. 
+
