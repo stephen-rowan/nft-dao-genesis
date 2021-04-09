@@ -251,7 +251,7 @@ Note: timestamps are external links
 
 > **Deadline**: Reschedule to 22nd April 2021 (Was two weeks from 1st April 2021)
 
-> **Rich** will aim to have something ready for Gov-HOLON - week beginning (19th April 2021)
+> **Rich** will aim to have something ready for Gov-HOLON - week beginning 19th April 2021.
 
 > [GitHub Reschedule Comment](https://github.com/NFT-DAO/Governance-HOLON/issues/29#issuecomment-816634615)
 
