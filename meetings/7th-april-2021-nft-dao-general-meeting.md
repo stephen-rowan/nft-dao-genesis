@@ -214,4 +214,19 @@ Note: timestamps are external links
 | **Dates** |Due: 23rd April 2021|
 | **HOLON** |Stephen Rowan|
 
+## NFT-DAO Mission Statement
+
+> NFT-DAO Mission Statement - [13.05](https://youtu.be/wnVupMQtjp4?t=785) - **Troy**
+
+> To give us a clearer idea of the sources and directions of our ideas and processes.
+
+|-|-|
+|---|---|
+| **Item** | NFT-DAO Mission Statement|
+| **Data** ||
+| **Action** | In Progress |
+| **Dates** |Due: 23rd April 2021|
+| **HOLON** |Gov-HOLON|
+
+
 
