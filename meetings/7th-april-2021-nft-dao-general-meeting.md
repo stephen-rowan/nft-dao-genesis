@@ -130,19 +130,19 @@ Note: timestamps are external links
 
 |||
 |---|---|
-| Item | Getting ready for **progress reports** |
-| Data | |
-| Action | In Progress|
-| Dates |15th April 2021|
-| HOLON |Gov-HOLON|
+| **Item** | Getting ready for **progress reports** |
+| **Data** | |
+| **Action** | In Progress|
+| **Dates** |15th April 2021|
+| **HOLON** |Gov-HOLON|
 
 > We will be handing reports to D? -
 
 |||
 |---|---|
-| Item | We will be handing reports to D? |
-| Data | |
-| Action | In Progress|
+| **Item** | We will be handing reports to D? |
+| **Data** | |
+| **Action** | In Progress|
 | Dates |15th April 2021|
 | HOLON |Troy / Rich Kopcho|
 
@@ -150,9 +150,9 @@ Note: timestamps are external links
 
 |||
 |---|---|
-| Item | Reporting process template. |
-| Data | |
-| Action | In Progress|
+| **Item** | Reporting process template. |
+| **Data* | |
+| **Action** | In Progress|
 | Dates |15th April 2021|
 | HOLON |Gov-HOLON||
 
@@ -160,31 +160,31 @@ Note: timestamps are external links
 
 |||
 |---|---|
-| Item |  Reports from within the HOLONs. |
-| Data | |
-| Action | To Do|
-| Dates |TBA|
+| **Item** |  Reports from within the HOLONs. |
+| **Data** | |
+| **Action** | To Do|
+| **Dates** |TBA|
 | HOLON |Gov-HOLON||
 
 > Intial Business Analysis - Hope to have the draft finalised by next week. Which will give us an outline of our market/competition.
 
 |||
 |---|---|
-| Item |  Intial Business Analysis. |
-| Data | |
-| Action | In Progress|
-| Dates |15th April 2021|
-| HOLON |Sev, Hud|
+| **Item** |  Intial Business Analysis. |
+| **Data** | |
+| **Action** | In Progress|
+| **Dates** |15th April 2021|
+| **HOLON** |Sev, Hud|
 
 > Token Minting Test - goal to get up and running in two weeks. If there is anyone else working in the Token Minting community
 
 |||
 |---|---|
-| Item |  Token Minting Test |
-| Data | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/5) |
-| Action | In Progress|
-| Dates |23rd April 2021|
-| HOLON |Dan Verowski|
+| **Item** |  Token Minting Test |
+| **Data** | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/5) |
+| **Action** | In Progress|
+| **Dates** |23rd April 2021|
+| **HOLON** |Dan Verowski|
 
 
 
