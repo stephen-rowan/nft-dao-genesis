@@ -476,4 +476,12 @@ Reference :
 
 ## Development MVP (Minimum Viable Product) - [38.57](https://youtu.be/wnVupMQtjp4?t=2337) - **Rich Kopcho**
 
+> In conversation with mutual-knowledge - they are working on a Glow auction facility.
 
+References :
+
+https://mutual-knowledge.io/
+
+Glow White paper :
+
+https://docs.google.com/document/d/1nBmI28yISX2HynodZnYWW0Px6re4JyYNNw2ncaFfJSg/edit
