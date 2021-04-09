@@ -134,7 +134,7 @@ Note: timestamps are external links
 | Getting a template ready for that so we understand the reporting process.|In Progress| 15th April 2021 |Gov-HOLON|
 | Also how to receive reports from within the HOLONs||TBA|Gov-HOLON|
 | Intial Business Analysis - Hope to have the draft finalised by next week. Which will give us an outline of our market/competition. |In Progress|15th April 2021|Sev, Hud|
-| Token Minting Test |In Progress|15th April 2021|Dan Verowski|
+| Token Minting Test - goal to get up and running in two weeks. [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/5) |In Progress|23rd April 2021|Dan Verowski|
 
 
 
