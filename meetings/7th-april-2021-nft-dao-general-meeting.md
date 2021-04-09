@@ -441,6 +441,10 @@ Reference :
 
 > Not just about access to information - [33.22](https://youtu.be/wnVupMQtjp4?t=2002) -  **Stephen Rowan**
 
+> Not just about access to information, its also about awareness about how each HOLON is operating and breaking down information silos. And also focusing on immediate objectives across different HOLONs.
 
+Reference :
+
+https://en.wikipedia.org/wiki/Information_silo
 
 
