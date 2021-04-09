@@ -209,8 +209,8 @@ Note: timestamps are external links
 |-|-|
 |---|---|
 | **Item** | Business Plan Decomposition |
-| **Data** | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/3|
-| **Action** | In Progress|
+| **Data** | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/3)|
+| **Action** | In Progress |
 | **Dates** |Due: 23rd April 2021|
 | **HOLON** |Stephen Rowan|
 
