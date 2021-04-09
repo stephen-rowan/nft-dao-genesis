@@ -491,8 +491,14 @@ Reference :
 
 > We have several Fund 5 Proposals in preparation:  
 
-* An API for the overall marketplace (with mutual-knowledge?)
-* Smart contracts that will enforce residual distribution (royalties) - splitting distribution of royalties to multiple parties not a trivial process.
+### An API for the overall marketplace (with mutual-knowledge?)
+
+### Smart contracts that will enforce residual distribution (royalties) 
+> splitting distribution of royalties to multiple parties not a trivial process.
+> 
+### Metadata continuity 
+> compatibility layer between ETH (Ethereum) and ADA token metadata
+
 
 
 
