@@ -421,3 +421,8 @@ Reference :
 
 > In the Holonic Organisation there isn't a Communication HOLON because there is communication between HOLONs -  **Rich Kopcho**
 
+> Part of the Canon is the communication link. What gets communicated from what HOLON to the next HOLON and under what circumstances.
+
+> In the emergence of that particular HOLON they identify "who needs what from them" in the sense of on-going communication.
+
+
