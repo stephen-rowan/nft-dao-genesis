@@ -339,9 +339,27 @@ Reference :
 | **Dates** | April 14, 2021 |
 | **HOLON** | Gov-HOLON, Troy, Stephen Rowan |
 
+### NFT-DAO-Charter 
+
+> and finally the NFT-DAO-Charter 
+
+| - | - |
+| :--- | :--- |
+| **Item** | NFT-DAO-Charter |
+| **Data** | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/4), [Milestones](https://github.com/NFT-DAO/Governance-HOLON/milestone/3)|
+| **Action** | In Progress |
+| **Dates** | April 22, 2021 |
+| **HOLON** | Gov-HOLON |
+
+### How this will inform our reporting
 
 > Maybe we don't need our reports then ? - [19.16](https://youtu.be/wnVupMQtjp4?t=1156) - **Dan Verowski**, **Stephen Rowan**
 
-> Hoping that this will inform our reporting.
+> Hoping that this will inform our reporting. 
+
+> This is just the beginning, so we are still having teething problems with how people not used to GitHub use it and how to allocate work. But hopefully it’s the beginning of quantifying what we are doing so when it comes to tokenization we have data available.
+
+
+
 
 
