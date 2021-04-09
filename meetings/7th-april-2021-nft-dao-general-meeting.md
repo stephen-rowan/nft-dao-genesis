@@ -411,6 +411,5 @@ Reference :
 
 > I meant a Communication HOLON directed internally - **Troy Egan**
 
-
-> The life blood of a Holonic Organisation  -  **Rich Kopcho**
+> The life blood of a Holonic Organisation is communication -  **Rich Kopcho**
 
