@@ -261,6 +261,6 @@ Note: timestamps are external links
 
 * **Minute Taking Rota** - so not on all on the shoulders of one person
 * **Meeting Chair Rota** - so not on all on the shoulders of one person - **Tyler Wales**
-* **FOSS repositories** (GitHub) what should be public or private ?
+* **FOSS repositories** (GitHub) what should be public or private ? - **Stephen Rowan**
 
 
