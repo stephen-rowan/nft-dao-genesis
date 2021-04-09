@@ -397,7 +397,8 @@ Reference :
 
 ### Did Charles refer to Cardano and did he say "Autocracy" - [24.23](https://youtu.be/wnVupMQtjp4?t=1554) - **Rich Kopcho**
 
-> **Correction** : Stephen said "Autocracy" when Charles said "Plutocratic model" - \(apologies\).
+> **Correction** : Stephen said "Autocracy" when Charles actually said "Plutocratic model" - \(apologies\). 
+> *Autocracy* = rule by one dictator / *Plutocracy* - rule by by people of great wealth or income.
 >
 > He was speaking tongue-in-cheek - **Stephen Rowan**
 >
