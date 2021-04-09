@@ -188,9 +188,9 @@ Note: timestamps are external links
 
 > Token Minting Test - [11.51](https://youtu.be/wnVupMQtjp4?t=711) - **Troy, Dan Verowski**
 > 
->  Goal to get a contribution token minted and up and running in a two week timeframe. **The Ancient Kraken** and **Hud** are also interested in getting involved. If there is anyone else working in the Token Minting community should contact Dan Verowski. 
+>  Goal to get a contribution token minted and up and running in a two week timeframe. **The Ancient Kraken** and **Hud** are also interested in getting involved. If there is anyone else working in the Token Minting community should contact **Dan Verowski**. 
 
-> **Dan Verowski** will contact **The Ancient Kraken**
+> **Dan Verowski** will contact **The Ancient Kraken** and **Hud**.
 
 |-|-|
 |---|---|
