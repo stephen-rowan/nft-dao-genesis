@@ -575,3 +575,4 @@ Reference :
 
 > We should put together a competitive research document for storage solutions. - **Tyler Wales**
 
+> We can do the research anyway, but the Development Team need to select an IPFS solution for the MVP - **Dan Verowski**
