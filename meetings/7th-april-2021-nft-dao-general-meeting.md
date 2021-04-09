@@ -127,13 +127,13 @@ Note: timestamps are external links
 
 # Governance HOLON Update  - [10.38](https://youtu.be/wnVupMQtjp4?t=638) - **Troy**
 
-| Item | Action | HOLON |
-| --- | --- |--- |
-| Getting ready for **progress reports** which Rich Kopcho will be starting next week. |||
-| We will be handing reports to D? -|In Progress| Troy / Rich Kopcho |
-| Getting a template ready for that so we understand the reporting process.|In Progress|Gov-HOLON|
-| Also how to receive reports from within the HOLONs|||
-| Intial Business Analysis - Hope to have the draft finalised by next week.|In Progress|Sev, Hud|
+| Item | Action | Dates | HOLON |
+| --- | --- |--- |---|
+| Getting ready for **progress reports** which Rich Kopcho will be starting next week. ||Next Week||
+| We will be handing reports to D? -|In Progress| Next Week | Troy / Rich Kopcho |
+| Getting a template ready for that so we understand the reporting process.|In Progress| Next Week |Gov-HOLON|
+| Also how to receive reports from within the HOLONs||TBA||
+| Intial Business Analysis - Hope to have the draft finalised by next week.|In Progress|Next Week|Sev, Hud|
 
 
 
