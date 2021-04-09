@@ -515,4 +515,16 @@ Reference :
 
 > mutual-knowledge are working on similar solutions.
 
+> In three months (given lead times for funding) these options could be possible.
+
+
+### "Beam me up Scotty" - [43.48](https://youtu.be/wnVupMQtjp4?t=2628) - **Rich Kopcho**
+> We need a name for "Beam me up Scotty" - teleporting NFTs between different blockchains
+
+Reference :
+
+https://en.wikipedia.org/wiki/Beam_me_up,_Scotty
+
+
+
 
