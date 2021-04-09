@@ -541,7 +541,7 @@ Reference :
 
 {% embed url="https://www.archangel.ac.uk/" caption="" %}
 
-### Storage research - [48.44](https://youtu.be/wnVupMQtjp4?t=2924) - **Dan Verowski**
+## Storage research - [48.44](https://youtu.be/wnVupMQtjp4?t=2924) - **Dan Verowski**
 
 > Some of the art NFTs will be quite large files.
 >
@@ -587,7 +587,7 @@ Reference :
 >
 > Development are best placed to offer a solution, so we should defer this issue to a Development meeting - [55.15](https://youtu.be/wnVupMQtjp4?t=3410) - **Tyler Wales**
 
-### Social media calendar - [57.20](https://youtu.be/wnVupMQtjp4?t=3436) - **Tyler Wales**
+## Social media calendar - [57.20](https://youtu.be/wnVupMQtjp4?t=3436) - **Tyler Wales**
 
 > Marketing have a social media calendar that schedules different tweets, blog posts and linkedin posts. NFT-DAO is really everyone's voice not just Marketing HOLON's voice - so if anybody wants some messages put out there to the community get in touch with someone in the Marketing HOLON chat.
 >
@@ -603,7 +603,7 @@ Andy has a contact willing to contribute to our marketing and expand our connect
 
 > We can invite to Discord channel or invite to one of our Marketing meetings - [1.00.36](https://youtu.be/wnVupMQtjp4?t=3636) - **Tyler Wales**
 
-### Collaborating with other businesses - [1.01.06](https://youtu.be/wnVupMQtjp4?t=3666) - **Troy Egan**
+## Collaborating with other businesses - [1.01.06](https://youtu.be/wnVupMQtjp4?t=3666) - **Troy Egan**
 
 > Collaborating with other businesses who are approaching NFT-DAO about launching a marketplace. Trying to figure out what a collaboration looks like from a DAO's perspective. Personal feedback: found it quite challenging to tease out how we collaborate with a potential marketplace or business that is not planning on being in the DAO. We offer a hive of collective intelligence, everyone sharing input, all those inputs provide outputs that people can take away and share further.
 >
