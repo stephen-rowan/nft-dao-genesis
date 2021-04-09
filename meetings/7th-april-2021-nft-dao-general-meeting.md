@@ -598,3 +598,5 @@ Reference :
 ### NFT-DAO linkedin - [58.20](https://youtu.be/wnVupMQtjp4?t=3500) - **Troy Egan**
 
 > NFT-DAO has its own business page and any HOLON member can link themselves as a team member of the DAO.
+
+### Artistic connections- [59.00](https://youtu.be/wnVupMQtjp4?t=3540) - **Andy Shaw**
