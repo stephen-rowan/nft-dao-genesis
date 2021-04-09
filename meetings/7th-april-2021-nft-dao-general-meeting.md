@@ -413,5 +413,5 @@ Reference :
 
 > The life blood of a Holonic Organisation is communication -  **Rich Kopcho**
 
-> It seems to me that the person who has stepped up to take up that burden is Stephen.
+> It seems to me that the person who has stepped up to take up that burden is Stephen. He is our resouce that is gathering up that stuff and putting it in a way that people can digest it.
 
