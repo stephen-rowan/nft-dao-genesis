@@ -298,4 +298,14 @@ Reference : README message in "Governance-HOLON Vault" Private repository
 | **Dates** |Due: 30th April 2021|
 | **HOLON** |Gov-HOLON, Stephen Rowan|
 
+## NFT DAO Fund 3 Deliverables
+
+|-|-|
+|---|---|
+| **Item** | NFT DAO Fund 3 Deliverables |
+| **Data** |[Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/2), [Milestones](https://github.com/NFT-DAO/Governance-HOLON/milestone/2)|
+| **Action** | In Progress|
+| **Dates** |No due date|
+| **HOLON** |Gov-HOLON, Stephen Rowan|
+
 
