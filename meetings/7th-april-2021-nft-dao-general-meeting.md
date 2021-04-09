@@ -498,6 +498,8 @@ Reference :
 ### Metadata continuity 
 > compatibility layer between ETH (Ethereum) and ADA token metadata
 
+> Where to store standard metadata - off-chain / on-chain options
+
 
 
 
