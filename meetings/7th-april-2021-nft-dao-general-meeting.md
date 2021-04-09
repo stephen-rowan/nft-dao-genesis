@@ -465,6 +465,15 @@ Reference :
 
 > Now we have 23 Artists. - **New Mindflow**
 
+> We thought of giving Artists two days to respond to email circular ? - **Tyler Wales**
+
+> Email roundup - [37.56](https://youtu.be/wnVupMQtjp4?t=2276) - **New Mindflow*
+
+> Andy suggested sending out an email to all the artists working on Cardano related artworks. 
+
+> New Mindflow requested a two day window to maximise the onboarding of more artists given the 6 week time-frame.
+
+
 
 
 
