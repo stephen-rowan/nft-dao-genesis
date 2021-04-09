@@ -532,9 +532,5 @@ Reference :
 
 > Shortly after Plutus is Live mutual-knowledge will have Smart Contracts ready for us. - **Rich Kopcho**
 
-> In preparation, we can start writing our contracts well ahead of time by using mutual-knowledge's Glow.
-
-> People in our Development HOLON are getting into the Plutus Pioneer Programme to provide a Haskell focus as well.
-
-> The long-term vision for us is to be as interoperable as possible - to provide a generic, cross platform NFT-DAO that is not specific to Cardano.
+> In preparation, we can start writing our contracts well ahead of time by using mutual-knowledge's Glow. People in our Development HOLON are getting into the Plutus Pioneer Programme to provide a Haskell focus as well. The long-term vision for us is to be as interoperable as possible - to provide a generic, cross platform NFT-DAO that is not specific to Cardano. One of the prime reasons to reach out to other chains is recruitment of legacy blockchain talent. Bring them in.
 
