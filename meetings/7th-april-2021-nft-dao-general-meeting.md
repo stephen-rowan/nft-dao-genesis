@@ -602,3 +602,6 @@ Reference :
 ### Artistic connections- [59.00](https://youtu.be/wnVupMQtjp4?t=3540) - **Andy Shaw**
 
 Andy has a contact willing to contribute to our marketing and expand our connections outside the Caradno world.
+
+> We can invite to Discord channel or invite to one of our Marketing meetings - [1.00.36](https://youtu.be/wnVupMQtjp4?t=3636) - **Tyler Wales**
+
