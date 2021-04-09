@@ -534,3 +534,5 @@ Reference :
 
 > In preparation, we can start writing our contracts well ahead of time by using mutual-knowledge's Glow.
 
+> People in our Development HOLON are getting into the Plutus Pioneer Programme to provide a Haskell focus as well.
+
