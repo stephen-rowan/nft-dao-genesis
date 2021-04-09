@@ -425,4 +425,4 @@ Reference :
 
 > In the emergence of that HOLON they identify "who needs what from them" in the sense of on-going communication. That is how you build that communication infrastructure.
 
-
+> We are emerging - so we are going through the growing pains of figuring that out.
