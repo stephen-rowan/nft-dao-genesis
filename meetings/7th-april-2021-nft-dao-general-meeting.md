@@ -500,7 +500,14 @@ Reference :
 
 > Where to store standard metadata - off-chain / on-chain options
 
+### Wallet support - [42.16](https://youtu.be/wnVupMQtjp4?t=2536) - **Rich Kopcho**
+> Payment solutions
 
+> Insight submiited on Stripe Like Wallet Connector - "Let's make wallets on Cardano as simple as one line of code to connect and use in your Dapp."
+
+Reference : 
+
+https://cardano.ideascale.com/a/dtd/Stripe-Like-Wallet-Connector/350512-48088
 
 
 
