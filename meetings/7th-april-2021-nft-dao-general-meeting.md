@@ -316,6 +316,13 @@ Reference : README message in "Governance-HOLON Vault" Private repository
 
 > Then a functional breakdown of the Business Plan into organizational units \(Business-Plan-Decomposition\)
 
+> Taking each section of the Business Plan and :
+
+* working out who should be the best person (HOLON members) delegated that section
+* how it breaks down into scope (what the section covers)
+* how it allocates to tasks (or issues)
+* and how it can be transferred to open-source
+
 Reference :
 
 ![](../.gitbook/assets/decomposition-of-the-nft-dao-business-plan.png)
