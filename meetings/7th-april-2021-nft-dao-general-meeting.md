@@ -459,7 +459,11 @@ Reference :
 
 {% embed url="https://forum.cardano.org/t/bluecollarcrypto-blclr/37195" %}
 
-# Auction MVP (Minimum Viable Product) Update - [37.25](https://youtu.be/wnVupMQtjp4?t=2245) - **Tyler Wales**
+# Auction MVP (Minimum Viable Product) Discussion - [37.25](https://youtu.be/wnVupMQtjp4?t=2245) - **Tyler Wales**, **Rich Kopcho**, **New Mindflow**
+
+> We have 22 Artists signed up ? - **Rich Kopcho**
+
+> Now we have 23 Artists. - **New Mindflow**
 
 
 
