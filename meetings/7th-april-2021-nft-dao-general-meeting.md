@@ -607,4 +607,4 @@ Andy has a contact willing to contribute to our marketing and expand our connect
 
 ### Collaborating with other businesses - [1.01.06](https://youtu.be/wnVupMQtjp4?t=3666) - **Troy Egan**
 
-> Collaborating with other businesses who are approaching NFT-DAO about launching a marketplace. Trying to figure out what a collaboration looks like from a DAO's perspective.
+> Collaborating with other businesses who are approaching NFT-DAO about launching a marketplace. Trying to figure out what a collaboration looks like from a DAO's perspective. Personal feedback : found it quite challenging to tease out how we collaborate with a potential marketplace or business that isn't planning on being in the DAO.
