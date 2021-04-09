@@ -127,6 +127,17 @@ Note: timestamps are external links
 
 # Governance HOLON Update  - [10.38](https://youtu.be/wnVupMQtjp4?t=638) - **Troy**
 
-> Getting ready for progress reports which Rich Kopcho will be starting next week
+| Item | Action | HOLON |
+| --- | --- |--- |
+|Getting ready for progress reports which Rich Kopcho will be starting next week. |||
+| We will be handing reports to D? -|| Troy / Rich Kopcho|
+| Getting a template ready for that so we understand the reporting process.| ||
+| Also how to receive reports from within the HOLONs||
+| Intial Business Analysis is in Process. Hope to have the draft finalised by next week.||Sev, Hud|
+
+
+
+
+
 
 >
