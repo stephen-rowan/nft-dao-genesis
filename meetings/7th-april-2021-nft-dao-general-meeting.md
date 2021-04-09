@@ -488,14 +488,13 @@ Reference :
 {% embed url="https://docs.google.com/document/d/1nBmI28yISX2HynodZnYWW0Px6re4JyYNNw2ncaFfJSg/edit" %}
 
 ## Fund 5 Proposals - [40.16](https://youtu.be/wnVupMQtjp4?t=2416) - **Rich Kopcho**
-
 > We have several Fund 5 Proposals in preparation:  
 
 ### An API for the overall marketplace (with mutual-knowledge?)
 
 ### Smart contracts that will enforce residual distribution (royalties) 
 > splitting distribution of royalties to multiple parties not a trivial process.
-> 
+
 ### Metadata continuity 
 > compatibility layer between ETH (Ethereum) and ADA token metadata
 
