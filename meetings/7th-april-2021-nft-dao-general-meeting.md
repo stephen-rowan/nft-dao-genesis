@@ -526,5 +526,7 @@ Reference :
 
 {% embed url="https://en.wikipedia.org/wiki/Beam\_me\_up,\_Scotty" %}
 
+> Working with mutual-knowledge on such cross-chain solutions takes us into the realm of a bigger eco-system play for NFT-DAO.
+
 
 
