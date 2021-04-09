@@ -528,7 +528,7 @@ Reference :
 
 > Working with mutual-knowledge on such cross-chain solutions takes us into the realm of a bigger eco-system play for NFT-DAO.
 
-### Smart Contract functionality in July 2021 - [46.09](https://youtu.be/wnVupMQtjp4?t=2769) - **Stephen Rowan**, **Rich Kopcho**
+### Plutus Smart Contract functionality in July 2021 - [46.09](https://youtu.be/wnVupMQtjp4?t=2769) - **Stephen Rowan**, **Rich Kopcho**
 
 > Shortly after Plutus is Live mutual-knowledge will have Smart Contracts ready for us. - **Rich Kopcho**
 
