@@ -287,7 +287,7 @@ Reference : README message in "Governance-HOLON Vault" Private repository
 > Began with Open-Source recognition criteria :
 
 |-|-|
-|---|---|Open-Source recognition|
+|---|Open-Source recognition|
 | **Data** |[Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/1),[Milestones](https://github.com/NFT-DAO/Governance-HOLON/milestone/1)|
 | **Action** | In Progress|
 | **Dates** |Due: 30th April 2021|
