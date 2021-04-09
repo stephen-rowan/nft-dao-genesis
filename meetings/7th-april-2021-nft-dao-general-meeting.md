@@ -467,7 +467,7 @@ Reference :
 
 > We thought of giving Artists two days to respond to email circular ? - **Tyler Wales**
 
-> Email roundup - [37.56](https://youtu.be/wnVupMQtjp4?t=2276) - **New Mindflow*
+> Email roundup - [37.56](https://youtu.be/wnVupMQtjp4?t=2276) - **New Mindflow**
 
 > Andy suggested sending out an email to all the artists working on Cardano related artworks. 
 
