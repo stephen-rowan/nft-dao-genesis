@@ -513,5 +513,6 @@ Reference :
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Stripe-Like-Wallet-Connector/350512-48088" %}
 
+> mutual-knowledge are working on similar solutions.
 
 
