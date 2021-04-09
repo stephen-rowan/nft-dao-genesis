@@ -415,7 +415,7 @@ Reference :
 
 > It seems to me that the person who has stepped up to take up that burden is Stephen. He is our resouce that is gathering up that stuff and putting it in a way that people can digest it.
 
-> A self-sufficent system - [28.40](https://youtu.be/wnVupMQtjp4?t=1720) - **Stephen.Rowan**
+> A self-sufficent system - [28.40](https://youtu.be/wnVupMQtjp4?t=1720) - **Stephen Rowan**
 > 
 > My objective is to create a self-sufficient system so that the DAO is open-source and does not depend on a single person as indispensable. But we will need to recruit more people experienced in open source project-planning.
 
