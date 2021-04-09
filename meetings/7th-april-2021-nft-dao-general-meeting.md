@@ -287,9 +287,9 @@ Reference : README message in "Governance-HOLON Vault" Private repository
 > We currently have 4 Gov-HOLON projects \([Gov-HOLON Project List](https://github.com/NFT-DAO/Governance-HOLON/projects)\) on the public [Governance-HOLON](https://github.com/NFT-DAO/Governance-HOLON) repository.
 >
 > Aiming to transfer Gov-HOLON deliverables to GitHub Project Boards, then break these down further into tasks \(GitHub Issues\) and then allocate Issues to HOLON members.
-
-> This week Gov-HOLON had its first community call-out on Discord as an experiment to see how GitHub Issues might work. Starting with the Issue [Draft NFT-DAO Charter #29](https://github.com/NFT-DAO/Governance-HOLON/issues/29).
-
+>
+> This week Gov-HOLON had its first community call-out on Discord as an experiment to see how GitHub Issues might work. Starting with the Issue [Draft NFT-DAO Charter \#29](https://github.com/NFT-DAO/Governance-HOLON/issues/29).
+>
 > Currently building project dashboards on the [Governance-HOLON](https://github.com/NFT-DAO/Governance-HOLON) landing page for people not familiar with GitHub.
 
 ### Open-Source recognition
@@ -319,12 +319,12 @@ Reference : README message in "Governance-HOLON Vault" Private repository
 ### Business-Plan-Decomposition
 
 > Then a functional breakdown of the Business Plan into organizational units \(Business-Plan-Decomposition\)
-
+>
 > Taking each section of the Business Plan and :
 
-* working out who should be the best person (HOLON members) delegated that section
-* how it breaks down into scope (what the section covers)
-* how it allocates to tasks (or issues)
+* working out who should be the best person \(HOLON members\) delegated that section
+* how it breaks down into scope \(what the section covers\)
+* how it allocates to tasks \(or issues\)
 * and how it can be transferred to open-source
 
 Reference :
@@ -339,14 +339,14 @@ Reference :
 | **Dates** | April 14, 2021 |
 | **HOLON** | Gov-HOLON, Troy, Stephen Rowan |
 
-### NFT-DAO-Charter 
+### NFT-DAO-Charter
 
-> and finally the NFT-DAO-Charter 
+> and finally the NFT-DAO-Charter
 
 | - | - |
 | :--- | :--- |
 | **Item** | NFT-DAO-Charter |
-| **Data** | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/4), [Milestones](https://github.com/NFT-DAO/Governance-HOLON/milestone/3)|
+| **Data** | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/4), [Milestones](https://github.com/NFT-DAO/Governance-HOLON/milestone/3) |
 | **Action** | In Progress |
 | **Dates** | April 22, 2021 |
 | **HOLON** | Gov-HOLON |
@@ -354,20 +354,20 @@ Reference :
 ### How this will inform our reporting
 
 > Maybe we don't need our reports then ? - [19.16](https://youtu.be/wnVupMQtjp4?t=1156) - **Dan Verowski**, **Stephen Rowan**
-
-> Hoping that this will inform our reporting. 
-
+>
+> Hoping that this will inform our reporting.
+>
 > This is just the beginning, so we are still having teething problems with how people not used to GitHub use it and how to allocate work. But hopefully it’s the beginning of quantifying what we are doing so when it comes to tokenization we have data available.
 
 ## Discussion
 
 ### Idea of Triaging Consensus Levels arose out of comments on the NFT-DAO Charter Issue - [20.03](https://youtu.be/wnVupMQtjp4?t=1203) - **Troy Egan**
+
 > HOLONs need to consider, for the AGILE/innovative stage of a project, what information do we need public/community consensus on and what tasks/actions to we need just HOLON consensus on.
 
 Reference :
 
-https://en.wikipedia.org/wiki/Agile_software_development
-
+{% embed url="https://en.wikipedia.org/wiki/Agile\_software\_development" %}
 
 
 
