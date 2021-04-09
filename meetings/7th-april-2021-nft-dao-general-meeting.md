@@ -236,7 +236,7 @@ Note: timestamps are external links
 
 > Building out a document structure of 1-3 pages ([GitHub Review Copy](https://github.com/NFT-DAO/Governance-HOLON/blob/main/05-Our-Values/Documents/Charter/Draft-Charter.md))
 
-> **Rich** - this is drawn from the "Genesis Document" ([GitHub Copy](https://github.com/NFT-DAO/Governance-HOLON/blob/main/13-Our-Appendix/Documents/2021-02-03-Genesis-Document.md)).
+> **Rich** - this is drawn from the "Genesis Document" ([GitHub Copy](https://github.com/NFT-DAO/Governance-HOLON/blob/main/13-Our-Appendix/Documents/2021-02-03-Genesis-Document.md)). Also sourced from `[The Holonic Enterprise as a Collaborative Information Ecosystem](http://theimpactinstitute.org/Projects/FIPA/Holonic-Enterprise-Final.pdf)` and `[Sample DAO Charter - Alexander Kuzmin](https://medium.com/token-suisse/sample-dao-charter-c59f5396ceea)`.
 
 |-|-|
 |---|---|
