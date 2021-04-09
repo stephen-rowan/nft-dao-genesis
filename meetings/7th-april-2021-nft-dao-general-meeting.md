@@ -243,6 +243,14 @@ Note: timestamps are external links
 | **Item** | NFT-DAO Charter|
 | **Data** |[Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/4), [Milestones](https://github.com/NFT-DAO/Governance-HOLON/milestone/3)|
 | **Action** | In Progress |
-| **Dates** |Due: 15th April 2021|
+| **Dates** |Due: 22th April 2021|
 | **HOLON** |Gov-HOLON|
+
+
+> What is the timeline of the charter  ? - [14.05](https://youtu.be/wnVupMQtjp4?t=845) - **Rich Kopcho / Troy**
+
+> **Deadline**: Reschedule to 22nd April 2021 (Was two weeks from 1st April 2021)
+
+> [GitHub Reschedule Comment](https://github.com/NFT-DAO/Governance-HOLON/issues/29#issuecomment-816634615)
+
 
