@@ -543,8 +543,6 @@ Reference :
 
 {% embed url="https://www.archangel.ac.uk/" %}
 
-
-
 ### Storage research - [48.44](https://youtu.be/wnVupMQtjp4?t=2924) - **Dan Verowski**
 
 > Some of the art NFTs will be quite large files.
@@ -559,5 +557,8 @@ Reference :
 
 {% embed url="https://www.arweave.org/" %}
 
+> We were aware of arweave. There is some research going on into other solutions such as Seer (?). Do we know where ergoauctions stores its NFTs ?
+
+{% embed url="https://ergoauctions.org/#/auction/active?type=picture" %}
 
 
