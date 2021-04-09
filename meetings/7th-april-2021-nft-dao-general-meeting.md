@@ -471,8 +471,8 @@ Reference :
 
 > Andy suggested sending out an email to all the artists working on Cardano related artworks. 
 
-> New Mindflow requested a two day window to maximise the onboarding of more artists given the 6 week time-frame.
-
+> New Mindflow requested a two-day window to maximise the onboarding of more artists given the 6-week time-frame.
+> And allow them time to create new pieces. We can still leave the form up and contact artists again after this initial message.
 
 
 
