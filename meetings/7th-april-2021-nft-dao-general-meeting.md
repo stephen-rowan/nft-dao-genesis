@@ -370,6 +370,8 @@ Reference :
 * consensus - amongst new people/members
 * How are we triaging levels of engagement
 
+These factors also tie into our tokenization model
+
 Reference :
 
 {% embed url="https://en.wikipedia.org/wiki/Agile\_software\_development" %}
