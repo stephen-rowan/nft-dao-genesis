@@ -451,7 +451,7 @@ Reference :
 
 > Shared responsibility within each HOLON to represent the HOLON. Propose that each of our HOLONs has delegates that HOLON leads are communicating to.
 
-# ccc - [35.58](https://youtu.be/wnVupMQtjp4?t=2158) -  **Rich Kopcho**
+# There is no highest level of the organisation - [35.58](https://youtu.be/wnVupMQtjp4?t=2158) -  **Rich Kopcho**
 
 
 
