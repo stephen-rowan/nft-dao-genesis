@@ -129,10 +129,10 @@ Note: timestamps are external links
 
 | Item | Action | Dates | HOLON |
 | --- | --- |--- |---|
-| Getting ready for **progress reports** which Rich Kopcho will be starting next week. |In Progress|15th April 2021||
+| Getting ready for **progress reports** which Rich Kopcho will be starting next week. |In Progress|15th April 2021|Gov-HOLON|
 | We will be handing reports to D? -|In Progress| 15th April 2021 | Troy / Rich Kopcho |
 | Getting a template ready for that so we understand the reporting process.|In Progress| 15th April 2021 |Gov-HOLON|
-| Also how to receive reports from within the HOLONs||TBA||
+| Also how to receive reports from within the HOLONs||TBA|Gov-HOLON|
 | Intial Business Analysis - Hope to have the draft finalised by next week.|In Progress|15th April 2021|Sev, Hud|
 
 
