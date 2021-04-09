@@ -538,10 +538,14 @@ Reference :
 
 > Cardano (ADA) core of fungibility - [48.03](https://youtu.be/wnVupMQtjp4?t=2883) - **Stephen Rowan*
 
-> I suppose that ADA is the core of fungibility and Governance - but NFT-DAO does not need to be completely dependent on one chain commercially. For example blockchain are being specfically built for the archiving space which could interface through any number of chains depending on Governance and fungibility preferences.
+> I suppose that ADA is the core of fungibility and Governance - but NFT-DAO does not need to be completely dependent on one chain commercially. For example blockchains are being specfically built for the archiving space which could interface through any number of chains depending on Governance and fungibility preferences.
 
 Reference :
 
 https://www.archangel.ac.uk/
+
+### Storage research - [48.44](https://youtu.be/wnVupMQtjp4?t=2924) - **Dan Verowski**
+
+
 
 
