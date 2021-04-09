@@ -453,5 +453,8 @@ Reference :
 
 # There is no highest level of the organisation - [35.58](https://youtu.be/wnVupMQtjp4?t=2158) -  **Rich Kopcho**
 
+> Some of you guys have a lot more power or pull than other people - [36.20](https://youtu.be/wnVupMQtjp4?t=2180) -  **Philip Roberts**
+
+
 
 
