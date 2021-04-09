@@ -419,7 +419,7 @@ Reference :
 > 
 > My objective is to create a self-sufficient system so that the DAO is open-source and does not depend on a single person as indispensable. But we will need to recruit more people experienced in open source project-planning.
 
-> In the Holonic Organisation there isn't a Communication HOLON because there is communication between HOLONs -  **Rich Kopcho**
+> In the Holonic Organisation there isn't a Communication HOLON because there is communication between HOLONs - [30:07](https://youtu.be/wnVupMQtjp4?t=1807) - **Rich Kopcho**
 
 > Part of the Canon is the communication link. What gets communicated from what HOLON to the next HOLON and under what circumstances.
 
