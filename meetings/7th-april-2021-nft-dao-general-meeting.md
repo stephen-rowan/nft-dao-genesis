@@ -16,7 +16,7 @@ Note: timestamps are external links
 | :--- |
 | Rich Kopcho |
 | Tyler Wales |
-| Troy |
+| Troy Egan |
 | Dan Verowski |
 | New MIndflow |
 | Philip Roberts |
@@ -124,7 +124,7 @@ Note: timestamps are external links
 
 {% embed url="https://github.com/NFT-DAO/Governance-HOLON/milestone/2" %}
 
-# Governance HOLON Update  - [10.38](https://youtu.be/wnVupMQtjp4?t=638) - **Troy**
+# Governance HOLON Update  - [10.38](https://youtu.be/wnVupMQtjp4?t=638) - **Troy Egan**
 
 ## Progress reports
 
@@ -186,7 +186,7 @@ Note: timestamps are external links
 
 ## Token Minting Test
 
-> Token Minting Test - [11.51](https://youtu.be/wnVupMQtjp4?t=711) - **Troy, Dan Verowski**
+> Token Minting Test - [11.51](https://youtu.be/wnVupMQtjp4?t=711) - **Troy Egan, Dan Verowski**
 > 
 >  Goal to get a contribution token minted and up and running in a two week timeframe. **The Ancient Kraken** and **Hud** are also interested in getting involved. Anyone else working in the Token Minting community who is interested should contact **Dan Verowski**. 
 
@@ -202,7 +202,7 @@ Note: timestamps are external links
 
 ## Business Plan 
 
-> Business Plan - [12.43](https://youtu.be/wnVupMQtjp4?t=763) - **Troy, Stephen Rowan**
+> Business Plan - [12.43](https://youtu.be/wnVupMQtjp4?t=763) - **Troy Egan, Stephen Rowan**
 
 > Stephen Rowan working on decomposing the Business Plan
 
@@ -216,7 +216,7 @@ Note: timestamps are external links
 
 ## NFT-DAO Mission Statement
 
-> NFT-DAO Mission Statement - [13.05](https://youtu.be/wnVupMQtjp4?t=785) - **Troy**
+> NFT-DAO Mission Statement - [13.05](https://youtu.be/wnVupMQtjp4?t=785) - **Troy Egan**
 
 > To give us a clearer idea of the sources and directions of our ideas and processes.
 
@@ -230,7 +230,7 @@ Note: timestamps are external links
 
 ## NFT-DAO Charter
 
-> NFT-DAO Charter - [13.24](https://youtu.be/wnVupMQtjp4?t=804) - **Troy**
+> NFT-DAO Charter - [13.24](https://youtu.be/wnVupMQtjp4?t=804) - **Troy Egan**
 
 > Already been put out into the community for contribution and review. Changed name from manifesto to charter early on after feedback from **New Mindflow**.
 
@@ -247,12 +247,20 @@ Note: timestamps are external links
 | **HOLON** |Gov-HOLON|
 
 
-> What is the timeline of the charter  ? - [14.05](https://youtu.be/wnVupMQtjp4?t=845) - **Rich Kopcho / Troy**
+> What is the timeline of the charter  ? - [14.05](https://youtu.be/wnVupMQtjp4?t=845) - **Rich Kopcho / Troy Egan**
 
 > **Deadline**: Reschedule to 22nd April 2021 (Was two weeks from 1st April 2021)
 
 > **Rich** will aim to have something ready for Gov-HOLON - week beginning 19th April 2021.
 
 > [GitHub Reschedule Comment](https://github.com/NFT-DAO/Governance-HOLON/issues/29#issuecomment-816634615)
+
+## Gov-HOLON Meeting
+
+> Gov-HOLON Meeting Discussions - [14.42](https://youtu.be/wnVupMQtjp4?t=882) - **Troy Egan**
+
+* Take turns taking minutes 
+* Meeting Chair Rota - so not on all on the shoulders of one person - **Tyler Wales**
+* 
 
 
