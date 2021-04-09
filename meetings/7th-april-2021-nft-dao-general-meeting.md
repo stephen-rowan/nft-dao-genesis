@@ -259,9 +259,9 @@ Note: timestamps are external links
 
 > Gov-HOLON Meeting Discussions - [14.42](https://youtu.be/wnVupMQtjp4?t=882) - **Troy Egan**
 
-* **Minute Taking Rota** - so not on all on the shoulders of one person
-* **Meeting Chair Rota** - so not on all on the shoulders of one person - **Tyler Wales**
-* **FOSS repositories** (GitHub) what should be public or private ? - **Stephen Rowan**
+### **Minute Taking Rota** - so not on all on the shoulders of one person
+### **Meeting Chair Rota** - so not on all on the shoulders of one person - **Tyler Wales**
+### **FOSS repositories** (GitHub) what should be public or private ? - **Stephen Rowan**
 
 Reference : README message in "Governance-HOLON Vault" Private repository
 
@@ -269,8 +269,8 @@ Reference : README message in "Governance-HOLON Vault" Private repository
 
 > This repository should only contain :
 
-> Draft work to be migrated to the LIVE Governance-HOLON repository
-> Commercially or strategically sensitive information.
-> Confidential information (but please avoid posting personal data here).
+* Draft work to be migrated to the LIVE Governance-HOLON repository
+* Commercially or strategically sensitive information.
+* Confidential information (but please avoid posting personal data here).
 
 
