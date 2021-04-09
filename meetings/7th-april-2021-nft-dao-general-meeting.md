@@ -236,6 +236,8 @@ Note: timestamps are external links
 
 > Building out a document structure of 1-3 pages ([GitHub Review Copy](https://github.com/NFT-DAO/Governance-HOLON/blob/main/05-Our-Values/Documents/Charter/Draft-Charter.md))
 
+> **Rich** - this is drawn from the "Genesis Document" ([GitHub Copy](https://github.com/NFT-DAO/Governance-HOLON/blob/main/13-Our-Appendix/Documents/2021-02-03-Genesis-Document.md)).
+
 |-|-|
 |---|---|
 | **Item** | NFT-DAO Charter|
