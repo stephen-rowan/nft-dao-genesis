@@ -413,3 +413,5 @@ Reference :
 
 > The life blood of a Holonic Organisation is communication -  **Rich Kopcho**
 
+> It seems to me that the person who has stepped up to take up that burden is Stephen.
+
