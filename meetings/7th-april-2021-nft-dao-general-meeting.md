@@ -363,7 +363,12 @@ Reference :
 
 ### Idea of Triaging Consensus Levels arose out of comments on the NFT-DAO Charter Issue - [20.03](https://youtu.be/wnVupMQtjp4?t=1203) - **Troy Egan**
 
-> HOLONs need to consider, for the AGILE/innovative stage of a project, what information do we need public/community consensus on and what tasks/actions to we need just HOLON consensus on.
+> HOLONs need to consider, for the AGILE/innovative stage of a project, what information do we need public/community consensus on and what tasks/actions to we need just HOLON consensus on. In an emergent process some of our tasks/actions can be slowed down by the process of community input we are committed to. Sometimes a lot of the community are not engaged or are just new.
+
+> Started doing flowchart around :
+* onboarding process - how people/members come on Discord and engage
+* consensus - amongst new people/members
+* How are we triaging levels of engagement
 
 Reference :
 
