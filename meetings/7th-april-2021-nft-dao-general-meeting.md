@@ -605,3 +605,6 @@ Andy has a contact willing to contribute to our marketing and expand our connect
 
 > We can invite to Discord channel or invite to one of our Marketing meetings - [1.00.36](https://youtu.be/wnVupMQtjp4?t=3636) - **Tyler Wales**
 
+### Collaborating with other businesses - [1.01.06](https://youtu.be/wnVupMQtjp4?t=3666) - **Troy Egan**
+
+> Collaborating with other businesses who are approaching NFT-DAO about launching a marketplace. Trying to figure out what a collaboration looks like from a DAO's perspective.
