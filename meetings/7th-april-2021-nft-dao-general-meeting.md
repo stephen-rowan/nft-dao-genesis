@@ -623,3 +623,12 @@ Andy has a contact willing to contribute to our marketing and expand our connect
 
 > Promisery notes that can contribute to NFT-DAO funding  - [1.06.04](https://youtu.be/wnVupMQtjp4?t=3964) - **Dan Verowski**
 
+> DAO-Voting as a service (Some Musings about the Roadmap)  - [1.07.03](https://youtu.be/wnVupMQtjp4?t=4023) - **New Mindflow**
+
+> If we provide our own infrastructure, we could be in competition with Cardano because of Charles Hoskinson announcement of a plan to offer DAO-Voting as a service going forward.
+
+**Context** :
+
+https://stephen-rowan.gitbook.io/nft-dao/governance/dao-models#some-musings-about-the-roadmap
+
+
