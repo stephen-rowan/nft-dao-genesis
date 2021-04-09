@@ -127,14 +127,39 @@ Note: timestamps are external links
 
 # Governance HOLON Update  - [10.38](https://youtu.be/wnVupMQtjp4?t=638) - **Troy**
 
+> Getting ready for **progress reports** which Rich Kopcho will be starting next week.
+
 | Item | Data |Action | Dates | HOLON |
 | --- | --- |--- |---|---|
-| Getting ready for **progress reports** which Rich Kopcho will be starting next week. | | In Progress|15th April 2021|Gov-HOLON|
+| Getting ready for **progress reports**| | | In Progress|15th April 2021|Gov-HOLON|
+
+> We will be handing reports to D? -
+
+| Item | Data |Action | Dates | HOLON |
+| --- | --- |--- |---|---|
 | We will be handing reports to D? -| | In Progress| 15th April 2021 | Troy / Rich Kopcho |
-| Getting a template ready for that so we understand the reporting process.| | In Progress| 15th April 2021 |Gov-HOLON|
-| Also how to receive reports from within the HOLONs|||TBA|Gov-HOLON|
-| Intial Business Analysis - Hope to have the draft finalised by next week. Which will give us an outline of our market/competition.| |In Progress|15th April 2021|Sev, Hud|
-| Token Minting Test - goal to get up and running in two weeks.|[Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/5) |In Progress|23rd April 2021|Dan Verowski|
+
+> Getting a template ready for that so we understand the reporting process
+
+| Item | Data |Action | Dates | HOLON |
+| --- | --- |--- |---|---|
+| Reporting process template.| | In Progress| 15th April 2021 |Gov-HOLON|
+
+> Also how to receive reports from within the HOLONs
+
+| Item | Data |Action | Dates | HOLON |
+| --- | --- |--- |---|---|
+| Reports from within the HOLONs|||TBA|Gov-HOLON|
+
+> Intial Business Analysis - Hope to have the draft finalised by next week. Which will give us an outline of our market/competition.
+
+| Intial Business Analysis.| |In Progress|15th April 2021|Sev, Hud|
+
+> Token Minting Test - goal to get up and running in two weeks. If there is anyone else working in the Token Minting community
+
+| Item | Data |Action | Dates | HOLON |
+| --- | --- |--- |---|---|
+| Token Minting Test |[Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/5) |In Progress|23rd April 2021|Dan Verowski|
 
 
 
