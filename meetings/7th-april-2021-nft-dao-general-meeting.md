@@ -449,7 +449,9 @@ Reference :
 
 > We are emerging in our own processes as HOLONs - [34.06](https://youtu.be/wnVupMQtjp4?t=2046) - **Troy Egan**
 
-> Shared responsibility within each HOLON to represent the HOLON.
+> Shared responsibility within each HOLON to represent the HOLON. Propose that each of our HOLONs has delegates that HOLON leads are communicating to.
+
+# ccc - [35.58](https://youtu.be/wnVupMQtjp4?t=2158) -  **Rich Kopcho**
 
 
 
