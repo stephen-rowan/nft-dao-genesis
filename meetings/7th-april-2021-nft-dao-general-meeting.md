@@ -532,3 +532,5 @@ Reference :
 
 > Shortly after Plutus is Live mutual-knowledge will have Smart Contracts ready for us. - **Rich Kopcho**
 
+> In preparation, we can start writing our contracts well ahead of time by using mutual-knowledge's Glow.
+
