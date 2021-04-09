@@ -613,7 +613,7 @@ Andy has a contact willing to contribute to our marketing and expand our connect
 >
 > Difficult to get head round engaging with someone attached to the autonomy of their business and not wanting to be part of the DAO. Found it quite challenging to work from that position. First contact hasn’t worked too well - communication drops off.
 
-### Peer facilitation and research  - [1.04.09](https://youtu.be/wnVupMQtjp4?t=3869) - **Stephen Rowan**
+> Peer facilitation and research  - [1.04.09](https://youtu.be/wnVupMQtjp4?t=3869) - **Stephen Rowan**
 
 > Workshops between homeless people and people who worked in banking presented as an experience building exercise.
 
@@ -621,5 +621,5 @@ Andy has a contact willing to contribute to our marketing and expand our connect
 
 > The DAO infrastructure as a value offer - [1.05.46](https://youtu.be/wnVupMQtjp4?t=3946) - **Troy Egan**
 
-
+> Promisery notes that can contribute to NFT-DAO funding  - [1.06.04](https://youtu.be/wnVupMQtjp4?t=3964) - **Dan Verowski**
 
