@@ -582,3 +582,9 @@ Reference :
 > I will liaise with Sev and Hud because they may already have some information about that in the Business model analysis. If not then we will take a field in on storage solutions - [54.02](https://youtu.be/wnVupMQtjp4?t=3242) - **Troy Egan**
 
 
+### Storage of multiple NFTs - [55.15](https://youtu.be/wnVupMQtjp4?t=3315) - **New Mindflow**
+
+> If we go down the route of minting several copies of the NFT. Do we need to store each of them individually or can multiple editions point to a single file ?
+
+> It would be redundant to have multiple copies of the file image, given that an edition is only produced by code in the NFT script - **Dan Verowski**
+
