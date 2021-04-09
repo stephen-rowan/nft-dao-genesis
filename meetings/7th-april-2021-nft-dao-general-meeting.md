@@ -439,6 +439,7 @@ Reference :
 
 > Does'nt an infrastructure for distributed information already exist ? - [33.11](https://youtu.be/wnVupMQtjp4?t=1991) -  **Dan Verowski**
 
+> Not just about access to information - [33.22](https://youtu.be/wnVupMQtjp4?t=2002) -  **Stephen Rowan**
 
 
 
