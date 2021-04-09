@@ -431,5 +431,15 @@ Reference :
 
 > If you're trying to plan all this stuff beforehand you'll never get it done. It is emergent behaviour. As you are emerging and discovering what your information requirements are - you are discovering your Canon. It is a living document.
 
+> An organic, emergent process is already happening - [32.27](https://youtu.be/wnVupMQtjp4?t=1947) -  **Stephen Rowan**
+
+> For example people are including each other in HOLON channels in order to achieve transparency.
+
+> In emergent behaviour, you need something - you make the connection -  **Rich Kopcho**
+
+> Does'nt an infrastructure for distributed information already exist ? - [33.11](https://youtu.be/wnVupMQtjp4?t=1991) -  **Dan Verowski**
+
+
+
 
 
