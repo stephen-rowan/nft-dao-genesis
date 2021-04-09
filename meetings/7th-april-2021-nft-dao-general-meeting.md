@@ -577,4 +577,4 @@ Reference :
 
 > We can do the research anyway, but the Development Team need to select an IPFS solution for the MVP - **Dan Verowski**
 
-> For the MVP we want to deliver something quickly and that will have a long shelf life for our particular use-case. But there are going to be all sorts of NFT use-cases created with NFT-DAO and what solution we choose will be valuable information to the wider community - **Tyler Wales**
+> For the MVP we want to deliver something quickly and that will have a long shelf life for our particular use-case. But there are going to be all sorts of NFT use-cases created with NFT-DAO. What solution we choose will be valuable information to the wider community and inform future NFT projects - **Tyler Wales**
