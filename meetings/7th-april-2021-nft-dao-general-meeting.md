@@ -6,11 +6,13 @@ description: >-
 
 # 7th April, 2021, NFT-DAO General Meeting
 
+## 7th April, 2021, NFT-DAO General Meeting
+
 {% embed url="https://www.youtube.com/watch?v=wnVupMQtjp4" caption="" %}
 
 Note: timestamps are external links
 
-# Beginning of Fund 5 - [0.02](https://youtu.be/wnVupMQtjp4) - Tyler Wales
+## Beginning of Fund 5 - [0.02](https://youtu.be/wnVupMQtjp4) - Tyler Wales
 
 | Present |
 | :--- |
@@ -24,7 +26,7 @@ Note: timestamps are external links
 
 > Philip introduced Patrick to Yagi - [0.44](https://youtu.be/wnVupMQtjp4?t=44) - **Philip Roberts**
 
-# Growth Update - [1.16](https://youtu.be/wnVupMQtjp4?t=76) - Tyler Wales
+## Growth Update - [1.16](https://youtu.be/wnVupMQtjp4?t=76) - Tyler Wales
 
 > We have seen a lot of growth since the funding process started :
 
@@ -45,7 +47,7 @@ Note: timestamps are external links
 >
 > Make extra effort to be as transparent as we can with each other.
 
-# Product Update - [3.11](https://youtu.be/wnVupMQtjp4?t=191) - Tyler Wales
+## Product Update - [3.11](https://youtu.be/wnVupMQtjp4?t=191) - Tyler Wales
 
 > Deliver completed mock-ups to Yagi for branding, get some colors figured out.
 >
@@ -53,7 +55,7 @@ Note: timestamps are external links
 >
 > Hopefully we will have a polished product for the MVP
 
-# Token Minting - [4.16](https://youtu.be/wnVupMQtjp4?t=256) - Dan Verowski
+## Token Minting - [4.16](https://youtu.be/wnVupMQtjp4?t=256) - Dan Verowski
 
 > Issues with minting token on Daedalus, problems with the CLI \(command line interface\)
 >
@@ -63,7 +65,7 @@ Note: timestamps are external links
 
 > Working with Jonathan Looney to create first mock-ups for wire frames.
 
-# Artist Outreach - [5.28](https://youtu.be/wnVupMQtjp4?t=328) - New Mindflow
+## Artist Outreach - [5.28](https://youtu.be/wnVupMQtjp4?t=328) - New Mindflow
 
 > Contacted Artists, including African Artists who have some good potential to create some quality works.
 >
@@ -83,7 +85,7 @@ Note: timestamps are external links
 
 ![](https://media.discordapp.net/attachments/815326844131606569/828498932178878474/DAO_GifV04.gif)
 
-# Token Minting reprise - [6.49](https://youtu.be/wnVupMQtjp4?t=409) - Tyler Wales, Dan Verowski
+## Token Minting reprise - [6.49](https://youtu.be/wnVupMQtjp4?t=409) - Tyler Wales, Dan Verowski
 
 > In Slack channel The Ancient Kraken had minted an NFT-DAO test token - **Tyler Wales**
 >
@@ -102,7 +104,7 @@ Note: timestamps are external links
 
 {% embed url="https://github.com/NFT-DAO/Governance-HOLON/issues/37" caption="" %}
 
-## Can we use Yoroi wallet for token minting ? - [9.20](https://youtu.be/wnVupMQtjp4?t=560) - Rich Kopcho
+### Can we use Yoroi wallet for token minting ? - [9.20](https://youtu.be/wnVupMQtjp4?t=560) - Rich Kopcho
 
 {% embed url="https://yoroi-wallet.com/\#/" caption="" %}
 
@@ -112,7 +114,7 @@ Note: timestamps are external links
 
 {% embed url="https://yoroi-wallet.com/\#/faq/5" caption="" %}
 
-## Can we get a visual diagram of how "Triaging" tokens works ? - [9.59](https://youtu.be/wnVupMQtjp4?t=599) - **Tyler Wales**
+### Can we get a visual diagram of how "Triaging" tokens works ? - [9.59](https://youtu.be/wnVupMQtjp4?t=599) - **Tyler Wales**
 
 > Governance token distribution model is a Fund 3 Milestone - would be good to give this back to the community.
 >
@@ -124,9 +126,9 @@ Note: timestamps are external links
 
 {% embed url="https://github.com/NFT-DAO/Governance-HOLON/milestone/2" caption="" %}
 
-# Governance HOLON Update  - [10.38](https://youtu.be/wnVupMQtjp4?t=638) - **Troy Egan**
+## Governance HOLON Update  - [10.38](https://youtu.be/wnVupMQtjp4?t=638) - **Troy Egan**
 
-## Progress reports
+### Progress reports
 
 > Getting ready for **progress reports** which Rich Kopcho will be starting next week.
 
@@ -148,7 +150,7 @@ Note: timestamps are external links
 | Dates | Due: 15th April 2021 |
 | HOLON | Troy / Rich Kopcho |
 
-## Reporting template
+### Reporting template
 
 > Getting a template ready for that so we understand the reporting process
 
@@ -160,7 +162,7 @@ Note: timestamps are external links
 | Dates | Due: 15th April 2021 |
 | HOLON | Gov-HOLON |
 
-## HOLON Reporting
+### HOLON Reporting
 
 > Also how to receive reports from within the HOLONs
 
@@ -172,7 +174,7 @@ Note: timestamps are external links
 | **Dates** | TBA |
 | HOLON | Gov-HOLON |
 
-## Business Analysis
+### Business Analysis
 
 > Initial Business Analysis - Hope to have the draft finalized by next week. Which will give us an outline of our market/competition.
 
@@ -184,7 +186,7 @@ Note: timestamps are external links
 | **Dates** | Due: 15th April 2021 |
 | **HOLON** | Sev, Hud |
 
-## Token Minting Test
+### Token Minting Test
 
 > Token Minting Test - [11.51](https://youtu.be/wnVupMQtjp4?t=711) - **Troy Egan, Dan Verowski**
 >
@@ -200,7 +202,7 @@ Note: timestamps are external links
 | **Dates** | Due: 23rd April 2021 |
 | **HOLON** | Dan Verowski |
 
-## Business Plan
+### Business Plan
 
 > Business Plan - [12.43](https://youtu.be/wnVupMQtjp4?t=763) - **Troy Egan, Stephen Rowan**
 >
@@ -214,7 +216,7 @@ Note: timestamps are external links
 | **Dates** | Due: 23rd April 2021 |
 | **HOLON** | Stephen Rowan |
 
-## NFT-DAO Mission Statement
+### NFT-DAO Mission Statement
 
 > NFT-DAO Mission Statement - [13.05](https://youtu.be/wnVupMQtjp4?t=785) - **Troy Egan**
 >
@@ -228,7 +230,7 @@ Note: timestamps are external links
 | **Dates** | Due: 23rd April 2021 |
 | **HOLON** | Gov-HOLON |
 
-## NFT-DAO Charter
+### NFT-DAO Charter
 
 > NFT-DAO Charter - [13.24](https://youtu.be/wnVupMQtjp4?t=804) - **Troy Egan**
 >
@@ -254,7 +256,7 @@ Note: timestamps are external links
 >
 > [GitHub Reschedule Comment](https://github.com/NFT-DAO/Governance-HOLON/issues/29#issuecomment-816634615)
 
-## Gov-HOLON Meeting
+### Gov-HOLON Meeting
 
 > Gov-HOLON Meeting Discussions - [14.42](https://youtu.be/wnVupMQtjp4?t=882) - **Troy Egan**
 
@@ -278,7 +280,7 @@ Reference : README message in "Governance-HOLON Vault" Private repository
 
 > Draft White paper currently located in samepage. Requires input from Development at some point.
 
-## GitHub Overview  - [17,02](https://youtu.be/wnVupMQtjp4?t=1022) - **Stephen Rowan**
+### GitHub Overview  - [17,02](https://youtu.be/wnVupMQtjp4?t=1022) - **Stephen Rowan**
 
 > Beginning the process of open sourcing as per Fund 3 proposal commitments.
 >
@@ -290,7 +292,7 @@ Reference : README message in "Governance-HOLON Vault" Private repository
 >
 > Currently building project dashboards on the [Governance-HOLON](https://github.com/NFT-DAO/Governance-HOLON) landing page for people not familiar with GitHub.
 
-### Open-Source recognition
+#### Open-Source recognition
 
 > Began with Open-Source recognition criteria :
 
@@ -302,7 +304,7 @@ Reference : README message in "Governance-HOLON Vault" Private repository
 | **Dates** | Due: 30th April 2021 |
 | **HOLON** | Gov-HOLON, Stephen Rowan |
 
-### NFT DAO Fund 3 Deliverables
+#### NFT DAO Fund 3 Deliverables
 
 > Then NFT DAO Fund 3 Deliverables :
 
@@ -314,7 +316,7 @@ Reference : README message in "Governance-HOLON Vault" Private repository
 | **Dates** | No due date |
 | **HOLON** | Gov-HOLON, Stephen Rowan |
 
-### Business-Plan-Decomposition
+#### Business-Plan-Decomposition
 
 > Then a functional breakdown of the Business Plan into organizational units \(Business-Plan-Decomposition\)
 >
@@ -337,7 +339,7 @@ Reference :
 | **Dates** | April 14, 2021 |
 | **HOLON** | Gov-HOLON, Troy, Stephen Rowan |
 
-### NFT-DAO-Charter
+#### NFT-DAO-Charter
 
 > and finally the NFT-DAO-Charter
 
@@ -349,7 +351,7 @@ Reference :
 | **Dates** | April 22, 2021 |
 | **HOLON** | Gov-HOLON |
 
-### How this will inform our reporting
+#### How this will inform our reporting
 
 > Maybe we don't need our reports then ? - [19.16](https://youtu.be/wnVupMQtjp4?t=1156) - **Dan Verowski**, **Stephen Rowan**
 >
@@ -357,9 +359,9 @@ Reference :
 >
 > This is just the beginning, so we are still having teething problems with how people not used to GitHub use it and how to allocate work. But hopefully it’s the beginning of quantifying what we are doing so when it comes to tokenization we have data available.
 
-# Discussion
+## Discussion
 
-## Idea of Triaging Consensus Levels arose out of comments on the NFT-DAO Charter Issue - [20.03](https://youtu.be/wnVupMQtjp4?t=1203) - **Troy Egan**
+### Idea of Triaging Consensus Levels arose out of comments on the NFT-DAO Charter Issue - [20.03](https://youtu.be/wnVupMQtjp4?t=1203) - **Troy Egan**
 
 > HOLONs need to consider, for the AGILE/innovative stage of a project, what information do we need public/community consensus on and what tasks/actions to we need just HOLON consensus on. In an emergent process some of our tasks/actions can be slowed down by the process of community input we are committed to. Sometimes a lot of the community are not engaged or are just new.
 >
@@ -387,13 +389,13 @@ Reference :
 
 {% embed url="https://en.wikipedia.org/wiki/Agile\_software\_development" caption="" %}
 
-## Charles Hoskinson's Roadmap  - [24.23](https://youtu.be/wnVupMQtjp4?t=1463) - **Stephen Rowan**
+### Charles Hoskinson's Roadmap  - [24.23](https://youtu.be/wnVupMQtjp4?t=1463) - **Stephen Rowan**
 
 > We are currently a Plutocratic model and need to move to a Hybrid model.
 >
 > Source : "Also going to launch a research agenda to move from a Plutocratic model \(ADA's current status\) to a Hybrid model \(ADA plus Proof of Merit\). Proof of Merit is a very ill-defined concept - consequentially deliverable is closer to 2025 than 2021." \([Source](https://stephen-rowan.gitbook.io/nft-dao/governance/dao-models#some-musings-about-the-roadmap)\)
 
-## Did Charles refer to Cardano and did he say "Autocracy" - [24.23](https://youtu.be/wnVupMQtjp4?t=1554) - **Rich Kopcho**
+### Did Charles refer to Cardano and did he say "Autocracy" - [24.23](https://youtu.be/wnVupMQtjp4?t=1554) - **Rich Kopcho**
 
 > **Correction** : Stephen said "Autocracy" when Charles actually said "Plutocratic model" - \(apologies\).
 >
@@ -403,7 +405,7 @@ Reference :
 >
 > He was speaking tongue-in-cheek, in that the Cardano projects have all started off from a point of centralized authority to get things done. But the aim of Cardano, unlike other centralized authorities, is self-destructive, in that it aims to dissolve itself.
 
-# Communication Discussion - [27.22](https://youtu.be/wnVupMQtjp4?t=1642) - **Rich Kopcho**, **Troy Egan**, **Stephen Rowan**, **Dan Verowski**
+## Communication Discussion - [27.22](https://youtu.be/wnVupMQtjp4?t=1642) - **Rich Kopcho**, **Troy Egan**, **Stephen Rowan**, **Dan Verowski**
 
 > Did you mean communication to the outside world or inside the HOLON? - **Rich Kopcho**
 >
@@ -449,7 +451,7 @@ Reference :
 >
 > Shared responsibility within each HOLON to represent the HOLON. Propose that each of our HOLONs has delegates that HOLON leads are communicating to.
 
-# There is no highest level of the organisation - [35.58](https://youtu.be/wnVupMQtjp4?t=2158) -  **Rich Kopcho**
+## There is no highest level of the organisation - [35.58](https://youtu.be/wnVupMQtjp4?t=2158) -  **Rich Kopcho**
 
 > Some of you guys have a lot more power or pull than other people - [36.20](https://youtu.be/wnVupMQtjp4?t=2180) - **Philip Roberts**
 >
@@ -457,31 +459,33 @@ Reference :
 
 Reference :
 
-{% embed url="https://forum.cardano.org/t/bluecollarcrypto-blclr/37195" %}
+{% embed url="https://forum.cardano.org/t/bluecollarcrypto-blclr/37195" caption="" %}
 
-# Auction MVP (Minimum Viable Product) Discussion - [37.25](https://youtu.be/wnVupMQtjp4?t=2245) - **Tyler Wales**, **Rich Kopcho**, **New Mindflow**
+## Auction MVP \(Minimum Viable Product\) Discussion - [37.25](https://youtu.be/wnVupMQtjp4?t=2245) - **Tyler Wales**, **Rich Kopcho**, **New Mindflow**
 
 > We have 22 Artists signed up ? - **Rich Kopcho**
-
+>
 > Now we have 23 Artists. - **New Mindflow**
-
+>
 > We thought of giving Artists two days to respond to email circular ? - **Tyler Wales**
-
+>
 > Email roundup - [37.56](https://youtu.be/wnVupMQtjp4?t=2276) - **New Mindflow**
+>
+> Andy suggested sending out an email to all the artists working on Cardano related artworks.
+>
+> New Mindflow requested a two-day window to maximise the onboarding of more artists given the 6-week time-frame. And allow them time to create new pieces. We can still leave the form up and contact artists again after this initial message.
 
-> Andy suggested sending out an email to all the artists working on Cardano related artworks. 
-
-> New Mindflow requested a two-day window to maximise the onboarding of more artists given the 6-week time-frame.
-> And allow them time to create new pieces. We can still leave the form up and contact artists again after this initial message.
-
-## Development MVP (Minimum Viable Product) - [38.57](https://youtu.be/wnVupMQtjp4?t=2337) - **Rich Kopcho**
+### Development MVP \(Minimum Viable Product\) - [38.57](https://youtu.be/wnVupMQtjp4?t=2337) - **Rich Kopcho**
 
 > In conversation with mutual-knowledge - they are working on a Glow auction facility.
 
-References :
+**References** :
 
-https://mutual-knowledge.io/
+{% embed url="https://mutual-knowledge.io/" %}
 
-Glow White paper :
+**Glow White pape**r :
 
-https://docs.google.com/document/d/1nBmI28yISX2HynodZnYWW0Px6re4JyYNNw2ncaFfJSg/edit
+{% embed url="https://docs.google.com/document/d/1nBmI28yISX2HynodZnYWW0Px6re4JyYNNw2ncaFfJSg/edit" %}
+
+
+
