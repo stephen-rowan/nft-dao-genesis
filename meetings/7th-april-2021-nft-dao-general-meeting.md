@@ -601,4 +601,4 @@ Reference :
 
 ### Artistic connections- [59.00](https://youtu.be/wnVupMQtjp4?t=3540) - **Andy Shaw**
 
-Andy has a contact willing to contribute to our marketimg
+Andy has a contact willing to contribute to our marketing and expand our connections outside the Caradno world.
