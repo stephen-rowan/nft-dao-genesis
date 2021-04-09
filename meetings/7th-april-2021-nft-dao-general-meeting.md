@@ -126,9 +126,11 @@ Note: timestamps are external links
 
 # Governance HOLON Update  - [10.38](https://youtu.be/wnVupMQtjp4?t=638) - **Troy**
 
+## Progress reports
+
 > Getting ready for **progress reports** which Rich Kopcho will be starting next week.
 
-|||
+|-|-|
 |---|---|
 | **Item** | Getting ready for **progress reports** |
 | **Data** | |
@@ -146,6 +148,8 @@ Note: timestamps are external links
 | Dates |15th April 2021|
 | HOLON |Troy / Rich Kopcho|
 
+## Reporting template
+
 > Getting a template ready for that so we understand the reporting process
 
 |||
@@ -154,7 +158,9 @@ Note: timestamps are external links
 | **Data* | |
 | **Action** | In Progress|
 | Dates |15th April 2021|
-| HOLON |Gov-HOLON||
+| HOLON |Gov-HOLON|
+
+## HOLON Reporting
 
 > Also how to receive reports from within the HOLONs
 
@@ -166,6 +172,8 @@ Note: timestamps are external links
 | **Dates** |TBA|
 | HOLON |Gov-HOLON||
 
+## Business Analysis
+
 > Intial Business Analysis - Hope to have the draft finalised by next week. Which will give us an outline of our market/competition.
 
 |||
@@ -176,12 +184,14 @@ Note: timestamps are external links
 | **Dates** |15th April 2021|
 | **HOLON** |Sev, Hud|
 
+## Token Minting Test
+
 > Token Minting Test - goal to get up and running in two weeks. If there is anyone else working in the Token Minting community
 
 |||
 |---|---|
-| **Item** |  Token Minting Test |
-| **Data** | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/5) |
+| **Item** | Token Minting Test |
+| **Data** | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/5)|
 | **Action** | In Progress|
 | **Dates** |23rd April 2021|
 | **HOLON** |Dan Verowski|
