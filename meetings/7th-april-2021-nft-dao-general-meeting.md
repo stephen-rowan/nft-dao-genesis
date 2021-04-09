@@ -359,6 +359,9 @@ Reference :
 
 > This is just the beginning, so we are still having teething problems with how people not used to GitHub use it and how to allocate work. But hopefully it’s the beginning of quantifying what we are doing so when it comes to tokenization we have data available.
 
+## Discussion
+
+### Idea of Triaging Consensus Levels arose out of comments on the NFT-DAO Charter Issue - [20.03](https://youtu.be/wnVupMQtjp4?t=1203) - **Troy Egan**
 
 
 
