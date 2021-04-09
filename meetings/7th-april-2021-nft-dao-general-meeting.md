@@ -364,48 +364,46 @@ Reference :
 ### Idea of Triaging Consensus Levels arose out of comments on the NFT-DAO Charter Issue - [20.03](https://youtu.be/wnVupMQtjp4?t=1203) - **Troy Egan**
 
 > HOLONs need to consider, for the AGILE/innovative stage of a project, what information do we need public/community consensus on and what tasks/actions to we need just HOLON consensus on. In an emergent process some of our tasks/actions can be slowed down by the process of community input we are committed to. Sometimes a lot of the community are not engaged or are just new.
-
+>
 > Started doing flowchart around :
-* onboarding process - how people/members come on Discord and engage
-* consensus - amongst new people/members
-* How are we triaging levels of engagement
-
-> These factors also tie into our tokenization model. 
-
+>
+> * onboarding process - how people/members come on Discord and engage
+> * consensus - amongst new people/members
+> * How are we triaging levels of engagement
+>
+> These factors also tie into our tokenization model.
+>
 > Do we need a communications HOLON that is keeping everyone on the same page? A HOLON that could triage what should be allocated to public/community consensus or what should be private. Also look at how contribution tokens are attached to a triaging model.
-
+>
 > Also look at what should be distributed/heterarchical and what should be hierarchical.
 
 | - | - |
 | :--- | :--- |
 | **Item** | Triaging Consensus Levels |
-| **Data** | --|
+| **Data** | -- |
 | **Action** | In Progress |
 | **Dates** | 14th April, 2021 |
 | **HOLON** | Troy Egan |
 
 Reference :
 
-{% embed url="https://en.wikipedia.org/wiki/Agile\_software\_development" %}
+{% embed url="https://en.wikipedia.org/wiki/Agile\_software\_development" caption="" %}
 
-## Charles Hoskinson's Roadmap  - [24.23](https://youtu.be/wnVupMQtjp4?t=1463) - **Stephen Rowan** 
+### Charles Hoskinson's Roadmap  - [24.23](https://youtu.be/wnVupMQtjp4?t=1463) - **Stephen Rowan**
 
-> We are currently a Plutocratic model and need to move to a Hybrid model. 
+> We are currently a Plutocratic model and need to move to a Hybrid model.
+>
+> Source : "Also going to launch a research agenda to move from a Plutocratic model \(ADA's current status\) to a Hybrid model \(ADA plus Proof of Merit\). Proof of Merit is a very ill-defined concept - consequentially deliverable is closer to 2025 than 2021." \([Source](https://stephen-rowan.gitbook.io/nft-dao/governance/dao-models#some-musings-about-the-roadmap)\)
 
-> Source : "Also going to launch a research agenda to move from a Plutocratic model (ADA's current status) to a Hybrid model (ADA plus Proof of Merit). Proof of Merit is a very ill-defined concept - consequentially deliverable is closer to 2025 than 2021." ([Source](https://stephen-rowan.gitbook.io/nft-dao/governance/dao-models#some-musings-about-the-roadmap))
+### Did Charles refer to Cardano and did he say "Autocracy" - [24.23](https://youtu.be/wnVupMQtjp4?t=1554) - **Rich Kopcho**
 
-## Did Charles refer to Cardano and did he say "Autocracy" - [24.23](https://youtu.be/wnVupMQtjp4?t=1554) - **Rich Kopcho**
-
-> **Correction** : Stephen said "Autocracy" when Charles said "Plutocratic model" - (apologies).
-
+> **Correction** : Stephen said "Autocracy" when Charles said "Plutocratic model" - \(apologies\).
+>
 > He was speaking tongue-in-cheek - **Stephen Rowan**
+>
+> He was speaking tongue-in-cheek, in that the Cardano projects have all started off from a point of centralised authority to get things done. But the aim unlike other centralised authorities is self-destructive - aims to dissolve itself.
 
-> He was speaking tongue-in-cheek, in that the Cardano projects have all started off from a point of centralised authority to get things done. 
-> But the aim unlike other centralised authorities is self-destructive - aims to dissolve itself.
+### Communication Discussion - [27.22](https://youtu.be/wnVupMQtjp4?t=1642) - **Rich Kopcho**, **Troy Egan**
 
-## Communication Discussion - [27.22](https://youtu.be/wnVupMQtjp4?t=1642) - **Rich Kopcho**, **Troy Egan**
 > Troy - Did you mean communication to the outside world or inside the HOLON?
-
-
-
 
