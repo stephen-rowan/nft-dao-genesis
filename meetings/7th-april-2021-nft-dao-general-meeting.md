@@ -398,7 +398,13 @@ Reference :
 
 > **Correction** : Stephen said "Autocracy" when Charles said "Plutocratic model" - (apologies).
 
-> He was speaking tongue-in-cheek, in that the Cardano projects have all started off from a point of centralised authority to get things done - **Stephen Rowan**
+> He was speaking tongue-in-cheek - **Stephen Rowan**
+
+> He was speaking tongue-in-cheek, in that the Cardano projects have all started off from a point of centralised authority to get things done. 
+> But the aim unlike other centralised authorities is self-destructive - aims to dissolve itself.
+
+## Communication Discussion - [27.22](https://youtu.be/wnVupMQtjp4?t=1642) - **Rich Kopcho**, **Troy Egan**
+> Troy - Did you mean communication to the outside world or inside the HOLON?
 
 
 
