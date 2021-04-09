@@ -573,3 +573,5 @@ Reference :
 
 > IPFS and Arweave together is like a decentralised pinning service- **Dan Verowski**
 
+> We should put together a competitive research document for storage solutions. - **Tyler Wales**
+
