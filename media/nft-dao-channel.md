@@ -50,5 +50,19 @@ Discord context
 
 {% embed url="https://discordapp.com/channels/804069702572965888/818950833986207765/827102476502171678" %}
 
+## NFT DAO Standards Holon Meeting
+
+15 Apr 2021
+
+{% embed url="https://www.youtube.com/watch?v=ISItR7A7wSo&t=427s" %}
+
+
+
+## NFT DAO Podcast Phillip Roberts, Tyler Wales and Mike Yagi
+
+20 Apr 2021
+
+{% embed url="https://www.youtube.com/watch?v=dvNwM8WvyHY" %}
+
 
 
