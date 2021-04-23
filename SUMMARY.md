@@ -14,6 +14,7 @@
 ## Media
 
 * [NFT-DAO Channel](media/nft-dao-channel.md)
+* [NFT-DAO@Catalyst Town Hall](media/nft-dao-catalyst-town-hall.md)
 * [Youtube](media/youtube.md)
 * [Twitter](media/twitter.md)
 * [Reddit](media/cardanonfts-reddit-post.md)
